@@ -1,0 +1,560 @@
+<!-- ===================================================== -->
+<!--  KGVO 1290 AM Missoula - XMLTV Guide                 -->
+<!--  Version: 2026.07.15                                 -->
+<!--  Generated: July 15, 2026 (CT)                       -->
+<!--  Author:                                             -->
+<!-- ===================================================== -->
+
+<channel id="KGVO">
+  <display-name>KGVO 1290 AM Missoula</display-name>
+</channel>
+
+<!-- ========================= -->
+<!--          MONDAY           -->
+<!-- ========================= -->
+<programme start="20260720000000 -0500" stop="20260720050000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260720050000 -0500" stop="20260720060000 -0500" channel="KGVO">
+  <title>America In The Morning</title>
+</programme>
+<programme start="20260720060000 -0500" stop="20260720080000 -0500" channel="KGVO">
+  <title>Montana Morning</title>
+</programme>
+<programme start="20260720080000 -0500" stop="20260720100000 -0500" channel="KGVO">
+  <title>Talk Back Missoula</title>
+</programme>
+<programme start="20260720100000 -0500" stop="20260720130000 -0500" channel="KGVO">
+  <title>Clay Travis &amp; Buck Sexton</title>
+</programme>
+<programme start="20260720130000 -0500" stop="20260720160000 -0500" channel="KGVO">
+  <title>Sean Hannity</title>
+</programme>
+<programme start="20260720160000 -0500" stop="20260720190000 -0500" channel="KGVO">
+  <title>Mark Levin</title>
+</programme>
+<programme start="20260720190000 -0500" stop="20260720210000 -0500" channel="KGVO">
+  <title>The Dave Ramsey Show</title>
+</programme>
+<programme start="20260720210000 -0500" stop="20260720230000 -0500" channel="KGVO">
+  <title>Jesse Kelly</title>
+</programme>
+<programme start="20260720230000 -0500" stop="20260721000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ========================= -->
+<!--          TUESDAY          -->
+<!-- ========================= -->
+<programme start="20260721000000 -0500" stop="20260721050000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260721050000 -0500" stop="20260721060000 -0500" channel="KGVO">
+  <title>America In The Morning</title>
+</programme>
+<programme start="20260721060000 -0500" stop="20260721080000 -0500" channel="KGVO">
+  <title>Montana Morning</title>
+</programme>
+<programme start="20260721080000 -0500" stop="20260721100000 -0500" channel="KGVO">
+  <title>Talk Back Missoula</title>
+</programme>
+<programme start="20260721100000 -0500" stop="20260721130000 -0500" channel="KGVO">
+  <title>Clay Travis &amp; Buck Sexton</title>
+</programme>
+<programme start="20260721130000 -0500" stop="20260721160000 -0500" channel="KGVO">
+  <title>Sean Hannity</title>
+</programme>
+<programme start="20260721160000 -0500" stop="20260721190000 -0500" channel="KGVO">
+  <title>Mark Levin</title>
+</programme>
+<programme start="20260721190000 -0500" stop="20260721210000 -0500" channel="KGVO">
+  <title>The Dave Ramsey Show</title>
+</programme>
+<programme start="20260721210000 -0500" stop="20260721230000 -0500" channel="KGVO">
+  <title>Jesse Kelly</title>
+</programme>
+<programme start="20260721230000 -0500" stop="20260722000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ========================= -->
+<!--        WEDNESDAY          -->
+<!-- ========================= -->
+<programme start="20260722000000 -0500" stop="20260722050000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260722050000 -0500" stop="20260722060000 -0500" channel="KGVO">
+  <title>America In The Morning</title>
+</programme>
+<programme start="20260722060000 -0500" stop="20260722080000 -0500" channel="KGVO">
+  <title>Montana Morning</title>
+</programme>
+<programme start="20260722080000 -0500" stop="20260722100000 -0500" channel="KGVO">
+  <title>Talk Back Missoula</title>
+</programme>
+<programme start="20260722100000 -0500" stop="20260722130000 -0500" channel="KGVO">
+  <title>Clay Travis &amp; Buck Sexton</title>
+</programme>
+<programme start="20260722130000 -0500" stop="20260722160000 -0500" channel="KGVO">
+  <title>Sean Hannity</title>
+</programme>
+<programme start="20260722160000 -0500" stop="20260722190000 -0500" channel="KGVO">
+  <title>Mark Levin</title>
+</programme>
+<programme start="20260722190000 -0500" stop="20260722210000 -0500" channel="KGVO">
+  <title>The Dave Ramsey Show</title>
+</programme>
+<programme start="20260722210000 -0500" stop="20260722230000 -0500" channel="KGVO">
+  <title>Jesse Kelly</title>
+</programme>
+<programme start="20260722230000 -0500" stop="20260723000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ========================= -->
+<!--         THURSDAY          -->
+<!-- ========================= -->
+<programme start="20260723000000 -0500" stop="20260723050000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260723050000 -0500" stop="20260723060000 -0500" channel="KGVO">
+  <title>America In The Morning</title>
+</programme>
+<programme start="20260723060000 -0500" stop="20260723080000 -0500" channel="KGVO">
+  <title>Montana Morning</title>
+</programme>
+<programme start="20260723080000 -0500" stop="20260723100000 -0500" channel="KGVO">
+  <title>Talk Back Missoula</title>
+</programme>
+<programme start="20260723100000 -0500" stop="20260723130000 -0500" channel="KGVO">
+  <title>Clay Travis &amp; Buck Sexton</title>
+</programme>
+<programme start="20260723130000 -0500" stop="20260723160000 -0500" channel="KGVO">
+  <title>Sean Hannity</title>
+</programme>
+<programme start="20260723160000 -0500" stop="20260723190000 -0500" channel="KGVO">
+  <title>Mark Levin</title>
+</programme>
+<programme start="20260723190000 -0500" stop="20260723210000 -0500" channel="KGVO">
+  <title>The Dave Ramsey Show</title>
+</programme>
+<programme start="20260723210000 -0500" stop="20260723230000 -0500" channel="KGVO">
+  <title>Jesse Kelly</title>
+</programme>
+<programme start="20260723230000 -0500" stop="20260724000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ========================= -->
+<!--          FRIDAY           -->
+<!-- ========================= -->
+<programme start="20260724000000 -0500" stop="20260724050000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260724050000 -0500" stop="20260724060000 -0500" channel="KGVO">
+  <title>America In The Morning</title>
+</programme>
+<programme start="20260724060000 -0500" stop="20260724080000 -0500" channel="KGVO">
+  <title>Montana Morning</title>
+</programme>
+<programme start="20260724080000 -0500" stop="20260724100000 -0500" channel="KGVO">
+  <title>Talk Back Missoula</title>
+</programme>
+<programme start="20260724100000 -0500" stop="20260724130000 -0500" channel="KGVO">
+  <title>Clay Travis &amp; Buck Sexton</title>
+</programme>
+<programme start="20260724130000 -0500" stop="20260724160000 -0500" channel="KGVO">
+  <title>Sean Hannity</title>
+</programme>
+<programme start="20260724160000 -0500" stop="20260724190000 -0500" channel="KGVO">
+  <title>Mark Levin</title>
+</programme>
+<programme start="20260724190000 -0500" stop="20260724210000 -0500" channel="KGVO">
+  <title>The Dave Ramsey Show</title>
+</programme>
+<programme start="20260724210000 -0500" stop="20260724230000 -0500" channel="KGVO">
+  <title>Jesse Kelly</title>
+</programme>
+<programme start="20260724230000 -0500" stop="20260725000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ========================= -->
+<!--         SATURDAY          -->
+<!-- ========================= -->
+<programme start="20260725000000 -0500" stop="20260725060000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260725060000 -0500" stop="20260725080000 -0500" channel="KGVO">
+  <title>Montana Outdoor Radio Show</title>
+</programme>
+<programme start="20260725080000 -0500" stop="20260725083000 -0500" channel="KGVO">
+  <title>Missoula Real Estate Today</title>
+</programme>
+<programme start="20260725083000 -0500" stop="20260725090000 -0500" channel="KGVO">
+  <title>Community Viewpoint</title>
+</programme>
+<programme start="20260725090000 -0500" stop="20260725130000 -0500" channel="KGVO">
+  <title>The Dave Ramsey Show</title>
+</programme>
+<programme start="20260725130000 -0500" stop="20260725150000 -0500" channel="KGVO">
+  <title>Rich on Tech</title>
+</programme>
+<programme start="20260725150000 -0500" stop="20260725160000 -0500" channel="KGVO">
+  <title>RMWorldTravel</title>
+</programme>
+<programme start="20260725160000 -0500" stop="20260725190000 -0500" channel="KGVO">
+  <title>Clay Travis &amp; Buck Sexton</title>
+</programme>
+<programme start="20260725190000 -0500" stop="20260726000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ========================= -->
+<!--          SUNDAY           -->
+<!-- ========================= -->
+<programme start="20260726000000 -0500" stop="20260726060000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+<programme start="20260726060000 -0500" stop="20260726070000 -0500" channel="KGVO">
+  <title>This Morning With Gordon Deal</title>
+</programme>
+<programme start="20260726070000 -0500" stop="20260726080000 -0500" channel="KGVO">
+  <title>What Do You Know?</title>
+</programme>
+<programme start="20260726080000 -0500" stop="20260726083000 -0500" channel="KGVO">
+  <title>The FLOT Line</title>
+</programme>
+<programme start="20260726083000 -0500" stop="20260726090000 -0500" channel="KGVO">
+  <title>Lutheran Hour</title>
+</programme>
+<programme start="20260726090000 -0500" stop="20260726100000 -0500" channel="KGVO">
+  <title>Community Viewpoint</title>
+</programme>
+<programme start="20260726100000 -0500" stop="20260726103000 -0500" channel="KGVO">
+  <title>Missoula Real Estate Today</title>
+</programme>
+<programme start="20260726103000 -0500" stop="20260726110000 -0500" channel="KGVO">
+  <title>RMWorldTravel</title>
+</programme>
+<programme start="20260726110000 -0500" stop="20260726150000 -0500" channel="KGVO">
+  <title>Rich on Tech</title>
+</programme>
+<programme start="20260726150000 -0500" stop="20260726180000 -0500" channel="KGVO">
+  <title>Sean Hannity</title>
+</programme>
+<programme start="20260726180000 -0500" stop="20260726190000 -0500" channel="KGVO">
+  <title>The Motley Fool</title>
+</programme>
+<programme start="20260726190000 -0500" stop="20260726200000 -0500" channel="KGVO">
+  <title>Free Talk Live</title>
+</programme>
+<programme start="20260726200000 -0500" stop="20260726230000 -0500" channel="KGVO">
+  <title>The Bill Cunningham Show</title>
+</programme>
+<programme start="20260726230000 -0500" stop="20260727000000 -0500" channel="KGVO">
+  <title>Coast to Coast AM</title>
+</programme>
+
+<!-- ===================================================== -->
+<!--  2026 Grizzly Football Coaches Show - Full Season     -->
+<!--  Version: 2026.07.15                                  -->
+<!--  Generated: July 15, 2026 (CT)                        -->
+<!--  Host: Riley Corcoran ("Voice of the Griz")           -->
+<!--  Head Coach: Bobby Kennedy (1st season)               -->
+<!--  Venue: "The Den" – 6995 Linda Vista Blvd, Missoula   -->
+<!-- ===================================================== -->
+
+<!-- August 26 – Season Preview / Southern Utah -->
+<programme start="20260826200000 -0500" stop="20260826210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Season-preview show with new head coach Bobby Kennedy and host Riley Corcoran, live from The Den. Full breakdown of the 2026 Griz roster and preview of the opener vs Southern Utah.</desc>
+</programme>
+
+<!-- September 2 – Drake -->
+<programme start="20260902200000 -0500" stop="20260902210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Coach Bobby Kennedy and Riley Corcoran preview the Drake matchup with analysis, interviews, and statewide Griz Radio Network coverage.</desc>
+</programme>
+
+<!-- September 9 – Utah Tech -->
+<programme start="20260909200000 -0500" stop="20260909210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Weekly breakdown of the Utah Tech game with Coach Kennedy and Riley Corcoran, including player features and opponent scouting.</desc>
+</programme>
+
+<!-- September 16 – at Oregon State -->
+<programme start="20260916200000 -0500" stop="20260916210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Road preview of Montana at Oregon State with Coach Kennedy and Riley Corcoran, featuring analysis of Pac‑12 style matchups.</desc>
+</programme>
+
+<!-- September 23 – at UC Davis -->
+<programme start="20260923200000 -0500" stop="20260923210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Coach Kennedy and Riley Corcoran break down the UC Davis matchup with defensive and offensive keys to the game.</desc>
+</programme>
+
+<!-- September 30 – Northern Colorado -->
+<programme start="20260930200000 -0500" stop="20260930210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Preview of Northern Colorado with Coach Kennedy and Riley Corcoran, including interviews with assistant coaches.</desc>
+</programme>
+
+<!-- October 7 – at Northern Arizona -->
+<programme start="20261007200000 -0500" stop="20261007210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Road preview of Montana at Northern Arizona with Coach Kennedy and Riley Corcoran, plus player spotlight segments.</desc>
+</programme>
+
+<!-- October 14 – Idaho -->
+<programme start="20261014200000 -0500" stop="20261014210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Preview of the Idaho Vandals with Coach Kennedy and Riley Corcoran, featuring matchup analysis and interviews.</desc>
+</programme>
+
+<!-- October 21 – Bye Week -->
+<programme start="20261021200000 -0500" stop="20261021210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Bye Week Show: Midseason recap with Coach Kennedy and Riley Corcoran, reviewing the first half of the season and setting expectations for the stretch run.</desc>
+</programme>
+
+<!-- October 28 – at Eastern Washington -->
+<programme start="20261028200000 -0500" stop="20261028210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Preview of Montana at Eastern Washington with Coach Kennedy and Riley Corcoran, including analysis of the red turf environment.</desc>
+</programme>
+
+<!-- November 4 – Portland State -->
+<programme start="20261104200000 -0500" stop="20261104210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Coach Kennedy and Riley Corcoran preview Portland State with offensive and defensive game plans.</desc>
+</programme>
+
+<!-- November 11 – Idaho State -->
+<programme start="20261111200000 -0500" stop="20261111210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Preview of Idaho State with Coach Kennedy and Riley Corcoran, featuring interviews with key Griz players.</desc>
+</programme>
+
+<!-- November 18 – Brawl of the Wild (Montana State) -->
+<programme start="20261118200000 -0500" stop="20261118210000 -0500" channel="KGVO">
+  <title>Grizzly Sports Coaches Show</title>
+  <desc>Brawl of the Wild preview show with Coach Kennedy and Riley Corcoran, breaking down Montana vs Montana State in the biggest rivalry game of the year.</desc>
+</programme>
+
+<!-- GAME 1 — Southern Utah @ Montana (Aug 29, 2026) -->
+<programme start="20260829163000 -0500" stop="20260829180000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
+</programme>
+<programme start="20260829180000 -0500" stop="20260829183000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
+</programme>
+<programme start="20260829183000 -0500" stop="20260829220000 -0500" channel="KGVO">
+  <title>Griz Football: Southern Utah at Montana</title>
+  <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
+</programme>
+<programme start="20260829220000 -0500" stop="20260830000000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
+</programme>
+
+<!-- GAME 2 — Drake @ Montana (Sep 5, 2026) -->
+<programme start="20260905113000 -0500" stop="20260905130000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate.</desc>
+</programme>
+<programme start="20260905130000 -0500" stop="20260905133000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
+  <title>Griz Football: Drake at Montana</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20260905170000 -0500" stop="20260905190000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 3 — Utah Tech @ Montana (Sep 12, 2026) -->
+<programme start="20260912113000 -0500" stop="20260912130000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate.</desc>
+</programme>
+<programme start="20260912130000 -0500" stop="20260912133000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20260912133000 -0500" stop="20260912170000 -0500" channel="KGVO">
+  <title>Griz Football: Utah Tech at Montana</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20260912170000 -0500" stop="20260912190000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 4 — Montana @ Oregon State (Sep 19, 2026) -->
+<programme start="20260919203000 -0500" stop="20260919220000 -0500" channel="KGVO">
+  <title>Griz Football Tailgate Show</title>
+  <desc>Road game tailgate coverage.</desc>
+</programme>
+<programme start="20260919220000 -0500" stop="20260919223000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20260919223000 -0500" stop="20260920000000 -0500" channel="KGVO">
+  <title>Griz Football: Montana at Oregon State</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20260920000000 -0500" stop="20260920020000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 5 — Montana @ UC Davis (Sep 26, 2026) -->
+<programme start="20260926163000 -0500" stop="20260926180000 -0500" channel="KGVO">
+  <title>Griz Football Tailgate Show</title>
+  <desc>Road game tailgate coverage.</desc>
+</programme>
+<programme start="20260926180000 -0500" stop="20260926183000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20260926183000 -0500" stop="20260926220000 -0500" channel="KGVO">
+  <title>Griz Football: Montana at UC Davis</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20260926220000 -0500" stop="20260927000000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 6 — Northern Colorado @ Montana (Oct 3, 2026) -->
+<programme start="20261003133000 -0500" stop="20261003150000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate.</desc>
+</programme>
+<programme start="20261003150000 -0500" stop="20261003153000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20261003153000 -0500" stop="20261003200000 -0500" channel="KGVO">
+  <title>Griz Football: Northern Colorado at Montana</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20261003200000 -0500" stop="20261003220000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 7 — Montana @ Northern Arizona (Oct 10, 2026) -->
+<programme start="20261010143000 -0500" stop="20261010160000 -0500" channel="KGVO">
+  <title>Griz Football Tailgate Show</title>
+  <desc>Road game tailgate coverage.</desc>
+</programme>
+<programme start="20261010160000 -0500" stop="20261010163000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20261010163000 -0500" stop="20261010200000 -0500" channel="KGVO">
+  <title>Griz Football: Montana at Northern Arizona</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20261010200000 -0500" stop="20261010220000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 8 — Idaho @ Montana (Oct 17, 2026) -->
+<programme start="20261017113000 -0500" stop="20261017130000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate.</desc>
+</programme>
+<programme start="20261017130000 -0500" stop="20261017133000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20261017133000 -0500" stop="20261017170000 -0500" channel="KGVO">
+  <title>Griz Football: Idaho at Montana</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20261017170000 -0500" stop="20261017190000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 9 — Montana @ Eastern Washington (Oct 31, 2026) -->
+<programme start="20261031133000 -0500" stop="20261031150000 -0500" channel="KGVO">
+  <title>Griz Football Tailgate Show</title>
+  <desc>Road game tailgate coverage.</desc>
+</programme>
+<programme start="20261031150000 -0500" stop="20261031153000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20261031153000 -0500" stop="20261031200000 -0500" channel="KGVO">
+  <title>Griz Football: Montana at Eastern Washington</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20261031200000 -0500" stop="20261031220000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 10 — Portland State @ Montana (Nov 7, 2026) -->
+<programme start="20261107113000 -0500" stop="20261107130000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate.</desc>
+</programme>
+<programme start="20261107130000 -0500" stop="20261107133000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20261107133000 -0500" stop="20261107170000 -0500" channel="KGVO">
+  <title>Griz Football: Portland State at Montana</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20261107170000 -0500" stop="20261107190000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 11 — Idaho State @ Montana (Nov 14, 2026) -->
+<programme start="20261114163000 -0500" stop="20261114180000 -0500" channel="KGVO">
+  <title>Griz Football GSA Tailgate Show</title>
+  <desc>Live from the GSA Tailgate.</desc>
+</programme>
+<programme start="20261114180000 -0500" stop="20261114183000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis.</desc>
+</programme>
+<programme start="20261114183000 -0500" stop="20261114220000 -0500" channel="KGVO">
+  <title>Griz Football: Idaho State at Montana</title>
+  <desc>Live play-by-play.</desc>
+</programme>
+<programme start="20261114220000 -0500" stop="20261115000000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage.</desc>
+</programme>
+
+<!-- GAME 12 — Montana @ Montana State (Nov 21, 2026) -->
+<programme start="20261121093000 -0500" stop="20261121110000 -0500" channel="KGVO">
+  <title>Griz Football Tailgate Show</title>
+  <desc>Road game tailgate coverage for the Brawl of the Wild.</desc>
+</programme>
+<programme start="20261121110000 -0500" stop="20261121113000 -0500" channel="KGVO">
+  <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+  <desc>Final pregame analysis for Montana vs Montana State.</desc>
+</programme>
+<programme start="20261121113000 -0500" stop="20261121150000 -0500" channel="KGVO">
+  <title>Griz Football: Montana at Montana State</title>
+  <desc>Live play-by-play of the Brawl of the Wild.</desc>
+</programme>
+<programme start="20261121150000 -0500" stop="20261121170000 -0500" channel="KGVO">
+  <title>Griz Football Postgame Show</title>
+  <desc>Postgame coverage for the Brawl of the Wild.</desc>
+</programme>
