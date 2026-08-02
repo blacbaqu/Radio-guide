@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="KGVO" tvg-name="KGVO" group-title="World Radio",KGVO 1290 AM Missoula
+#EXTINF:-1 tvg-id="KGVO" tvg-name="KGVO" group-title="Radio",KGVO 1290 AM Missoula
 https://live.amperwave.net/direct/townsquare-kgvoammp3-ibc3.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="KUT 4427" group-title="Radio",KUT 4427 Stream
+https://streams.kut.org/4427_56
+
+#EXTINF:-1 tvg-id="" tvg-name="A.M. Ambient" group-title="Radio",A.M. Ambient
+http://radio.stereoscenic.com/ama-h
+
+#EXTINF:-1 tvg-id="" tvg-name="Ambient Sleeping Pill" group-title="Radio",Ambient Sleeping Pill
+http://radio.stereoscenic.com/asp-h
