@@ -5,6 +5,7 @@
 <!--  Author:                                             -->
 <!-- ===================================================== -->
 
+<tv>
 <channel id="KGVO">
   <display-name>KGVO 1290 AM Missoula</display-name>
 </channel>
@@ -558,3 +559,4 @@
   <title>Griz Football Postgame Show</title>
   <desc>Postgame coverage for the Brawl of the Wild.</desc>
 </programme>
+/<tv>
