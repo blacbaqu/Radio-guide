@@ -145,15 +145,15 @@
   <programme start="20260905130000 -0500" stop="20260905133000 -0500" channel="KGVO">
     <title>Rich on Tech</title>
   </programme>
-  <programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
+  <programme start="20260905133000 -0500" stop="20260905150000 -0500" channel="KGVO">
     <title>Griz Football: Drake at Montana</title>
     <desc>Live play-by-play coverage.</desc>
   </programme>
-  <programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
+  <programme start="20260905150000 -0500" stop="20260905160000 -0500" channel="KGVO">
     <title>Griz Football: Drake at Montana</title>
     <desc>Live play-by-play coverage.</desc>
   </programme>
-  <programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
+  <programme start="20260905160000 -0500" stop="20260905170000 -0500" channel="KGVO">
     <title>Griz Football: Drake at Montana</title>
     <desc>Live play-by-play coverage.</desc>
   </programme>
