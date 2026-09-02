@@ -59,7 +59,7 @@
   </programme>
   <programme start="20260902200000 -0500" stop="20260902210000 -0500" channel="KGVO">
     <title>Grizzly Sports Coaches Show</title>
-    <desc>Coach Bobby Kennedy and Riley Corcoran preview the upcoming matchup.</desc>
+    <desc>Coach Bobby Kennedy and Riley Corcoran preview the Drake matchup with analysis, interviews, and statewide Griz Radio Network coverage.</desc>
   </programme>
   <programme start="20260902210000 -0500" stop="20260902230000 -0500" channel="KGVO">
     <title>Jesse Kelly</title>
@@ -139,18 +139,24 @@
   <programme start="20260905083000 -0500" stop="20260905090000 -0500" channel="KGVO">
     <title>Community Viewpoint</title>
   </programme>
-  <programme start="20260905090000 -0500" stop="20260905130000 -0500" channel="KGVO">
+  <programme start="20260905090000 -0500" stop="20260905113000 -0500" channel="KGVO">
     <title>The Dave Ramsey Show</title>
   </programme>
+  <programme start="20260905113000 -0500" stop="20260905130000 -0500" channel="KGVO">
+    <title>Griz Football Tailgate Show</title>
+    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
+  </programme>
   <programme start="20260905130000 -0500" stop="20260905133000 -0500" channel="KGVO">
-    <title>Rich on Tech</title>
+    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
   </programme>
   <programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
     <title>Griz Football: Drake at Montana</title>
-    <desc>Live play-by-play coverage.</desc>
+    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
   </programme>
   <programme start="20260905170000 -0500" stop="20260905190000 -0500" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
+    <title>Griz Football Postgame Show</title>
+    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
   </programme>
   <programme start="20260905190000 -0500" stop="20260906000000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
