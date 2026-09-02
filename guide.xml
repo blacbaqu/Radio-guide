@@ -54,9 +54,6 @@
   <programme start="20260902160000 -0500" stop="20260902190000 -0500" channel="KGVO">
     <title>Mark Levin</title>
   </programme>
-  <programme start="20260902190000 -0500" stop="20260902200000 -0500" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-  </programme>
   <programme start="20260902200000 -0500" stop="20260902210000 -0500" channel="KGVO">
     <title>Grizzly Sports Coaches Show</title>
     <desc>Coach Bobby Kennedy and Riley Corcoran preview the upcoming matchup.</desc>
@@ -142,23 +139,9 @@
   <programme start="20260905090000 -0500" stop="20260905130000 -0500" channel="KGVO">
     <title>The Dave Ramsey Show</title>
   </programme>
-  <programme start="20260905130000 -0500" stop="20260905133000 -0500" channel="KGVO">
-    <title>Rich on Tech</title>
-  </programme>
-  <programme start="20260905133000 -0500" stop="20260905150000 -0500" channel="KGVO">
+  <programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
     <title>Griz Football: Drake at Montana</title>
     <desc>Live play-by-play coverage.</desc>
-  </programme>
-  <programme start="20260905150000 -0500" stop="20260905160000 -0500" channel="KGVO">
-    <title>Griz Football: Drake at Montana</title>
-    <desc>Live play-by-play coverage.</desc>
-  </programme>
-  <programme start="20260905160000 -0500" stop="20260905170000 -0500" channel="KGVO">
-    <title>Griz Football: Drake at Montana</title>
-    <desc>Live play-by-play coverage.</desc>
-  </programme>
-  <programme start="20260905170000 -0500" stop="20260905190000 -0500" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
   </programme>
   <programme start="20260905190000 -0500" stop="20260906000000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
