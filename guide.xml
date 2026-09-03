@@ -3,40 +3,6 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20260902000000 -0500" stop="20260902050000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
-  <programme start="20260902050000 -0500" stop="20260902060000 -0500" channel="KGVO">
-    <title>America In The Morning</title>
-  </programme>
-  <programme start="20260902060000 -0500" stop="20260902080000 -0500" channel="KGVO">
-    <title>Montana Morning</title>
-  </programme>
-  <programme start="20260902080000 -0500" stop="20260902100000 -0500" channel="KGVO">
-    <title>Talk Back Missoula</title>
-  </programme>
-  <programme start="20260902100000 -0500" stop="20260902130000 -0500" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
-  </programme>
-  <programme start="20260902130000 -0500" stop="20260902160000 -0500" channel="KGVO">
-    <title>Sean Hannity</title>
-  </programme>
-  <programme start="20260902160000 -0500" stop="20260902190000 -0500" channel="KGVO">
-    <title>Mark Levin</title>
-  </programme>
-  <programme start="20260902190000 -0500" stop="20260902200000 -0500" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-  </programme>
-  <programme start="20260902200000 -0500" stop="20260902210000 -0500" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Coach Bobby Kennedy and Riley Corcoran preview the Drake matchup with analysis, interviews, and statewide Griz Radio Network coverage.</desc>
-  </programme>
-  <programme start="20260902210000 -0500" stop="20260902230000 -0500" channel="KGVO">
-    <title>Jesse Kelly</title>
-  </programme>
-  <programme start="20260902230000 -0500" stop="20260903000000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
   <programme start="20260903000000 -0500" stop="20260903050000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
@@ -231,6 +197,40 @@
     <title>Jesse Kelly</title>
   </programme>
   <programme start="20260908230000 -0500" stop="20260909000000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260909000000 -0500" stop="20260909050000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260909050000 -0500" stop="20260909060000 -0500" channel="KGVO">
+    <title>America In The Morning</title>
+  </programme>
+  <programme start="20260909060000 -0500" stop="20260909080000 -0500" channel="KGVO">
+    <title>Montana Morning</title>
+  </programme>
+  <programme start="20260909080000 -0500" stop="20260909100000 -0500" channel="KGVO">
+    <title>Talk Back Missoula</title>
+  </programme>
+  <programme start="20260909100000 -0500" stop="20260909130000 -0500" channel="KGVO">
+    <title>Clay Travis &amp; Buck Sexton</title>
+  </programme>
+  <programme start="20260909130000 -0500" stop="20260909160000 -0500" channel="KGVO">
+    <title>Sean Hannity</title>
+  </programme>
+  <programme start="20260909160000 -0500" stop="20260909190000 -0500" channel="KGVO">
+    <title>Mark Levin</title>
+  </programme>
+  <programme start="20260909190000 -0500" stop="20260909200000 -0500" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+  </programme>
+  <programme start="20260909200000 -0500" stop="20260909210000 -0500" channel="KGVO">
+    <title>Grizzly Sports Coaches Show</title>
+    <desc>Weekly breakdown of the Utah Tech game with Coach Kennedy and Riley Corcoran, including player features and opponent scouting.</desc>
+  </programme>
+  <programme start="20260909210000 -0500" stop="20260909230000 -0500" channel="KGVO">
+    <title>Jesse Kelly</title>
+  </programme>
+  <programme start="20260909230000 -0500" stop="20260910000000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
 </tv>
