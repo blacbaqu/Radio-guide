@@ -3,36 +3,6 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20260904000000 -0500" stop="20260904050000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
-  <programme start="20260904050000 -0500" stop="20260904060000 -0500" channel="KGVO">
-    <title>America In The Morning</title>
-  </programme>
-  <programme start="20260904060000 -0500" stop="20260904080000 -0500" channel="KGVO">
-    <title>Montana Morning</title>
-  </programme>
-  <programme start="20260904080000 -0500" stop="20260904100000 -0500" channel="KGVO">
-    <title>Talk Back Missoula</title>
-  </programme>
-  <programme start="20260904100000 -0500" stop="20260904130000 -0500" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
-  </programme>
-  <programme start="20260904130000 -0500" stop="20260904160000 -0500" channel="KGVO">
-    <title>Sean Hannity</title>
-  </programme>
-  <programme start="20260904160000 -0500" stop="20260904190000 -0500" channel="KGVO">
-    <title>Mark Levin</title>
-  </programme>
-  <programme start="20260904190000 -0500" stop="20260904210000 -0500" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-  </programme>
-  <programme start="20260904210000 -0500" stop="20260904230000 -0500" channel="KGVO">
-    <title>Jesse Kelly</title>
-  </programme>
-  <programme start="20260904230000 -0500" stop="20260905000000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
   <programme start="20260905000000 -0500" stop="20260905060000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
@@ -231,6 +201,36 @@
     <title>Jesse Kelly</title>
   </programme>
   <programme start="20260910230000 -0500" stop="20260911000000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260911000000 -0500" stop="20260911050000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260911050000 -0500" stop="20260911060000 -0500" channel="KGVO">
+    <title>America In The Morning</title>
+  </programme>
+  <programme start="20260911060000 -0500" stop="20260911080000 -0500" channel="KGVO">
+    <title>Montana Morning</title>
+  </programme>
+  <programme start="20260911080000 -0500" stop="20260911100000 -0500" channel="KGVO">
+    <title>Talk Back Missoula</title>
+  </programme>
+  <programme start="20260911100000 -0500" stop="20260911130000 -0500" channel="KGVO">
+    <title>Clay Travis &amp; Buck Sexton</title>
+  </programme>
+  <programme start="20260911130000 -0500" stop="20260911160000 -0500" channel="KGVO">
+    <title>Sean Hannity</title>
+  </programme>
+  <programme start="20260911160000 -0500" stop="20260911190000 -0500" channel="KGVO">
+    <title>Mark Levin</title>
+  </programme>
+  <programme start="20260911190000 -0500" stop="20260911210000 -0500" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+  </programme>
+  <programme start="20260911210000 -0500" stop="20260911230000 -0500" channel="KGVO">
+    <title>Jesse Kelly</title>
+  </programme>
+  <programme start="20260911230000 -0500" stop="20260912000000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
 </tv>
