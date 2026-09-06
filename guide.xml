@@ -3,40 +3,6 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20260905000000 -0500" stop="20260905060000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
-  <programme start="20260905060000 -0500" stop="20260905080000 -0500" channel="KGVO">
-    <title>Montana Outdoor Radio Show</title>
-  </programme>
-  <programme start="20260905080000 -0500" stop="20260905083000 -0500" channel="KGVO">
-    <title>Missoula Real Estate Today</title>
-  </programme>
-  <programme start="20260905083000 -0500" stop="20260905090000 -0500" channel="KGVO">
-    <title>Community Viewpoint</title>
-  </programme>
-  <programme start="20260905090000 -0500" stop="20260905113000 -0500" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-  </programme>
-  <programme start="20260905113000 -0500" stop="20260905130000 -0500" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20260905130000 -0500" stop="20260905133000 -0500" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20260905133000 -0500" stop="20260905170000 -0500" channel="KGVO">
-    <title>Griz Football: Drake at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20260905170000 -0500" stop="20260905190000 -0500" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20260905190000 -0500" stop="20260906000000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
   <programme start="20260906000000 -0500" stop="20260906060000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
@@ -231,6 +197,40 @@
     <title>Jesse Kelly</title>
   </programme>
   <programme start="20260911230000 -0500" stop="20260912000000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260912000000 -0500" stop="20260912060000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260912060000 -0500" stop="20260912080000 -0500" channel="KGVO">
+    <title>Montana Outdoor Radio Show</title>
+  </programme>
+  <programme start="20260912080000 -0500" stop="20260912083000 -0500" channel="KGVO">
+    <title>Missoula Real Estate Today</title>
+  </programme>
+  <programme start="20260912083000 -0500" stop="20260912090000 -0500" channel="KGVO">
+    <title>Community Viewpoint</title>
+  </programme>
+  <programme start="20260912090000 -0500" stop="20260912113000 -0500" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+  </programme>
+  <programme start="20260912113000 -0500" stop="20260912130000 -0500" channel="KGVO">
+    <title>Griz Football Tailgate Show</title>
+    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
+  </programme>
+  <programme start="20260912130000 -0500" stop="20260912133000 -0500" channel="KGVO">
+    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
+  </programme>
+  <programme start="20260912133000 -0500" stop="20260912170000 -0500" channel="KGVO">
+    <title>Griz Football: Utah Tech at Montana</title>
+    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
+  </programme>
+  <programme start="20260912170000 -0500" stop="20260912190000 -0500" channel="KGVO">
+    <title>Griz Football Postgame Show</title>
+    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
+  </programme>
+  <programme start="20260912190000 -0500" stop="20260913000000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
 </tv>
