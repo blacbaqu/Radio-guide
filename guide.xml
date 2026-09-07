@@ -3,48 +3,6 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20260906000000 -0500" stop="20260906060000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
-  <programme start="20260906060000 -0500" stop="20260906070000 -0500" channel="KGVO">
-    <title>This Morning With Gordon Deal</title>
-  </programme>
-  <programme start="20260906070000 -0500" stop="20260906080000 -0500" channel="KGVO">
-    <title>What Do You Know?</title>
-  </programme>
-  <programme start="20260906080000 -0500" stop="20260906083000 -0500" channel="KGVO">
-    <title>The FLOT Line</title>
-  </programme>
-  <programme start="20260906083000 -0500" stop="20260906090000 -0500" channel="KGVO">
-    <title>Lutheran Hour</title>
-  </programme>
-  <programme start="20260906090000 -0500" stop="20260906100000 -0500" channel="KGVO">
-    <title>Community Viewpoint</title>
-  </programme>
-  <programme start="20260906100000 -0500" stop="20260906103000 -0500" channel="KGVO">
-    <title>Missoula Real Estate Today</title>
-  </programme>
-  <programme start="20260906103000 -0500" stop="20260906110000 -0500" channel="KGVO">
-    <title>RMWorldTravel</title>
-  </programme>
-  <programme start="20260906110000 -0500" stop="20260906150000 -0500" channel="KGVO">
-    <title>Rich on Tech</title>
-  </programme>
-  <programme start="20260906150000 -0500" stop="20260906180000 -0500" channel="KGVO">
-    <title>Sean Hannity</title>
-  </programme>
-  <programme start="20260906180000 -0500" stop="20260906190000 -0500" channel="KGVO">
-    <title>The Motley Fool</title>
-  </programme>
-  <programme start="20260906190000 -0500" stop="20260906200000 -0500" channel="KGVO">
-    <title>Free Talk Live</title>
-  </programme>
-  <programme start="20260906200000 -0500" stop="20260906230000 -0500" channel="KGVO">
-    <title>The Bill Cunningham Show</title>
-  </programme>
-  <programme start="20260906230000 -0500" stop="20260907000000 -0500" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
   <programme start="20260907000000 -0500" stop="20260907050000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
@@ -231,6 +189,48 @@
     <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
   </programme>
   <programme start="20260912190000 -0500" stop="20260913000000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260913000000 -0500" stop="20260913060000 -0500" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260913060000 -0500" stop="20260913070000 -0500" channel="KGVO">
+    <title>This Morning With Gordon Deal</title>
+  </programme>
+  <programme start="20260913070000 -0500" stop="20260913080000 -0500" channel="KGVO">
+    <title>What Do You Know?</title>
+  </programme>
+  <programme start="20260913080000 -0500" stop="20260913083000 -0500" channel="KGVO">
+    <title>The FLOT Line</title>
+  </programme>
+  <programme start="20260913083000 -0500" stop="20260913090000 -0500" channel="KGVO">
+    <title>Lutheran Hour</title>
+  </programme>
+  <programme start="20260913090000 -0500" stop="20260913100000 -0500" channel="KGVO">
+    <title>Community Viewpoint</title>
+  </programme>
+  <programme start="20260913100000 -0500" stop="20260913103000 -0500" channel="KGVO">
+    <title>Missoula Real Estate Today</title>
+  </programme>
+  <programme start="20260913103000 -0500" stop="20260913110000 -0500" channel="KGVO">
+    <title>RMWorldTravel</title>
+  </programme>
+  <programme start="20260913110000 -0500" stop="20260913150000 -0500" channel="KGVO">
+    <title>Rich on Tech</title>
+  </programme>
+  <programme start="20260913150000 -0500" stop="20260913180000 -0500" channel="KGVO">
+    <title>Sean Hannity</title>
+  </programme>
+  <programme start="20260913180000 -0500" stop="20260913190000 -0500" channel="KGVO">
+    <title>The Motley Fool</title>
+  </programme>
+  <programme start="20260913190000 -0500" stop="20260913200000 -0500" channel="KGVO">
+    <title>Free Talk Live</title>
+  </programme>
+  <programme start="20260913200000 -0500" stop="20260913230000 -0500" channel="KGVO">
+    <title>The Bill Cunningham Show</title>
+  </programme>
+  <programme start="20260913230000 -0500" stop="20260914000000 -0500" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
 </tv>
