@@ -254,306 +254,6 @@
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20260911000000 +0000" stop="20260911000600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911000600 +0000" stop="20260911003000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911003000 +0000" stop="20260911003200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911003200 +0000" stop="20260911010000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Global Story</title>
-    <desc lang="en">How the Af D is rewriting German history Far-right Alternative for Germany (Af D) party wants to teach children less about Hitler. (R)</desc>
-  </programme>
-  <programme start="20260911010000 +0000" stop="20260911010600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911010600 +0000" stop="20260911013000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911013000 +0000" stop="20260911013200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911013200 +0000" stop="20260911020000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Tech Life</title>
-    <desc lang="en">The copyright extortionists Scammers demand money from Instagram users over fake copyright claims. (R)</desc>
-  </programme>
-  <programme start="20260911020000 +0000" stop="20260911020600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911020600 +0000" stop="20260911025000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">I was ashamed of my stammer, until I met Scatman John Gina Waggott’s favourite popstar told her to love herself, and her voice (R)</desc>
-  </programme>
-  <programme start="20260911025000 +0000" stop="20260911030000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">The weather report that changed the date of D-Day In 1944, a weather report predicted a storm that changed the course of WW2 history (R)</desc>
-  </programme>
-  <programme start="20260911030000 +0000" stop="20260911030600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911030600 +0000" stop="20260911033000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911033000 +0000" stop="20260911033200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911033200 +0000" stop="20260911040000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Heart and Soul</title>
-    <desc lang="en">The Woman Who Saved Me on 9/11 How Paul Carris helped a colleague escape the North Tower on 9/11.</desc>
-  </programme>
-  <programme start="20260911040000 +0000" stop="20260911040600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911040600 +0000" stop="20260911050000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Sharp rise in oil prices as share prices fall across Asia The average price of diesel in the US is now more than six dollars a gallon.</desc>
-  </programme>
-  <programme start="20260911050000 +0000" stop="20260911050600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911050600 +0000" stop="20260911060000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Yemen's Houthis reportedly seize strategic Red Sea port of Mokha Share prices have been falling across Asia in response to a sharp rise in oil pric  es</desc>
-  </programme>
-  <programme start="20260911060000 +0000" stop="20260911060600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911060600 +0000" stop="20260911070000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Oil prices surge as Houthis threaten a strategic port Residents in the port city of Mokha say Houthi fighters moved into the city</desc>
-  </programme>
-  <programme start="20260911070000 +0000" stop="20260911070600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911070600 +0000" stop="20260911073000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Sophia Amoruso, Nasty Gal founder: I was out of my league Nasty Gal founder Sophia Amoruso on building the $350m company that later went bankrupt</desc>
-  </programme>
-  <programme start="20260911073000 +0000" stop="20260911073200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911073200 +0000" stop="20260911075000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">Taking stock: Bad blood, bad neighbours and the return of Elizabeth Holmes Can a $5,000-per-person pledge from Trump win votes as his trade war wit  h Canada deepens?</desc>
-  </programme>
-  <programme start="20260911075000 +0000" stop="20260911080000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Firefighter: Surviving the 9/11 North Tower collapse On 11 September 2001, firefighter Jay Jonas was inside the North Tower when it collapsed.</desc>
-  </programme>
-  <programme start="20260911080000 +0000" stop="20260911080600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911080600 +0000" stop="20260911083000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911083000 +0000" stop="20260911083200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911083200 +0000" stop="20260911090000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC Inside Science</title>
-    <desc lang="en">What AI agents talk about behind your back Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack. (R)</desc>
-  </programme>
-  <programme start="20260911090000 +0000" stop="20260911090600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911090600 +0000" stop="20260911100000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Unexpected Elements</title>
-    <desc lang="en">The phizz-whizzing science of Roald Dahl Roald Dahl Day has us seeking out some phizz-whizzing science inspired by his stories.</desc>
-  </programme>
-  <programme start="20260911100000 +0000" stop="20260911100600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911100600 +0000" stop="20260911103000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911103000 +0000" stop="20260911103200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911103200 +0000" stop="20260911110000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Global Story</title>
-    <desc lang="en">Did America win the ‘war on terror’? How the fallout from 9/11 is still shaping the world in unintended ways</desc>
-  </programme>
-  <programme start="20260911110000 +0000" stop="20260911110600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911110600 +0000" stop="20260911115000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">The Outlook Mixtape: The trumpet takes the lead Three people united by a foundational member of the jazz family: the trumpet</desc>
-  </programme>
-  <programme start="20260911115000 +0000" stop="20260911120000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Firefighter: Surviving the 9/11 North Tower collapse On 11 September 2001, firefighter Jay Jonas was inside the North Tower when it collapsed.  (R)</desc>
-  </programme>
-  <programme start="20260911120000 +0000" stop="20260911120600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911120600 +0000" stop="20260911123000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911123000 +0000" stop="20260911123200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911123200 +0000" stop="20260911130000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Heart and Soul</title>
-    <desc lang="en">The Woman Who Saved Me on 9/11 How Paul Carris helped a colleague escape the North Tower on 9/11. (R)</desc>
-  </programme>
-  <programme start="20260911130000 +0000" stop="20260911130600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911130600 +0000" stop="20260911140000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20260911140000 +0000" stop="20260911140600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911140600 +0000" stop="20260911143000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Sophia Amoruso, Nasty Gal founder: I was out of my league Nasty Gal founder Sophia Amoruso on building the $350m company that later went bankrupt  (R)</desc>
-  </programme>
-  <programme start="20260911143000 +0000" stop="20260911143200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911143200 +0000" stop="20260911145000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">Taking stock: Bad blood, bad neighbours and the return of Elizabeth Holmes Can a $5,000-per-person pledge from Trump win votes as his trade war wit  h Canada deepens? (R)</desc>
-  </programme>
-  <programme start="20260911145000 +0000" stop="20260911150000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World Business Express</title>
-    <desc lang="en">11/09/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
-  </programme>
-  <programme start="20260911150000 +0000" stop="20260911150600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911150600 +0000" stop="20260911160000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20260911160000 +0000" stop="20260911160600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911160600 +0000" stop="20260911170000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20260911170000 +0000" stop="20260911170600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911170600 +0000" stop="20260911175000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">The Outlook Mixtape: The trumpet takes the lead Three people united by a foundational member of the jazz family: the trumpet (R)</desc>
-  </programme>
-  <programme start="20260911175000 +0000" stop="20260911180000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Firefighter: Surviving the 9/11 North Tower collapse On 11 September 2001, firefighter Jay Jonas was inside the North Tower when it collapsed.  (R)</desc>
-  </programme>
-  <programme start="20260911180000 +0000" stop="20260911180600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911180600 +0000" stop="20260911183000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911183000 +0000" stop="20260911183200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911183200 +0000" stop="20260911190000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">2026/09/11 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-  </programme>
-  <programme start="20260911190000 +0000" stop="20260911190600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911190600 +0000" stop="20260911193000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC Conversations</title>
-    <desc lang="en">The business of modern dating Is real life the future for dating apps?</desc>
-  </programme>
-  <programme start="20260911193000 +0000" stop="20260911193200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911193200 +0000" stop="20260911200000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">CrowdScience</title>
-    <desc lang="en">Are my veggie sausages saving the planet? Are meat substitutes really healthier and better for the planet?</desc>
-  </programme>
-  <programme start="20260911200000 +0000" stop="20260911200600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911200600 +0000" stop="20260911210000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20260911210000 +0000" stop="20260911210600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911210600 +0000" stop="20260911213000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Sophia Amoruso, Nasty Gal founder: I was out of my league Nasty Gal founder Sophia Amoruso on building the $350m company that later went bankrupt  (R)</desc>
-  </programme>
-  <programme start="20260911213000 +0000" stop="20260911213200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911213200 +0000" stop="20260911220000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Heart and Soul</title>
-    <desc lang="en">The Woman Who Saved Me on 9/11 How Paul Carris helped a colleague escape the North Tower on 9/11. (R)</desc>
-  </programme>
-  <programme start="20260911220000 +0000" stop="20260911220600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911220600 +0000" stop="20260911223000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260911223000 +0000" stop="20260911223200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260911223200 +0000" stop="20260912000000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World Business Report</title>
-    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
-  </programme>
   <programme start="20260912000000 +0000" stop="20260912000600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
@@ -624,7 +324,7 @@
   </programme>
   <programme start="20260912045000 +0000" stop="20260912050000 +0000" channel="bbc_world_service.uk">
     <title lang="en">More or Less</title>
-    <desc lang="en">More or Less Tim Harford explains the numbers and statistics in the news and in life.</desc>
+    <desc lang="en">Could this be the strongest El Niño in 1,000 Years? Climate scientist Zeke Hausfather on a potentially record-breaking El Niño.</desc>
   </programme>
   <programme start="20260912050000 +0000" stop="20260912050600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -656,7 +356,7 @@
   </programme>
   <programme start="20260912080600 +0000" stop="20260912083000 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC Conversations</title>
-    <desc lang="en">The business of modern dating Is real life the future for dating apps? (R)</desc>
+    <desc lang="en">The business of modern dating Are in-person dating events the future for dating apps? (R)</desc>
   </programme>
   <programme start="20260912083000 +0000" stop="20260912083200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -748,7 +448,7 @@
   </programme>
   <programme start="20260912183200 +0000" stop="20260912190000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Happy News</title>
-    <desc lang="en">Happy News Positive news stories</desc>
+    <desc lang="en">The Happy Pod: The choir proud to admit they can't sing The Off-Key Choir meets weekly to enjoy the benefits of singing without judgement</desc>
   </programme>
   <programme start="20260912190000 +0000" stop="20260912190600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -840,7 +540,7 @@
   </programme>
   <programme start="20260913030600 +0000" stop="20260913033000 +0000" channel="bbc_world_service.uk">
     <title lang="en">From Our Own Correspondent</title>
-    <desc lang="en">From Our Own Correspondent Insight from BBC correspondents, journalists and writers from around the world.</desc>
+    <desc lang="en">Nigeria recruits vigilantes to fight off bandits Mass kidnappings are spreading to regions where they never happened before</desc>
   </programme>
   <programme start="20260913033000 +0000" stop="20260913033200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -900,7 +600,7 @@
   </programme>
   <programme start="20260913080600 +0000" stop="20260913083000 +0000" channel="bbc_world_service.uk">
     <title lang="en">From Our Own Correspondent</title>
-    <desc lang="en">From Our Own Correspondent Insight from BBC correspondents, journalists and writers from around the world. (R)</desc>
+    <desc lang="en">Nigeria recruits vigilantes to fight off bandits Mass kidnappings are spreading to regions where they never happened before (R)</desc>
   </programme>
   <programme start="20260913083000 +0000" stop="20260913083200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -944,7 +644,7 @@
   </programme>
   <programme start="20260913105000 +0000" stop="20260913110000 +0000" channel="bbc_world_service.uk">
     <title lang="en">More or Less</title>
-    <desc lang="en">More or Less Tim Harford explains the numbers and statistics in the news and in life. (R)</desc>
+    <desc lang="en">Could this be the strongest El Niño in 1,000 Years? Climate scientist Zeke Hausfather on a potentially record-breaking El Niño. (R)</desc>
   </programme>
   <programme start="20260913110000 +0000" stop="20260913110600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -952,7 +652,7 @@
   </programme>
   <programme start="20260913110600 +0000" stop="20260913113000 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC Conversations</title>
-    <desc lang="en">The business of modern dating Is real life the future for dating apps? (R)</desc>
+    <desc lang="en">The business of modern dating Are in-person dating events the future for dating apps? (R)</desc>
   </programme>
   <programme start="20260913113000 +0000" stop="20260913113200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -984,7 +684,7 @@
   </programme>
   <programme start="20260913133200 +0000" stop="20260913140000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Happy News</title>
-    <desc lang="en">Happy News Positive news stories (R)</desc>
+    <desc lang="en">The Happy Pod: The choir proud to admit they can't sing The Off-Key Choir meets weekly to enjoy the benefits of singing without judgement (  R)</desc>
   </programme>
   <programme start="20260913140000 +0000" stop="20260913140600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1088,7 +788,7 @@
   </programme>
   <programme start="20260914013200 +0000" stop="20260914020000 +0000" channel="bbc_world_service.uk">
     <title lang="en">CrowdScience</title>
-    <desc lang="en">Are my veggie sausages saving the planet? Are meat substitutes really healthier and better for the planet? (R)</desc>
+    <desc lang="en">Can my veggie sausages save the world? Are ‘veggie meats’ better for the environment and your health than real meat? (R)</desc>
   </programme>
   <programme start="20260914020000 +0000" stop="20260914020600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1152,7 +852,7 @@
   </programme>
   <programme start="20260914070600 +0000" stop="20260914073000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Interview</title>
-    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC.</desc>
+    <desc lang="en">Amir Khan Muttaqi, Afghan FM: Not everything is banned for women Lyse Doucet speaks to Afghan FM Amir Khan Muttaqi about women's rights and reform</desc>
   </programme>
   <programme start="20260914073000 +0000" stop="20260914073200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -1180,7 +880,7 @@
   </programme>
   <programme start="20260914083200 +0000" stop="20260914090000 +0000" channel="bbc_world_service.uk">
     <title lang="en">CrowdScience</title>
-    <desc lang="en">Are my veggie sausages saving the planet? Are meat substitutes really healthier and better for the planet? (R)</desc>
+    <desc lang="en">Can my veggie sausages save the world? Are ‘veggie meats’ better for the environment and your health than real meat? (R)</desc>
   </programme>
   <programme start="20260914090000 +0000" stop="20260914090600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1248,7 +948,7 @@
   </programme>
   <programme start="20260914140600 +0000" stop="20260914143000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Interview</title>
-    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+    <desc lang="en">Amir Khan Muttaqi, Afghan FM: Not everything is banned for women Lyse Doucet speaks to Afghan FM Amir Khan Muttaqi about women's rights and reform  (R)</desc>
   </programme>
   <programme start="20260914143000 +0000" stop="20260914143200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -1312,7 +1012,7 @@
   </programme>
   <programme start="20260914190600 +0000" stop="20260914193000 +0000" channel="bbc_world_service.uk">
     <title lang="en">From Our Own Correspondent</title>
-    <desc lang="en">From Our Own Correspondent Insight from BBC correspondents, journalists and writers from around the world. (R)</desc>
+    <desc lang="en">Nigeria recruits vigilantes to fight off bandits Mass kidnappings are spreading to regions where they never happened before (R)</desc>
   </programme>
   <programme start="20260914193000 +0000" stop="20260914193200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -1336,7 +1036,7 @@
   </programme>
   <programme start="20260914210600 +0000" stop="20260914213000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Interview</title>
-    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+    <desc lang="en">Amir Khan Muttaqi, Afghan FM: Not everything is banned for women Lyse Doucet speaks to Afghan FM Amir Khan Muttaqi about women's rights and reform  (R)</desc>
   </programme>
   <programme start="20260914213000 +0000" stop="20260914213200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -1392,7 +1092,7 @@
   </programme>
   <programme start="20260915013200 +0000" stop="20260915020000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Assignment</title>
-    <desc lang="en">Turkey on Trial: Can Courts Control a Nation? From jailed mayors to comedians, Emily Wither investigates Turkey's crackdown</desc>
+    <desc lang="en">Turkey on trial: Can courts control a nation? From jailed mayors to comedians, Emily Wither investigates Turkey's crackdown</desc>
   </programme>
   <programme start="20260915020000 +0000" stop="20260915020600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1480,7 +1180,7 @@
   </programme>
   <programme start="20260915083200 +0000" stop="20260915090000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Assignment</title>
-    <desc lang="en">Turkey on Trial: Can Courts Control a Nation? From jailed mayors to comedians, Emily Wither investigates Turkey's crackdown (R)</desc>
+    <desc lang="en">Turkey on trial: Can courts control a nation? From jailed mayors to comedians, Emily Wither investigates Turkey's crackdown (R)</desc>
   </programme>
   <programme start="20260915090000 +0000" stop="20260915090600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1612,7 +1312,7 @@
   </programme>
   <programme start="20260915190600 +0000" stop="20260915193000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Assignment</title>
-    <desc lang="en">Turkey on Trial: Can Courts Control a Nation? From jailed mayors to comedians, Emily Wither investigates Turkey's crackdown (R)</desc>
+    <desc lang="en">Turkey on trial: Can courts control a nation? From jailed mayors to comedians, Emily Wither investigates Turkey's crackdown (R)</desc>
   </programme>
   <programme start="20260915193000 +0000" stop="20260915193200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -1812,7 +1512,7 @@
   </programme>
   <programme start="20260916110600 +0000" stop="20260916115000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+    <desc lang="en">'For us land is everything, it is life' How Theonila Matbob took on a mining giant that contaminated her land on Bougainville</desc>
   </programme>
   <programme start="20260916115000 +0000" stop="20260916120000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -1884,7 +1584,7 @@
   </programme>
   <programme start="20260916170600 +0000" stop="20260916175000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc lang="en">'For us land is everything, it is life' How Theonila Matbob took on a mining giant that contaminated her land on Bougainville (R)</desc>
   </programme>
   <programme start="20260916175000 +0000" stop="20260916180000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -2000,7 +1700,7 @@
   </programme>
   <programme start="20260917020600 +0000" stop="20260917025000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc lang="en">'For us land is everything, it is life' How Theonila Matbob took on a mining giant that contaminated her land on Bougainville (R)</desc>
   </programme>
   <programme start="20260917025000 +0000" stop="20260917030000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -2052,7 +1752,7 @@
   </programme>
   <programme start="20260917070600 +0000" stop="20260917073000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Inquiry</title>
-    <desc lang="en">The Inquiry The Inquiry gets beyond the headlines to explore the trends, forces and ideas shaping the world.</desc>
+    <desc lang="en">Can China’s polar silk road change global trade? Arctic waters are being commercialised as the first regular ships take to the sea.</desc>
   </programme>
   <programme start="20260917073000 +0000" stop="20260917073200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -2156,7 +1856,7 @@
   </programme>
   <programme start="20260917140600 +0000" stop="20260917143000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Inquiry</title>
-    <desc lang="en">The Inquiry The Inquiry gets beyond the headlines to explore the trends, forces and ideas shaping the world. (R)</desc>
+    <desc lang="en">Can China’s polar silk road change global trade? Arctic waters are being commercialised as the first regular ships take to the sea. (R)</desc>
   </programme>
   <programme start="20260917143000 +0000" stop="20260917143200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -2244,7 +1944,7 @@
   </programme>
   <programme start="20260917210600 +0000" stop="20260917213000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Inquiry</title>
-    <desc lang="en">The Inquiry The Inquiry gets beyond the headlines to explore the trends, forces and ideas shaping the world. (R)</desc>
+    <desc lang="en">Can China’s polar silk road change global trade? Arctic waters are being commercialised as the first regular ships take to the sea. (R)</desc>
   </programme>
   <programme start="20260917213000 +0000" stop="20260917213200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -2266,7 +1966,307 @@
     <title lang="en">BBC News Summary</title>
     <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
   </programme>
-  <programme start="20260917223200 +0000" stop="20260917230200 +0000" channel="bbc_world_service.uk">
+  <programme start="20260917223200 +0000" stop="20260918000000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World Business Report</title>
+    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
+  </programme>
+  <programme start="20260918000000 +0000" stop="20260918000600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918000600 +0000" stop="20260918003000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918003000 +0000" stop="20260918003200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918003200 +0000" stop="20260918010000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Global Story</title>
+    <desc lang="en">The Global Story . (R)</desc>
+  </programme>
+  <programme start="20260918010000 +0000" stop="20260918010600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918010600 +0000" stop="20260918013000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918013000 +0000" stop="20260918013200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918013200 +0000" stop="20260918020000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Tech Life</title>
+    <desc lang="en">15/09/2026 GMT How tech is transforming the way the world works, learns and plays (R)</desc>
+  </programme>
+  <programme start="20260918020000 +0000" stop="20260918020600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918020600 +0000" stop="20260918025000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20260918025000 +0000" stop="20260918030000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The birth of India's call centre industry Pramod Bhasin set up India’s first call centre in 1997 (R)</desc>
+  </programme>
+  <programme start="20260918030000 +0000" stop="20260918030600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918030600 +0000" stop="20260918033000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918033000 +0000" stop="20260918033200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918033200 +0000" stop="20260918040000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Heart and Soul</title>
+    <desc lang="en">How to Leave This Earth After a lifetime speaking for others, Dalia Mogahed explores her own faith and legacy now.</desc>
+  </programme>
+  <programme start="20260918040000 +0000" stop="20260918040600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918040600 +0000" stop="20260918050000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20260918050000 +0000" stop="20260918050600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918050600 +0000" stop="20260918060000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20260918060000 +0000" stop="20260918060600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918060600 +0000" stop="20260918070000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20260918070000 +0000" stop="20260918070600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918070600 +0000" stop="20260918073000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC.</desc>
+  </programme>
+  <programme start="20260918073000 +0000" stop="20260918073200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918073200 +0000" stop="20260918075000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Business Daily</title>
+    <desc lang="en">Business Daily The daily drama of money and work from the BBC.</desc>
+  </programme>
+  <programme start="20260918075000 +0000" stop="20260918080000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The discovery of the San José shipwreck In 2015, the 'holy grail' of shipwrecks was found off the coast of Colombia</desc>
+  </programme>
+  <programme start="20260918080000 +0000" stop="20260918080600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918080600 +0000" stop="20260918083000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918083000 +0000" stop="20260918083200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918083200 +0000" stop="20260918090000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC Inside Science</title>
+    <desc lang="en">17/09/2026 A weekly programme looking at the science that's changing our world. (R)</desc>
+  </programme>
+  <programme start="20260918090000 +0000" stop="20260918090600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918090600 +0000" stop="20260918100000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Unexpected Elements</title>
+    <desc lang="en">Unexpected Elements The news you know, the science you don't.</desc>
+  </programme>
+  <programme start="20260918100000 +0000" stop="20260918100600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918100600 +0000" stop="20260918103000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918103000 +0000" stop="20260918103200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918103200 +0000" stop="20260918110000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Global Story</title>
+    <desc lang="en">The Global Story .</desc>
+  </programme>
+  <programme start="20260918110000 +0000" stop="20260918110600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918110600 +0000" stop="20260918115000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+  </programme>
+  <programme start="20260918115000 +0000" stop="20260918120000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The discovery of the San José shipwreck In 2015, the 'holy grail' of shipwrecks was found off the coast of Colombia (R)</desc>
+  </programme>
+  <programme start="20260918120000 +0000" stop="20260918120600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918120600 +0000" stop="20260918123000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918123000 +0000" stop="20260918123200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918123200 +0000" stop="20260918130000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Heart and Soul</title>
+    <desc lang="en">How to Leave This Earth After a lifetime speaking for others, Dalia Mogahed explores her own faith and legacy now. (R)</desc>
+  </programme>
+  <programme start="20260918130000 +0000" stop="20260918130600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918130600 +0000" stop="20260918140000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20260918140000 +0000" stop="20260918140600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918140600 +0000" stop="20260918143000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+  </programme>
+  <programme start="20260918143000 +0000" stop="20260918143200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918143200 +0000" stop="20260918145000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Business Daily</title>
+    <desc lang="en">Business Daily The daily drama of money and work from the BBC. (R)</desc>
+  </programme>
+  <programme start="20260918145000 +0000" stop="20260918150000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World Business Express</title>
+    <desc lang="en">18/09/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+  </programme>
+  <programme start="20260918150000 +0000" stop="20260918150600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918150600 +0000" stop="20260918160000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outside Source</title>
+    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20260918160000 +0000" stop="20260918160600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918160600 +0000" stop="20260918170000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outside Source</title>
+    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20260918170000 +0000" stop="20260918170600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918170600 +0000" stop="20260918175000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20260918175000 +0000" stop="20260918180000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The discovery of the San José shipwreck In 2015, the 'holy grail' of shipwrecks was found off the coast of Colombia (R)</desc>
+  </programme>
+  <programme start="20260918180000 +0000" stop="20260918180600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918180600 +0000" stop="20260918183000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918183000 +0000" stop="20260918183200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918183200 +0000" stop="20260918190000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">2026/09/18 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+  </programme>
+  <programme start="20260918190000 +0000" stop="20260918190600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918190600 +0000" stop="20260918193000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC Conversations</title>
+    <desc lang="en">BBC Conversations How major news stories are affecting the lives of people around the world</desc>
+  </programme>
+  <programme start="20260918193000 +0000" stop="20260918193200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918193200 +0000" stop="20260918200000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">CrowdScience</title>
+    <desc lang="en">How many dead people are on the internet? Answering your questions about life, Earth and the universe</desc>
+  </programme>
+  <programme start="20260918200000 +0000" stop="20260918200600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918200600 +0000" stop="20260918210000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20260918210000 +0000" stop="20260918210600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918210600 +0000" stop="20260918213000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+  </programme>
+  <programme start="20260918213000 +0000" stop="20260918213200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918213200 +0000" stop="20260918220000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Heart and Soul</title>
+    <desc lang="en">How to Leave This Earth After a lifetime speaking for others, Dalia Mogahed explores her own faith and legacy now. (R)</desc>
+  </programme>
+  <programme start="20260918220000 +0000" stop="20260918220600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918220600 +0000" stop="20260918223000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260918223000 +0000" stop="20260918223200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260918223200 +0000" stop="20260918230200 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Report</title>
     <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
