@@ -3,6 +3,9 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
+  <channel id="WSM">
+    <display-name>WSM 650 AM Nashville</display-name>
+  </channel>
   <programme start="20260911070000 +0000" stop="20260911120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
@@ -226,6 +229,27 @@
   </programme>
   <programme start="20260917230000 +0000" stop="20260918020000 +0000" channel="KGVO">
     <title>Mark Levin</title>
+  </programme>
+  <programme start="20260911000000 +0000" stop="20260911050000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+  </programme>
+  <programme start="20260911050000 +0000" stop="20260911053000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+  </programme>
+  <programme start="20260911053000 +0000" stop="20260911060000 +0000" channel="WSM">
+    <title>Classic Country &amp; Bluegrass</title>
+  </programme>
+  <programme start="20260911060000 +0000" stop="20260911100000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+  </programme>
+  <programme start="20260911100000 +0000" stop="20260911150000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+  </programme>
+  <programme start="20260911150000 +0000" stop="20260911190000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+  </programme>
+  <programme start="20260911190000 +0000" stop="20260912000000 +0000" channel="WSM">
+    <title>WSM at Night</title>
   </programme>
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
