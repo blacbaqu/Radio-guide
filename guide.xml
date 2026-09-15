@@ -6,36 +6,6 @@
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
-  <programme start="20260914070000 +0000" stop="20260914120000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
-  <programme start="20260914120000 +0000" stop="20260914130000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-  </programme>
-  <programme start="20260914130000 +0000" stop="20260914150000 +0000" channel="KGVO">
-    <title>Montana Morning</title>
-  </programme>
-  <programme start="20260914150000 +0000" stop="20260914170000 +0000" channel="KGVO">
-    <title>Talk Back Missoula</title>
-  </programme>
-  <programme start="20260914170000 +0000" stop="20260914200000 +0000" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
-  </programme>
-  <programme start="20260914200000 +0000" stop="20260914230000 +0000" channel="KGVO">
-    <title>Sean Hannity</title>
-  </programme>
-  <programme start="20260914230000 +0000" stop="20260915020000 +0000" channel="KGVO">
-    <title>Mark Levin</title>
-  </programme>
-  <programme start="20260914020000 +0000" stop="20260914040000 +0000" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-  </programme>
-  <programme start="20260914040000 +0000" stop="20260914060000 +0000" channel="KGVO">
-    <title>Jesse Kelly</title>
-  </programme>
-  <programme start="20260914060000 +0000" stop="20260914070000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-  </programme>
   <programme start="20260915070000 +0000" stop="20260915120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
   </programme>
@@ -236,487 +206,213 @@
   <programme start="20260920220000 +0000" stop="20260921010000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
   </programme>
-  <programme start="20260914000000 +0000" stop="20260914050000 +0000" channel="WSM">
+  <programme start="20260921070000 +0000" stop="20260921120000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260921120000 +0000" stop="20260921130000 +0000" channel="KGVO">
+    <title>America In The Morning</title>
+  </programme>
+  <programme start="20260921130000 +0000" stop="20260921150000 +0000" channel="KGVO">
+    <title>Montana Morning</title>
+  </programme>
+  <programme start="20260921150000 +0000" stop="20260921170000 +0000" channel="KGVO">
+    <title>Talk Back Missoula</title>
+  </programme>
+  <programme start="20260921170000 +0000" stop="20260921200000 +0000" channel="KGVO">
+    <title>Clay Travis &amp; Buck Sexton</title>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260921230000 +0000" channel="KGVO">
+    <title>Sean Hannity</title>
+  </programme>
+  <programme start="20260921230000 +0000" stop="20260922020000 +0000" channel="KGVO">
+    <title>Mark Levin</title>
+  </programme>
+  <programme start="20260921020000 +0000" stop="20260921040000 +0000" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+  </programme>
+  <programme start="20260921040000 +0000" stop="20260921060000 +0000" channel="KGVO">
+    <title>Jesse Kelly</title>
+  </programme>
+  <programme start="20260921060000 +0000" stop="20260921070000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+  </programme>
+  <programme start="20260915050000 +0000" stop="20260915100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
   </programme>
-  <programme start="20260914050000 +0000" stop="20260914053000 +0000" channel="WSM">
+  <programme start="20260915100000 +0000" stop="20260915103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
   </programme>
-  <programme start="20260914053000 +0000" stop="20260914060000 +0000" channel="WSM">
+  <programme start="20260915103000 +0000" stop="20260915110000 +0000" channel="WSM">
     <title>Classic Country &amp; Bluegrass</title>
   </programme>
-  <programme start="20260914060000 +0000" stop="20260914100000 +0000" channel="WSM">
+  <programme start="20260915110000 +0000" stop="20260915150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
   </programme>
-  <programme start="20260914100000 +0000" stop="20260914150000 +0000" channel="WSM">
+  <programme start="20260915150000 +0000" stop="20260915200000 +0000" channel="WSM">
     <title>WSM at Work</title>
   </programme>
-  <programme start="20260914150000 +0000" stop="20260914190000 +0000" channel="WSM">
+  <programme start="20260915200000 +0000" stop="20260916000000 +0000" channel="WSM">
     <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20260914190000 +0000" stop="20260914220000 +0000" channel="WSM">
-    <title>Heart of the Night with Nan Kelley</title>
-  </programme>
-  <programme start="20260914220000 +0000" stop="20260915000000 +0000" channel="WSM">
-    <title>WSM at Night</title>
   </programme>
   <programme start="20260915000000 +0000" stop="20260915050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+  </programme>
+  <programme start="20260916050000 +0000" stop="20260916100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
   </programme>
-  <programme start="20260915050000 +0000" stop="20260915053000 +0000" channel="WSM">
+  <programme start="20260916100000 +0000" stop="20260916103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
   </programme>
-  <programme start="20260915053000 +0000" stop="20260915060000 +0000" channel="WSM">
+  <programme start="20260916103000 +0000" stop="20260916110000 +0000" channel="WSM">
     <title>Classic Country &amp; Bluegrass</title>
   </programme>
-  <programme start="20260915060000 +0000" stop="20260915100000 +0000" channel="WSM">
+  <programme start="20260916110000 +0000" stop="20260916150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
   </programme>
-  <programme start="20260915100000 +0000" stop="20260915150000 +0000" channel="WSM">
+  <programme start="20260916150000 +0000" stop="20260916200000 +0000" channel="WSM">
     <title>WSM at Work</title>
   </programme>
-  <programme start="20260915150000 +0000" stop="20260915190000 +0000" channel="WSM">
+  <programme start="20260916200000 +0000" stop="20260917000000 +0000" channel="WSM">
     <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20260915190000 +0000" stop="20260916000000 +0000" channel="WSM">
-    <title>WSM at Night</title>
   </programme>
   <programme start="20260916000000 +0000" stop="20260916050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+  </programme>
+  <programme start="20260917050000 +0000" stop="20260917100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
   </programme>
-  <programme start="20260916050000 +0000" stop="20260916053000 +0000" channel="WSM">
+  <programme start="20260917100000 +0000" stop="20260917103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
   </programme>
-  <programme start="20260916053000 +0000" stop="20260916060000 +0000" channel="WSM">
+  <programme start="20260917103000 +0000" stop="20260917110000 +0000" channel="WSM">
     <title>Classic Country &amp; Bluegrass</title>
   </programme>
-  <programme start="20260916060000 +0000" stop="20260916100000 +0000" channel="WSM">
+  <programme start="20260917110000 +0000" stop="20260917150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
   </programme>
-  <programme start="20260916100000 +0000" stop="20260916150000 +0000" channel="WSM">
+  <programme start="20260917150000 +0000" stop="20260917200000 +0000" channel="WSM">
     <title>WSM at Work</title>
   </programme>
-  <programme start="20260916150000 +0000" stop="20260916190000 +0000" channel="WSM">
+  <programme start="20260917200000 +0000" stop="20260918000000 +0000" channel="WSM">
     <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20260916190000 +0000" stop="20260917000000 +0000" channel="WSM">
-    <title>WSM at Night</title>
   </programme>
   <programme start="20260917000000 +0000" stop="20260917050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+  </programme>
+  <programme start="20260918050000 +0000" stop="20260918100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
   </programme>
-  <programme start="20260917050000 +0000" stop="20260917053000 +0000" channel="WSM">
+  <programme start="20260918100000 +0000" stop="20260918103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
   </programme>
-  <programme start="20260917053000 +0000" stop="20260917060000 +0000" channel="WSM">
+  <programme start="20260918103000 +0000" stop="20260918110000 +0000" channel="WSM">
     <title>Classic Country &amp; Bluegrass</title>
   </programme>
-  <programme start="20260917060000 +0000" stop="20260917100000 +0000" channel="WSM">
+  <programme start="20260918110000 +0000" stop="20260918150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
   </programme>
-  <programme start="20260917100000 +0000" stop="20260917150000 +0000" channel="WSM">
+  <programme start="20260918150000 +0000" stop="20260918200000 +0000" channel="WSM">
     <title>WSM at Work</title>
   </programme>
-  <programme start="20260917150000 +0000" stop="20260917190000 +0000" channel="WSM">
+  <programme start="20260918200000 +0000" stop="20260919000000 +0000" channel="WSM">
     <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20260917190000 +0000" stop="20260918000000 +0000" channel="WSM">
-    <title>WSM at Night</title>
   </programme>
   <programme start="20260918000000 +0000" stop="20260918050000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20260918050000 +0000" stop="20260918053000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20260918053000 +0000" stop="20260918060000 +0000" channel="WSM">
-    <title>Classic Country &amp; Bluegrass</title>
-  </programme>
-  <programme start="20260918060000 +0000" stop="20260918100000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20260918100000 +0000" stop="20260918150000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20260918150000 +0000" stop="20260918190000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20260918190000 +0000" stop="20260919000000 +0000" channel="WSM">
     <title>WSM at Night</title>
   </programme>
-  <programme start="20260919000000 +0000" stop="20260919030000 +0000" channel="WSM">
+  <programme start="20260919050000 +0000" stop="20260919080000 +0000" channel="WSM">
     <title>Y'all Access with Kelly Sutton</title>
   </programme>
-  <programme start="20260919030000 +0000" stop="20260919063000 +0000" channel="WSM">
+  <programme start="20260919080000 +0000" stop="20260919113000 +0000" channel="WSM">
     <title>WSM Music</title>
   </programme>
-  <programme start="20260919063000 +0000" stop="20260919070000 +0000" channel="WSM">
+  <programme start="20260919113000 +0000" stop="20260919120000 +0000" channel="WSM">
     <title>Tennessee Wildcast</title>
   </programme>
-  <programme start="20260919070000 +0000" stop="20260919100000 +0000" channel="WSM">
+  <programme start="20260919120000 +0000" stop="20260919150000 +0000" channel="WSM">
     <title>WSM Weekends</title>
   </programme>
-  <programme start="20260919100000 +0000" stop="20260919140000 +0000" channel="WSM">
+  <programme start="20260919150000 +0000" stop="20260919190000 +0000" channel="WSM">
     <title>The Crook &amp; Chase Countdown</title>
   </programme>
-  <programme start="20260919140000 +0000" stop="20260919170000 +0000" channel="WSM">
+  <programme start="20260919190000 +0000" stop="20260919220000 +0000" channel="WSM">
     <title>Y'all Access with Kelly Sutton</title>
   </programme>
-  <programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="WSM">
+  <programme start="20260919220000 +0000" stop="20260920000000 +0000" channel="WSM">
     <title>Opry Warm-Up Show</title>
   </programme>
-  <programme start="20260919190000 +0000" stop="20260919212000 +0000" channel="WSM">
+  <programme start="20260919000000 +0000" stop="20260919022000 +0000" channel="WSM">
     <title>Grand Ole Opry</title>
   </programme>
-  <programme start="20260919212000 +0000" stop="20260919223000 +0000" channel="WSM">
+  <programme start="20260919022000 +0000" stop="20260919033000 +0000" channel="WSM">
     <title>Opry Star Spotlight</title>
   </programme>
-  <programme start="20260919223000 +0000" stop="20260919230000 +0000" channel="WSM">
+  <programme start="20260919033000 +0000" stop="20260919040000 +0000" channel="WSM">
     <title>The Dailey &amp; Vincent Show</title>
   </programme>
-  <programme start="20260919230000 +0000" stop="20260920000000 +0000" channel="WSM">
+  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="WSM">
     <title>Golden Era of the Grand Ole Opry</title>
   </programme>
-  <programme start="20260920000000 +0000" stop="20260920010000 +0000" channel="WSM">
+  <programme start="20260920050000 +0000" stop="20260920060000 +0000" channel="WSM">
     <title>Golden Era of the Grand Ole Opry</title>
   </programme>
-  <programme start="20260920010000 +0000" stop="20260920020000 +0000" channel="WSM">
+  <programme start="20260920060000 +0000" stop="20260920070000 +0000" channel="WSM">
     <title>Sutton Ole Time Music Hour</title>
   </programme>
-  <programme start="20260920020000 +0000" stop="20260920043000 +0000" channel="WSM">
+  <programme start="20260920070000 +0000" stop="20260920093000 +0000" channel="WSM">
     <title>WSM Classics</title>
   </programme>
-  <programme start="20260920043000 +0000" stop="20260920090000 +0000" channel="WSM">
+  <programme start="20260920093000 +0000" stop="20260920140000 +0000" channel="WSM">
     <title>Paid Programming</title>
   </programme>
-  <programme start="20260920090000 +0000" stop="20260920100000 +0000" channel="WSM">
+  <programme start="20260920140000 +0000" stop="20260920150000 +0000" channel="WSM">
     <title>WSM Gospel Hour</title>
   </programme>
-  <programme start="20260920100000 +0000" stop="20260920120000 +0000" channel="WSM">
+  <programme start="20260920150000 +0000" stop="20260920170000 +0000" channel="WSM">
     <title>Pure American Country</title>
   </programme>
-  <programme start="20260920120000 +0000" stop="20260920160000 +0000" channel="WSM">
+  <programme start="20260920170000 +0000" stop="20260920210000 +0000" channel="WSM">
     <title>WSM Weekends with Amber Anderson</title>
   </programme>
-  <programme start="20260920160000 +0000" stop="20260920190000 +0000" channel="WSM">
+  <programme start="20260920210000 +0000" stop="20260921000000 +0000" channel="WSM">
     <title>The Fringe with Lexi Carter</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920200000 +0000" channel="WSM">
+  <programme start="20260920000000 +0000" stop="20260920010000 +0000" channel="WSM">
     <title>WSM Artists' Corner</title>
   </programme>
-  <programme start="20260920200000 +0000" stop="20260920210000 +0000" channel="WSM">
+  <programme start="20260920010000 +0000" stop="20260920020000 +0000" channel="WSM">
     <title>The Jason Coleman Show</title>
   </programme>
-  <programme start="20260920210000 +0000" stop="20260921000000 +0000" channel="WSM">
+  <programme start="20260920020000 +0000" stop="20260920050000 +0000" channel="WSM">
     <title>Into the Blue with Terry Herd</title>
+  </programme>
+  <programme start="20260921050000 +0000" stop="20260921100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+  </programme>
+  <programme start="20260921100000 +0000" stop="20260921103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+  </programme>
+  <programme start="20260921103000 +0000" stop="20260921110000 +0000" channel="WSM">
+    <title>Classic Country &amp; Bluegrass</title>
+  </programme>
+  <programme start="20260921110000 +0000" stop="20260921150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+  </programme>
+  <programme start="20260921150000 +0000" stop="20260921200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260922000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+  </programme>
+  <programme start="20260921000000 +0000" stop="20260921030000 +0000" channel="WSM">
+    <title>Heart of the Night with Nan Kelley</title>
+  </programme>
+  <programme start="20260921030000 +0000" stop="20260921050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
   </programme>
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20260914000000 +0000" stop="20260914000600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914000600 +0000" stop="20260914003000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914003000 +0000" stop="20260914003200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914003200 +0000" stop="20260914010000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Discovery</title>
-    <desc lang="en">Women Not Included: Medical Devices In a world not designed for women, devices put inside of female bodies pose hidden risks. (R)</desc>
-  </programme>
-  <programme start="20260914010000 +0000" stop="20260914010600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914010600 +0000" stop="20260914013000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914013000 +0000" stop="20260914013200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914013200 +0000" stop="20260914020000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">CrowdScience</title>
-    <desc lang="en">Can my veggie sausages save the world? Are ‘veggie meats’ better for the environment and your health than real meat? (R)</desc>
-  </programme>
-  <programme start="20260914020000 +0000" stop="20260914020600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914020600 +0000" stop="20260914023000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">People Fixing The World</title>
-    <desc lang="en">Getting the homeless homed Two projects creating safe places to stay for people without a home. (R)</desc>
-  </programme>
-  <programme start="20260914023000 +0000" stop="20260914023200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914023200 +0000" stop="20260914030000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Fifth Floor</title>
-    <desc lang="en">Jailed for disrespect in Bali The Swiss tourist sentenced to one year in prison for insulting a sacred religious event (R)</desc>
-  </programme>
-  <programme start="20260914030000 +0000" stop="20260914030600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914030600 +0000" stop="20260914033000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914033000 +0000" stop="20260914033200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914033200 +0000" stop="20260914040000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Conversation</title>
-    <desc lang="en">Women bringing science to social media Women from Sweden and the UK using their platforms to encourage more girls into science</desc>
-  </programme>
-  <programme start="20260914040000 +0000" stop="20260914040600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914040600 +0000" stop="20260914050000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
-  </programme>
-  <programme start="20260914050000 +0000" stop="20260914050600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914050600 +0000" stop="20260914060000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
-  </programme>
-  <programme start="20260914060000 +0000" stop="20260914060600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914060600 +0000" stop="20260914070000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
-  </programme>
-  <programme start="20260914070000 +0000" stop="20260914070600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914070600 +0000" stop="20260914073000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Amir Khan Muttaqi, Afghan FM: Not everything is banned for women Lyse Doucet speaks to Afghan FM Amir Khan Muttaqi about women's rights and reform</desc>
-  </programme>
-  <programme start="20260914073000 +0000" stop="20260914073200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914073200 +0000" stop="20260914075000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">The cost of war: Inside Russia's economic unease Russian workers face fuel shortages and drone strikes on key sectors of the economy</desc>
-  </programme>
-  <programme start="20260914075000 +0000" stop="20260914080000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Norway’s teacher resistance in World War Two During the Nazi occupation of Norway, the country’s teachers resisted teaching propaganda</desc>
-  </programme>
-  <programme start="20260914080000 +0000" stop="20260914080600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914080600 +0000" stop="20260914083000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914083000 +0000" stop="20260914083200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914083200 +0000" stop="20260914090000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">CrowdScience</title>
-    <desc lang="en">Can my veggie sausages save the world? Are ‘veggie meats’ better for the environment and your health than real meat? (R)</desc>
-  </programme>
-  <programme start="20260914090000 +0000" stop="20260914090600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914090600 +0000" stop="20260914100000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The History Hour</title>
-    <desc lang="en">The mysteries of the Bayeux Tapestry and surviving 9/11 Max Pearson presents a collection of the week's Witness History episodes</desc>
-  </programme>
-  <programme start="20260914100000 +0000" stop="20260914100600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914100600 +0000" stop="20260914103000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914103000 +0000" stop="20260914103200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914103200 +0000" stop="20260914110000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Global Story</title>
-    <desc lang="en">The Global Story .</desc>
-  </programme>
-  <programme start="20260914110000 +0000" stop="20260914110600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914110600 +0000" stop="20260914115000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">Miss Pat: The Chinese-Jamaican matriarch of reggae Patricia Chin created a musical empire that started in a Kingston grocery store</desc>
-  </programme>
-  <programme start="20260914115000 +0000" stop="20260914120000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Norway’s teacher resistance in World War Two During the Nazi occupation of Norway, the country’s teachers resisted teaching propaganda (R)</desc>
-  </programme>
-  <programme start="20260914120000 +0000" stop="20260914120600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914120600 +0000" stop="20260914123000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914123000 +0000" stop="20260914123200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914123200 +0000" stop="20260914130000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Conversation</title>
-    <desc lang="en">Women bringing science to social media Women from Sweden and the UK using their platforms to encourage more girls into science (R)</desc>
-  </programme>
-  <programme start="20260914130000 +0000" stop="20260914130600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914130600 +0000" stop="20260914140000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20260914140000 +0000" stop="20260914140600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914140600 +0000" stop="20260914143000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Amir Khan Muttaqi, Afghan FM: Not everything is banned for women Lyse Doucet speaks to Afghan FM Amir Khan Muttaqi about women's rights and reform  (R)</desc>
-  </programme>
-  <programme start="20260914143000 +0000" stop="20260914143200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914143200 +0000" stop="20260914145000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">The cost of war: Inside Russia's economic unease Russian workers face fuel shortages and drone strikes on key sectors of the economy (R)</desc>
-  </programme>
-  <programme start="20260914145000 +0000" stop="20260914150000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World Business Express</title>
-    <desc lang="en">14/09/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
-  </programme>
-  <programme start="20260914150000 +0000" stop="20260914150600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914150600 +0000" stop="20260914160000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20260914160000 +0000" stop="20260914160600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914160600 +0000" stop="20260914170000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20260914170000 +0000" stop="20260914170600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914170600 +0000" stop="20260914175000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">Miss Pat: The Chinese-Jamaican matriarch of reggae Patricia Chin created a musical empire that started in a Kingston grocery store (R)</desc>
-  </programme>
-  <programme start="20260914175000 +0000" stop="20260914180000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Norway’s teacher resistance in World War Two During the Nazi occupation of Norway, the country’s teachers resisted teaching propaganda (R)</desc>
-  </programme>
-  <programme start="20260914180000 +0000" stop="20260914180600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914180600 +0000" stop="20260914183000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914183000 +0000" stop="20260914183200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914183200 +0000" stop="20260914190000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">2026/09/14 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-  </programme>
-  <programme start="20260914190000 +0000" stop="20260914190600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914190600 +0000" stop="20260914193000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">From Our Own Correspondent</title>
-    <desc lang="en">Nigeria recruits vigilantes to fight off bandits Mass kidnappings are spreading to regions where they never happened before (R)</desc>
-  </programme>
-  <programme start="20260914193000 +0000" stop="20260914193200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914193200 +0000" stop="20260914200000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Discovery</title>
-    <desc lang="en">Women Not Included: Consumer Products In a world not designed for women, everyday products ignore women’s real needs.</desc>
-  </programme>
-  <programme start="20260914200000 +0000" stop="20260914200600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914200600 +0000" stop="20260914210000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20260914210000 +0000" stop="20260914210600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914210600 +0000" stop="20260914213000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Amir Khan Muttaqi, Afghan FM: Not everything is banned for women Lyse Doucet speaks to Afghan FM Amir Khan Muttaqi about women's rights and reform  (R)</desc>
-  </programme>
-  <programme start="20260914213000 +0000" stop="20260914213200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914213200 +0000" stop="20260914220000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Conversation</title>
-    <desc lang="en">Women bringing science to social media Women from Sweden and the UK using their platforms to encourage more girls into science (R)</desc>
-  </programme>
-  <programme start="20260914220000 +0000" stop="20260914220600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914220600 +0000" stop="20260914223000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260914223000 +0000" stop="20260914223200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260914223200 +0000" stop="20260915000000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World Business Report</title>
-    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
-  </programme>
   <programme start="20260915000000 +0000" stop="20260915000600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
@@ -731,7 +427,7 @@
   </programme>
   <programme start="20260915003200 +0000" stop="20260915010000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Global Story</title>
-    <desc lang="en">The Global Story . (R)</desc>
+    <desc lang="en">Can the US and China stop AI from killing us all? Will rival superpowers co-operate to reign in AI’s risk to humanity? (R)</desc>
   </programme>
   <programme start="20260915010000 +0000" stop="20260915010600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -815,7 +511,7 @@
   </programme>
   <programme start="20260915073200 +0000" stop="20260915075000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Business Daily</title>
-    <desc lang="en">Business Daily The daily drama of money and work from the BBC.</desc>
+    <desc lang="en">Follow the Money: Why is a new Ebola vaccine taking so long to develop? No approved vaccine exists for the Ebola strain behind thousands of deaths  in the DRC</desc>
   </programme>
   <programme start="20260915075000 +0000" stop="20260915080000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -843,7 +539,7 @@
   </programme>
   <programme start="20260915090600 +0000" stop="20260915100000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Arts Hour</title>
-    <desc lang="en">The Arts Hour Sandra Bullock and Nicole Kidman Nikki Bedi discusses Practical Magic 2, with Sandra Bullock and Nicole Kidman (R)</desc>
+    <desc lang="en">Sandra Bullock and Nicole Kidman Nikki Bedi discusses Practical Magic 2, with Sandra Bullock and Nicole Kidman (R)</desc>
   </programme>
   <programme start="20260915100000 +0000" stop="20260915100600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -911,7 +607,7 @@
   </programme>
   <programme start="20260915143200 +0000" stop="20260915145000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Business Daily</title>
-    <desc lang="en">Business Daily The daily drama of money and work from the BBC. (R)</desc>
+    <desc lang="en">Follow the Money: Why is a new Ebola vaccine taking so long to develop? No approved vaccine exists for the Ebola strain behind thousands of deaths  in the DRC (R)</desc>
   </programme>
   <programme start="20260915145000 +0000" stop="20260915150000 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Express</title>
@@ -1075,7 +771,7 @@
   </programme>
   <programme start="20260916033200 +0000" stop="20260916040000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Documentary</title>
-    <desc lang="en">Where is Austin Tice? 2/9 In the chaos after the Syrian regime’s downfall, the hunt for Austin Tice is on.</desc>
+    <desc lang="en">Where is Austin Tice? 2/9 &quot;A Black Box&quot; In the chaos after the Syrian regime’s downfall, the hunt for Austin Tice is on.</desc>
   </programme>
   <programme start="20260916040000 +0000" stop="20260916040600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1187,7 +883,7 @@
   </programme>
   <programme start="20260916123200 +0000" stop="20260916130000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Documentary</title>
-    <desc lang="en">Where is Austin Tice? 2/9 In the chaos after the Syrian regime’s downfall, the hunt for Austin Tice is on. (R)</desc>
+    <desc lang="en">Where is Austin Tice? 2/9 &quot;A Black Box&quot; In the chaos after the Syrian regime’s downfall, the hunt for Austin Tice is on. (R)</desc>
   </programme>
   <programme start="20260916130000 +0000" stop="20260916130600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -1299,7 +995,7 @@
   </programme>
   <programme start="20260916213200 +0000" stop="20260916220000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Documentary</title>
-    <desc lang="en">Where is Austin Tice? 2/9 In the chaos after the Syrian regime’s downfall, the hunt for Austin Tice is on. (R)</desc>
+    <desc lang="en">Where is Austin Tice? 2/9 &quot;A Black Box&quot; In the chaos after the Syrian regime’s downfall, the hunt for Austin Tice is on. (R)</desc>
   </programme>
   <programme start="20260916220000 +0000" stop="20260916220600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2425,8 +2121,312 @@
     <title lang="en">BBC News Summary</title>
     <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
   </programme>
-  <programme start="20260920223200 +0000" stop="20260920230200 +0000" channel="bbc_world_service.uk">
+  <programme start="20260920223200 +0000" stop="20260921000000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Fifth Floor</title>
     <desc lang="en">The Fifth Floor At the heart of global storytelling, with BBC journalists from all around the world (R)</desc>
+  </programme>
+  <programme start="20260921000000 +0000" stop="20260921000600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921000600 +0000" stop="20260921003000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921003000 +0000" stop="20260921003200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921003200 +0000" stop="20260921010000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Discovery</title>
+    <desc lang="en">Women Not Included: Consumer Products In a world not designed for women, everyday products ignore women’s real needs. (R)</desc>
+  </programme>
+  <programme start="20260921010000 +0000" stop="20260921010600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921010600 +0000" stop="20260921013000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921013000 +0000" stop="20260921013200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921013200 +0000" stop="20260921020000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">CrowdScience</title>
+    <desc lang="en">How many dead people are on the internet? Answering your questions about life, Earth and the universe (R)</desc>
+  </programme>
+  <programme start="20260921020000 +0000" stop="20260921020600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921020600 +0000" stop="20260921023000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">People Fixing The World</title>
+    <desc lang="en">The pictures that help and heal We look at two solutions that harness the power of pictures to help disabled people. (R)</desc>
+  </programme>
+  <programme start="20260921023000 +0000" stop="20260921023200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921023200 +0000" stop="20260921030000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Fifth Floor</title>
+    <desc lang="en">The Fifth Floor At the heart of global storytelling, with BBC journalists from all around the world (R)</desc>
+  </programme>
+  <programme start="20260921030000 +0000" stop="20260921030600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921030600 +0000" stop="20260921033000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921033000 +0000" stop="20260921033200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921033200 +0000" stop="20260921040000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Conversation</title>
+    <desc lang="en">Cricket’s top women umpires Women from India and the UK who officiate international and domestic matches</desc>
+  </programme>
+  <programme start="20260921040000 +0000" stop="20260921040600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921040600 +0000" stop="20260921050000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20260921050000 +0000" stop="20260921050600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921050600 +0000" stop="20260921060000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20260921060000 +0000" stop="20260921060600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921060600 +0000" stop="20260921070000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20260921070000 +0000" stop="20260921070600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921070600 +0000" stop="20260921073000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC.</desc>
+  </programme>
+  <programme start="20260921073000 +0000" stop="20260921073200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921073200 +0000" stop="20260921075000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Business Daily</title>
+    <desc lang="en">Business Daily The daily drama of money and work from the BBC.</desc>
+  </programme>
+  <programme start="20260921075000 +0000" stop="20260921080000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The nightclub that changed Manchester In 1962, the Reno became Manchester's first racially inclusive nightclub</desc>
+  </programme>
+  <programme start="20260921080000 +0000" stop="20260921080600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921080600 +0000" stop="20260921083000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921083000 +0000" stop="20260921083200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921083200 +0000" stop="20260921090000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">CrowdScience</title>
+    <desc lang="en">How many dead people are on the internet? Answering your questions about life, Earth and the universe (R)</desc>
+  </programme>
+  <programme start="20260921090000 +0000" stop="20260921090600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921090600 +0000" stop="20260921100000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The History Hour</title>
+    <desc lang="en">The History Hour An hour of historical reporting told by the people who were there.</desc>
+  </programme>
+  <programme start="20260921100000 +0000" stop="20260921100600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921100600 +0000" stop="20260921103000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921103000 +0000" stop="20260921103200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921103200 +0000" stop="20260921110000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Global Story</title>
+    <desc lang="en">The Global Story .</desc>
+  </programme>
+  <programme start="20260921110000 +0000" stop="20260921110600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921110600 +0000" stop="20260921115000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+  </programme>
+  <programme start="20260921115000 +0000" stop="20260921120000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The nightclub that changed Manchester In 1962, the Reno became Manchester's first racially inclusive nightclub (R)</desc>
+  </programme>
+  <programme start="20260921120000 +0000" stop="20260921120600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921120600 +0000" stop="20260921123000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921123000 +0000" stop="20260921123200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921123200 +0000" stop="20260921130000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Conversation</title>
+    <desc lang="en">Cricket’s top women umpires Women from India and the UK who officiate international and domestic matches (R)</desc>
+  </programme>
+  <programme start="20260921130000 +0000" stop="20260921130600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921130600 +0000" stop="20260921140000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20260921140000 +0000" stop="20260921140600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921140600 +0000" stop="20260921143000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+  </programme>
+  <programme start="20260921143000 +0000" stop="20260921143200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921143200 +0000" stop="20260921145000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Business Daily</title>
+    <desc lang="en">Business Daily The daily drama of money and work from the BBC. (R)</desc>
+  </programme>
+  <programme start="20260921145000 +0000" stop="20260921150000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World Business Express</title>
+    <desc lang="en">21/09/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+  </programme>
+  <programme start="20260921150000 +0000" stop="20260921150600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921150600 +0000" stop="20260921160000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outside Source</title>
+    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20260921160000 +0000" stop="20260921160600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921160600 +0000" stop="20260921170000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outside Source</title>
+    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20260921170000 +0000" stop="20260921170600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921170600 +0000" stop="20260921175000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20260921175000 +0000" stop="20260921180000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The nightclub that changed Manchester In 1962, the Reno became Manchester's first racially inclusive nightclub (R)</desc>
+  </programme>
+  <programme start="20260921180000 +0000" stop="20260921180600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921180600 +0000" stop="20260921183000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921183000 +0000" stop="20260921183200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921183200 +0000" stop="20260921190000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">2026/09/21 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+  </programme>
+  <programme start="20260921190000 +0000" stop="20260921190600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921190600 +0000" stop="20260921193000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">From Our Own Correspondent</title>
+    <desc lang="en">From Our Own Correspondent Insight, wit and analysis from BBC correspondents, journalists and writers from around the world. (R)</desc>
+  </programme>
+  <programme start="20260921193000 +0000" stop="20260921193200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921193200 +0000" stop="20260921200000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Discovery</title>
+    <desc lang="en">The Art of Being a Zombie Ant Fungus Cultural entomologist Bridget Nicholls investigates a bizarre natural phenomenon</desc>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260921200600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921200600 +0000" stop="20260921210000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20260921210000 +0000" stop="20260921210600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921210600 +0000" stop="20260921213000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+  </programme>
+  <programme start="20260921213000 +0000" stop="20260921213200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921213200 +0000" stop="20260921220000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Conversation</title>
+    <desc lang="en">Cricket’s top women umpires Women from India and the UK who officiate international and domestic matches (R)</desc>
+  </programme>
+  <programme start="20260921220000 +0000" stop="20260921220600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921220600 +0000" stop="20260921223000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20260921223000 +0000" stop="20260921223200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20260921223200 +0000" stop="20260921230200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World Business Report</title>
+    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
 </tv>
