@@ -3,46 +3,6 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20260918060000 +0000" stop="20260918110000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-  </programme>
-  <programme start="20260918110000 +0000" stop="20260918120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
-  </programme>
-  <programme start="20260918120000 +0000" stop="20260918140000 +0000" channel="KGVO">
-    <title>Montana Morning</title>
-    <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
-  </programme>
-  <programme start="20260918140000 +0000" stop="20260918160000 +0000" channel="KGVO">
-    <title>Talk Back Missoula</title>
-    <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
-  </programme>
-  <programme start="20260918160000 +0000" stop="20260918190000 +0000" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
-    <desc>National political commentary and news analysis.</desc>
-  </programme>
-  <programme start="20260918190000 +0000" stop="20260918220000 +0000" channel="KGVO">
-    <title>Sean Hannity</title>
-    <desc>National conservative talk show with political commentary and interviews.</desc>
-  </programme>
-  <programme start="20260918220000 +0000" stop="20260919010000 +0000" channel="KGVO">
-    <title>Mark Levin</title>
-    <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
-  </programme>
-  <programme start="20260919010000 +0000" stop="20260919030000 +0000" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-    <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
-  </programme>
-  <programme start="20260919030000 +0000" stop="20260919050000 +0000" channel="KGVO">
-    <title>Jesse Kelly</title>
-    <desc>Political commentary and cultural analysis.</desc>
-  </programme>
-  <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-  </programme>
   <programme start="20260919060000 +0000" stop="20260919120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
@@ -292,6 +252,46 @@
     <desc>Political commentary and cultural analysis.</desc>
   </programme>
   <programme start="20260925050000 +0000" stop="20260925060000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  </programme>
+  <programme start="20260925060000 +0000" stop="20260925110000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  </programme>
+  <programme start="20260925110000 +0000" stop="20260925120000 +0000" channel="KGVO">
+    <title>America In The Morning</title>
+    <desc>America starts the day with America in the Morning.</desc>
+  </programme>
+  <programme start="20260925120000 +0000" stop="20260925140000 +0000" channel="KGVO">
+    <title>Montana Morning</title>
+    <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="KGVO">
+    <title>Talk Back Missoula</title>
+    <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925190000 +0000" channel="KGVO">
+    <title>Clay Travis &amp; Buck Sexton</title>
+    <desc>National political commentary and news analysis.</desc>
+  </programme>
+  <programme start="20260925190000 +0000" stop="20260925220000 +0000" channel="KGVO">
+    <title>Sean Hannity</title>
+    <desc>National conservative talk show with political commentary and interviews.</desc>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926010000 +0000" channel="KGVO">
+    <title>Mark Levin</title>
+    <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+    <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="KGVO">
+    <title>Jesse Kelly</title>
+    <desc>Political commentary and cultural analysis.</desc>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
@@ -2475,255 +2475,5 @@
   <programme start="20260925223200 +0000" stop="20260925230200 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Report</title>
     <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
-  </programme>
-  <programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Season-preview show with new head coach Bobby Kennedy and host Riley Corcoran, live from The Den. Full breakdown of the 2026 Griz roster and preview of the opener vs Southern Utah.</desc>
-  </programme>
-  <programme start="20260903010000 +0000" stop="20260903020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Coach Bobby Kennedy and Riley Corcoran preview the Drake matchup with analysis, interviews, and statewide Griz Radio Network coverage.</desc>
-  </programme>
-  <programme start="20260910010000 +0000" stop="20260910020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Weekly breakdown of the Utah Tech game with Coach Kennedy and Riley Corcoran, including player features and opponent scouting.</desc>
-  </programme>
-  <programme start="20260917010000 +0000" stop="20260917020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Road preview of Montana at Oregon State with Coach Kennedy and Riley Corcoran, featuring analysis of Pac‑12 style matchups.</desc>
-  </programme>
-  <programme start="20260924010000 +0000" stop="20260924020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Coach Kennedy and Riley Corcoran break down the
-UC Davis matchup with defensive and offensive keys to the game.</desc>
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Preview of Northern Colorado with Coach Kennedy
-and Riley Corcoran, including interviews with assistant coaches.</desc>
-  </programme>
-  <programme start="20261008010000 +0000" stop="20261008020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Road preview of Montana at Northern Arizona with Coach Kennedy and
-Riley Corcoran, plus player spotlight segments.</desc>
-  </programme>
-  <programme start="20261015010000 +0000" stop="20261015020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Preview of the Idaho Vandals with Coach Kennedy
-and Riley Corcoran, featuring matchup analysis and interviews.</desc>
-  </programme>
-  <programme start="20261022010000 +0000" stop="20261022020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Bye Week Show: Midseason recap with Coach Kennedy and Riley Corcoran, reviewing the first half of the season
-and setting expectations for the stretch run.</desc>
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Preview of Montana at Eastern Washington with Coach Kennedy and Riley Corcoran, including analysis of the red turf environment.</desc>
-  </programme>
-  <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Coach Kennedy and Riley Corcoran preview Portland State with offensive and defensive game plans.</desc>
-  </programme>
-  <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Preview of Idaho State with Coach Kennedy and Riley Corcoran, featuring interviews with key Griz players.</desc>
-  </programme>
-  <programme start="20261119020000 +0000" stop="20261119030000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Brawl of the Wild preview show with Coach Kennedy and Riley Corcoran, breaking down Montana vs Montana State
-in the biggest rivalry game of the year.</desc>
-  </programme>
-  <programme start="20260829230000 +0000" stop="20260830003000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20260830003000 +0000" stop="20260830010000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20260830010000 +0000" stop="20260830040000 +0000" channel="KGVO">
-    <title>Griz Football: Southern Utah at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20260830040000 +0000" stop="20260830060000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20260905170000 +0000" stop="20260905183000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20260905183000 +0000" stop="20260905190000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20260905190000 +0000" stop="20260905220000 +0000" channel="KGVO">
-    <title>Griz Football: Drake at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20260905220000 +0000" stop="20260906000000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20260912170000 +0000" stop="20260912183000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20260912190000 +0000" stop="20260912220000 +0000" channel="KGVO">
-    <title>Griz Football: Utah Tech at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20260912220000 +0000" stop="20260913000000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20260920010000 +0000" stop="20260920023000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20260920023000 +0000" stop="20260920030000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20260920030000 +0000" stop="20260920060000 +0000" channel="KGVO">
-    <title>Griz Football: Montana at Oregon State</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20260920060000 +0000" stop="20260920080000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20260927000000 +0000" stop="20260927013000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20260927020000 +0000" stop="20260927050000 +0000" channel="KGVO">
-    <title>Griz Football: Montana at UC Davis</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261003180000 +0000" stop="20261003193000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261003193000 +0000" stop="20261003200000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261003200000 +0000" stop="20261003230000 +0000" channel="KGVO">
-    <title>Griz Football: Northern Colorado at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261003230000 +0000" stop="20261004010000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261010190000 +0000" stop="20261010203000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261010203000 +0000" stop="20261010210000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261010210000 +0000" stop="20261011000000 +0000" channel="KGVO">
-    <title>Griz Football: Montana at Northern Arizona</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261011000000 +0000" stop="20261011020000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261017170000 +0000" stop="20261017183000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261017190000 +0000" stop="20261017220000 +0000" channel="KGVO">
-    <title>Griz Football: Idaho at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261017220000 +0000" stop="20261018000000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261031180000 +0000" stop="20261031193000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="KGVO">
-    <title>Griz Football: Montana at Eastern Washington</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261031230000 +0000" stop="20261101010000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261107180000 +0000" stop="20261107193000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261107193000 +0000" stop="20261107200000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261107200000 +0000" stop="20261107230000 +0000" channel="KGVO">
-    <title>Griz Football: Portland State at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261107230000 +0000" stop="20261108010000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261115013000 +0000" stop="20261115030000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261115033000 +0000" stop="20261115063000 +0000" channel="KGVO">
-    <title>Griz Football: Idaho State at Montana</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261115063000 +0000" stop="20261115083000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-  </programme>
-  <programme start="20261121170000 +0000" stop="20261121183000 +0000" channel="KGVO">
-    <title>Griz Football Tailgate Show</title>
-    <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
-  </programme>
-  <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="KGVO">
-    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
-    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-  </programme>
-  <programme start="20261121190000 +0000" stop="20261121220000 +0000" channel="KGVO">
-    <title>Griz Football: Montana at Montana State</title>
-    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-  </programme>
-  <programme start="20261121220000 +0000" stop="20261122000000 +0000" channel="KGVO">
-    <title>Griz Football Postgame Show</title>
-    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
   </programme>
 </tv>
