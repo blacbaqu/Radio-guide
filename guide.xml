@@ -71,7 +71,12 @@
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
   </programme>
-  <programme start="20260924010000 +0000" stop="20260924030000 +0000" channel="KGVO">
+  <programme start="20260924010000 +0000" stop="20260924020000 +0000" channel="KGVO">
+    <title>Grizzly Sports Coaches Show</title>
+    <desc>Coach Kennedy and Riley Corcoran break down the
+UC Davis matchup with defensive and offensive keys to the game.</desc>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
   </programme>
@@ -191,13 +196,25 @@
     <title>RMWorldTravel</title>
     <desc>Travel news, destinations, tips, and interviews with travel experts.</desc>
   </programme>
-  <programme start="20260926220000 +0000" stop="20260927010000 +0000" channel="KGVO">
+  <programme start="20260926220000 +0000" stop="20260927000000 +0000" channel="KGVO">
     <title>Clay Travis &amp; Buck Sexton</title>
     <desc>National political commentary and news analysis.</desc>
   </programme>
-  <programme start="20260927010000 +0000" stop="20260927060000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  <programme start="20260927000000 +0000" stop="20260927013000 +0000" channel="KGVO">
+    <title>Griz Football Tailgate Show</title>
+    <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
+  </programme>
+  <programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="KGVO">
+    <title>Voice of the Griz: Final Pregame Booth Coverage</title>
+    <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
+  </programme>
+  <programme start="20260927020000 +0000" stop="20260927050000 +0000" channel="KGVO">
+    <title>Griz Football: Montana at UC Davis</title>
+    <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
+  </programme>
+  <programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="KGVO">
+    <title>Griz Football Postgame Show</title>
+    <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
   </programme>
   <programme start="20260927060000 +0000" stop="20260927120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
