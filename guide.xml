@@ -553,24 +553,6 @@ UC Davis matchup with defensive and offensive keys to the game.</desc>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
-  <programme start="20260922050000 +0000" stop="20260922100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20260922100000 +0000" stop="20260922103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20260922110000 +0000" stop="20260922150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20260922150000 +0000" stop="20260922200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20260922200000 +0000" stop="20260923000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20260923000000 +0000" stop="20260923050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-  </programme>
   <programme start="20260923050000 +0000" stop="20260923100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
   </programme>
@@ -711,6 +693,24 @@ UC Davis matchup with defensive and offensive keys to the game.</desc>
     <title>Heart of the Night with Nan Kelley</title>
   </programme>
   <programme start="20260929030000 +0000" stop="20260929050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+  </programme>
+  <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930050000 +0000" channel="WSM">
     <title>WSM at Night</title>
   </programme>
   <channel id="bbc_world_service.uk">
