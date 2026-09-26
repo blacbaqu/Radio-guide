@@ -3,46 +3,6 @@
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20260925060000 +0000" stop="20260925110000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-  </programme>
-  <programme start="20260925110000 +0000" stop="20260925120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925140000 +0000" channel="KGVO">
-    <title>Montana Morning</title>
-    <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="KGVO">
-    <title>Talk Back Missoula</title>
-    <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
-  </programme>
-  <programme start="20260925160000 +0000" stop="20260925190000 +0000" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
-    <desc>National political commentary and news analysis.</desc>
-  </programme>
-  <programme start="20260925190000 +0000" stop="20260925220000 +0000" channel="KGVO">
-    <title>Sean Hannity</title>
-    <desc>National conservative talk show with political commentary and interviews.</desc>
-  </programme>
-  <programme start="20260925220000 +0000" stop="20260926010000 +0000" channel="KGVO">
-    <title>Mark Levin</title>
-    <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
-  </programme>
-  <programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-    <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
-  </programme>
-  <programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="KGVO">
-    <title>Jesse Kelly</title>
-    <desc>Political commentary and cultural analysis.</desc>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-  </programme>
   <programme start="20260926060000 +0000" stop="20260926120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
@@ -312,42 +272,49 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
+  <programme start="20261002060000 +0000" stop="20261002110000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="KGVO">
+    <title>America In The Morning</title>
+    <desc>America starts the day with America in the Morning.</desc>
+  </programme>
+  <programme start="20261002120000 +0000" stop="20261002140000 +0000" channel="KGVO">
+    <title>Montana Morning</title>
+    <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+  </programme>
+  <programme start="20261002140000 +0000" stop="20261002160000 +0000" channel="KGVO">
+    <title>Talk Back Missoula</title>
+    <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+  </programme>
+  <programme start="20261002160000 +0000" stop="20261002190000 +0000" channel="KGVO">
+    <title>Clay Travis &amp; Buck Sexton</title>
+    <desc>National political commentary and news analysis.</desc>
+  </programme>
+  <programme start="20261002190000 +0000" stop="20261002220000 +0000" channel="KGVO">
+    <title>Sean Hannity</title>
+    <desc>National conservative talk show with political commentary and interviews.</desc>
+  </programme>
+  <programme start="20261002220000 +0000" stop="20261003010000 +0000" channel="KGVO">
+    <title>Mark Levin</title>
+    <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+  </programme>
+  <programme start="20261003010000 +0000" stop="20261003030000 +0000" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+    <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+  </programme>
+  <programme start="20261003030000 +0000" stop="20261003050000 +0000" channel="KGVO">
+    <title>Jesse Kelly</title>
+    <desc>Political commentary and cultural analysis.</desc>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003060000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  </programme>
   <channel id="KMPT">
     <display-name>930 AM KMPT Missoula</display-name>
   </channel>
-  <programme start="20260925060000 +0000" stop="20260925100000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-  </programme>
-  <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="KMPT">
-    <title>O'Connor &amp; Company</title>
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925130000 +0000" channel="KMPT">
-    <title>Dan Bongino</title>
-  </programme>
-  <programme start="20260925130000 +0000" stop="20260925160000 +0000" channel="KMPT">
-    <title>Montana Talks</title>
-  </programme>
-  <programme start="20260925160000 +0000" stop="20260925190000 +0000" channel="KMPT">
-    <title>Dana Loesch</title>
-  </programme>
-  <programme start="20260925190000 +0000" stop="20260925200000 +0000" channel="KMPT">
-    <title>Montana Talks</title>
-  </programme>
-  <programme start="20260925200000 +0000" stop="20260925220000 +0000" channel="KMPT">
-    <title>The Chris Plante Show</title>
-  </programme>
-  <programme start="20260925220000 +0000" stop="20260926010000 +0000" channel="KMPT">
-    <title>Glenn Beck</title>
-  </programme>
-  <programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="KMPT">
-    <title>Dave Ramsey</title>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926050000 +0000" channel="KMPT">
-    <title>Armstrong &amp; Getty</title>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-  </programme>
   <programme start="20260926060000 +0000" stop="20260926100000 +0000" channel="KMPT">
     <title>Red Eye Radio</title>
   </programme>
@@ -369,16 +336,10 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   <programme start="20260926220000 +0000" stop="20260927010000 +0000" channel="KMPT">
     <title>Dana Loesch</title>
   </programme>
-  <programme start="20260927010000 +0000" stop="20260927040000 +0000" channel="KMPT">
+  <programme start="20260927010000 +0000" stop="20260927023000 +0000" channel="KMPT">
     <title>Mike Gallagher</title>
   </programme>
-  <programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="KMPT">
-    <title>Dave Ramsey</title>
-  </programme>
-  <programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-  </programme>
-  <programme start="20260927023000 +0000" stop="20260926060000 +0000" channel="KMPT">
+  <programme start="20260927023000 +0000" stop="20260927060000 +0000" channel="KMPT">
     <title>Montana State Bobcats Football</title>
     <desc>Live: Northern Arizona vs. Montana State</desc>
   </programme>
@@ -549,6 +510,40 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   </programme>
   <programme start="20261002050000 +0000" stop="20261002060000 +0000" channel="KMPT">
     <title>Red Eye Radio</title>
+  </programme>
+  <programme start="20261002060000 +0000" stop="20261002100000 +0000" channel="KMPT">
+    <title>Red Eye Radio</title>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002120000 +0000" channel="KMPT">
+    <title>O'Connor &amp; Company</title>
+  </programme>
+  <programme start="20261002120000 +0000" stop="20261002130000 +0000" channel="KMPT">
+    <title>Dan Bongino</title>
+  </programme>
+  <programme start="20261002130000 +0000" stop="20261002160000 +0000" channel="KMPT">
+    <title>Montana Talks</title>
+  </programme>
+  <programme start="20261002160000 +0000" stop="20261002190000 +0000" channel="KMPT">
+    <title>Dana Loesch</title>
+  </programme>
+  <programme start="20261002190000 +0000" stop="20261002200000 +0000" channel="KMPT">
+    <title>Montana Talks</title>
+  </programme>
+  <programme start="20261002200000 +0000" stop="20261002220000 +0000" channel="KMPT">
+    <title>The Chris Plante Show</title>
+  </programme>
+  <programme start="20261002220000 +0000" stop="20261003010000 +0000" channel="KMPT">
+    <title>Glenn Beck</title>
+  </programme>
+  <programme start="20261003010000 +0000" stop="20261003020000 +0000" channel="KMPT">
+    <title>Dave Ramsey</title>
+  </programme>
+  <programme start="20261003020000 +0000" stop="20261003023000 +0000" channel="KMPT">
+    <title>Armstrong &amp; Getty</title>
+  </programme>
+  <programme start="20261003023000 +0000" stop="20261003060000 +0000" channel="KMPT">
+    <title>Montana State Bobcats Football</title>
+    <desc>Live: Montana State at Idaho</desc>
   </programme>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
