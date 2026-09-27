@@ -548,40 +548,6 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
-  <programme start="20260926050000 +0000" stop="20260926080000 +0000" channel="WSM">
-    <title>Y'all Access with Kelly Sutton</title>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926113000 +0000" channel="WSM">
-    <title>WSM Music</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926120000 +0000" channel="WSM">
-    <title>Tennessee Wildcast</title>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926150000 +0000" channel="WSM">
-    <title>WSM Weekends</title>
-  </programme>
-  <programme start="20260926150000 +0000" stop="20260926190000 +0000" channel="WSM">
-    <title>The Crook &amp; Chase Countdown</title>
-  </programme>
-  <programme start="20260926190000 +0000" stop="20260926220000 +0000" channel="WSM">
-    <title>Y'all Access with Kelly Sutton</title>
-  </programme>
-  <programme start="20260926220000 +0000" stop="20260927000000 +0000" channel="WSM">
-    <title>Opry Warm-Up Show</title>
-  </programme>
-  <programme start="20260927000000 +0000" stop="20260927022000 +0000" channel="WSM">
-    <title>Grand Ole Opry</title>
-    <desc>Live from the Grand Ole Opry House.</desc>
-  </programme>
-  <programme start="20260927022000 +0000" stop="20260927033000 +0000" channel="WSM">
-    <title>Opry Star Spotlight</title>
-  </programme>
-  <programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="WSM">
-    <title>The Dailey &amp; Vincent Show</title>
-  </programme>
-  <programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="WSM">
-    <title>Golden Era of the Grand Ole Opry</title>
-  </programme>
   <programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="WSM">
     <title>Golden Era of the Grand Ole Opry</title>
   </programme>
@@ -708,245 +674,43 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   <programme start="20261003000000 +0000" stop="20261003050000 +0000" channel="WSM">
     <title>WSM at Night</title>
   </programme>
+  <programme start="20261003050000 +0000" stop="20261003080000 +0000" channel="WSM">
+    <title>Y'all Access with Kelly Sutton</title>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003113000 +0000" channel="WSM">
+    <title>WSM Music</title>
+  </programme>
+  <programme start="20261003113000 +0000" stop="20261003120000 +0000" channel="WSM">
+    <title>Tennessee Wildcast</title>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003150000 +0000" channel="WSM">
+    <title>WSM Weekends</title>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="WSM">
+    <title>The Crook &amp; Chase Countdown</title>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003220000 +0000" channel="WSM">
+    <title>Y'all Access with Kelly Sutton</title>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="WSM">
+    <title>Opry Warm-Up Show</title>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004022000 +0000" channel="WSM">
+    <title>Grand Ole Opry</title>
+    <desc>Live from the Grand Ole Opry House.</desc>
+  </programme>
+  <programme start="20261004022000 +0000" stop="20261004033000 +0000" channel="WSM">
+    <title>Opry Star Spotlight</title>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="WSM">
+    <title>The Dailey &amp; Vincent Show</title>
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004050000 +0000" channel="WSM">
+    <title>Golden Era of the Grand Ole Opry</title>
+  </programme>
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20260926000000 +0000" stop="20260926000600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926000600 +0000" stop="20260926003000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260926003000 +0000" stop="20260926003200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926003200 +0000" stop="20260926010000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Global Story</title>
-    <desc lang="en">Katseye, America and the dark side of K-pop perfection What happens when K-pop’s gruelling formula meets the American music industry? (R)</desc>
-  </programme>
-  <programme start="20260926010000 +0000" stop="20260926010600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926010600 +0000" stop="20260926013000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260926013000 +0000" stop="20260926013200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926013200 +0000" stop="20260926020000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Stumped</title>
-    <desc lang="en">World Cup and Ashes winner Mark Wood retires from England duty After a career blighted by injuries Mark Wood calls time on international career.</desc>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926020600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926020600 +0000" stop="20260926025000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">Outlook Mixtape: Handcrafted Tales People who built what they needed in life with the tools they had around them (R)</desc>
-  </programme>
-  <programme start="20260926025000 +0000" stop="20260926030000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Harold Riley: Painting Nelson Mandela Harold Riley was the only artist in the world granted a sitting with Nelson Mandela (R)</desc>
-  </programme>
-  <programme start="20260926030000 +0000" stop="20260926030600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926030600 +0000" stop="20260926040000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Unexpected Elements</title>
-    <desc lang="en">An identity crisis A case of mistaken identity inspires us to explore the science of getting things wrong. (R)</desc>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926040600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926040600 +0000" stop="20260926043000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260926043000 +0000" stop="20260926043200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926043200 +0000" stop="20260926045000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Dear Daughter</title>
-    <desc lang="en">Reaching milestones Bella embraces parenthood as her daughter reaches milestones in her own time</desc>
-  </programme>
-  <programme start="20260926045000 +0000" stop="20260926050000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">More or Less</title>
-    <desc lang="en">Trump fact-check: Do the US and Venezuela have 60% of the world’s oil? Is Donald Trump right to say the US and Venezuela have 60% of the world’s oi  l?</desc>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926050600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926050600 +0000" stop="20260926060000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Weekend</title>
-    <desc lang="en">26/09/2026 GMT A review of the week with the latest news.</desc>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926060600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926060600 +0000" stop="20260926070000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Weekend</title>
-    <desc lang="en">26/09/2026 GMT A review of the week with the latest news.</desc>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926070600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926070600 +0000" stop="20260926080000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Weekend</title>
-    <desc lang="en">26/09/2026 GMT A review of the week with the latest news.</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926080600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926080600 +0000" stop="20260926083000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC Conversations</title>
-    <desc lang="en">Women in South Africa: 'We just want to be safe' Women share their experiences of tackling violence (R)</desc>
-  </programme>
-  <programme start="20260926083000 +0000" stop="20260926083200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926083200 +0000" stop="20260926090000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Americast</title>
-    <desc lang="en">Has Trump’s ban against the media backfired? The US president loses his court battle with US media outlets… for now</desc>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926090600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926090600 +0000" stop="20260926100000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Not by the Playbook</title>
-    <desc lang="en">The long ride to success Pete Mitchell swapped his Olympic dream to help a rider achieve theirs at the Paras</desc>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926100600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926100600 +0000" stop="20260926103000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260926103000 +0000" stop="20260926103200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926103200 +0000" stop="20260926110000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Why are German voters turning away from mainstream parties? John Simpson analyses the state of Germany’s government after regional election defeats  (R)</desc>
-  </programme>
-  <programme start="20260926110000 +0000" stop="20260926110600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926110600 +0000" stop="20260926120000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Documentary</title>
-    <desc lang="en">Mapping India: The world's largest count India is undertaking the biggest population count of more than 1.4 billion people</desc>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926120600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926120600 +0000" stop="20260926130000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926130600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926130600 +0000" stop="20260926170000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Sportsworld</title>
-    <desc lang="en">26/09/2026 GMT Live sport from around the world with news, interviews and analysis.</desc>
-  </programme>
-  <programme start="20260926170000 +0000" stop="20260926170600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926170600 +0000" stop="20260926173000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260926173000 +0000" stop="20260926173200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926173200 +0000" stop="20260926175000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Dear Daughter</title>
-    <desc lang="en">Reaching milestones Bella embraces parenthood as her daughter reaches milestones in her own time (R)</desc>
-  </programme>
-  <programme start="20260926175000 +0000" stop="20260926180000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Sporting Witness</title>
-    <desc lang="en">The first female photographer in the Premier League Magi Haroun was the first female photographer in the Premier League</desc>
-  </programme>
-  <programme start="20260926180000 +0000" stop="20260926180600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926180600 +0000" stop="20260926183000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Inquiry</title>
-    <desc lang="en">How did Italian politics become stable? Italy was once known for political instability, so how did that change? (R)</desc>
-  </programme>
-  <programme start="20260926183000 +0000" stop="20260926183200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926183200 +0000" stop="20260926190000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World of Secrets</title>
-    <desc lang="en">Catching My Teacher, 1. The golden boy Star student Yusron is told a dark secret</desc>
-  </programme>
-  <programme start="20260926190000 +0000" stop="20260926190600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926190600 +0000" stop="20260926200000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Arts Hour</title>
-    <desc lang="en">Juliette Binoche on her new film, Queen at Sea Juliette Binoche about her painful and sad new film, Queen at Sea</desc>
-  </programme>
-  <programme start="20260926200000 +0000" stop="20260926200600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926200600 +0000" stop="20260926210000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20260926210000 +0000" stop="20260926210600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926210600 +0000" stop="20260926220000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Not by the Playbook</title>
-    <desc lang="en">The long ride to success Pete Mitchell swapped his Olympic dream to help a rider achieve theirs at the Paras (R)</desc>
-  </programme>
-  <programme start="20260926220000 +0000" stop="20260926220600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926220600 +0000" stop="20260926223000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260926223000 +0000" stop="20260926223200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260926223200 +0000" stop="20260927000000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">This Is Africa</title>
-    <desc lang="en">Illbliss Nigerian rapper Illbliss reflects on streaming, social media and staying relevant</desc>
-  </programme>
   <programme start="20260927000000 +0000" stop="20260927000600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
@@ -2723,8 +2487,244 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
     <title lang="en">BBC News Summary</title>
     <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
   </programme>
-  <programme start="20261002223200 +0000" stop="20261002230200 +0000" channel="bbc_world_service.uk">
+  <programme start="20261002223200 +0000" stop="20261003000000 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Report</title>
     <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
+  </programme>
+  <programme start="20261003000000 +0000" stop="20261003000600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003000600 +0000" stop="20261003003000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261003003000 +0000" stop="20261003003200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003003200 +0000" stop="20261003010000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Global Story</title>
+    <desc lang="en">The Global Story . (R)</desc>
+  </programme>
+  <programme start="20261003010000 +0000" stop="20261003010600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003010600 +0000" stop="20261003013000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261003013000 +0000" stop="20261003013200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003013200 +0000" stop="20261003020000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Stumped</title>
+    <desc lang="en">Stumped The weekly cricket show from BBC Sport in association with ABC and Akashvani</desc>
+  </programme>
+  <programme start="20261003020000 +0000" stop="20261003020600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003020600 +0000" stop="20261003025000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20261003025000 +0000" stop="20261003030000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">Amsterdam air disaster: 'A plane crashed into my home' In 1992, Suzie Ampofo was in her flat block in Amsterdam when a cargo jet crashed into it  (R)</desc>
+  </programme>
+  <programme start="20261003030000 +0000" stop="20261003030600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003030600 +0000" stop="20261003040000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Unexpected Elements</title>
+    <desc lang="en">Unexpected Elements The news you know, the science you don't. (R)</desc>
+  </programme>
+  <programme start="20261003040000 +0000" stop="20261003040600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003040600 +0000" stop="20261003043000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261003043000 +0000" stop="20261003043200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003043200 +0000" stop="20261003045000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Dear Daughter</title>
+    <desc lang="en">Adoption day Fleur on adopting her daughter, and why marking her adoption day matters</desc>
+  </programme>
+  <programme start="20261003045000 +0000" stop="20261003050000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">More or Less</title>
+    <desc lang="en">More or Less Tim Harford explains the numbers and statistics in the news and in life.</desc>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003050600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003050600 +0000" stop="20261003060000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Weekend</title>
+    <desc lang="en">03/10/2026 GMT A review of the week with the latest news.</desc>
+  </programme>
+  <programme start="20261003060000 +0000" stop="20261003060600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003060600 +0000" stop="20261003070000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Weekend</title>
+    <desc lang="en">03/10/2026 GMT A review of the week with the latest news.</desc>
+  </programme>
+  <programme start="20261003070000 +0000" stop="20261003070600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003070600 +0000" stop="20261003080000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Weekend</title>
+    <desc lang="en">03/10/2026 GMT A review of the week with the latest news.</desc>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003080600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003080600 +0000" stop="20261003083000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC Conversations</title>
+    <desc lang="en">BBC Conversations How major news stories are affecting the lives of people around the world (R)</desc>
+  </programme>
+  <programme start="20261003083000 +0000" stop="20261003083200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003083200 +0000" stop="20261003090000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Americast</title>
+    <desc lang="en">02/10/2026 Join Americast for insights and analysis on what's happening inside Trump's White House.</desc>
+  </programme>
+  <programme start="20261003090000 +0000" stop="20261003090600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003090600 +0000" stop="20261003100000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Not by the Playbook</title>
+    <desc lang="en">The need for speed From the fastest person on a bike to an 11-year-old karting champion changing the sport</desc>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003100600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003100600 +0000" stop="20261003103000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003103200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003103200 +0000" stop="20261003110000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Unspun World with John Simpson</title>
+    <desc lang="en">Unspun World with John Simpson The BBC's world affairs editor examines the most important international stories (R)</desc>
+  </programme>
+  <programme start="20261003110000 +0000" stop="20261003110600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003110600 +0000" stop="20261003120000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Artists at Work</title>
+    <desc lang="en">World Book Club - Paul Tremblay, A Head Full of Ghosts Josie Long interviews Paul Tremblay about 'A Head Full of Ghosts'</desc>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003120600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003120600 +0000" stop="20261003130000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261003130000 +0000" stop="20261003130600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003130600 +0000" stop="20261003170000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Sportsworld</title>
+    <desc lang="en">03/10/2026 GMT Live sport from around the world with news, interviews and analysis.</desc>
+  </programme>
+  <programme start="20261003170000 +0000" stop="20261003170600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003170600 +0000" stop="20261003173000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261003173000 +0000" stop="20261003173200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003173200 +0000" stop="20261003175000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Dear Daughter</title>
+    <desc lang="en">Adoption day Fleur on adopting her daughter, and why marking her adoption day matters (R)</desc>
+  </programme>
+  <programme start="20261003175000 +0000" stop="20261003180000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Sporting Witness</title>
+    <desc lang="en">Mr You Tube Man Nicknamed Mr You Tube Man, Julius Yego taught himself javelin by watching online videos</desc>
+  </programme>
+  <programme start="20261003180000 +0000" stop="20261003180600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003180600 +0000" stop="20261003183000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Inquiry</title>
+    <desc lang="en">How can Nepal’s economy rebuild after floods? Is economic recovery possible for flood-hit Nepal? (R)</desc>
+  </programme>
+  <programme start="20261003183000 +0000" stop="20261003183200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003183200 +0000" stop="20261003190000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World of Secrets</title>
+    <desc lang="en">Catching My Teacher, 2. The student detectives Yusron and Zia follow the clues. Soon, more secrets emerge</desc>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003190600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003190600 +0000" stop="20261003200000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Arts Hour</title>
+    <desc lang="en">The Arts Hour The best global arts coverage from across the BBC.</desc>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003200600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003200600 +0000" stop="20261003210000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003210600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003210600 +0000" stop="20261003220000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Not by the Playbook</title>
+    <desc lang="en">The need for speed From the fastest person on a bike to an 11-year-old karting champion changing the sport (R)</desc>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261003220600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003220600 +0000" stop="20261003223000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261003223000 +0000" stop="20261003223200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261003223200 +0000" stop="20261003230200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">This Is Africa</title>
+    <desc lang="en">This is Africa DJ Edu’s pan-African music show for the BBC World Service.</desc>
   </programme>
 </tv>
