@@ -1329,6 +1329,294 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   <programme start="20261006050000 +0000" stop="20261006060000 +0000" channel="KMPT">
     <title>Red Eye Radio</title>
   </programme>
+  <channel id="FOXNEWSRADIO">
+    <display-name>FOX News Radio</display-name>
+  </channel>
+  <programme start="20260929050000 +0000" stop="20260929100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929130000 +0000" channel="FOXNEWSRADIO">
+    <title>Morning News Briefing</title>
+    <desc>The latest headlines, business updates, weather, and breaking news.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929160000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929160000 +0000" stop="20260929190000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929190000 +0000" stop="20260929220000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929220000 +0000" stop="20260929230000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260929230000 +0000" stop="20260930050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930050000 +0000" stop="20260930100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930100000 +0000" stop="20260930110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930110000 +0000" stop="20260930130000 +0000" channel="FOXNEWSRADIO">
+    <title>Morning News Briefing</title>
+    <desc>The latest headlines, business updates, weather, and breaking news.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930130000 +0000" stop="20260930160000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930160000 +0000" stop="20260930190000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930190000 +0000" stop="20260930220000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930220000 +0000" stop="20260930230000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20260930230000 +0000" stop="20261001050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001050000 +0000" stop="20261001100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001100000 +0000" stop="20261001110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001130000 +0000" channel="FOXNEWSRADIO">
+    <title>Morning News Briefing</title>
+    <desc>The latest headlines, business updates, weather, and breaking news.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001130000 +0000" stop="20261001160000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001160000 +0000" stop="20261001190000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001190000 +0000" stop="20261001220000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001220000 +0000" stop="20261001230000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261001230000 +0000" stop="20261002050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002130000 +0000" channel="FOXNEWSRADIO">
+    <title>Morning News Briefing</title>
+    <desc>The latest headlines, business updates, weather, and breaking news.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002130000 +0000" stop="20261002160000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002160000 +0000" stop="20261002190000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002190000 +0000" stop="20261002220000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002220000 +0000" stop="20261002230000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261002230000 +0000" stop="20261003050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003090000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003090000 +0000" stop="20261003100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown: From Washington</title>
+    <desc>Analysis of the biggest stories and debates coming from Washington.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003130000 +0000" channel="FOXNEWSRADIO">
+    <title>Weekend News Briefing</title>
+    <desc>Top stories, analysis, and news coverage from across the nation and around the world.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003130000 +0000" stop="20261003160000 +0000" channel="FOXNEWSRADIO">
+    <title>Best of The Brian Kilmeade Show</title>
+    <desc>Highlights and interviews from The Brian Kilmeade Show.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003160000 +0000" stop="20261003190000 +0000" channel="FOXNEWSRADIO">
+    <title>Best of FOX Across America</title>
+    <desc>Favorite conversations and moments from FOX Across America.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003220000 +0000" channel="FOXNEWSRADIO">
+    <title>Best of The Guy Benson Show</title>
+    <desc>A collection of standout interviews and commentary from The Guy Benson Show.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261004050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Weekend</title>
+    <desc>News coverage, interviews, analysis, and weekend programming from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004050000 +0000" stop="20261004090000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown: From Washington</title>
+    <desc>Analysis of the biggest stories and debates coming from Washington.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004130000 +0000" channel="FOXNEWSRADIO">
+    <title>Weekend News Briefing</title>
+    <desc>Top stories, analysis, and news coverage from across the nation and around the world.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="FOXNEWSRADIO">
+    <title>Jason in the House</title>
+    <desc>Jason Chaffetz explores politics, culture, and current events.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="FOXNEWSRADIO">
+    <title>The Bret Baier Show</title>
+    <desc>Conversations with lawmakers, business leaders, and newsmakers.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Sunday</title>
+    <desc>Shannon Bream interviews political, business, and public affairs leaders.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004190000 +0000" channel="FOXNEWSRADIO">
+    <title>Best of The Brian Kilmeade Show</title>
+    <desc>Highlights and interviews from The Brian Kilmeade Show.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004220000 +0000" channel="FOXNEWSRADIO">
+    <title>Best of FOX Across America</title>
+    <desc>Favorite conversations and moments from FOX Across America.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261004220000 +0000" stop="20261005010000 +0000" channel="FOXNEWSRADIO">
+    <title>Best of The Guy Benson Show</title>
+    <desc>A collection of standout interviews and commentary from The Guy Benson Show.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Weekend</title>
+    <desc>News coverage, interviews, analysis, and weekend programming from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005100000 +0000" stop="20261005110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005110000 +0000" stop="20261005130000 +0000" channel="FOXNEWSRADIO">
+    <title>Morning News Briefing</title>
+    <desc>The latest headlines, business updates, weather, and breaking news.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005130000 +0000" stop="20261005160000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005160000 +0000" stop="20261005190000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005220000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005220000 +0000" stop="20261005230000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <category>News</category>
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <category>News</category>
+  </programme>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
@@ -1491,6 +1779,401 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   </programme>
   <programme start="20261006030000 +0000" stop="20261006050000 +0000" channel="WSM">
     <title>WSM at Night</title>
+  </programme>
+  <channel id="THEBIG80SSTATION">
+    <display-name>The Big 80s Station</display-name>
+  </channel>
+  <programme start="20260929050000 +0000" stop="20260929080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260929170000 +0000" stop="20260929200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260929200000 +0000" stop="20260929230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260929230000 +0000" stop="20260930020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930020000 +0000" stop="20260930050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930050000 +0000" stop="20260930080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930080000 +0000" stop="20260930110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930110000 +0000" stop="20260930140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930140000 +0000" stop="20260930170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930170000 +0000" stop="20260930200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930200000 +0000" stop="20260930230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20260930230000 +0000" stop="20261001020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001020000 +0000" stop="20261001050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001050000 +0000" stop="20261001080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001080000 +0000" stop="20261001110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001140000 +0000" stop="20261001170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001170000 +0000" stop="20261001200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001200000 +0000" stop="20261001230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261001230000 +0000" stop="20261002020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002080000 +0000" stop="20261002110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002140000 +0000" stop="20261002170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002170000 +0000" stop="20261002200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002200000 +0000" stop="20261002230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261002230000 +0000" stop="20261003020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003020000 +0000" stop="20261003050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003110000 +0000" stop="20261003140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003140000 +0000" stop="20261003170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003170000 +0000" stop="20261003200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261004020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004050000 +0000" stop="20261004080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004080000 +0000" stop="20261004110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004200000 +0000" stop="20261004230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261004230000 +0000" stop="20261005020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005080000 +0000" stop="20261005110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going through the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005110000 +0000" stop="20261005140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005140000 +0000" stop="20261005170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005170000 +0000" stop="20261005200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261005230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <category>80s</category>
   </programme>
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
