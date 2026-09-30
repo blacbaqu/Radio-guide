@@ -1329,6 +1329,292 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
   <programme start="20261007050000 +0000" stop="20261007060000 +0000" channel="KMPT">
     <title>Red Eye Radio</title>
   </programme>
+  <channel id="WMVP.chicago">
+    <display-name lang="en">ESPN 1000 WMVP</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/WMVP_ESPN_1000_logo.svg/512px-WMVP_ESPN_1000_logo.svg.png"/>
+  </channel>
+  <programme start="20260930190000 +0000" stop="20260930230000 +0000" channel="WMVP.chicago">
+    <title lang="en">Waddle &amp; Silvy</title>
+    <desc lang="en">Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20260930230000 +0000" stop="20261001020000 +0000" channel="WMVP.chicago">
+    <title lang="en">Amber &amp; Ian</title>
+    <desc lang="en">Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261001020000 +0000" stop="20261001050000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261001050000 +0000" stop="20261001100000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261001100000 +0000" stop="20261001110000 +0000" channel="WMVP.chicago">
+    <title lang="en">Unsportsmanlike</title>
+    <desc lang="en">Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001140000 +0000" channel="WMVP.chicago">
+    <title lang="en">Kap &amp; J.Hood</title>
+    <desc lang="en">David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/5d/4c/a3/1b/5d4ca31b-5f34-4b53-a550-20cfcf7e0f25/e0fb93cf258aa488db9f90cf50811eef2342fc7ea008f1b635caeb646a5b4f6e5c9b689a88ebff0ba9ec3646a7be7ef75dc11883be717462b5fe1a8bb2a74c49.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261001140000 +0000" stop="20261001170000 +0000" channel="WMVP.chicago">
+    <title lang="en">Carmen &amp; Jurko</title>
+    <desc lang="en">Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/15/41/d3/ca/1541d3ca-a309-4116-bb49-5a5dd95dc963/d0a0b2203714b724f7eec5f5fa8cce6e07e3a1f9e0f3408db0b7dc974e64dfcb347ec2e5feaa18281315b4f4c803f2a87aeb3e4599a16f2c3bc63556c4d7e989.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261001170000 +0000" stop="20261001190000 +0000" channel="WMVP.chicago">
+    <title lang="en">The Rich Eisen Show</title>
+    <desc lang="en">Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/22/02/fc/6e/2202fc6e-5f96-48c7-9ca8-12c823058a98/fdbbdf3eef25000571f54bebc82650058b0fae007851d456ce4371bf8eb837be74a58407421323f95ecb54784a6ae2ec9a5cb33a9254c46fbe8524aa7d9036c5.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261001190000 +0000" stop="20261001230000 +0000" channel="WMVP.chicago">
+    <title lang="en">Waddle &amp; Silvy</title>
+    <desc lang="en">Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261001230000 +0000" stop="20261002020000 +0000" channel="WMVP.chicago">
+    <title lang="en">Amber &amp; Ian</title>
+    <desc lang="en">Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002050000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002100000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="WMVP.chicago">
+    <title lang="en">Unsportsmanlike</title>
+    <desc lang="en">Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002140000 +0000" channel="WMVP.chicago">
+    <title lang="en">Kap &amp; J.Hood</title>
+    <desc lang="en">David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/5d/4c/a3/1b/5d4ca31b-5f34-4b53-a550-20cfcf7e0f25/e0fb93cf258aa488db9f90cf50811eef2342fc7ea008f1b635caeb646a5b4f6e5c9b689a88ebff0ba9ec3646a7be7ef75dc11883be717462b5fe1a8bb2a74c49.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002140000 +0000" stop="20261002170000 +0000" channel="WMVP.chicago">
+    <title lang="en">Carmen &amp; Jurko</title>
+    <desc lang="en">Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/15/41/d3/ca/1541d3ca-a309-4116-bb49-5a5dd95dc963/d0a0b2203714b724f7eec5f5fa8cce6e07e3a1f9e0f3408db0b7dc974e64dfcb347ec2e5feaa18281315b4f4c803f2a87aeb3e4599a16f2c3bc63556c4d7e989.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002170000 +0000" stop="20261002190000 +0000" channel="WMVP.chicago">
+    <title lang="en">The Rich Eisen Show</title>
+    <desc lang="en">Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/22/02/fc/6e/2202fc6e-5f96-48c7-9ca8-12c823058a98/fdbbdf3eef25000571f54bebc82650058b0fae007851d456ce4371bf8eb837be74a58407421323f95ecb54784a6ae2ec9a5cb33a9254c46fbe8524aa7d9036c5.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002190000 +0000" stop="20261002230000 +0000" channel="WMVP.chicago">
+    <title lang="en">Waddle &amp; Silvy</title>
+    <desc lang="en">Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002230000 +0000" stop="20261003020000 +0000" channel="WMVP.chicago">
+    <title lang="en">Amber &amp; Ian</title>
+    <desc lang="en">Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261003020000 +0000" stop="20261003050000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003110000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">Overnight sports coverage providing final scores, late West Coast highlights, and morning headlines from ESPN Radio.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261003110000 +0000" stop="20261003130000 +0000" channel="WMVP.chicago">
+    <title lang="en">Chicago Outdoor &amp; Specialty Talk</title>
+    <desc lang="en">Dedicated Saturday morning coverage exploring Midwest fishing, hunting, regional outdoor recreation, and community sports.</desc>
+    <icon src="https://cdn-radiotime-logos.b-cdn.net/s21588q.png"/>
+    <category lang="en">Outdoors</category>
+  </programme>
+  <programme start="20261003130000 +0000" stop="20261003160000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Chicago Weekend</title>
+    <desc lang="en">Local weekend sports discussions, fan reaction, and previews of upcoming Chicago matchups hosted by rotating ESPN 1000 personalities.</desc>
+    <icon src="https://cdn-radiotime-logos.b-cdn.net/s21588q.png"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003160000 +0000" stop="20261004000000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio College GameDay</title>
+    <desc lang="en">Live Saturday college football and basketball gameday coverage, featuring coast-to-coast play-by-play, updates, and studio analysis.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">College Sports</category>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004030000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Live tracking of Saturday night games across college football, MLB, and the NBA with instant highlights and insider analysis.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004050000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">Comprehensive late-evening sports wrap-up recapping the biggest Saturday games and previews of Sunday's action.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261004050000 +0000" stop="20261004110000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">National overnight recap of Saturday's sports outcomes, late-breaking news, and early morning previews.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004130000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Chicago Specialty Talk</title>
+    <desc lang="en">Specialty automotive, business, wellness, and local Chicago athletic spotlight programming.</desc>
+    <icon src="https://cdn-radiotime-logos.b-cdn.net/s21588q.png"/>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004160000 +0000" channel="WMVP.chicago">
+    <title lang="en">Chicago Gameday</title>
+    <desc lang="en">Live Chicago Bears gameday preview show featuring in-depth matchup analysis, roster updates, injury news, and fan reaction.</desc>
+    <icon src="https://cdn-radiotime-logos.b-cdn.net/s21588q.png"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004230000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameDay</title>
+    <desc lang="en">Live Sunday NFL game tracking, studio analysis, scoring updates, and marquee play-by-play coverage from across the country.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004230000 +0000" stop="20261005030000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Sunday night sports wrap-up delivering complete game summaries, stats, highlights, and locker-room reactions.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261005030000 +0000" stop="20261005050000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">Late-night national sports recap preparing listeners for the week ahead with essential news and scores.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005100000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261005100000 +0000" stop="20261005110000 +0000" channel="WMVP.chicago">
+    <title lang="en">Unsportsmanlike</title>
+    <desc lang="en">Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005110000 +0000" stop="20261005140000 +0000" channel="WMVP.chicago">
+    <title lang="en">Kap &amp; J.Hood</title>
+    <desc lang="en">David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/5d/4c/a3/1b/5d4ca31b-5f34-4b53-a550-20cfcf7e0f25/e0fb93cf258aa488db9f90cf50811eef2342fc7ea008f1b635caeb646a5b4f6e5c9b689a88ebff0ba9ec3646a7be7ef75dc11883be717462b5fe1a8bb2a74c49.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005140000 +0000" stop="20261005170000 +0000" channel="WMVP.chicago">
+    <title lang="en">Carmen &amp; Jurko</title>
+    <desc lang="en">Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/15/41/d3/ca/1541d3ca-a309-4116-bb49-5a5dd95dc963/d0a0b2203714b724f7eec5f5fa8cce6e07e3a1f9e0f3408db0b7dc974e64dfcb347ec2e5feaa18281315b4f4c803f2a87aeb3e4599a16f2c3bc63556c4d7e989.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005170000 +0000" stop="20261005190000 +0000" channel="WMVP.chicago">
+    <title lang="en">The Rich Eisen Show</title>
+    <desc lang="en">Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/22/02/fc/6e/2202fc6e-5f96-48c7-9ca8-12c823058a98/fdbbdf3eef25000571f54bebc82650058b0fae007851d456ce4371bf8eb837be74a58407421323f95ecb54784a6ae2ec9a5cb33a9254c46fbe8524aa7d9036c5.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005230000 +0000" channel="WMVP.chicago">
+    <title lang="en">Waddle &amp; Silvy</title>
+    <desc lang="en">Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006020000 +0000" channel="WMVP.chicago">
+    <title lang="en">Amber &amp; Ian</title>
+    <desc lang="en">Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261006020000 +0000" stop="20261006050000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006100000 +0000" channel="WMVP.chicago">
+    <title lang="en">SportsCenter AllNight</title>
+    <desc lang="en">National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006110000 +0000" channel="WMVP.chicago">
+    <title lang="en">Unsportsmanlike</title>
+    <desc lang="en">Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006140000 +0000" channel="WMVP.chicago">
+    <title lang="en">Kap &amp; J.Hood</title>
+    <desc lang="en">David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/5d/4c/a3/1b/5d4ca31b-5f34-4b53-a550-20cfcf7e0f25/e0fb93cf258aa488db9f90cf50811eef2342fc7ea008f1b635caeb646a5b4f6e5c9b689a88ebff0ba9ec3646a7be7ef75dc11883be717462b5fe1a8bb2a74c49.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006140000 +0000" stop="20261006170000 +0000" channel="WMVP.chicago">
+    <title lang="en">Carmen &amp; Jurko</title>
+    <desc lang="en">Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/15/41/d3/ca/1541d3ca-a309-4116-bb49-5a5dd95dc963/d0a0b2203714b724f7eec5f5fa8cce6e07e3a1f9e0f3408db0b7dc974e64dfcb347ec2e5feaa18281315b4f4c803f2a87aeb3e4599a16f2c3bc63556c4d7e989.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006170000 +0000" stop="20261006190000 +0000" channel="WMVP.chicago">
+    <title lang="en">The Rich Eisen Show</title>
+    <desc lang="en">Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/22/02/fc/6e/2202fc6e-5f96-48c7-9ca8-12c823058a98/fdbbdf3eef25000571f54bebc82650058b0fae007851d456ce4371bf8eb837be74a58407421323f95ecb54784a6ae2ec9a5cb33a9254c46fbe8524aa7d9036c5.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006230000 +0000" channel="WMVP.chicago">
+    <title lang="en">Waddle &amp; Silvy</title>
+    <desc lang="en">Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006230000 +0000" stop="20261007020000 +0000" channel="WMVP.chicago">
+    <title lang="en">Amber &amp; Ian</title>
+    <desc lang="en">Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
+  <programme start="20261007020000 +0000" stop="20261007050000 +0000" channel="WMVP.chicago">
+    <title lang="en">ESPN Radio GameNight</title>
+    <desc lang="en">Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
+    <category lang="en">ESPN Radio</category>
+  </programme>
   <channel id="FOXNEWSRADIO">
     <display-name>FOX News Radio</display-name>
   </channel>
@@ -2571,7 +2857,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930013200 +0000" stop="20260930020000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Climate Question</title>
-    <desc lang="en">Climate Overshoot: The World Beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
+    <desc lang="en">Climate overshoot: The world beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
   </programme>
   <programme start="20260930020000 +0000" stop="20260930020600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2607,7 +2893,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930040600 +0000" stop="20260930050000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
+    <desc lang="en">Children's lives in Gaza BBC investigation looks at how children are coping in the territory since the ceasefire.</desc>
   </programme>
   <programme start="20260930050000 +0000" stop="20260930050600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2615,7 +2901,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930050600 +0000" stop="20260930060000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
+    <desc lang="en">Claims that hundreds are still dying in Gaza since ceasefire A BBC report on one family who saw a daughter killed and another seriously injured.</desc>
   </programme>
   <programme start="20260930060000 +0000" stop="20260930060600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2623,7 +2909,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930060600 +0000" stop="20260930070000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Newsday</title>
-    <desc lang="en">Live news, business and sport from around the world.</desc>
+    <desc lang="en">President Trump assures on AI safety Mr Trump says AI executives have signed a &quot;morally binding&quot; agreement to self police.</desc>
   </programme>
   <programme start="20260930070000 +0000" stop="20260930070600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2659,7 +2945,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930083200 +0000" stop="20260930090000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Climate Question</title>
-    <desc lang="en">Climate Overshoot: The World Beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
+    <desc lang="en">Climate overshoot: The world beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
   </programme>
   <programme start="20260930090000 +0000" stop="20260930090600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2683,7 +2969,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930103200 +0000" stop="20260930110000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Global Story</title>
-    <desc lang="en">The Global Story .</desc>
+    <desc lang="en">Is Meta dying? Meta looks to AI as a new film puts the company’s past decisions under scrutiny</desc>
   </programme>
   <programme start="20260930110000 +0000" stop="20260930110600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2691,7 +2977,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930110600 +0000" stop="20260930115000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+    <desc lang="en">The Nigerian film-maker who took on Disney and made history Tolu Olowofoyeku wanted better access for Africa’s creators to the animation industry</desc>
   </programme>
   <programme start="20260930115000 +0000" stop="20260930120000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -2719,7 +3005,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930130600 +0000" stop="20260930140000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+    <desc lang="en">Passengers helped stop knife attack in cockpit of Israel-bound plane Netanyahu says pilot was attempting to sabotage the plane</desc>
   </programme>
   <programme start="20260930140000 +0000" stop="20260930140600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2739,7 +3025,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930145000 +0000" stop="20260930150000 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Express</title>
-    <desc lang="en">30/09/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+    <desc lang="en">Kenya breaks ground ready for its major new oil refinery Why a new oil refinery for Kenya could deliver greater fuel independence for Africa</desc>
   </programme>
   <programme start="20260930150000 +0000" stop="20260930150600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2747,7 +3033,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930150600 +0000" stop="20260930160000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outside Source</title>
-    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc lang="en">Israel-bound flight stabbing: New details emerge Israel's Prime Minister gives more details on what happened</desc>
   </programme>
   <programme start="20260930160000 +0000" stop="20260930160600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2755,7 +3041,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930160600 +0000" stop="20260930170000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outside Source</title>
-    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc lang="en">Guardiola backs Man City Former manager Pep Guardiola backs Manchester City's owners</desc>
   </programme>
   <programme start="20260930170000 +0000" stop="20260930170600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2763,7 +3049,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930170600 +0000" stop="20260930175000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc lang="en">The Nigerian film-maker who took on Disney and made history Tolu Olowofoyeku wanted better access for Africa’s creators to the animation industry  (R)</desc>
   </programme>
   <programme start="20260930175000 +0000" stop="20260930180000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -2791,7 +3077,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930190600 +0000" stop="20260930193000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Climate Question</title>
-    <desc lang="en">Climate Overshoot: The World Beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
+    <desc lang="en">Climate overshoot: The world beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
   </programme>
   <programme start="20260930193000 +0000" stop="20260930193200 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News Summary</title>
@@ -2799,7 +3085,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930193200 +0000" stop="20260930200000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Health Check</title>
-    <desc lang="en">Health Check Health issues and medical breakthroughs from around the world.</desc>
+    <desc lang="en">Do men and women receive different medical treatment? Men and women are frequently treated differently by healthcare systems</desc>
   </programme>
   <programme start="20260930200000 +0000" stop="20260930200600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2807,7 +3093,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930200600 +0000" stop="20260930210000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Newshour</title>
-    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+    <desc lang="en">Jubilant scenes as Israeli Fly Dubai passengers return home Israeli PM Benjamin Netanyahu said the co-pilot attempted to deliberately crash the plan  e</desc>
   </programme>
   <programme start="20260930210000 +0000" stop="20260930210600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2839,7 +3125,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20260930223200 +0000" stop="20261001000000 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Report</title>
-    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
+    <desc lang="en">Ukraine has begun introducing emergency power cuts in Kyiv President Zelensky said energy facilities were targeted across Ukraine</desc>
   </programme>
   <programme start="20261001000000 +0000" stop="20261001000600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2855,7 +3141,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001003200 +0000" stop="20261001010000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Global Story</title>
-    <desc lang="en">The Global Story . (R)</desc>
+    <desc lang="en">Is Meta dying? Meta looks to AI as a new film puts the company’s past decisions under scrutiny (R)</desc>
   </programme>
   <programme start="20261001010000 +0000" stop="20261001010600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2879,7 +3165,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001020600 +0000" stop="20261001025000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc lang="en">The Nigerian film-maker who took on Disney and made history Tolu Olowofoyeku wanted better access for Africa’s creators to the animation industry  (R)</desc>
   </programme>
   <programme start="20261001025000 +0000" stop="20261001030000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -2899,7 +3185,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001033200 +0000" stop="20261001040000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Food Chain</title>
-    <desc lang="en">The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.</desc>
+    <desc lang="en">How to eat for success on weight-loss drugs How to change your diet before, during and after taking GLP-1s - and why you should.</desc>
   </programme>
   <programme start="20261001040000 +0000" stop="20261001040600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -2939,7 +3225,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001073200 +0000" stop="20261001075000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Business Daily</title>
-    <desc lang="en">Business Daily The daily drama of money and work from the BBC.</desc>
+    <desc lang="en">Power Players: Can AI really regulate itself? President Trump and AI leaders have made a pact to keep AI development safe.</desc>
   </programme>
   <programme start="20261001075000 +0000" stop="20261001080000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -2999,7 +3285,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001110600 +0000" stop="20261001115000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+    <desc lang="en">Nigeria's forgotten king of boogie and his 30-year comeback Singer Steve Monite disappeared for decades, only to discover he'd become a music icon</desc>
   </programme>
   <programme start="20261001115000 +0000" stop="20261001120000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -3019,7 +3305,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001123200 +0000" stop="20261001130000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Food Chain</title>
-    <desc lang="en">The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.  (R)</desc>
+    <desc lang="en">How to eat for success on weight-loss drugs How to change your diet before, during and after taking GLP-1s - and why you should. (R)</desc>
   </programme>
   <programme start="20261001130000 +0000" stop="20261001130600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -3043,7 +3329,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001143200 +0000" stop="20261001145000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Business Daily</title>
-    <desc lang="en">Business Daily The daily drama of money and work from the BBC. (R)</desc>
+    <desc lang="en">Power Players: Can AI really regulate itself? President Trump and AI leaders have made a pact to keep AI development safe. (R)</desc>
   </programme>
   <programme start="20261001145000 +0000" stop="20261001150000 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Express</title>
@@ -3071,7 +3357,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001170600 +0000" stop="20261001175000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc lang="en">Nigeria's forgotten king of boogie and his 30-year comeback Singer Steve Monite disappeared for decades, only to discover he'd become a music icon  (R)</desc>
   </programme>
   <programme start="20261001175000 +0000" stop="20261001180000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -3131,7 +3417,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261001213200 +0000" stop="20261001220000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Food Chain</title>
-    <desc lang="en">The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.  (R)</desc>
+    <desc lang="en">How to eat for success on weight-loss drugs How to change your diet before, during and after taking GLP-1s - and why you should. (R)</desc>
   </programme>
   <programme start="20261001220000 +0000" stop="20261001220600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -3187,7 +3473,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261002020600 +0000" stop="20261002025000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Outlook</title>
-    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc lang="en">Nigeria's forgotten king of boogie and his 30-year comeback Singer Steve Monite disappeared for decades, only to discover he'd become a music icon  (R)</desc>
   </programme>
   <programme start="20261002025000 +0000" stop="20261002030000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Witness History</title>
@@ -3607,7 +3893,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261003130600 +0000" stop="20261003170000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Sportsworld</title>
-    <desc lang="en">03/10/2026 GMT Live sport from around the world with news, interviews and analysis.</desc>
+    <desc lang="en">Live Sporting Action Live sport from around the world with news, interviews and analysis.</desc>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003170600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -3719,7 +4005,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261004013200 +0000" stop="20261004020000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Health Check</title>
-    <desc lang="en">Health Check Health issues and medical breakthroughs from around the world. (R)</desc>
+    <desc lang="en">Do men and women receive different medical treatment? Men and women are frequently treated differently by healthcare systems (R)</desc>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004020600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -3803,7 +4089,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261004083200 +0000" stop="20261004090000 +0000" channel="bbc_world_service.uk">
     <title lang="en">The Food Chain</title>
-    <desc lang="en">The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.  (R)</desc>
+    <desc lang="en">How to eat for success on weight-loss drugs How to change your diet before, during and after taking GLP-1s - and why you should. (R)</desc>
   </programme>
   <programme start="20261004090000 +0000" stop="20261004090600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -3887,7 +4173,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261004140600 +0000" stop="20261004180000 +0000" channel="bbc_world_service.uk">
     <title lang="en">Sportsworld</title>
-    <desc lang="en">04/10/2026 GMT Live sport from around the world with news, interviews and analysis.</desc>
+    <desc lang="en">Live Sporting Action Live sport from around the world - including the Women's Super League.</desc>
   </programme>
   <programme start="20261004180000 +0000" stop="20261004180600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -4315,7 +4601,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261006033200 +0000" stop="20261006040000 +0000" channel="bbc_world_service.uk">
     <title lang="en">In the Studio</title>
-    <desc lang="en">In the Studio In the Studio takes us into the minds and processes of leading and emerging figures from across the creative world.</desc>
+    <desc lang="en">In the Studio In the Studio</desc>
   </programme>
   <programme start="20261006040000 +0000" stop="20261006040600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -4427,7 +4713,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261006123200 +0000" stop="20261006130000 +0000" channel="bbc_world_service.uk">
     <title lang="en">In the Studio</title>
-    <desc lang="en">In the Studio In the Studio takes us into the minds and processes of leading and emerging figures from across the creative world. (R)</desc>
+    <desc lang="en">In the Studio In the Studio (R)</desc>
   </programme>
   <programme start="20261006130000 +0000" stop="20261006130600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
@@ -4539,7 +4825,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261006213200 +0000" stop="20261006220000 +0000" channel="bbc_world_service.uk">
     <title lang="en">In the Studio</title>
-    <desc lang="en">In the Studio In the Studio takes us into the minds and processes of leading and emerging figures from across the creative world. (R)</desc>
+    <desc lang="en">In the Studio In the Studio (R)</desc>
   </programme>
   <programme start="20261006220000 +0000" stop="20261006220600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
