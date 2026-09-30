@@ -2202,156 +2202,232 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <channel id="WSCR.chicago">
     <display-name>WSCR 670 The Score</display-name>
+    <display-name>96</display-name>
   </channel>
-  <programme start="20260929062500 +0000" stop="20260929100000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night</title>
-    <desc>The biggest stories in sports as covered by Westwood One's cast of all-star hosts</desc>
-    <category>Sports</category>
+  <programme start="20260929050000 +0000" stop="20260929070000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">Late night national sports recap and live call-in show.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="WSCR.chicago">
-    <title>Best of The Score</title>
-    <desc>The Best of  interviews and commentary</desc>
-    <category>Sports</category>
+  <programme start="20260929070000 +0000" stop="20260929080000 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of The Score</title>
+    <desc lang="en">Highlights and top interviews from 670 The Score.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260929110000 +0000" stop="20260929160000 +0000" channel="WSCR.chicago">
-    <title>Haugh &amp; Payton</title>
-    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
-    <category>Sports</category>
+  <programme start="20260929080000 +0000" stop="20260929100000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Early Morning</title>
+    <desc lang="en">Early morning Chicago sports news and overnight replays.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260929160000 +0000" stop="20260929200000 +0000" channel="WSCR.chicago">
-    <title>Rahimi &amp; Grote Show</title>
-    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
-    <category>Sports</category>
+  <programme start="20260929100000 +0000" stop="20260929150000 +0000" channel="WSCR.chicago">
+    <title lang="en">Mully &amp; Haugh Show</title>
+    <desc lang="en">Mike Mulligan and David Haugh anchor morning drive covering Chicago sports.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260929200000 +0000" stop="20260930000000 +0000" channel="WSCR.chicago">
-    <title>Spiegel &amp; Holmes Show</title>
-    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
-    <category>Sports</category>
+  <programme start="20260929150000 +0000" stop="20260929190000 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi, Harris &amp; Grote Show</title>
+    <desc lang="en">Compelling mid-day Chicago sports talk and listener interaction.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260930000000 +0000" stop="20260930022500 +0000" channel="WSCR.chicago">
-    <title>Ramie Makhlouf</title>
-    <desc>Ramie Makhlouf discusses the latest Chicago sports storylines.</desc>
-    <category>Sports</category>
+  <programme start="20260929190000 +0000" stop="20260929210000 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes sports coverage and debate.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260930022500 +0000" stop="20260930030000 +0000" channel="WSCR.chicago">
-    <title>Chicago Cubs Pregame</title>
-    <desc>Chicago Cubs Pregame</desc>
-    <category>Sports</category>
+  <programme start="20260929210000 +0000" stop="20260930010000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Evening Sports Talk</title>
+    <desc lang="en">Chicago sports drive-time commentary with Anthony Herron &amp; Ramie Makhlouf.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261001000000 +0000" stop="20261001022500 +0000" channel="WSCR.chicago">
-    <title>Anthony Herron</title>
-    <desc>Chicago Sports Talk with Anthony Herron</desc>
-    <category>Sports</category>
+  <programme start="20260930010000 +0000" stop="20260930040000 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Tonight</title>
+    <desc lang="en">Live sports betting analysis, real-time wagers, and expert picks.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003030000 +0000" stop="20261003040000 +0000" channel="WSCR.chicago">
-    <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
-    <desc>Every win, every loss, every live wager—these guys are reacting in real-time with you. With \&quot;The Big Noise\&quot;, Brad Evans, a … more</desc>
-    <category>Sports</category>
+  <programme start="20260930040000 +0000" stop="20260930050000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">National sports wrap, scores, and updates.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003110000 +0000" stop="20261003113000 +0000" channel="WSCR.chicago">
-    <title>NFL Fantasy Forecast from Westwood One</title>
-    <desc>NFL Fantasy Forecast from Westwood One</desc>
-    <category>Sports</category>
+  <programme start="20260930050000 +0000" stop="20260930070000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">Late night national sports recap and live call-in show.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003113000 +0000" stop="20261003120000 +0000" channel="WSCR.chicago">
-    <title>NFL Preview on Westwood One</title>
-    <desc>NFL Preview on Westwood One</desc>
-    <category>Sports</category>
+  <programme start="20260930070000 +0000" stop="20260930080000 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of The Score</title>
+    <desc lang="en">Highlights and top interviews from 670 The Score.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003120000 +0000" stop="20261003130000 +0000" channel="WSCR.chicago">
-    <title>NFL Insider from Westwood One</title>
-    <desc>NFL Insider from Westwood One</desc>
-    <category>Sports</category>
+  <programme start="20260930080000 +0000" stop="20260930100000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Early Morning</title>
+    <desc lang="en">Early morning Chicago sports news and overnight replays.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003130000 +0000" stop="20261003140000 +0000" channel="WSCR.chicago">
-    <title>Kickoff with Boomer and Valenti</title>
-    <desc>The one-stop shop for everything NFL. WFAN’s Boomer Esiason and 97.1 The Ticket’s Mike Valenti team up to deliver all the be … more</desc>
-    <category>Sports</category>
+  <programme start="20260930100000 +0000" stop="20260930150000 +0000" channel="WSCR.chicago">
+    <title lang="en">Mully &amp; Haugh Show</title>
+    <desc lang="en">Mike Mulligan and David Haugh anchor morning drive covering Chicago sports.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003140000 +0000" stop="20261003150000 +0000" channel="WSCR.chicago">
-    <title>Palm Saturdays</title>
-    <desc>Mike Palm and the Circa Sports crew preview the sports weekend by discussing the latest gambling lines and trends</desc>
-    <category>Sports</category>
+  <programme start="20260930150000 +0000" stop="20260930190000 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi, Harris &amp; Grote Show</title>
+    <desc lang="en">Compelling mid-day Chicago sports talk and listener interaction.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003150000 +0000" stop="20261003170000 +0000" channel="WSCR.chicago">
-    <title>Inside the Clubhouse</title>
-    <desc>Bruce Levine and David Haugh host Inside the Clubhouse, discussing the latest Cubs, White Sox and MLB storylines while also … more</desc>
-    <category>Sports</category>
+  <programme start="20260930190000 +0000" stop="20260930210000 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes sports coverage and debate.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261003200000 +0000" stop="20261004003000 +0000" channel="WSCR.chicago">
-    <title>Gabe Ramirez</title>
-    <desc>Gabe Ramirez</desc>
-    <category>Sports</category>
+  <programme start="20260930210000 +0000" stop="20261001010000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Evening Sports Talk</title>
+    <desc lang="en">Chicago sports drive-time commentary with Anthony Herron &amp; Ramie Makhlouf.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004003000 +0000" stop="20261004040000 +0000" channel="WSCR.chicago">
-    <title>Mike Wickett</title>
-    <desc>Mike Wickett</desc>
-    <category>Sports</category>
+  <programme start="20261001010000 +0000" stop="20261001040000 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Tonight</title>
+    <desc lang="en">Live sports betting analysis, real-time wagers, and expert picks.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="WSCR.chicago">
-    <title>NFL Sunday Mornings with Elijah Campbell</title>
-    <desc>NFL Sunday Mornings with Elijah Campbell</desc>
-    <category>Sports</category>
+  <programme start="20261001040000 +0000" stop="20261001050000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">National sports wrap, scores, and updates.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="WSCR.chicago">
-    <title>Score Values</title>
-    <desc>Score Values</desc>
-    <category>Sports</category>
+  <programme start="20261001050000 +0000" stop="20261001070000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">Late night national sports recap and live call-in show.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="WSCR.chicago">
-    <title>BetMGM Gameday</title>
-    <desc>BetMGM Gameday</desc>
-    <category>Sports</category>
+  <programme start="20261001070000 +0000" stop="20261001080000 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of The Score</title>
+    <desc lang="en">Highlights and top interviews from 670 The Score.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="WSCR.chicago">
-    <title>Inside the North</title>
-    <desc>Inside the North examines the biggest storylines across the NFC North all throughout football season, bringing together loca … more</desc>
-    <category>Sports</category>
+  <programme start="20261001080000 +0000" stop="20261001100000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Early Morning</title>
+    <desc lang="en">Early morning Chicago sports news and overnight replays.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004150000 +0000" stop="20261004180000 +0000" channel="WSCR.chicago">
-    <title>Bears Pregame</title>
-    <desc>Leading up to kickoff, 104.3 The Score previews the Bears' upcoming game.</desc>
-    <category>Sports</category>
+  <programme start="20261001100000 +0000" stop="20261001150000 +0000" channel="WSCR.chicago">
+    <title lang="en">Mully &amp; Haugh Show</title>
+    <desc lang="en">Mike Mulligan and David Haugh anchor morning drive covering Chicago sports.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004180000 +0000" stop="20261004210000 +0000" channel="WSCR.chicago">
-    <title>NFL Sunday Now with Mike Wickett</title>
-    <desc>NFL Sunday Now with Mike Wickett</desc>
-    <category>Sports</category>
+  <programme start="20261001150000 +0000" stop="20261001190000 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi, Harris &amp; Grote Show</title>
+    <desc lang="en">Compelling mid-day Chicago sports talk and listener interaction.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004210000 +0000" stop="20261004230000 +0000" channel="WSCR.chicago">
-    <title>Bears Postgame with Kruetz &amp; Mannelly</title>
-    <desc>104.3 The Score breaks down the Bears' performance in our postgame show every week.</desc>
-    <category>Sports</category>
+  <programme start="20261001190000 +0000" stop="20261001210000 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes sports coverage and debate.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004230000 +0000" stop="20261005003000 +0000" channel="WSCR.chicago">
-    <title>Bears Postgame: Herron</title>
-    <desc>Anthony Herron hosts 104.3 The Score's post-postgame show after Bears games.</desc>
-    <category>Sports</category>
+  <programme start="20261001210000 +0000" stop="20261002010000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Evening Sports Talk</title>
+    <desc lang="en">Chicago sports drive-time commentary with Anthony Herron &amp; Ramie Makhlouf.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005003000 +0000" stop="20261005012000 +0000" channel="WSCR.chicago">
-    <title>Westwood One NFL Pregame</title>
-    <desc>Leading you up to kickoff</desc>
-    <category>Sports</category>
+  <programme start="20261002010000 +0000" stop="20261002040000 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Tonight</title>
+    <desc lang="en">Live sports betting analysis, real-time wagers, and expert picks.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005012000 +0000" stop="20261005043000 +0000" channel="WSCR.chicago">
-    <title>WSCR - Westwood One NFL Game</title>
-    <desc>WSCR - Westwood One NFL Game</desc>
-    <category>Sports</category>
+  <programme start="20261002040000 +0000" stop="20261002050000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">National sports wrap, scores, and updates.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="WSCR.chicago">
-    <title>WSCR - Westwood One NFL Postgame</title>
-    <desc>WSCR - Westwood One NFL Postgame</desc>
-    <category>Sports</category>
+  <programme start="20261002050000 +0000" stop="20261002070000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">Late night national sports recap and live call-in show.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005110000 +0000" stop="20261005160000 +0000" channel="WSCR.chicago">
-    <title>Mully &amp; Haugh Show</title>
-    <desc>Mike Mulligan and David Haugh lead you into your work day by discussing the biggest sports storylines in Chicago and beyond</desc>
-    <category>Sports</category>
+  <programme start="20261002070000 +0000" stop="20261002080000 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of The Score</title>
+    <desc lang="en">Highlights and top interviews from 670 The Score.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005160000 +0000" stop="20261005200000 +0000" channel="WSCR.chicago">
-    <title>Rahimi, Harris &amp; Grote show</title>
-    <desc>Leila Rahimi, Marshall Harris and Mark Grote bring you fun, smart and compelling Chicago sports talk with great listener int … more</desc>
-    <category>Sports</category>
+  <programme start="20261002080000 +0000" stop="20261002100000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Early Morning</title>
+    <desc lang="en">Early morning Chicago sports news and overnight replays.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002150000 +0000" channel="WSCR.chicago">
+    <title lang="en">Mully &amp; Haugh Show</title>
+    <desc lang="en">Mike Mulligan and David Haugh anchor morning drive covering Chicago sports.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261002150000 +0000" stop="20261002190000 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi, Harris &amp; Grote Show</title>
+    <desc lang="en">Compelling mid-day Chicago sports talk and listener interaction.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261002190000 +0000" stop="20261002210000 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes sports coverage and debate.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261002210000 +0000" stop="20261003010000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Evening Sports Talk</title>
+    <desc lang="en">Chicago sports drive-time commentary with Anthony Herron &amp; Ramie Makhlouf.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261003010000 +0000" stop="20261003040000 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Tonight</title>
+    <desc lang="en">Live sports betting analysis, real-time wagers, and expert picks.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261003040000 +0000" stop="20261003050000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">National sports wrap, scores, and updates.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005070000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">Late night national sports recap and live call-in show.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005070000 +0000" stop="20261005080000 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of The Score</title>
+    <desc lang="en">Highlights and top interviews from 670 The Score.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005080000 +0000" stop="20261005100000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Early Morning</title>
+    <desc lang="en">Early morning Chicago sports news and overnight replays.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005100000 +0000" stop="20261005150000 +0000" channel="WSCR.chicago">
+    <title lang="en">Mully &amp; Haugh Show</title>
+    <desc lang="en">Mike Mulligan and David Haugh anchor morning drive covering Chicago sports.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005150000 +0000" stop="20261005190000 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi, Harris &amp; Grote Show</title>
+    <desc lang="en">Compelling mid-day Chicago sports talk and listener interaction.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005210000 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes sports coverage and debate.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005210000 +0000" stop="20261006010000 +0000" channel="WSCR.chicago">
+    <title lang="en">The Score Evening Sports Talk</title>
+    <desc lang="en">Chicago sports drive-time commentary with Anthony Herron &amp; Ramie Makhlouf.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261006010000 +0000" stop="20261006040000 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Tonight</title>
+    <desc lang="en">Live sports betting analysis, real-time wagers, and expert picks.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006050000 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night</title>
+    <desc lang="en">National sports wrap, scores, and updates.</desc>
+    <category lang="en">Sports</category>
   </programme>
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
