@@ -2202,43 +2202,8 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <channel id="WSCR.chicago">
     <display-name lang="en">WSCR 670 The Score</display-name>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039486729.jpg"/>
   </channel>
-  <programme start="20260929050000 +0000" stop="20260929095959 +0000" channel="WSCR.chicago">
-    <title lang="en">Mike Esposito</title>
-    <desc lang="en">Mike Esposito breaks down all the latest Chicago sports storylines.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1779207881904.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260929100000 +0000" stop="20260929145959 +0000" channel="WSCR.chicago">
-    <title lang="en">Haugh &amp; Payton Show</title>
-    <desc lang="en">David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929185959 +0000" channel="WSCR.chicago">
-    <title lang="en">Rahimi &amp; Grote Show</title>
-    <desc lang="en">Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260929190000 +0000" stop="20260929225959 +0000" channel="WSCR.chicago">
-    <title lang="en">Spiegel &amp; Holmes Show</title>
-    <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260929230000 +0000" stop="20260930012459 +0000" channel="WSCR.chicago">
-    <title lang="en">Judson Richards</title>
-    <desc lang="en">Judson Richards discusses the latest Chicago sports storylines.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1770139966022.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930012500 +0000" stop="20260930052459 +0000" channel="WSCR.chicago">
-    <title lang="en">Chicago Cubs Baseball</title>
-    <desc lang="en">Chicago Cubs Baseball</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Cubs_Radio_1043_app_logo-1770745368967.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
   <programme start="20260930052500 +0000" stop="20260930085959 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with Lynnell Willingham</title>
     <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
@@ -2303,6 +2268,271 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261001190000 +0000" stop="20261001225959 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002030000 +0000" stop="20261002045959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Josh Graham</title>
+    <desc lang="en">Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball, and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002085959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Josh Graham</title>
+    <desc lang="en">Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball, and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002090000 +0000" stop="20261002095959 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of the Score</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002145959 +0000" channel="WSCR.chicago">
+    <title lang="en">Haugh &amp; Payton Show</title>
+    <desc lang="en">David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002150000 +0000" stop="20261002185959 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi &amp; Grote Show</title>
+    <desc lang="en">Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002190000 +0000" stop="20261002225959 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261002230000 +0000" stop="20261003015959 +0000" channel="WSCR.chicago">
+    <title lang="en">Chris Rongey</title>
+    <desc lang="en">Chris Rongey breaks down the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039575238.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003020000 +0000" stop="20261003025959 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Tonight with Brad Evans and Pat Boyle</title>
+    <desc lang="en">Every win, every loss, every live wager—these guys are reacting in real-time with you. With &quot;The Big Noise&quot;, Brad Evans, a FSWA Hall of Famer, is the most decorated writer/personality in fantasy sports history and top handicapper Ryan Horvat.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWO_BetMGMTonight_cvr_1400x1400-1768497032836.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003030000 +0000" stop="20261003045959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Josh Graham</title>
+    <desc lang="en">Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball, and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003095959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Josh Graham</title>
+    <desc lang="en">Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball, and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003115959 +0000" channel="WSCR.chicago">
+    <title lang="en">Nick Ashooh</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766526296068.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003102959 +0000" channel="WSCR.chicago">
+    <title lang="en">NFL Fantasy Forecast with Michael Fabiano and Amber Theoharis</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003105959 +0000" channel="WSCR.chicago">
+    <title lang="en">NFL Preview with Scott Graham and Ross Tucker</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003110000 +0000" stop="20261003115959 +0000" channel="WSCR.chicago">
+    <title lang="en">NFL Insider with Scott Graham</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003125959 +0000" channel="WSCR.chicago">
+    <title lang="en">Stinkin' Truth with Mark Schlereth</title>
+    <desc lang="en">Mark Schlereth's podcast talks NFL like nobody else! After winning 3 Super Bowls and going to multiple Pro Bowls, his knowledge of the NFL is second to none!</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/stinkintruth-1777494782725.png"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003125959 +0000" channel="WSCR.chicago">
+    <title lang="en">Kickoff with Boomer and Valenti</title>
+    <desc lang="en">The one-stop shop for everything NFL. WFAN’s Boomer Esiason and 97.1 The Ticket’s Mike Valenti team up to deliver all the best matchups, storylines, picks, angles, opinions and more.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/kickoff%20w%20boomer%20and%20valenti-1662496013965.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003130000 +0000" stop="20261003135959 +0000" channel="WSCR.chicago">
+    <title lang="en">Palm Saturdays</title>
+    <desc lang="en">Mike Palm and the Circa Sports crew preview the sports weekend by discussing the latest gambling lines and trends.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-PalmSaturdays-1771014249456.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003140000 +0000" stop="20261003155959 +0000" channel="WSCR.chicago">
+    <title lang="en">Inside the Clubhouse</title>
+    <desc lang="en">Bruce Levine and David Haugh host Inside the Clubhouse, discussing the latest Cubs, White Sox and MLB storylines while also welcoming on great guests from across the baseball landscape.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/insidetheclubhouse-1770136952416.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003160000 +0000" stop="20261003185959 +0000" channel="WSCR.chicago">
+    <title lang="en">Steve Rosenbloom Show</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/SteveRosenbloom-1770139185269.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003195959 +0000" channel="WSCR.chicago">
+    <title lang="en">Chicago Marathon Preview Show</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1789422315799.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261003235959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with John Lund</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505345065.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004025959 +0000" channel="WSCR.chicago">
+    <title lang="en">College Saturday Now with Lynnell Willingham</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1788875180207.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004045959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with John Lund</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505345065.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004050000 +0000" stop="20261004095959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with John Lund</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505345065.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004105959 +0000" channel="WSCR.chicago">
+    <title lang="en">Elijah Cunningham</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766514361991.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004105959 +0000" channel="WSCR.chicago">
+    <title lang="en">NFL Sunday Mornings with Elijah Campbell</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004110000 +0000" stop="20261004115959 +0000" channel="WSCR.chicago">
+    <title lang="en">Score Values</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039533533.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004125959 +0000" channel="WSCR.chicago">
+    <title lang="en">Lynnell Willingham Show</title>
+    <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence and tell-it-to-your-face mentality will ignite Westwood One Sports.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766428121444.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004125959 +0000" channel="WSCR.chicago">
+    <title lang="en">BetMGM Gameday</title>
+    <desc lang="en">BetMGM Gameday</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BMN_BetMGM_Gameday_CVR_1400x1400-1766508578267.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004135959 +0000" channel="WSCR.chicago">
+    <title lang="en">Inside The North</title>
+    <desc lang="en">Inside the North examines the biggest storylines across the NFC North all throughout football season, bringing together local market experts to share analysis and commentary on the Chicago Bears, Detroit Lions, Green Bay Packers and Minnesota Vikings.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Inside_the_North_Square-1788202710607.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004165959 +0000" channel="WSCR.chicago">
+    <title lang="en">Bears Pregame: Kreutz, Mannelly &amp; Ramirez</title>
+    <desc lang="en">Leading up to kickoff, 104.3 The Score previews the Bears' upcoming game.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788206095688.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004195959 +0000" channel="WSCR.chicago">
+    <title lang="en">NFL Sunday Now with Mike Wickett</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004200000 +0000" stop="20261004215959 +0000" channel="WSCR.chicago">
+    <title lang="en">Bears Postgame: Kreutz, Mannelly &amp; Herron</title>
+    <desc lang="en">104.3 The Score breaks down the Bears' performance in our postgame show every week.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788206314947.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004220000 +0000" stop="20261004232959 +0000" channel="WSCR.chicago">
+    <title lang="en">Bears Postgame: Herron</title>
+    <desc lang="en">Anthony Herron hosts 104.3 The Score's post-postgame show after Bears games.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788206407429.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261004233000 +0000" stop="20261005035959 +0000" channel="WSCR.chicago">
+    <title lang="en">Sunday Night Football on Westwood One: Detroit vs Carolina</title>
+    <desc lang="en">Listen to Sunday Night Football, LIVE on Westwood One!</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/100426_DETvsCAR-1790598943285.png"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005040000 +0000" stop="20261005045959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with John Mallory</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505363354.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005095959 +0000" channel="WSCR.chicago">
+    <title lang="en">Mike Esposito</title>
+    <desc lang="en">Mike Esposito breaks down all the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1779207881904.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005100000 +0000" stop="20261005145959 +0000" channel="WSCR.chicago">
+    <title lang="en">Haugh &amp; Payton Show</title>
+    <desc lang="en">David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005150000 +0000" stop="20261005185959 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi &amp; Grote Show</title>
+    <desc lang="en">Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005190000 +0000" stop="20261005225959 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261005230000 +0000" stop="20261006035959 +0000" channel="WSCR.chicago">
+    <title lang="en">Monday Night Football on Westwood One: Atlanta vs New Orleans</title>
+    <desc lang="en">Listen to Monday Night Football, LIVE on Westwood One!</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/100526_ATLvsNO-1790599133016.png"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006040000 +0000" stop="20261006045959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Lynnell Willingham</title>
+    <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006085959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Lynnell Willingham</title>
+    <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006090000 +0000" stop="20261006095959 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of the Score</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006145959 +0000" channel="WSCR.chicago">
+    <title lang="en">Haugh &amp; Payton Show</title>
+    <desc lang="en">David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006150000 +0000" stop="20261006185959 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi &amp; Grote Show</title>
+    <desc lang="en">Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261006190000 +0000" stop="20261006225959 +0000" channel="WSCR.chicago">
     <title lang="en">Spiegel &amp; Holmes Show</title>
     <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
