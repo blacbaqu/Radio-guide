@@ -1333,18 +1333,6 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
     <display-name lang="en">ESPN 1000 WMVP</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/WMVP_ESPN_1000_logo.svg/512px-WMVP_ESPN_1000_logo.svg.png"/>
   </channel>
-  <programme start="20260930190000 +0000" stop="20260930230000 +0000" channel="WMVP.chicago">
-    <title lang="en">Waddle &amp; Silvy</title>
-    <desc lang="en">Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001020000 +0000" channel="WMVP.chicago">
-    <title lang="en">Amber &amp; Ian</title>
-    <desc lang="en">Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
-    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500"/>
-    <category lang="en">ESPN Radio</category>
-  </programme>
   <programme start="20261001020000 +0000" stop="20261001050000 +0000" channel="WMVP.chicago">
     <title lang="en">ESPN Radio GameNight</title>
     <desc lang="en">Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
@@ -1928,169 +1916,6 @@ and Riley Corcoran, including interviews with assistant coaches.</desc>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
     <category>News</category>
   </programme>
-  <channel id="WSM">
-    <display-name>WSM 650 AM Nashville</display-name>
-  </channel>
-  <programme start="20260930050000 +0000" stop="20260930100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20260930100000 +0000" stop="20260930103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20260930110000 +0000" stop="20260930150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20260930150000 +0000" stop="20260930200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20260930200000 +0000" stop="20261001000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-  </programme>
-  <programme start="20261001050000 +0000" stop="20261001100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20261001100000 +0000" stop="20261001103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20261001150000 +0000" stop="20261001200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20261001200000 +0000" stop="20261002000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20261002000000 +0000" stop="20261002050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-  </programme>
-  <programme start="20261002050000 +0000" stop="20261002100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20261002100000 +0000" stop="20261002103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20261002110000 +0000" stop="20261002150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20261002150000 +0000" stop="20261002200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20261002200000 +0000" stop="20261003000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20261003000000 +0000" stop="20261003050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-  </programme>
-  <programme start="20261003050000 +0000" stop="20261003080000 +0000" channel="WSM">
-    <title>Y'all Access with Kelly Sutton</title>
-  </programme>
-  <programme start="20261003080000 +0000" stop="20261003113000 +0000" channel="WSM">
-    <title>WSM Music</title>
-  </programme>
-  <programme start="20261003113000 +0000" stop="20261003120000 +0000" channel="WSM">
-    <title>Tennessee Wildcast</title>
-  </programme>
-  <programme start="20261003120000 +0000" stop="20261003150000 +0000" channel="WSM">
-    <title>WSM Weekends</title>
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="WSM">
-    <title>The Crook &amp; Chase Countdown</title>
-  </programme>
-  <programme start="20261003190000 +0000" stop="20261003220000 +0000" channel="WSM">
-    <title>Y'all Access with Kelly Sutton</title>
-  </programme>
-  <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="WSM">
-    <title>Opry Warm-Up Show</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004022000 +0000" channel="WSM">
-    <title>Grand Ole Opry</title>
-    <desc>Live from the Grand Ole Opry House.</desc>
-  </programme>
-  <programme start="20261004022000 +0000" stop="20261004033000 +0000" channel="WSM">
-    <title>Opry Star Spotlight</title>
-  </programme>
-  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="WSM">
-    <title>The Dailey &amp; Vincent Show</title>
-  </programme>
-  <programme start="20261004040000 +0000" stop="20261004050000 +0000" channel="WSM">
-    <title>Golden Era of the Grand Ole Opry</title>
-  </programme>
-  <programme start="20261004050000 +0000" stop="20261004060000 +0000" channel="WSM">
-    <title>Golden Era of the Grand Ole Opry</title>
-  </programme>
-  <programme start="20261004060000 +0000" stop="20261004070000 +0000" channel="WSM">
-    <title>Sutton Ole Time Music Hour</title>
-  </programme>
-  <programme start="20261004070000 +0000" stop="20261004093000 +0000" channel="WSM">
-    <title>WSM Classics</title>
-  </programme>
-  <programme start="20261004093000 +0000" stop="20261004140000 +0000" channel="WSM">
-    <title>Paid Programming</title>
-  </programme>
-  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="WSM">
-    <title>WSM Gospel Hour</title>
-  </programme>
-  <programme start="20261004150000 +0000" stop="20261004170000 +0000" channel="WSM">
-    <title>Pure American Country</title>
-  </programme>
-  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="WSM">
-    <title>WSM Weekends with Amber Anderson</title>
-  </programme>
-  <programme start="20261004210000 +0000" stop="20261005000000 +0000" channel="WSM">
-    <title>The Fringe with Lexi Carter</title>
-  </programme>
-  <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="WSM">
-    <title>WSM Artists' Corner</title>
-  </programme>
-  <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="WSM">
-    <title>The Jason Coleman Show</title>
-  </programme>
-  <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="WSM">
-    <title>Into the Blue with Terry Herd</title>
-  </programme>
-  <programme start="20261005050000 +0000" stop="20261005100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20261005100000 +0000" stop="20261005103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20261005110000 +0000" stop="20261005150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20261005150000 +0000" stop="20261005200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20261005200000 +0000" stop="20261006000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20261006000000 +0000" stop="20261006030000 +0000" channel="WSM">
-    <title>Heart of the Night with Nan Kelley</title>
-  </programme>
-  <programme start="20261006030000 +0000" stop="20261006050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-  </programme>
-  <programme start="20261006050000 +0000" stop="20261006100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-  </programme>
-  <programme start="20261006100000 +0000" stop="20261006103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-  </programme>
-  <programme start="20261006110000 +0000" stop="20261006150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261007000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-  </programme>
-  <programme start="20261007000000 +0000" stop="20261007050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-  </programme>
   <channel id="THEBIG80SSTATION">
     <display-name>The Big 80s Station</display-name>
   </channel>
@@ -2490,47 +2315,6 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <display-name lang="en">WSCR 670 The Score</display-name>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039486729.jpg"/>
   </channel>
-  <programme start="20260930052500 +0000" stop="20260930085959 +0000" channel="WSCR.chicago">
-    <title lang="en">Westwood One Sports Night with Lynnell Willingham</title>
-    <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930090000 +0000" stop="20260930095959 +0000" channel="WSCR.chicago">
-    <title lang="en">Best of the Score</title>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930100000 +0000" stop="20260930145959 +0000" channel="WSCR.chicago">
-    <title lang="en">Haugh &amp; Payton Show</title>
-    <desc lang="en">David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930150000 +0000" stop="20260930185959 +0000" channel="WSCR.chicago">
-    <title lang="en">Rahimi &amp; Grote Show</title>
-    <desc lang="en">Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930225959 +0000" channel="WSCR.chicago">
-    <title lang="en">Spiegel &amp; Holmes Show</title>
-    <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20260930230000 +0000" stop="20261001012459 +0000" channel="WSCR.chicago">
-    <title lang="en">Ramie Makhlouf</title>
-    <desc lang="en">Ramie Makhlouf discusses the latest Chicago sports storylines.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039486729.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
-  <programme start="20261001012500 +0000" stop="20261001052459 +0000" channel="WSCR.chicago">
-    <title lang="en">Chicago Cubs Baseball</title>
-    <desc lang="en">Chicago Cubs Baseball</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Cubs_Radio_1043_app_logo-1770745368967.jpg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
   <programme start="20261001052500 +0000" stop="20261001085959 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505386317.jpg"/>
@@ -2824,309 +2608,44 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
+  <programme start="20261007030000 +0000" stop="20261007045959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Lynnell Willingham</title>
+    <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261007050000 +0000" stop="20261007085959 +0000" channel="WSCR.chicago">
+    <title lang="en">Westwood One Sports Night with Lynnell Willingham</title>
+    <desc lang="en">Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261007090000 +0000" stop="20261007095959 +0000" channel="WSCR.chicago">
+    <title lang="en">Best of the Score</title>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261007100000 +0000" stop="20261007145959 +0000" channel="WSCR.chicago">
+    <title lang="en">Haugh &amp; Payton Show</title>
+    <desc lang="en">David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261007150000 +0000" stop="20261007185959 +0000" channel="WSCR.chicago">
+    <title lang="en">Rahimi &amp; Grote Show</title>
+    <desc lang="en">Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20261007190000 +0000" stop="20261007225959 +0000" channel="WSCR.chicago">
+    <title lang="en">Spiegel &amp; Holmes Show</title>
+    <desc lang="en">Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg"/>
+    <category lang="en">Sports Talk</category>
+  </programme>
   <channel id="bbc_world_service.uk">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20260930000000 +0000" stop="20260930000600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930000600 +0000" stop="20260930003000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930003000 +0000" stop="20260930003200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930003200 +0000" stop="20260930010000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Global Story</title>
-    <desc lang="en">Did a farmer foil a plot to attack a UK military base? As the police investigate, the details raise more questions than answers (R)</desc>
-  </programme>
-  <programme start="20260930010000 +0000" stop="20260930010600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930010600 +0000" stop="20260930013000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930013000 +0000" stop="20260930013200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930013200 +0000" stop="20260930020000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Climate Question</title>
-    <desc lang="en">Climate overshoot: The world beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
-  </programme>
-  <programme start="20260930020000 +0000" stop="20260930020600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930020600 +0000" stop="20260930025000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">Why I had to speak up for Nigeria’s kidnapped schoolgirls Like them Aisha Yesefu was once poor and voiceless, she took their abduction personally  (R)</desc>
-  </programme>
-  <programme start="20260930025000 +0000" stop="20260930030000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">Sulawesi's cave art and the origins of storytelling In 2012, rock art found in Indonesia challenged our understanding of human history (R)</desc>
-  </programme>
-  <programme start="20260930030000 +0000" stop="20260930030600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930030600 +0000" stop="20260930033000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930033000 +0000" stop="20260930033200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930033200 +0000" stop="20260930040000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Documentary</title>
-    <desc lang="en">Where is Austin Tice? 4. The driver Josh and Sara piece together Austin’s final route into Damascus.</desc>
-  </programme>
-  <programme start="20260930040000 +0000" stop="20260930040600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930040600 +0000" stop="20260930050000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Children's lives in Gaza BBC investigation looks at how children are coping in the territory since the ceasefire.</desc>
-  </programme>
-  <programme start="20260930050000 +0000" stop="20260930050600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930050600 +0000" stop="20260930060000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Claims that hundreds are still dying in Gaza since ceasefire A BBC report on one family who saw a daughter killed and another seriously injured.</desc>
-  </programme>
-  <programme start="20260930060000 +0000" stop="20260930060600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930060600 +0000" stop="20260930070000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">President Trump assures on AI safety Mr Trump says AI executives have signed a &quot;morally binding&quot; agreement to self police.</desc>
-  </programme>
-  <programme start="20260930070000 +0000" stop="20260930070600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930070600 +0000" stop="20260930073000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Abhijeet Dipke, youth campaigner: There’s an underlying frustration in India Yogita Limaye speaks to Indian youth campaigner Abhijeet Dipke about h  is protest movement</desc>
-  </programme>
-  <programme start="20260930073000 +0000" stop="20260930073200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930073200 +0000" stop="20260930075000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">From blogger to billionaire, Canva's co-founder on what failures at Google Wave taught him From tech blogger to drowning in Google Wave - the twist  s that led Cameron Adams to Canva</desc>
-  </programme>
-  <programme start="20260930075000 +0000" stop="20260930080000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">The contraceptive pill gets legalised in Japan In 1999, after decades of campaigning, the oral contraceptive was legalised in Japan</desc>
-  </programme>
-  <programme start="20260930080000 +0000" stop="20260930080600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930080600 +0000" stop="20260930083000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930083000 +0000" stop="20260930083200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930083200 +0000" stop="20260930090000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Climate Question</title>
-    <desc lang="en">Climate overshoot: The world beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
-  </programme>
-  <programme start="20260930090000 +0000" stop="20260930090600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930090600 +0000" stop="20260930100000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Documentary</title>
-    <desc lang="en">Mapping India: The world's largest count India is undertaking the biggest population count of more than 1.4 billion people (R)</desc>
-  </programme>
-  <programme start="20260930100000 +0000" stop="20260930100600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930100600 +0000" stop="20260930103000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930103000 +0000" stop="20260930103200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930103200 +0000" stop="20260930110000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Global Story</title>
-    <desc lang="en">Is Meta dying? Meta looks to AI as a new film puts the company’s past decisions under scrutiny</desc>
-  </programme>
-  <programme start="20260930110000 +0000" stop="20260930110600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930110600 +0000" stop="20260930115000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">The Nigerian film-maker who took on Disney and made history Tolu Olowofoyeku wanted better access for Africa’s creators to the animation industry</desc>
-  </programme>
-  <programme start="20260930115000 +0000" stop="20260930120000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">The contraceptive pill gets legalised in Japan In 1999, after decades of campaigning, the oral contraceptive was legalised in Japan (R)</desc>
-  </programme>
-  <programme start="20260930120000 +0000" stop="20260930120600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930120600 +0000" stop="20260930123000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930123000 +0000" stop="20260930123200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930123200 +0000" stop="20260930130000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Documentary</title>
-    <desc lang="en">Where is Austin Tice? 4. The driver Josh and Sara piece together Austin’s final route into Damascus. (R)</desc>
-  </programme>
-  <programme start="20260930130000 +0000" stop="20260930130600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930130600 +0000" stop="20260930140000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Passengers helped stop knife attack in cockpit of Israel-bound plane Netanyahu says pilot was attempting to sabotage the plane</desc>
-  </programme>
-  <programme start="20260930140000 +0000" stop="20260930140600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930140600 +0000" stop="20260930143000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Abhijeet Dipke, youth campaigner: There’s an underlying frustration in India Yogita Limaye speaks to Indian youth campaigner Abhijeet Dipke about h  is protest movement (R)</desc>
-  </programme>
-  <programme start="20260930143000 +0000" stop="20260930143200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930143200 +0000" stop="20260930145000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Business Daily</title>
-    <desc lang="en">From blogger to billionaire, Canva's co-founder on what failures at Google Wave taught him From tech blogger to drowning in Google Wave - the twist  s that led Cameron Adams to Canva (R)</desc>
-  </programme>
-  <programme start="20260930145000 +0000" stop="20260930150000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World Business Express</title>
-    <desc lang="en">Kenya breaks ground ready for its major new oil refinery Why a new oil refinery for Kenya could deliver greater fuel independence for Africa</desc>
-  </programme>
-  <programme start="20260930150000 +0000" stop="20260930150600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930150600 +0000" stop="20260930160000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">Israel-bound flight stabbing: New details emerge Israel's Prime Minister gives more details on what happened</desc>
-  </programme>
-  <programme start="20260930160000 +0000" stop="20260930160600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930160600 +0000" stop="20260930170000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outside Source</title>
-    <desc lang="en">Guardiola backs Man City Former manager Pep Guardiola backs Manchester City's owners</desc>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930170600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930170600 +0000" stop="20260930175000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Outlook</title>
-    <desc lang="en">The Nigerian film-maker who took on Disney and made history Tolu Olowofoyeku wanted better access for Africa’s creators to the animation industry  (R)</desc>
-  </programme>
-  <programme start="20260930175000 +0000" stop="20260930180000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Witness History</title>
-    <desc lang="en">The contraceptive pill gets legalised in Japan In 1999, after decades of campaigning, the oral contraceptive was legalised in Japan (R)</desc>
-  </programme>
-  <programme start="20260930180000 +0000" stop="20260930180600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930180600 +0000" stop="20260930183000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930183000 +0000" stop="20260930183200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930183200 +0000" stop="20260930190000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Sport Today</title>
-    <desc lang="en">2026/09/30 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930190600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930190600 +0000" stop="20260930193000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Climate Question</title>
-    <desc lang="en">Climate overshoot: The world beyond 1.5°C The UN says we will pass our most important climate target. Is the damage irreversible? (R)</desc>
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930193200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930193200 +0000" stop="20260930200000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Health Check</title>
-    <desc lang="en">Do men and women receive different medical treatment? Men and women are frequently treated differently by healthcare systems</desc>
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930200600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930200600 +0000" stop="20260930210000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">Newshour</title>
-    <desc lang="en">Jubilant scenes as Israeli Fly Dubai passengers return home Israeli PM Benjamin Netanyahu said the co-pilot attempted to deliberately crash the plan  e</desc>
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930210600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930210600 +0000" stop="20260930213000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Interview</title>
-    <desc lang="en">Abhijeet Dipke, youth campaigner: There’s an underlying frustration in India Yogita Limaye speaks to Indian youth campaigner Abhijeet Dipke about h  is protest movement (R)</desc>
-  </programme>
-  <programme start="20260930213000 +0000" stop="20260930213200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930213200 +0000" stop="20260930220000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Documentary</title>
-    <desc lang="en">Where is Austin Tice? 4. The driver Josh and Sara piece together Austin’s final route into Damascus. (R)</desc>
-  </programme>
-  <programme start="20260930220000 +0000" stop="20260930220600 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930220600 +0000" stop="20260930223000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">The Newsroom</title>
-    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20260930223000 +0000" stop="20260930223200 +0000" channel="bbc_world_service.uk">
-    <title lang="en">BBC News Summary</title>
-    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20260930223200 +0000" stop="20261001000000 +0000" channel="bbc_world_service.uk">
-    <title lang="en">World Business Report</title>
-    <desc lang="en">Ukraine has begun introducing emergency power cuts in Kyiv President Zelensky said energy facilities were targeted across Ukraine</desc>
-  </programme>
   <programme start="20261001000000 +0000" stop="20261001000600 +0000" channel="bbc_world_service.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
@@ -4839,8 +4358,561 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <title lang="en">BBC News Summary</title>
     <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
   </programme>
-  <programme start="20261006223200 +0000" stop="20261006230200 +0000" channel="bbc_world_service.uk">
+  <programme start="20261006223200 +0000" stop="20261007000000 +0000" channel="bbc_world_service.uk">
     <title lang="en">World Business Report</title>
     <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
+  </programme>
+  <programme start="20261007000000 +0000" stop="20261007000600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007000600 +0000" stop="20261007003000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007003000 +0000" stop="20261007003200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007003200 +0000" stop="20261007010000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Global Story</title>
+    <desc lang="en">The Global Story . (R)</desc>
+  </programme>
+  <programme start="20261007010000 +0000" stop="20261007010600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007010600 +0000" stop="20261007013000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007013000 +0000" stop="20261007013200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007013200 +0000" stop="20261007020000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Climate Question</title>
+    <desc lang="en">The Climate Question Stories on why we find it so hard to save our own planet, and how we might change that. (R)</desc>
+  </programme>
+  <programme start="20261007020000 +0000" stop="20261007020600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007020600 +0000" stop="20261007025000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20261007025000 +0000" stop="20261007030000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">Egypt’s President Sadat is assassinated In October 1981, President Anwar Sadat was assassinated at a military parade (R)</desc>
+  </programme>
+  <programme start="20261007030000 +0000" stop="20261007030600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007030600 +0000" stop="20261007033000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007033000 +0000" stop="20261007033200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007033200 +0000" stop="20261007040000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Documentary</title>
+    <desc lang="en">Where is Austin Tice? 5. The video A video appears online titled: “Austin Tice Still Alive”.</desc>
+  </programme>
+  <programme start="20261007040000 +0000" stop="20261007040600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007040600 +0000" stop="20261007050000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20261007050000 +0000" stop="20261007050600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007050600 +0000" stop="20261007060000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20261007060000 +0000" stop="20261007060600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007060600 +0000" stop="20261007070000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20261007070000 +0000" stop="20261007070600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007070600 +0000" stop="20261007073000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC.</desc>
+  </programme>
+  <programme start="20261007073000 +0000" stop="20261007073200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007073200 +0000" stop="20261007075000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Business Daily</title>
+    <desc lang="en">Business Daily The daily drama of money and work from the BBC.</desc>
+  </programme>
+  <programme start="20261007075000 +0000" stop="20261007080000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The mirrors that lit up a dark Norwegian town In 2013, Rjukan saw winter sunshine for the first time – thanks to an unusual invention</desc>
+  </programme>
+  <programme start="20261007080000 +0000" stop="20261007080600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007080600 +0000" stop="20261007083000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007083000 +0000" stop="20261007083200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007083200 +0000" stop="20261007090000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Climate Question</title>
+    <desc lang="en">The Climate Question Stories on why we find it so hard to save our own planet, and how we might change that. (R)</desc>
+  </programme>
+  <programme start="20261007090000 +0000" stop="20261007090600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007090600 +0000" stop="20261007100000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Artists at Work</title>
+    <desc lang="en">World Book Club - Paul Tremblay, A Head Full of Ghosts Josie Long interviews Paul Tremblay about 'A Head Full of Ghosts' (R)</desc>
+  </programme>
+  <programme start="20261007100000 +0000" stop="20261007100600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007100600 +0000" stop="20261007103000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007103000 +0000" stop="20261007103200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007103200 +0000" stop="20261007110000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Global Story</title>
+    <desc lang="en">The Global Story .</desc>
+  </programme>
+  <programme start="20261007110000 +0000" stop="20261007110600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007110600 +0000" stop="20261007115000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+  </programme>
+  <programme start="20261007115000 +0000" stop="20261007120000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The mirrors that lit up a dark Norwegian town In 2013, Rjukan saw winter sunshine for the first time – thanks to an unusual invention (R)</desc>
+  </programme>
+  <programme start="20261007120000 +0000" stop="20261007120600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007120600 +0000" stop="20261007123000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007123000 +0000" stop="20261007123200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007123200 +0000" stop="20261007130000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Documentary</title>
+    <desc lang="en">Where is Austin Tice? 5. The video A video appears online titled: “Austin Tice Still Alive”. (R)</desc>
+  </programme>
+  <programme start="20261007130000 +0000" stop="20261007130600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007130600 +0000" stop="20261007140000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261007140000 +0000" stop="20261007140600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007140600 +0000" stop="20261007143000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+  </programme>
+  <programme start="20261007143000 +0000" stop="20261007143200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007143200 +0000" stop="20261007145000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Business Daily</title>
+    <desc lang="en">Business Daily The daily drama of money and work from the BBC. (R)</desc>
+  </programme>
+  <programme start="20261007145000 +0000" stop="20261007150000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World Business Express</title>
+    <desc lang="en">07/10/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+  </programme>
+  <programme start="20261007150000 +0000" stop="20261007150600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007150600 +0000" stop="20261007160000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outside Source</title>
+    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20261007160000 +0000" stop="20261007160600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007160600 +0000" stop="20261007170000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outside Source</title>
+    <desc lang="en">A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20261007170000 +0000" stop="20261007170600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007170600 +0000" stop="20261007175000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Outlook</title>
+    <desc lang="en">Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20261007175000 +0000" stop="20261007180000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Witness History</title>
+    <desc lang="en">The mirrors that lit up a dark Norwegian town In 2013, Rjukan saw winter sunshine for the first time – thanks to an unusual invention (R)</desc>
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007180600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007180600 +0000" stop="20261007183000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007183000 +0000" stop="20261007183200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007183200 +0000" stop="20261007190000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">2026/10/07 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+  </programme>
+  <programme start="20261007190000 +0000" stop="20261007190600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007190600 +0000" stop="20261007193000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Climate Question</title>
+    <desc lang="en">The Climate Question Stories on why we find it so hard to save our own planet, and how we might change that. (R)</desc>
+  </programme>
+  <programme start="20261007193000 +0000" stop="20261007193200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007193200 +0000" stop="20261007200000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Health Check</title>
+    <desc lang="en">Health Check Health issues and medical breakthroughs from around the world.</desc>
+  </programme>
+  <programme start="20261007200000 +0000" stop="20261007200600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007200600 +0000" stop="20261007210000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261007210000 +0000" stop="20261007210600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007210600 +0000" stop="20261007213000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Interview</title>
+    <desc lang="en">The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+  </programme>
+  <programme start="20261007213000 +0000" stop="20261007213200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007213200 +0000" stop="20261007220000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Documentary</title>
+    <desc lang="en">Where is Austin Tice? 5. The video A video appears online titled: “Austin Tice Still Alive”. (R)</desc>
+  </programme>
+  <programme start="20261007220000 +0000" stop="20261007220600 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007220600 +0000" stop="20261007223000 +0000" channel="bbc_world_service.uk">
+    <title lang="en">The Newsroom</title>
+    <desc lang="en">The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261007223000 +0000" stop="20261007223200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">BBC News Summary</title>
+    <desc lang="en">The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261007223200 +0000" stop="20261007230200 +0000" channel="bbc_world_service.uk">
+    <title lang="en">World Business Report</title>
+    <desc lang="en">The latest business and finance news from around the world, on the BBC.</desc>
+  </programme>
+  <channel id="WSM">
+    <display-name>WSM 650 AM Nashville</display-name>
+  </channel>
+  <programme start="20260930050000 +0000" stop="20260930100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg"/>
+  </programme>
+  <programme start="20260930100000 +0000" stop="20260930103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20260930110000 +0000" stop="20260930150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png"/>
+  </programme>
+  <programme start="20260930150000 +0000" stop="20260930200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp"/>
+  </programme>
+  <programme start="20260930200000 +0000" stop="20261001000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg"/>
+  </programme>
+  <programme start="20261001000000 +0000" stop="20261001050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png"/>
+  </programme>
+  <programme start="20261001050000 +0000" stop="20261001100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg"/>
+  </programme>
+  <programme start="20261001100000 +0000" stop="20261001103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png"/>
+  </programme>
+  <programme start="20261001150000 +0000" stop="20261001200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp"/>
+  </programme>
+  <programme start="20261001200000 +0000" stop="20261002000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg"/>
+  </programme>
+  <programme start="20261002000000 +0000" stop="20261002050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png"/>
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg"/>
+  </programme>
+  <programme start="20261002100000 +0000" stop="20261002103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261002110000 +0000" stop="20261002150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png"/>
+  </programme>
+  <programme start="20261002150000 +0000" stop="20261002200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp"/>
+  </programme>
+  <programme start="20261002200000 +0000" stop="20261003000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg"/>
+  </programme>
+  <programme start="20261003000000 +0000" stop="20261003023000 +0000" channel="WSM">
+    <title>Grand Ole Opry</title>
+    <desc>Live from the Grand Ole Opry House. Featuring Brad Paisley, Lucas Leon, Vince Gill, The Oak Ridge Boys, Ricky Skaggs, Suzy Bogguss, Connie Smith, Riders In The Sky.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-18.jpg"/>
+  </programme>
+  <programme start="20261003023000 +0000" stop="20261003050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png"/>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003080000 +0000" channel="WSM">
+    <title>Y'all Access with Kelly Sutton</title>
+    <desc>Kelly Sutton takes you behind the velvet ropes with backstage country music news, insider stories, and exclusive artist interviews.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-04.jpg"/>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003113000 +0000" channel="WSM">
+    <title>WSM Music</title>
+    <desc>Continuous traditional country favorites broadcasting straight from the legendary 650 AM WSM studios.</desc>
+  </programme>
+  <programme start="20261003113000 +0000" stop="20261003120000 +0000" channel="WSM">
+    <title>Tennessee Wildcast</title>
+    <desc>Outdoor reports, wildlife conservation updates, hunting and fishing tips from the Tennessee Wildlife Resources Agency.</desc>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003150000 +0000" channel="WSM">
+    <title>WSM Weekends</title>
+    <desc>A weekend wake-up mix of traditional country, bluegrass, and Americana favorites.</desc>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003190000 +0000" channel="WSM">
+    <title>The Crook &amp; Chase Countdown</title>
+    <desc>Lorianne Crook and Charlie Chase count down the nation's top 30 country songs, complete with artist chats and music news.</desc>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003220000 +0000" channel="WSM">
+    <title>Y'all Access with Kelly Sutton</title>
+    <desc>Kelly Sutton takes you behind the velvet ropes with backstage country music news, insider stories, and exclusive artist interviews.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-04.jpg"/>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="WSM">
+    <title>Opry Warm-Up Show</title>
+    <desc>Get ready for the Grand Ole Opry with backstage interviews, show history, and classic performances from past Opry legends.</desc>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004022000 +0000" channel="WSM">
+    <title>Grand Ole Opry</title>
+    <desc>Live from the Grand Ole Opry House. Featuring Vince Gill, Rhett Akins, The Oak Ridge Boys, Bill Anderson, Mandy Barnett, Mark Wills, Opry Square Dancers.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-18.jpg"/>
+  </programme>
+  <programme start="20261004022000 +0000" stop="20261004033000 +0000" channel="WSM">
+    <title>Opry Star Spotlight</title>
+    <desc>Focusing on the stories, recordings, and history of featured Grand Ole Opry members and special guest performers.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-14.jpg"/>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="WSM">
+    <title>The Dailey &amp; Vincent Show</title>
+    <desc>Grammy-nominated duo Jamie Dailey and Darrin Vincent showcase bluegrass, traditional country, and Southern gospel music.</desc>
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004050000 +0000" channel="WSM">
+    <title>Golden Era of the Grand Ole Opry</title>
+    <desc>Vintage recordings and historical radio transcriptions capturing the golden age of the Grand Ole Opry.</desc>
+  </programme>
+  <programme start="20261004050000 +0000" stop="20261004060000 +0000" channel="WSM">
+    <title>Golden Era of the Grand Ole Opry</title>
+    <desc>Vintage recordings and historical radio transcriptions capturing the golden age of the Grand Ole Opry.</desc>
+  </programme>
+  <programme start="20261004060000 +0000" stop="20261004070000 +0000" channel="WSM">
+    <title>Sutton Ole Time Music Hour</title>
+    <desc>Authentic mountain bluegrass, Appalachian string bands, and old-time acoustic music recorded live at the Sutton General Store in Granville, TN.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/09/image-1.png"/>
+  </programme>
+  <programme start="20261004070000 +0000" stop="20261004093000 +0000" channel="WSM">
+    <title>WSM Classics</title>
+    <desc>Deep archival cuts, honky-tonk standards, and timeless country anthems that defined WSM's rich broadcast legacy.</desc>
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004140000 +0000" channel="WSM">
+    <title>Paid Programming</title>
+    <desc>Station informational and sponsored programming.</desc>
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="WSM">
+    <title>WSM Gospel Hour</title>
+    <desc>Inspirational Southern gospel favorites and spiritual country music on Sunday mornings.</desc>
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004170000 +0000" channel="WSM">
+    <title>Pure American Country</title>
+    <desc>Honky-tonk hits, country storytelling, and timeless standards celebrating the roots of American country music.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-08.jpg"/>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="WSM">
+    <title>WSM Weekends with Amber Anderson</title>
+    <desc>Sunday afternoon country cuts, roots Americana, and great weekend road tracks.</desc>
+  </programme>
+  <programme start="20261004210000 +0000" stop="20261005000000 +0000" channel="WSM">
+    <title>The Fringe with Lexi Carter</title>
+    <desc>Spotlighting independent artists, emerging singer-songwriters, and boundary-pushing Americana and alt-country sounds.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-06.jpg"/>
+  </programme>
+  <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="WSM">
+    <title>WSM Artists' Corner</title>
+    <desc>In-depth discussions, career reflections, and album spotlights with premier country and roots musicians.</desc>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="WSM">
+    <title>The Jason Coleman Show</title>
+    <desc>Grandson of keyboard legend Floyd Cramer, Jason Coleman brings the classic piano 'slip-note' Nashville Sound to life with music and stories.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-07.jpg"/>
+  </programme>
+  <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="WSM">
+    <title>Into the Blue with Terry Herd</title>
+    <desc>America's premier syndicated bluegrass radio show featuring the latest charts, exclusive artist interviews, and timeless classics.</desc>
+  </programme>
+  <programme start="20261005050000 +0000" stop="20261005100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg"/>
+  </programme>
+  <programme start="20261005100000 +0000" stop="20261005103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261005110000 +0000" stop="20261005150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png"/>
+  </programme>
+  <programme start="20261005150000 +0000" stop="20261005200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp"/>
+  </programme>
+  <programme start="20261005200000 +0000" stop="20261006000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg"/>
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006030000 +0000" channel="WSM">
+    <title>Heart of the Night with Nan Kelley</title>
+    <desc>Evenings featuring heartfelt country hits, artist spotlights, and listener requests hosted by Nan Kelley.</desc>
+  </programme>
+  <programme start="20261006030000 +0000" stop="20261006050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png"/>
+  </programme>
+  <programme start="20261006050000 +0000" stop="20261006100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg"/>
+  </programme>
+  <programme start="20261006100000 +0000" stop="20261006103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261006110000 +0000" stop="20261006150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png"/>
+  </programme>
+  <programme start="20261006150000 +0000" stop="20261006200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp"/>
+  </programme>
+  <programme start="20261006200000 +0000" stop="20261007000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg"/>
+  </programme>
+  <programme start="20261007000000 +0000" stop="20261007050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png"/>
   </programme>
 </tv>
