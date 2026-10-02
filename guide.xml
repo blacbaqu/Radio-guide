@@ -793,53 +793,13 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20261001060000 +0000" stop="20261001110000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-  </programme>
-  <programme start="20261001110000 +0000" stop="20261001120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
-  </programme>
-  <programme start="20261001120000 +0000" stop="20261001140000 +0000" channel="KGVO">
-    <title>Montana Morning</title>
-    <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001160000 +0000" channel="KGVO">
-    <title>Talk Back Missoula</title>
-    <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
-  </programme>
-  <programme start="20261001160000 +0000" stop="20261001190000 +0000" channel="KGVO">
-    <title>Clay Travis &amp; Buck Sexton</title>
-    <desc>National political commentary and news analysis.</desc>
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001220000 +0000" channel="KGVO">
-    <title>Sean Hannity</title>
-    <desc>National conservative talk show with political commentary and interviews.</desc>
-  </programme>
-  <programme start="20261001220000 +0000" stop="20261002010000 +0000" channel="KGVO">
-    <title>Mark Levin</title>
-    <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
-  </programme>
-  <programme start="20261002010000 +0000" stop="20261002030000 +0000" channel="KGVO">
-    <title>The Dave Ramsey Show</title>
-    <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
-  </programme>
-  <programme start="20261002030000 +0000" stop="20261002050000 +0000" channel="KGVO">
-    <title>Jesse Kelly</title>
-    <desc>Political commentary and cultural analysis.</desc>
-  </programme>
-  <programme start="20261002050000 +0000" stop="20261002060000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-  </programme>
   <programme start="20261002060000 +0000" stop="20261002110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
   <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
+    <title>Dan Bongino</title>
+    <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
   </programme>
   <programme start="20261002120000 +0000" stop="20261002140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
@@ -974,8 +934,8 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
   <programme start="20261005110000 +0000" stop="20261005120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
+    <title>Dan Bongino</title>
+    <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
   </programme>
   <programme start="20261005120000 +0000" stop="20261005140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
@@ -1014,8 +974,8 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
   <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
+    <title>Dan Bongino</title>
+    <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
   </programme>
   <programme start="20261006120000 +0000" stop="20261006140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
@@ -1054,8 +1014,8 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
   <programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="KGVO">
-    <title>America In The Morning</title>
-    <desc>America starts the day with America in the Morning.</desc>
+    <title>Dan Bongino</title>
+    <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
   </programme>
   <programme start="20261007120000 +0000" stop="20261007140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
@@ -1091,6 +1051,46 @@ Riley Corcoran, plus player spotlight segments.</desc>
     <desc>Political commentary and cultural analysis.</desc>
   </programme>
   <programme start="20261008050000 +0000" stop="20261008060000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  </programme>
+  <programme start="20261008060000 +0000" stop="20261008110000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+  </programme>
+  <programme start="20261008110000 +0000" stop="20261008120000 +0000" channel="KGVO">
+    <title>Dan Bongino</title>
+    <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
+  </programme>
+  <programme start="20261008120000 +0000" stop="20261008140000 +0000" channel="KGVO">
+    <title>Montana Morning</title>
+    <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008160000 +0000" channel="KGVO">
+    <title>Talk Back Missoula</title>
+    <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+  </programme>
+  <programme start="20261008160000 +0000" stop="20261008190000 +0000" channel="KGVO">
+    <title>Clay Travis &amp; Buck Sexton</title>
+    <desc>National political commentary and news analysis.</desc>
+  </programme>
+  <programme start="20261008190000 +0000" stop="20261008220000 +0000" channel="KGVO">
+    <title>Sean Hannity</title>
+    <desc>National conservative talk show with political commentary and interviews.</desc>
+  </programme>
+  <programme start="20261008220000 +0000" stop="20261009010000 +0000" channel="KGVO">
+    <title>Mark Levin</title>
+    <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+  </programme>
+  <programme start="20261009010000 +0000" stop="20261009030000 +0000" channel="KGVO">
+    <title>The Dave Ramsey Show</title>
+    <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+  </programme>
+  <programme start="20261009030000 +0000" stop="20261009050000 +0000" channel="KGVO">
+    <title>Jesse Kelly</title>
+    <desc>Political commentary and cultural analysis.</desc>
+  </programme>
+  <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
   </programme>
@@ -1365,50 +1365,6 @@ Riley Corcoran, plus player spotlight segments.</desc>
   <channel id="KMPT">
     <display-name>930 AM KMPT Missoula</display-name>
   </channel>
-  <programme start="20261001060000 +0000" stop="20261001100000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
-  </programme>
-  <programme start="20261001100000 +0000" stop="20261001120000 +0000" channel="KMPT">
-    <title>O'Connor &amp; Company</title>
-    <desc>Larry O'Connor brings sharp political wit, morning headlines, Beltway insights, and engaging banter to kick off the day.</desc>
-  </programme>
-  <programme start="20261001120000 +0000" stop="20261001130000 +0000" channel="KMPT">
-    <title>Dan Bongino</title>
-    <desc>Former Secret Service agent and NYPD officer Dan Bongino examines top political battles, intelligence news, and constitutional principles.</desc>
-  </programme>
-  <programme start="20261001130000 +0000" stop="20261001160000 +0000" channel="KMPT">
-    <title>Montana Talks</title>
-    <desc>Aaron Flint hosts Montana's premiere statewide morning talk show covering state politics, local community issues, outdoor traditions, and conversations with Montana leaders.</desc>
-  </programme>
-  <programme start="20261001160000 +0000" stop="20261001190000 +0000" channel="KMPT">
-    <title>Dana Loesch</title>
-    <desc>Dana Loesch delivers bold, hard-hitting commentary on constitutional rights, national politics, media coverage, and cultural debates.</desc>
-  </programme>
-  <programme start="20261001190000 +0000" stop="20261001200000 +0000" channel="KMPT">
-    <title>Montana Talks</title>
-    <desc>Aaron Flint hosts Montana's premiere statewide morning talk show covering state politics, local community issues, outdoor traditions, and conversations with Montana leaders.</desc>
-  </programme>
-  <programme start="20261001200000 +0000" stop="20261001220000 +0000" channel="KMPT">
-    <title>The Chris Plante Show</title>
-    <desc>Award-winning investigative reporter Chris Plante cuts through mainstream media spin with humor, quick wit, and deep Washington experience.</desc>
-  </programme>
-  <programme start="20261001220000 +0000" stop="20261002010000 +0000" channel="KMPT">
-    <title>Glenn Beck</title>
-    <desc>Glenn Beck blends storytelling, historical context, and investigative research to analyze current political trends and American values.</desc>
-  </programme>
-  <programme start="20261002010000 +0000" stop="20261002020000 +0000" channel="KMPT">
-    <title>Dave Ramsey</title>
-    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
-  </programme>
-  <programme start="20261002020000 +0000" stop="20261002050000 +0000" channel="KMPT">
-    <title>Armstrong &amp; Getty</title>
-    <desc>Jack Armstrong and Joe Getty mix contemporary politics, pop culture, news satire, and common-sense humor into their daily broadcast.</desc>
-  </programme>
-  <programme start="20261002050000 +0000" stop="20261002060000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
-  </programme>
   <programme start="20261002060000 +0000" stop="20261002100000 +0000" channel="KMPT">
     <title>Red Eye Radio</title>
     <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
@@ -1673,22 +1629,54 @@ Riley Corcoran, plus player spotlight segments.</desc>
     <title>Red Eye Radio</title>
     <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
   </programme>
+  <programme start="20261008060000 +0000" stop="20261008100000 +0000" channel="KMPT">
+    <title>Red Eye Radio</title>
+    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
+  </programme>
+  <programme start="20261008100000 +0000" stop="20261008120000 +0000" channel="KMPT">
+    <title>O'Connor &amp; Company</title>
+    <desc>Larry O'Connor brings sharp political wit, morning headlines, Beltway insights, and engaging banter to kick off the day.</desc>
+  </programme>
+  <programme start="20261008120000 +0000" stop="20261008130000 +0000" channel="KMPT">
+    <title>Dan Bongino</title>
+    <desc>Former Secret Service agent and NYPD officer Dan Bongino examines top political battles, intelligence news, and constitutional principles.</desc>
+  </programme>
+  <programme start="20261008130000 +0000" stop="20261008160000 +0000" channel="KMPT">
+    <title>Montana Talks</title>
+    <desc>Aaron Flint hosts Montana's premiere statewide morning talk show covering state politics, local community issues, outdoor traditions, and conversations with Montana leaders.</desc>
+  </programme>
+  <programme start="20261008160000 +0000" stop="20261008190000 +0000" channel="KMPT">
+    <title>Dana Loesch</title>
+    <desc>Dana Loesch delivers bold, hard-hitting commentary on constitutional rights, national politics, media coverage, and cultural debates.</desc>
+  </programme>
+  <programme start="20261008190000 +0000" stop="20261008200000 +0000" channel="KMPT">
+    <title>Montana Talks</title>
+    <desc>Aaron Flint hosts Montana's premiere statewide morning talk show covering state politics, local community issues, outdoor traditions, and conversations with Montana leaders.</desc>
+  </programme>
+  <programme start="20261008200000 +0000" stop="20261008220000 +0000" channel="KMPT">
+    <title>The Chris Plante Show</title>
+    <desc>Award-winning investigative reporter Chris Plante cuts through mainstream media spin with humor, quick wit, and deep Washington experience.</desc>
+  </programme>
+  <programme start="20261008220000 +0000" stop="20261009010000 +0000" channel="KMPT">
+    <title>Glenn Beck</title>
+    <desc>Glenn Beck blends storytelling, historical context, and investigative research to analyze current political trends and American values.</desc>
+  </programme>
+  <programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="KMPT">
+    <title>Dave Ramsey</title>
+    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
+  </programme>
+  <programme start="20261009020000 +0000" stop="20261009050000 +0000" channel="KMPT">
+    <title>Armstrong &amp; Getty</title>
+    <desc>Jack Armstrong and Joe Getty mix contemporary politics, pop culture, news satire, and common-sense humor into their daily broadcast.</desc>
+  </programme>
+  <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="KMPT">
+    <title>Red Eye Radio</title>
+    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
+  </programme>
   <channel id="WMVP.chicago">
     <display-name lang="en">ESPN 1000 WMVP</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/WMVP_ESPN_1000_logo.svg/512px-WMVP_ESPN_1000_logo.svg.png"/>
   </channel>
-  <programme start="20261002050000 +0000" stop="20261002100000 +0000" channel="WMVP.chicago">
-    <title lang="en">SportsCenter AllNight</title>
-    <desc lang="en">National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png"/>
-    <category lang="en">ESPN Radio</category>
-  </programme>
-  <programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="WMVP.chicago">
-    <title lang="en">Unsportsmanlike</title>
-    <desc lang="en">Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg"/>
-    <category lang="en">Sports Talk</category>
-  </programme>
   <programme start="20261002110000 +0000" stop="20261002140000 +0000" channel="WMVP.chicago">
     <title lang="en">Kap &amp; J.Hood</title>
     <desc lang="en">David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
@@ -2884,6 +2872,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261002090000 +0000" stop="20261002100000 +0000" channel="WSCR.chicago">
     <title lang="en">Best of the Score</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -2931,21 +2920,25 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261003100000 +0000" stop="20261003115959 +0000" channel="WSCR.chicago">
     <title lang="en">Nick Ashooh</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766526296068.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261003100000 +0000" stop="20261003103000 +0000" channel="WSCR.chicago">
     <title lang="en">NFL Fantasy Forecast with Michael Fabiano and Amber Theoharis</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261003103000 +0000" stop="20261003110000 +0000" channel="WSCR.chicago">
     <title lang="en">NFL Preview with Scott Graham and Ross Tucker</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261003110000 +0000" stop="20261003120000 +0000" channel="WSCR.chicago">
     <title lang="en">NFL Insider with Scott Graham</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -2975,11 +2968,13 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261003160000 +0000" stop="20261003190000 +0000" channel="WSCR.chicago">
     <title lang="en">Steve Rosenbloom Show</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/SteveRosenbloom-1770139185269.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261003190000 +0000" stop="20261003200000 +0000" channel="WSCR.chicago">
     <title lang="en">Chicago Marathon Preview Show</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1789422315799.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -2991,16 +2986,19 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with John Lund</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505345065.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261004000000 +0000" stop="20261004030000 +0000" channel="WSCR.chicago">
     <title lang="en">College Saturday Now with Lynnell Willingham</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1788875180207.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261004030000 +0000" stop="20261004045959 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with John Lund</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505345065.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3012,6 +3010,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261004050000 +0000" stop="20261004095959 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with John Lund</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505345065.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3023,16 +3022,19 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261004100000 +0000" stop="20261004105959 +0000" channel="WSCR.chicago">
     <title lang="en">Elijah Cunningham</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766514361991.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261004100000 +0000" stop="20261004110000 +0000" channel="WSCR.chicago">
     <title lang="en">NFL Sunday Mornings with Elijah Campbell</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="WSCR.chicago">
     <title lang="en">Score Values</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039533533.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3062,6 +3064,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="WSCR.chicago">
     <title lang="en">NFL Sunday Now with Mike Wickett</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3085,6 +3088,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261005040000 +0000" stop="20261005050000 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with John Mallory</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505363354.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3132,6 +3136,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261006090000 +0000" stop="20261006100000 +0000" channel="WSCR.chicago">
     <title lang="en">Best of the Score</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3179,6 +3184,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261007090000 +0000" stop="20261007100000 +0000" channel="WSCR.chicago">
     <title lang="en">Best of the Score</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3202,26 +3208,31 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261007230000 +0000" stop="20261007234500 +0000" channel="WSCR.chicago">
     <title lang="en">Best of the Score</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261007234500 +0000" stop="20261008030000 +0000" channel="WSCR.chicago">
     <title lang="en">Bulls Radio</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Bulls_Radio_app_square-1770404198366.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261008030000 +0000" stop="20261008050000 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505386317.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261008050000 +0000" stop="20261008090000 +0000" channel="WSCR.chicago">
     <title lang="en">Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505386317.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
   <programme start="20261008090000 +0000" stop="20261008100000 +0000" channel="WSCR.chicago">
     <title lang="en">Best of the Score</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
@@ -3245,6 +3256,7 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
   </programme>
   <programme start="20261008230000 +0000" stop="20261008233000 +0000" channel="WSCR.chicago">
     <title lang="en">Best of the Score</title>
+    <desc lang="en">Sports talk, news, analysis, and live coverage on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg"/>
     <category lang="en">Sports Talk</category>
   </programme>
