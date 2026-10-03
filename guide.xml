@@ -2,6 +2,7 @@
 <tv source-info-name="Multi-Channel XMLTV Generator" generator-info-name="ICYARR Server XMLTV Generator">
   <channel id="AMAMBIENT">
     <display-name>a.m. ambient</display-name>
+    <icon src="https://dsp.8880888.xyz/logos/am_ambient_16x9.png"/>
   </channel>
   <programme start="20261002050000 +0000" stop="20261002080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -9,6 +10,7 @@
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261002080000 +0000" stop="20261002110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -16,6 +18,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261002110000 +0000" stop="20261002140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -23,6 +26,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261002140000 +0000" stop="20261002170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -30,6 +34,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261002170000 +0000" stop="20261002200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -37,6 +42,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261002200000 +0000" stop="20261002230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -44,6 +50,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261002230000 +0000" stop="20261003020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -51,6 +58,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003020000 +0000" stop="20261003050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -58,6 +66,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003050000 +0000" stop="20261003080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -65,6 +74,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003080000 +0000" stop="20261003110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -72,6 +82,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003110000 +0000" stop="20261003140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -79,6 +90,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003140000 +0000" stop="20261003170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -86,6 +98,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -93,6 +106,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003200000 +0000" stop="20261003230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -100,6 +114,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261003230000 +0000" stop="20261004020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -107,6 +122,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -114,6 +130,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004050000 +0000" stop="20261004080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -121,6 +138,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004080000 +0000" stop="20261004110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -128,6 +146,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004110000 +0000" stop="20261004140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -135,6 +154,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004140000 +0000" stop="20261004170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -142,6 +162,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004170000 +0000" stop="20261004200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -149,6 +170,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004200000 +0000" stop="20261004230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -156,6 +178,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261004230000 +0000" stop="20261005020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -163,6 +186,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -170,6 +194,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005050000 +0000" stop="20261005080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -177,6 +202,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005080000 +0000" stop="20261005110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -184,6 +210,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005110000 +0000" stop="20261005140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -191,6 +218,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005140000 +0000" stop="20261005170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -198,6 +226,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005170000 +0000" stop="20261005200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -205,6 +234,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005200000 +0000" stop="20261005230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -212,6 +242,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261005230000 +0000" stop="20261006020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -219,6 +250,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006020000 +0000" stop="20261006050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -226,6 +258,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006050000 +0000" stop="20261006080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -233,6 +266,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006080000 +0000" stop="20261006110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -240,6 +274,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006110000 +0000" stop="20261006140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -247,6 +282,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006140000 +0000" stop="20261006170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -254,6 +290,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006170000 +0000" stop="20261006200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -261,6 +298,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006200000 +0000" stop="20261006230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -268,6 +306,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261006230000 +0000" stop="20261007020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -275,6 +314,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007020000 +0000" stop="20261007050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -282,6 +322,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007050000 +0000" stop="20261007080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -289,6 +330,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007080000 +0000" stop="20261007110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -296,6 +338,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007110000 +0000" stop="20261007140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -303,6 +346,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007140000 +0000" stop="20261007170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -310,6 +354,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007170000 +0000" stop="20261007200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -317,6 +362,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007200000 +0000" stop="20261007230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -324,6 +370,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261007230000 +0000" stop="20261008020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -331,6 +378,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008020000 +0000" stop="20261008050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -338,6 +386,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008050000 +0000" stop="20261008080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
@@ -345,6 +394,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008080000 +0000" stop="20261008110000 +0000" channel="AMAMBIENT">
     <title>First Light</title>
@@ -352,6 +402,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008110000 +0000" stop="20261008140000 +0000" channel="AMAMBIENT">
     <title>Sunrise Signals</title>
@@ -359,6 +410,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008140000 +0000" stop="20261008170000 +0000" channel="AMAMBIENT">
     <title>Open Skies</title>
@@ -366,6 +418,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008170000 +0000" stop="20261008200000 +0000" channel="AMAMBIENT">
     <title>Daylight Drift</title>
@@ -373,6 +426,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008200000 +0000" stop="20261008230000 +0000" channel="AMAMBIENT">
     <title>Golden Hours</title>
@@ -380,6 +434,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261008230000 +0000" stop="20261009020000 +0000" channel="AMAMBIENT">
     <title>Evening Horizons</title>
@@ -387,6 +442,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <programme start="20261009020000 +0000" stop="20261009050000 +0000" channel="AMAMBIENT">
     <title>Twilight Echoes</title>
@@ -394,6 +450,7 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <category>Ambient</category>
+    <icon src="https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?w=800&amp;auto=format&amp;fit=crop&amp;q=80"/>
   </programme>
   <channel id="AMBIENTSLEEPINGPILL">
     <display-name>Ambient Sleeping Pill</display-name>
@@ -792,307 +849,383 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
+    <icon src="https://dsp.8880888.xyz/logos/kgvo_1290_16x9.png"/>
   </channel>
   <programme start="20261002060000 +0000" stop="20261002110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
     <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/bongino_show.jpg"/>
   </programme>
   <programme start="20261002120000 +0000" stop="20261002140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
     <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261002140000 +0000" stop="20261002160000 +0000" channel="KGVO">
     <title>Talk Back Missoula</title>
     <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+    <icon src="https://townsquare.media/site/111/files/2021/04/Talk-Back-Logo.png"/>
   </programme>
   <programme start="20261002160000 +0000" stop="20261002190000 +0000" channel="KGVO">
     <title>Clay Travis &amp; Buck Sexton</title>
     <desc>National political commentary and news analysis.</desc>
+    <icon src="https://www.clayandbuck.com/wp-content/themes/clayandbuck/dist/images/logo.png"/>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002220000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
     <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/sean_hannity_show.jpg"/>
   </programme>
   <programme start="20261002220000 +0000" stop="20261003010000 +0000" channel="KGVO">
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/mark_levin.jpg"/>
   </programme>
   <programme start="20261003010000 +0000" stop="20261003030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/dave_ramsey_show.jpg"/>
   </programme>
   <programme start="20261003030000 +0000" stop="20261003050000 +0000" channel="KGVO">
     <title>Jesse Kelly</title>
     <desc>Political commentary and cultural analysis.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/jesse_kelly_show.jpg"/>
   </programme>
   <programme start="20261003050000 +0000" stop="20261003060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261003060000 +0000" stop="20261003120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261003120000 +0000" stop="20261003140000 +0000" channel="KGVO">
     <title>Montana Outdoor Radio Show</title>
     <desc>Hunting, fishing, wildlife, and Montana outdoor news with the Captain and his crew.</desc>
+    <icon src="https://montanaoutdoor.com/wp-content/uploads/2019/03/mors-logo.png"/>
   </programme>
   <programme start="20261003140000 +0000" stop="20261003143000 +0000" channel="KGVO">
     <title>Missoula Real Estate Today</title>
     <desc>Real estate, home remodeling, finance, decorating, landscaping, and local housing topics.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261003143000 +0000" stop="20261003150000 +0000" channel="KGVO">
     <title>Community Viewpoint</title>
     <desc>Local community issues, interviews, and public interest discussions.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261003150000 +0000" stop="20261003180000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/dave_ramsey_show.jpg"/>
   </programme>
   <programme start="20261003180000 +0000" stop="20261003193000 +0000" channel="KGVO">
     <title>Griz Football Tailgate Show</title>
     <desc>Live from the GSA Tailgate with Ace Sauerwein and Denny Bedard.</desc>
+    <icon src="https://gogriz.com/images/logos/site/site.png"/>
   </programme>
   <programme start="20261003193000 +0000" stop="20261003200000 +0000" channel="KGVO">
     <title>Voice of the Griz: Final Pregame Booth Coverage</title>
     <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
+    <icon src="https://dsp.8880888.xyz/logos/kgvo_1290_16x9.png"/>
   </programme>
   <programme start="20261003200000 +0000" stop="20261003230000 +0000" channel="KGVO">
     <title>Griz Football: Northern Colorado at Montana</title>
     <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
+    <icon src="https://gogriz.com/images/logos/site/site.png"/>
   </programme>
   <programme start="20261003230000 +0000" stop="20261004010000 +0000" channel="KGVO">
     <title>Griz Football Postgame Show</title>
     <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
+    <icon src="https://gogriz.com/images/logos/site/site.png"/>
   </programme>
   <programme start="20261004010000 +0000" stop="20261004060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261004060000 +0000" stop="20261004120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="KGVO">
     <title>This Morning With Gordon Deal</title>
     <desc>National morning news and information with Gordon Deal.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/this_morning_gordon_deal.jpg"/>
   </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="KGVO">
     <title>What Do You Know?</title>
     <desc>Local talk show; On Demand episodes available in the KGVO app.</desc>
+    <icon src="https://dsp.8880888.xyz/logos/kgvo_1290_16x9.png"/>
   </programme>
   <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="KGVO">
     <title>The FLOT Line hosted by Rick Hughes</title>
     <desc>30 minutes of inspiration, motivation, education, but never any manipulation.</desc>
+    <icon src="https://dsp.8880888.xyz/logos/kgvo_1290_16x9.png"/>
   </programme>
   <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="KGVO">
     <title>Lutheran Hour</title>
     <desc>Rescue, restoration, renewal—Christ’s mission for the Church and our message to the world.</desc>
+    <icon src="https://dsp.8880888.xyz/logos/kgvo_1290_16x9.png"/>
   </programme>
   <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="KGVO">
     <title>Community Viewpoint</title>
     <desc>Local community issues, interviews, and public interest discussions.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="KGVO">
     <title>Missoula Real Estate Today</title>
     <desc>Real estate, finance, construction, home remodeling, decorating, and landscaping topics.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="KGVO">
     <title>RMWorldTravel</title>
     <desc>America’s #1 travel radio show with Robert &amp; Mary Carey and Rudy Maxa.</desc>
+    <icon src="https://rmworldtravel.com/wp-content/uploads/2019/04/rmworldtravel-logo.png"/>
   </programme>
   <programme start="20261004180000 +0000" stop="20261004210000 +0000" channel="KGVO">
     <title>Rich on Tech</title>
     <desc>Consumer tech news, gadgets, cybersecurity, and digital lifestyle coverage.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/rich_on_tech.jpg"/>
   </programme>
   <programme start="20261004210000 +0000" stop="20261005000000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
     <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/sean_hannity_show.jpg"/>
   </programme>
   <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="KGVO">
     <title>The Motley Fool</title>
     <desc>Investing and personal finance insights from The Motley Fool.</desc>
+    <icon src="https://g.foolcdn.com/art/company/fool-logo-fb.png"/>
   </programme>
   <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="KGVO">
     <title>Free Talk Live</title>
     <desc>Issues-oriented talk radio where callers drive the conversation—anyone can take control.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/free_talk_live.jpg"/>
   </programme>
   <programme start="20261005020000 +0000" stop="20261005050000 +0000" channel="KGVO">
     <title>The Bill Cunningham Show</title>
     <desc>Hard-hitting commentary and guests with two-time Marconi award winner Bill Cunningham.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/bill_cunningham_show.jpg"/>
   </programme>
   <programme start="20261005050000 +0000" stop="20261005060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261005060000 +0000" stop="20261005110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261005110000 +0000" stop="20261005120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
     <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/bongino_show.jpg"/>
   </programme>
   <programme start="20261005120000 +0000" stop="20261005140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
     <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261005140000 +0000" stop="20261005160000 +0000" channel="KGVO">
     <title>Talk Back Missoula</title>
     <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+    <icon src="https://townsquare.media/site/111/files/2021/04/Talk-Back-Logo.png"/>
   </programme>
   <programme start="20261005160000 +0000" stop="20261005190000 +0000" channel="KGVO">
     <title>Clay Travis &amp; Buck Sexton</title>
     <desc>National political commentary and news analysis.</desc>
+    <icon src="https://www.clayandbuck.com/wp-content/themes/clayandbuck/dist/images/logo.png"/>
   </programme>
   <programme start="20261005190000 +0000" stop="20261005220000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
     <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/sean_hannity_show.jpg"/>
   </programme>
   <programme start="20261005220000 +0000" stop="20261006010000 +0000" channel="KGVO">
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/mark_levin.jpg"/>
   </programme>
   <programme start="20261006010000 +0000" stop="20261006030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/dave_ramsey_show.jpg"/>
   </programme>
   <programme start="20261006030000 +0000" stop="20261006050000 +0000" channel="KGVO">
     <title>Jesse Kelly</title>
     <desc>Political commentary and cultural analysis.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/jesse_kelly_show.jpg"/>
   </programme>
   <programme start="20261006050000 +0000" stop="20261006060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261006060000 +0000" stop="20261006110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
     <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/bongino_show.jpg"/>
   </programme>
   <programme start="20261006120000 +0000" stop="20261006140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
     <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261006140000 +0000" stop="20261006160000 +0000" channel="KGVO">
     <title>Talk Back Missoula</title>
     <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+    <icon src="https://townsquare.media/site/111/files/2021/04/Talk-Back-Logo.png"/>
   </programme>
   <programme start="20261006160000 +0000" stop="20261006190000 +0000" channel="KGVO">
     <title>Clay Travis &amp; Buck Sexton</title>
     <desc>National political commentary and news analysis.</desc>
+    <icon src="https://www.clayandbuck.com/wp-content/themes/clayandbuck/dist/images/logo.png"/>
   </programme>
   <programme start="20261006190000 +0000" stop="20261006220000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
     <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/sean_hannity_show.jpg"/>
   </programme>
   <programme start="20261006220000 +0000" stop="20261007010000 +0000" channel="KGVO">
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/mark_levin.jpg"/>
   </programme>
   <programme start="20261007010000 +0000" stop="20261007030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/dave_ramsey_show.jpg"/>
   </programme>
   <programme start="20261007030000 +0000" stop="20261007050000 +0000" channel="KGVO">
     <title>Jesse Kelly</title>
     <desc>Political commentary and cultural analysis.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/jesse_kelly_show.jpg"/>
   </programme>
   <programme start="20261007050000 +0000" stop="20261007060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261007060000 +0000" stop="20261007110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
     <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/bongino_show.jpg"/>
   </programme>
   <programme start="20261007120000 +0000" stop="20261007140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
     <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261007140000 +0000" stop="20261007160000 +0000" channel="KGVO">
     <title>Talk Back Missoula</title>
     <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+    <icon src="https://townsquare.media/site/111/files/2021/04/Talk-Back-Logo.png"/>
   </programme>
   <programme start="20261007160000 +0000" stop="20261007190000 +0000" channel="KGVO">
     <title>Clay Travis &amp; Buck Sexton</title>
     <desc>National political commentary and news analysis.</desc>
+    <icon src="https://www.clayandbuck.com/wp-content/themes/clayandbuck/dist/images/logo.png"/>
   </programme>
   <programme start="20261007190000 +0000" stop="20261007220000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
     <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/sean_hannity_show.jpg"/>
   </programme>
   <programme start="20261007220000 +0000" stop="20261008010000 +0000" channel="KGVO">
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/mark_levin.jpg"/>
   </programme>
   <programme start="20261008010000 +0000" stop="20261008020000 +0000" channel="KGVO">
     <title>Grizzly Sports Coaches Show</title>
     <desc>Road preview of Montana at Northern Arizona with Coach Kennedy and
 Riley Corcoran, plus player spotlight segments.</desc>
+    <icon src="https://dsp.8880888.xyz/logos/kgvo_1290_16x9.png"/>
   </programme>
   <programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/dave_ramsey_show.jpg"/>
   </programme>
   <programme start="20261008030000 +0000" stop="20261008050000 +0000" channel="KGVO">
     <title>Jesse Kelly</title>
     <desc>Political commentary and cultural analysis.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/jesse_kelly_show.jpg"/>
   </programme>
   <programme start="20261008050000 +0000" stop="20261008060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261008060000 +0000" stop="20261008110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <programme start="20261008110000 +0000" stop="20261008120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
     <desc>Dan Bongino debunks both liberal &amp; conservative rhetoric while tackling the biggest political issues of today.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/bongino_show.jpg"/>
   </programme>
   <programme start="20261008120000 +0000" stop="20261008140000 +0000" channel="KGVO">
     <title>Montana Morning</title>
     <desc>Western Montana’s morning newscast hosted by the KGVO news team.</desc>
+    <icon src="https://townsquare.media/site/111/files/2019/04/KGVO-App-Logo-Square.jpg"/>
   </programme>
   <programme start="20261008140000 +0000" stop="20261008160000 +0000" channel="KGVO">
     <title>Talk Back Missoula</title>
     <desc>Western Montana’s only live, interactive radio talk show with Nick Chrestenson &amp; Peter Christian.</desc>
+    <icon src="https://townsquare.media/site/111/files/2021/04/Talk-Back-Logo.png"/>
   </programme>
   <programme start="20261008160000 +0000" stop="20261008190000 +0000" channel="KGVO">
     <title>Clay Travis &amp; Buck Sexton</title>
     <desc>National political commentary and news analysis.</desc>
+    <icon src="https://www.clayandbuck.com/wp-content/themes/clayandbuck/dist/images/logo.png"/>
   </programme>
   <programme start="20261008190000 +0000" stop="20261008220000 +0000" channel="KGVO">
     <title>Sean Hannity</title>
     <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/sean_hannity_show.jpg"/>
   </programme>
   <programme start="20261008220000 +0000" stop="20261009010000 +0000" channel="KGVO">
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/mark_levin.jpg"/>
   </programme>
   <programme start="20261009010000 +0000" stop="20261009030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/dave_ramsey_show.jpg"/>
   </programme>
   <programme start="20261009030000 +0000" stop="20261009050000 +0000" channel="KGVO">
     <title>Jesse Kelly</title>
     <desc>Political commentary and cultural analysis.</desc>
+    <icon src="https://images.talkstreamlive.com/images/programs/jesse_kelly_show.jpg"/>
   </programme>
   <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://www.coasttocoastam.com/assets/img/c2c-logo-social.png"/>
   </programme>
   <channel id="WDCB">
     <display-name>WDCB 90.9 FM Chicago</display-name>
