@@ -1,5 +1,318 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="RadioErr">
+  <channel id="WSCR.chicago">
+    <display-name>WSCR 670 The Score</display-name>
+  </channel>
+  <programme start="20261020050000 +0000" stop="20261020090000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261020090000 +0000" stop="20261020100000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261020100000 +0000" stop="20261020150000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261020150000 +0000" stop="20261020190000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261020190000 +0000" stop="20261020230000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="WSCR.chicago">
+    <title>Herron &amp; Vitali</title>
+    <desc>Anthony Herron and Carmen Vitali discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1792526603759.jpg" />
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021030000 +0000" channel="WSCR.chicago">
+    <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
+    <desc>Every win, every loss, every live wager—these guys are reacting in real-time with you. With "The Big Noise", Brad Evans, a FSWA Hall of Famer, is the most decorated writer/personality in fantasy sports history and top handicapper Ryan Horvat.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BetMGM%20Tonight-1791902211371.jpg" />
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021050000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021090000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021100000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021150000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021190000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021230000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261021230000 +0000" stop="20261021231500 +0000" channel="WSCR.chicago">
+    <title>Alex Kuhn</title>
+    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
+  </programme>
+  <programme start="20261021231500 +0000" stop="20261022023000 +0000" channel="WSCR.chicago">
+    <title>Bulls Radio</title>
+    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Bulls_Radio_app_square-1770404198366.jpg" />
+  </programme>
+  <programme start="20261022023000 +0000" stop="20261022050000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
+    <desc>Westwood One Sports Night with Lynnell Willingham and Josh Graham. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505386317.jpg" />
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022090000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
+    <desc>Westwood One Sports Night with Lynnell Willingham and Josh Graham. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505386317.jpg" />
+  </programme>
+  <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022150000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261022150000 +0000" stop="20261022190000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261022230000 +0000" stop="20261023001500 +0000" channel="WSCR.chicago">
+    <title>Bears Pregame: Zaidman, Kreutz &amp; Mannelly</title>
+    <desc>Leading up to kickoff, 104.3 The Score previews the Bears' upcoming game.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788206095688.jpg" />
+  </programme>
+  <programme start="20261023001500 +0000" stop="20261023030000 +0000" channel="WSCR.chicago">
+    <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
+    <desc>Every win, every loss, every live wager—these guys are reacting in real-time with you. With "The Big Noise", Brad Evans, a FSWA Hall of Famer, is the most decorated writer/personality in fantasy sports history and top handicapper Ryan Horvat.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BetMGM%20Tonight-1791902211371.jpg" />
+  </programme>
+  <programme start="20261023030000 +0000" stop="20261023033000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Josh Graham</title>
+    <desc>Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg" />
+  </programme>
+  <programme start="20261023033000 +0000" stop="20261023050000 +0000" channel="WSCR.chicago">
+    <title>Bears Postgame: Zaidman, Kreutz &amp; Mannelly</title>
+    <desc>104.3 The Score breaks down the Bears' performance in our postgame show every week.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788206314947.jpg" />
+  </programme>
+  <programme start="20261023050000 +0000" stop="20261023100000 +0000" channel="WSCR.chicago">
+    <title>Gabe Ramirez</title>
+    <desc>Gabe Ramirez. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Gabe_Ramire_104_Score-1770139775953.jpg" />
+  </programme>
+  <programme start="20261023100000 +0000" stop="20261023150000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261023150000 +0000" stop="20261023190000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261023190000 +0000" stop="20261023230000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261023230000 +0000" stop="20261024020000 +0000" channel="WSCR.chicago">
+    <title>Esposito &amp; Howard</title>
+    <desc>Mike Esposito and Herb Howard discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1792508457621.jpg" />
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024030000 +0000" channel="WSCR.chicago">
+    <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
+    <desc>Every win, every loss, every live wager—these guys are reacting in real-time with you. With "The Big Noise", Brad Evans, a FSWA Hall of Famer, is the most decorated writer/personality in fantasy sports history and top handicapper Ryan Horvat.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BetMGM%20Tonight-1791902211371.jpg" />
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024050000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Josh Graham</title>
+    <desc>Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg" />
+  </programme>
+  <programme start="20261024050000 +0000" stop="20261024100000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Josh Graham</title>
+    <desc>Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg" />
+  </programme>
+  <programme start="20261024100000 +0000" stop="20261024103000 +0000" channel="WSCR.chicago">
+    <title>NFL Fantasy Forecast with Michael Fabiano and Amber Theoharis</title>
+    <desc>NFL Fantasy Forecast with Michael Fabiano and Amber Theoharis. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="WSCR.chicago">
+    <title>NFL Preview with Scott Graham and Ross Tucker</title>
+    <desc>NFL Preview with Scott Graham and Ross Tucker. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261024110000 +0000" stop="20261024120000 +0000" channel="WSCR.chicago">
+    <title>Taking Vegas (Paid Program)</title>
+    <desc>Taking Vegas (Paid Program). Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Taking-Vegas-1704492213813.png" />
+  </programme>
+  <programme start="20261024120000 +0000" stop="20261024130000 +0000" channel="WSCR.chicago">
+    <title>Kickoff with Boomer and Valenti</title>
+    <desc>The one-stop shop for everything NFL. WFAN’s Boomer Esiason and 97.1 The Ticket’s Mike Valenti team up to deliver all the best matchups, storylines, picks, angles, opinions and more.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/kickoff%20w%20boomer%20and%20valenti-1662496013965.jpg" />
+  </programme>
+  <programme start="20261024130000 +0000" stop="20261024140000 +0000" channel="WSCR.chicago">
+    <title>Palm Saturdays</title>
+    <desc>Mike Palm and the Circa Sports crew preview the sports weekend by discussing the latest gambling lines and trends.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-PalmSaturdays-1771014249456.jpg" />
+  </programme>
+  <programme start="20261024140000 +0000" stop="20261024160000 +0000" channel="WSCR.chicago">
+    <title>Inside the Clubhouse</title>
+    <desc>Bruce Levine and David Haugh host Inside the Clubhouse, discussing the latest Cubs, White Sox and MLB storylines while also welcoming on great guests from across the baseball landscape.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/insidetheclubhouse-1770136952416.jpg" />
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024190000 +0000" channel="WSCR.chicago">
+    <title>Steve Rosenbloom Show</title>
+    <desc>Steve Rosenbloom Show. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/SteveRosenbloom-1770139185269.jpg" />
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="WSCR.chicago">
+    <title>Ramie Makhlouf</title>
+    <desc>Ramie Makhlouf discusses the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039486729.jpg" />
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024234500 +0000" channel="WSCR.chicago">
+    <title>Ramirez &amp; Constable</title>
+    <desc>Gabe Ramirez and Kate Constable discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1787576531375.jpg" />
+  </programme>
+  <programme start="20261024234500 +0000" stop="20261025030000 +0000" channel="WSCR.chicago">
+    <title>Bulls Radio</title>
+    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Bulls_Radio_app_square-1770404198366.jpg" />
+  </programme>
+  <programme start="20261025030000 +0000" stop="20261025050000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Josh Graham</title>
+    <desc>Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg" />
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025100000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Josh Graham</title>
+    <desc>Josh Graham brings a distinctive, national voice to Westwood One Sports Night, rooted in years of covering college and pro sports in ACC country. Josh has a unique perspective on the storylines shaping football, basketball and beyond at every level</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-JoshGraham-1766522169290.jpg" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="WSCR.chicago">
+    <title>NFL Sunday Mornings with Elijah Campbell</title>
+    <desc>NFL Sunday Mornings with Elijah Campbell. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025120000 +0000" channel="WSCR.chicago">
+    <title>Score Values</title>
+    <desc>Score Values. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Chicago-WSCRAM-Sports-LOGO-1770039533533.jpg" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="WSCR.chicago">
+    <title>BetMGM Gameday</title>
+    <desc>BetMGM Gameday</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BMN_BetMGM_Gameday_CVR_1400x1400-1766508578267.jpg" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="WSCR.chicago">
+    <title>Inside The North</title>
+    <desc>Inside the North examines the biggest storylines across the NFC North all throughout football season, bringing together local market experts to share analysis and commentary on the Chicago Bears, Detroit Lions, Green Bay Packers and Minnesota Vikings.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Inside_the_North_Square-1788202710607.jpg" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025170000 +0000" channel="WSCR.chicago">
+    <title>NFL Paris Game on Westwood One: Pittsburgh vs New Orleans</title>
+    <desc>Listen to the NFL Paris Game live on Westwood One.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025210000 +0000" channel="WSCR.chicago">
+    <title>NFL Sunday Now with Mike Wickett</title>
+    <desc>NFL Sunday Now with Mike Wickett. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261025210000 +0000" stop="20261025233000 +0000" channel="WSCR.chicago">
+    <title>NFL Sunday Now with John Mallory</title>
+    <desc>NFL Sunday Now with John Mallory. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026040000 +0000" channel="WSCR.chicago">
+    <title>Sunday Night Football on Westwood One: Kansas City vs Seattle</title>
+    <desc>Listen to Sunday Night Football live on Westwood One.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026050000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026070000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026090000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with John Mallory</title>
+    <desc>Westwood One Sports Night with John Mallory. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505363354.jpg" />
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026150000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261026150000 +0000" stop="20261026190000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026230000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261026231500 +0000" channel="WSCR.chicago">
+    <title>Alex Kuhn</title>
+    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
+  </programme>
+  <programme start="20261026231500 +0000" stop="20261027023000 +0000" channel="WSCR.chicago">
+    <title>Bulls Radio</title>
+    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Bulls_Radio_app_square-1770404198366.jpg" />
+  </programme>
   <channel id="AMAMBIENT">
     <display-name>a.m. ambient</display-name>
   </channel>
@@ -1438,306 +1751,6 @@ and setting expectations for the stretch run.</desc>
   <channel id="BBC_WORLD_SERVICE">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20261020000000 +0000" stop="20261020000600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020000600 +0000" stop="20261020003000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020003000 +0000" stop="20261020003200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020003200 +0000" stop="20261020010000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>Is Trump sacrificing Ukraine for cheaper diesel? America’s pain at the pump could mean good news for Putin (R)</desc>
-  </programme>
-  <programme start="20261020010000 +0000" stop="20261020010600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020010600 +0000" stop="20261020013000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020013000 +0000" stop="20261020013200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020013200 +0000" stop="20261020020000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Assignment</title>
-    <desc>China and the UK: After the golden era Paul Kenyon investigates rising suspicions over China’s presence in the UK</desc>
-  </programme>
-  <programme start="20261020020000 +0000" stop="20261020020600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020020600 +0000" stop="20261020025000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Why didn't they tell me I was black? Part 1 Lacey's white Texan family hid the truth about her background (R)</desc>
-  </programme>
-  <programme start="20261020025000 +0000" stop="20261020030000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Gerald Durrell's mission to save species from extinction In 1959, the writer Gerald Durrell opened the gates to a new kind of zoo (R)</desc>
-  </programme>
-  <programme start="20261020030000 +0000" stop="20261020030600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020030600 +0000" stop="20261020033000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020033000 +0000" stop="20261020033200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020033200 +0000" stop="20261020040000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>In the Studio</title>
-    <desc>Joachim Trier Another chance to go behind the scenes with director Joachim Trier.</desc>
-  </programme>
-  <programme start="20261020040000 +0000" stop="20261020040600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020040600 +0000" stop="20261020050000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Kenyan Shakahola cult leader found guilty Leader of a Kenyan doomsday cult, Paul Mackenzie, found guilty of murdering 191 people.</desc>
-  </programme>
-  <programme start="20261020050000 +0000" stop="20261020050600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020050600 +0000" stop="20261020060000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>French cities enforce overnight curfews It follows violent demonstrations over the weekend.</desc>
-  </programme>
-  <programme start="20261020060000 +0000" stop="20261020060600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020060600 +0000" stop="20261020070000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Overnight curfews in France It follows violent demonstrations in the country at the weekend.</desc>
-  </programme>
-  <programme start="20261020070000 +0000" stop="20261020070600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020070600 +0000" stop="20261020073000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>People Fixing The World</title>
-    <desc>Breaking the code of silence How Sicily's citizens are fighting back against the mafia</desc>
-  </programme>
-  <programme start="20261020073000 +0000" stop="20261020073200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020073200 +0000" stop="20261020075000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>Follow the Money: The cost of sending money home We follow a transfer from London to Manila to see who gets paid along the way</desc>
-  </programme>
-  <programme start="20261020075000 +0000" stop="20261020080000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created</desc>
-  </programme>
-  <programme start="20261020080000 +0000" stop="20261020080600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020080600 +0000" stop="20261020083000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020083000 +0000" stop="20261020083200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020083200 +0000" stop="20261020090000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Assignment</title>
-    <desc>China and the UK: After the golden era Paul Kenyon investigates rising suspicions over China’s presence in the UK (R)</desc>
-  </programme>
-  <programme start="20261020090000 +0000" stop="20261020090600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020090600 +0000" stop="20261020100000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Arts Hour</title>
-    <desc>Boots Riley on his film I Love Boosters London Film Festival director Boots Riley on his film I Love Boosters (R)</desc>
-  </programme>
-  <programme start="20261020100000 +0000" stop="20261020100600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020100600 +0000" stop="20261020103000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020103000 +0000" stop="20261020103200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020103200 +0000" stop="20261020110000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>They were loyal Democrats. Then came Gaza Michigan Democrats on Israel, US foreign policy and the future of the party.</desc>
-  </programme>
-  <programme start="20261020110000 +0000" stop="20261020110600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020110600 +0000" stop="20261020115000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Why didn't they tell me I was black? Part 2 Lacey discovers her parents' true identity, and her own</desc>
-  </programme>
-  <programme start="20261020115000 +0000" stop="20261020120000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created (R)</desc>
-  </programme>
-  <programme start="20261020120000 +0000" stop="20261020120600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020120600 +0000" stop="20261020123000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020123000 +0000" stop="20261020123200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020123200 +0000" stop="20261020130000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>In the Studio</title>
-    <desc>Joachim Trier Another chance to go behind the scenes with director Joachim Trier. (R)</desc>
-  </programme>
-  <programme start="20261020130000 +0000" stop="20261020130600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020130600 +0000" stop="20261020140000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20261020140000 +0000" stop="20261020140600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020140600 +0000" stop="20261020143000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>People Fixing The World</title>
-    <desc>Breaking the code of silence How Sicily's citizens are fighting back against the mafia (R)</desc>
-  </programme>
-  <programme start="20261020143000 +0000" stop="20261020143200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020143200 +0000" stop="20261020145000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>Follow the Money: The cost of sending money home We follow a transfer from London to Manila to see who gets paid along the way (R)</desc>
-  </programme>
-  <programme start="20261020145000 +0000" stop="20261020150000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Express</title>
-    <desc>20/10/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
-  </programme>
-  <programme start="20261020150000 +0000" stop="20261020150600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020150600 +0000" stop="20261020160000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20261020160000 +0000" stop="20261020160600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020160600 +0000" stop="20261020170000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20261020170000 +0000" stop="20261020170600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020170600 +0000" stop="20261020175000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Why didn't they tell me I was black? Part 2 Lacey discovers her parents' true identity, and her own (R)</desc>
-  </programme>
-  <programme start="20261020175000 +0000" stop="20261020180000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created (R)</desc>
-  </programme>
-  <programme start="20261020180000 +0000" stop="20261020180600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020180600 +0000" stop="20261020183000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020183000 +0000" stop="20261020183200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020183200 +0000" stop="20261020190000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Sport Today</title>
-    <desc>2026/10/20 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-  </programme>
-  <programme start="20261020190000 +0000" stop="20261020190600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020190600 +0000" stop="20261020193000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Assignment</title>
-    <desc>China and the UK: After the golden era Paul Kenyon investigates rising suspicions over China’s presence in the UK (R)</desc>
-  </programme>
-  <programme start="20261020193000 +0000" stop="20261020193200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020193200 +0000" stop="20261020200000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Tech Life</title>
-    <desc>20/10/2026 GMT How tech is transforming the way the world works, learns and plays</desc>
-  </programme>
-  <programme start="20261020200000 +0000" stop="20261020200600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020200600 +0000" stop="20261020210000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20261020210000 +0000" stop="20261020210600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020210600 +0000" stop="20261020213000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>People Fixing The World</title>
-    <desc>Breaking the code of silence How Sicily's citizens are fighting back against the mafia (R)</desc>
-  </programme>
-  <programme start="20261020213000 +0000" stop="20261020213200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020213200 +0000" stop="20261020220000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>In the Studio</title>
-    <desc>Joachim Trier Another chance to go behind the scenes with director Joachim Trier. (R)</desc>
-  </programme>
-  <programme start="20261020220000 +0000" stop="20261020220600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020220600 +0000" stop="20261020223000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261020223000 +0000" stop="20261020223200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261020223200 +0000" stop="20261021000000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Report</title>
-    <desc>The latest business and finance news from around the world, on the BBC.</desc>
-  </programme>
   <programme start="20261021000000 +0000" stop="20261021000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
     <desc>The latest five minute news bulletin from BBC World Service.</desc>
@@ -1836,7 +1849,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021073200 +0000" stop="20261021075000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
-    <desc>Business Daily The daily drama of money and work from the BBC.</desc>
+    <desc>Founders: Olio CEO Tessa Clarke's fight against food waste Olio founder Tessa Clarke left a corporate job to build a business tackling food waste</desc>
   </programme>
   <programme start="20261021075000 +0000" stop="20261021080000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Witness History</title>
@@ -1932,7 +1945,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021143200 +0000" stop="20261021145000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
-    <desc>Business Daily The daily drama of money and work from the BBC. (R)</desc>
+    <desc>Founders: Olio CEO Tessa Clarke's fight against food waste Olio founder Tessa Clarke left a corporate job to build a business tackling food waste  (R)</desc>
   </programme>
   <programme start="20261021145000 +0000" stop="20261021150000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Express</title>
@@ -2376,7 +2389,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023013200 +0000" stop="20261023020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Tech Life</title>
-    <desc>20/10/2026 GMT How tech is transforming the way the world works, learns and plays (R)</desc>
+    <desc>Beyond silicon chips The next generation of chip is thinner and flexible when compared to traditional silicon. (R)</desc>
   </programme>
   <programme start="20261023020000 +0000" stop="20261023020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
@@ -3450,7 +3463,307 @@ and setting expectations for the stretch run.</desc>
     <title>BBC News Summary</title>
     <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
-  <programme start="20261026233200 +0000" stop="20261027000200 +0000" channel="BBC_WORLD_SERVICE">
+  <programme start="20261026233200 +0000" stop="20261027010000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Report</title>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027010600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027010600 +0000" stop="20261027013000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027013000 +0000" stop="20261027013200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027013200 +0000" stop="20261027020000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Global Story</title>
+    <desc>Is Trump sacrificing Ukraine for cheaper diesel? America’s pain at the pump could mean good news for Putin (R)</desc>
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027020600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027020600 +0000" stop="20261027023000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027023200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027023200 +0000" stop="20261027030000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Assignment</title>
+    <desc>China and the UK: After the golden era Paul Kenyon investigates rising suspicions over China’s presence in the UK</desc>
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027030600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027030600 +0000" stop="20261027035000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Why didn't they tell me I was black? Part 1 Lacey's white Texan family hid the truth about her background (R)</desc>
+  </programme>
+  <programme start="20261027035000 +0000" stop="20261027040000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>Gerald Durrell's mission to save species from extinction In 1959, the writer Gerald Durrell opened the gates to a new kind of zoo (R)</desc>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027040600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027040600 +0000" stop="20261027043000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027043000 +0000" stop="20261027043200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027043200 +0000" stop="20261027050000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>In the Studio</title>
+    <desc>Joachim Trier Another chance to go behind the scenes with director Joachim Trier.</desc>
+  </programme>
+  <programme start="20261027050000 +0000" stop="20261027050600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027050600 +0000" stop="20261027060000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Kenyan Shakahola cult leader found guilty Leader of a Kenyan doomsday cult, Paul Mackenzie, found guilty of murdering 191 people.</desc>
+  </programme>
+  <programme start="20261027060000 +0000" stop="20261027060600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027060600 +0000" stop="20261027070000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>French cities enforce overnight curfews It follows violent demonstrations over the weekend.</desc>
+  </programme>
+  <programme start="20261027070000 +0000" stop="20261027070600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027070600 +0000" stop="20261027080000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Overnight curfews in France It follows violent demonstrations in the country at the weekend.</desc>
+  </programme>
+  <programme start="20261027080000 +0000" stop="20261027080600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027080600 +0000" stop="20261027083000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>People Fixing The World</title>
+    <desc>Breaking the code of silence How Sicily's citizens are fighting back against the mafia</desc>
+  </programme>
+  <programme start="20261027083000 +0000" stop="20261027083200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027083200 +0000" stop="20261027085000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>Follow the Money: The cost of sending money home We follow a transfer from London to Manila to see who gets paid along the way</desc>
+  </programme>
+  <programme start="20261027085000 +0000" stop="20261027090000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created</desc>
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027090600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027090600 +0000" stop="20261027093000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027093000 +0000" stop="20261027093200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027093200 +0000" stop="20261027100000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Assignment</title>
+    <desc>China and the UK: After the golden era Paul Kenyon investigates rising suspicions over China’s presence in the UK (R)</desc>
+  </programme>
+  <programme start="20261027100000 +0000" stop="20261027100600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027100600 +0000" stop="20261027110000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Arts Hour</title>
+    <desc>Boots Riley on his film I Love Boosters London Film Festival director Boots Riley on his film I Love Boosters (R)</desc>
+  </programme>
+  <programme start="20261027110000 +0000" stop="20261027110600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027110600 +0000" stop="20261027113000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027113000 +0000" stop="20261027113200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027113200 +0000" stop="20261027120000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Global Story</title>
+    <desc>They were loyal Democrats. Then came Gaza Michigan Democrats on Israel, US foreign policy and the future of the party.</desc>
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027120600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027120600 +0000" stop="20261027125000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Why didn't they tell me I was black? Part 2 Lacey discovers her parents' true identity, and her own</desc>
+  </programme>
+  <programme start="20261027125000 +0000" stop="20261027130000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created (R)</desc>
+  </programme>
+  <programme start="20261027130000 +0000" stop="20261027130600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027130600 +0000" stop="20261027133000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027133000 +0000" stop="20261027133200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027133200 +0000" stop="20261027140000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>In the Studio</title>
+    <desc>Joachim Trier Another chance to go behind the scenes with director Joachim Trier. (R)</desc>
+  </programme>
+  <programme start="20261027140000 +0000" stop="20261027140600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027140600 +0000" stop="20261027150000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261027150000 +0000" stop="20261027150600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027150600 +0000" stop="20261027153000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>People Fixing The World</title>
+    <desc>Breaking the code of silence How Sicily's citizens are fighting back against the mafia (R)</desc>
+  </programme>
+  <programme start="20261027153000 +0000" stop="20261027153200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027153200 +0000" stop="20261027155000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>Follow the Money: The cost of sending money home We follow a transfer from London to Manila to see who gets paid along the way (R)</desc>
+  </programme>
+  <programme start="20261027155000 +0000" stop="20261027160000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Express</title>
+    <desc>20/10/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027160600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027160600 +0000" stop="20261027170000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20261027170000 +0000" stop="20261027170600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027170600 +0000" stop="20261027180000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20261027180000 +0000" stop="20261027180600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027180600 +0000" stop="20261027185000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Why didn't they tell me I was black? Part 2 Lacey discovers her parents' true identity, and her own (R)</desc>
+  </programme>
+  <programme start="20261027185000 +0000" stop="20261027190000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created (R)</desc>
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027190600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027190600 +0000" stop="20261027193000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027193000 +0000" stop="20261027193200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027193200 +0000" stop="20261027200000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Sport Today</title>
+    <desc>2026/10/20 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+  </programme>
+  <programme start="20261027200000 +0000" stop="20261027200600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027200600 +0000" stop="20261027203000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Assignment</title>
+    <desc>China and the UK: After the golden era Paul Kenyon investigates rising suspicions over China’s presence in the UK (R)</desc>
+  </programme>
+  <programme start="20261027203000 +0000" stop="20261027203200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027203200 +0000" stop="20261027210000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Tech Life</title>
+    <desc>20/10/2026 GMT How tech is transforming the way the world works, learns and plays</desc>
+  </programme>
+  <programme start="20261027210000 +0000" stop="20261027210600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027210600 +0000" stop="20261027220000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261027220600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027220600 +0000" stop="20261027223000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>People Fixing The World</title>
+    <desc>Breaking the code of silence How Sicily's citizens are fighting back against the mafia (R)</desc>
+  </programme>
+  <programme start="20261027223000 +0000" stop="20261027223200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027223200 +0000" stop="20261027230000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>In the Studio</title>
+    <desc>Joachim Trier Another chance to go behind the scenes with director Joachim Trier. (R)</desc>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261027230600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027230600 +0000" stop="20261027233000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261027233000 +0000" stop="20261027233200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261027233200 +0000" stop="20261028000200 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
     <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
@@ -5105,7 +5418,7 @@ and setting expectations for the stretch run.</desc>
   <channel id="TEST2">
     <display-name>Test Channel 2</display-name>
   </channel>
-  <programme start="20261020224227 +0000" stop="20261020234227 +0000" channel="TEST2">
+  <programme start="20261020232106 +0000" stop="20261021002106 +0000" channel="TEST2">
     <title>Test Programme</title>
     <desc>Test Description</desc>
   </programme>
