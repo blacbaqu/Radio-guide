@@ -1215,181 +1215,225 @@ and setting expectations for the stretch run.</desc>
   <channel id="NINETIESDIGITAL">
     <display-name>90s90s Digital</display-name>
   </channel>
+  <programme start="20261018220000 +0000" stop="20261019030000 +0000" channel="NINETIESDIGITAL">
+    <title>Real 90s Nonstop</title>
+    <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
+  </programme>
+  <programme start="20261019030000 +0000" stop="20261019080000 +0000" channel="NINETIESDIGITAL">
+    <title>Rob Green Morning Show</title>
+    <desc>Wake up with British radio legend Rob Green celebrating the biggest pop, rock, and dance tracks of the 1990s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/rob_150130_final_web.jpg" />
+  </programme>
+  <programme start="20261019080000 +0000" stop="20261019130000 +0000" channel="NINETIESDIGITAL">
+    <title>Marie in the Midday</title>
+    <desc>Marie takes you through the workday with boyband favorites, Eurodance burners, and quintessential 90s chart-toppers.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/marie_148299_web.jpg" />
+  </programme>
+  <programme start="20261019130000 +0000" stop="20261019180000 +0000" channel="NINETIESDIGITAL">
+    <title>Susanka Afternoon Drive</title>
+    <desc>Afternoon drive anthems, flashback pop, and lively banter with Susanka revisiting the soundtrack of the decade.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/susanka_149693_final_web.jpg" />
+  </programme>
+  <programme start="20261019180000 +0000" stop="20261019210000 +0000" channel="NINETIESDIGITAL">
+    <title>90s90s Special: Club Hits</title>
+    <desc>Pump Up The Jam with the biggest club beats of the 90s, featuring Jamiroquai, Outkast, The Prodigy, Technotronic, and dancefloor anthems.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
+  </programme>
+  <programme start="20261019210000 +0000" stop="20261019220000 +0000" channel="NINETIESDIGITAL">
+    <title>Real 90s Nonstop</title>
+    <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
+  </programme>
   <programme start="20261019220000 +0000" stop="20261020030000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261020030000 +0000" stop="20261020080000 +0000" channel="NINETIESDIGITAL">
     <title>Rob Green Morning Show</title>
     <desc>Wake up with British radio legend Rob Green celebrating the biggest pop, rock, and dance tracks of the 1990s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/rob_150130_final_web.jpg" />
   </programme>
   <programme start="20261020080000 +0000" stop="20261020130000 +0000" channel="NINETIESDIGITAL">
     <title>Marie in the Midday</title>
     <desc>Marie takes you through the workday with boyband favorites, Eurodance burners, and quintessential 90s chart-toppers.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/marie_148299_web.jpg" />
   </programme>
   <programme start="20261020130000 +0000" stop="20261020180000 +0000" channel="NINETIESDIGITAL">
     <title>Susanka Afternoon Drive</title>
     <desc>Afternoon drive anthems, flashback pop, and lively banter with Susanka revisiting the soundtrack of the decade.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/susanka_149693_final_web.jpg" />
   </programme>
   <programme start="20261020180000 +0000" stop="20261020210000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Special: Club Hits</title>
     <desc>Pump Up The Jam with the biggest club beats of the 90s, featuring Jamiroquai, Outkast, The Prodigy, Technotronic, and dancefloor anthems.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261020210000 +0000" stop="20261020220000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261020220000 +0000" stop="20261021030000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261021030000 +0000" stop="20261021080000 +0000" channel="NINETIESDIGITAL">
     <title>Rob Green Morning Show</title>
     <desc>Wake up with British radio legend Rob Green celebrating the biggest pop, rock, and dance tracks of the 1990s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/rob_150130_final_web.jpg" />
   </programme>
   <programme start="20261021080000 +0000" stop="20261021130000 +0000" channel="NINETIESDIGITAL">
     <title>Marie in the Midday</title>
     <desc>Marie takes you through the workday with boyband favorites, Eurodance burners, and quintessential 90s chart-toppers.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/marie_148299_web.jpg" />
   </programme>
   <programme start="20261021130000 +0000" stop="20261021180000 +0000" channel="NINETIESDIGITAL">
     <title>Susanka Afternoon Drive</title>
     <desc>Afternoon drive anthems, flashback pop, and lively banter with Susanka revisiting the soundtrack of the decade.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/susanka_149693_final_web.jpg" />
   </programme>
   <programme start="20261021180000 +0000" stop="20261021210000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Special: Club Hits</title>
     <desc>Pump Up The Jam with the biggest club beats of the 90s, featuring Jamiroquai, Outkast, The Prodigy, Technotronic, and dancefloor anthems.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261021210000 +0000" stop="20261021220000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261021220000 +0000" stop="20261022030000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261022030000 +0000" stop="20261022080000 +0000" channel="NINETIESDIGITAL">
     <title>Rob Green Morning Show</title>
     <desc>Wake up with British radio legend Rob Green celebrating the biggest pop, rock, and dance tracks of the 1990s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/rob_150130_final_web.jpg" />
   </programme>
   <programme start="20261022080000 +0000" stop="20261022130000 +0000" channel="NINETIESDIGITAL">
     <title>Marie in the Midday</title>
     <desc>Marie takes you through the workday with boyband favorites, Eurodance burners, and quintessential 90s chart-toppers.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/marie_148299_web.jpg" />
   </programme>
   <programme start="20261022130000 +0000" stop="20261022180000 +0000" channel="NINETIESDIGITAL">
     <title>Susanka Afternoon Drive</title>
     <desc>Afternoon drive anthems, flashback pop, and lively banter with Susanka revisiting the soundtrack of the decade.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/susanka_149693_final_web.jpg" />
   </programme>
   <programme start="20261022180000 +0000" stop="20261022210000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Special: Club Hits</title>
     <desc>Pump Up The Jam with the biggest club beats of the 90s, featuring Jamiroquai, Outkast, The Prodigy, Technotronic, and dancefloor anthems.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261022220000 +0000" stop="20261023030000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261023030000 +0000" stop="20261023080000 +0000" channel="NINETIESDIGITAL">
     <title>Rob Green Morning Show</title>
     <desc>Wake up with British radio legend Rob Green celebrating the biggest pop, rock, and dance tracks of the 1990s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/rob_150130_final_web.jpg" />
   </programme>
   <programme start="20261023080000 +0000" stop="20261023130000 +0000" channel="NINETIESDIGITAL">
     <title>Marie in the Midday</title>
     <desc>Marie takes you through the workday with boyband favorites, Eurodance burners, and quintessential 90s chart-toppers.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/marie_148299_web.jpg" />
   </programme>
   <programme start="20261023130000 +0000" stop="20261023180000 +0000" channel="NINETIESDIGITAL">
     <title>Susanka Afternoon Drive</title>
     <desc>Afternoon drive anthems, flashback pop, and lively banter with Susanka revisiting the soundtrack of the decade.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/susanka_149693_final_web.jpg" />
   </programme>
   <programme start="20261023180000 +0000" stop="20261023210000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Special: In The Mix</title>
     <desc>The ultimate DJ radio mix for the 90s featuring non-stop party rhythms, Eurodance, and iconic club floor-fillers mixed seamlessly back-to-back.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261023210000 +0000" stop="20261023220000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261023220000 +0000" stop="20261024060000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261024060000 +0000" stop="20261024100000 +0000" channel="NINETIESDIGITAL">
     <title>BLD Weekend</title>
     <desc>Resident rapper Bürger Lars Dietrich flips through vintage Bravo magazines, serving up classic rap trivia, beatboxing, and Saturday morning throwbacks.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_bld_weekend_show_2.jpg" />
   </programme>
   <programme start="20261024100000 +0000" stop="20261024140000 +0000" channel="NINETIESDIGITAL">
     <title>Marco Tristram</title>
     <desc>Marco shares party stories, slope memories, and behind-the-scenes trivia behind every iconic track of the 90s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-10/marco_tristram_171432_final_web.jpg" />
   </programme>
   <programme start="20261024140000 +0000" stop="20261024170000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Countdown</title>
     <desc>Sebastian counts down the 40 most popular 90s tracks of the week, voted directly by listeners from #40 to #1.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/sebi_149128_web.jpg" />
   </programme>
   <programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261024180000 +0000" stop="20261024210000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Special: Eurodance</title>
     <desc>Driving synth baselines and dance anthems from Gigi D'Agostino, La Bouche, Mr. President, Snap!, and U96.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261024220000 +0000" stop="20261025050000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261025050000 +0000" stop="20261025080000 +0000" channel="NINETIESDIGITAL">
     <title>Lena</title>
     <desc>Start Sunday early with Lena bringing expert club cuts, electronic favorites, and vibrant 90s sounds.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/lena_h_148707_web.jpg" />
   </programme>
   <programme start="20261025080000 +0000" stop="20261025110000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Countdown</title>
     <desc>Sebastian counts down the 40 most popular 90s tracks of the week, voted directly by listeners from #40 to #1.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/sebi_149128_web.jpg" />
   </programme>
   <programme start="20261025110000 +0000" stop="20261025160000 +0000" channel="NINETIESDIGITAL">
     <title>Marco Tristram</title>
     <desc>Marco shares party stories, slope memories, and behind-the-scenes trivia behind every iconic track of the 90s.</desc>
+    <icon src="https://images.90s90s.de/files/2023-10/marco_tristram_171432_final_web.jpg" />
   </programme>
   <programme start="20261025160000 +0000" stop="20261025190000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Weekend with George</title>
     <desc>Ease into Sunday evening with Mr. George delivering quintessential 90s nostalgia, laid-back hits, and weekend chill.</desc>
+    <icon src="https://images.90s90s.de/files/2023-07/george_148558_final_web.jpg" />
   </programme>
   <programme start="20261025190000 +0000" stop="20261025220000 +0000" channel="NINETIESDIGITAL">
     <title>90s90s Special: Love Songs</title>
     <desc>The greatest romantic power ballads and R&amp;B slow jams of the 90s from Celine Dion, Whitney Houston, Boyz II Men, Savage Garden, and Bryan Adams.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <programme start="20261025220000 +0000" stop="20261025230000 +0000" channel="NINETIESDIGITAL">
     <title>Real 90s Nonstop</title>
     <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
-  </programme>
-  <programme start="20261025230000 +0000" stop="20261026040000 +0000" channel="NINETIESDIGITAL">
-    <title>Real 90s Nonstop</title>
-    <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
-  </programme>
-  <programme start="20261026040000 +0000" stop="20261026090000 +0000" channel="NINETIESDIGITAL">
-    <title>Rob Green Morning Show</title>
-    <desc>Wake up with British radio legend Rob Green celebrating the biggest pop, rock, and dance tracks of the 1990s.</desc>
-  </programme>
-  <programme start="20261026090000 +0000" stop="20261026140000 +0000" channel="NINETIESDIGITAL">
-    <title>Marie in the Midday</title>
-    <desc>Marie takes you through the workday with boyband favorites, Eurodance burners, and quintessential 90s chart-toppers.</desc>
-  </programme>
-  <programme start="20261026140000 +0000" stop="20261026190000 +0000" channel="NINETIESDIGITAL">
-    <title>Susanka Afternoon Drive</title>
-    <desc>Afternoon drive anthems, flashback pop, and lively banter with Susanka revisiting the soundtrack of the decade.</desc>
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026220000 +0000" channel="NINETIESDIGITAL">
-    <title>90s90s Special: Club Hits</title>
-    <desc>Pump Up The Jam with the biggest club beats of the 90s, featuring Jamiroquai, Outkast, The Prodigy, Technotronic, and dancefloor anthems.</desc>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="NINETIESDIGITAL">
-    <title>Real 90s Nonstop</title>
-    <desc>Non-stop 90s anthems, pop classics, and dance hits through the day and night without interruption.</desc>
+    <icon src="https://images.90s90s.de/files/2025-06/90s90s_team_collage.jpg" />
   </programme>
   <channel id="KMPT">
     <display-name>930 AM KMPT Missoula</display-name>
@@ -1968,42 +2012,6 @@ and setting expectations for the stretch run.</desc>
   <channel id="BLUEGRASS_COUNTRY">
     <display-name>Bluegrass Country</display-name>
   </channel>
-  <programme start="20261019050000 +0000" stop="20261019110000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Overnight</title>
-    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
-  </programme>
-  <programme start="20261019110000 +0000" stop="20261019140000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>A Bluegrass Morning</title>
-    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
-  </programme>
-  <programme start="20261019140000 +0000" stop="20261019160000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass &amp; Beyond</title>
-    <desc>Traditional mountain tunes expanding into contemporary acoustic and innovative progressive bluegrass sounds.</desc>
-  </programme>
-  <programme start="20261019160000 +0000" stop="20261019190000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Gary Henderson Show</title>
-    <desc>Veteran broadcaster Gary Henderson presents deep-catalog traditional bluegrass and listener favorites.</desc>
-  </programme>
-  <programme start="20261019190000 +0000" stop="20261019220000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Chris Teskey Show</title>
-    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
-  </programme>
-  <programme start="20261019220000 +0000" stop="20261019230000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Michelle Murray Show</title>
-    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
-  </programme>
-  <programme start="20261019230000 +0000" stop="20261020010000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Sound Sessions with Jeff Place</title>
-    <desc>Smithsonian Folkways curator Jeff Place shares deep archival gems, folk treasures, and field recordings.</desc>
-  </programme>
-  <programme start="20261020010000 +0000" stop="20261020030000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Trail Ride</title>
-    <desc>Classic western swing, cowboy songs, honky-tonk, and traditional bluegrass along the musical trail.</desc>
-  </programme>
-  <programme start="20261020030000 +0000" stop="20261020040000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Signal</title>
-    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
-  </programme>
   <programme start="20261020040000 +0000" stop="20261020050000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>All Kinds of Country with Sully Roddy</title>
     <desc>From classic country and honky-tonk to roots rock and Americana with legendary broadcaster Sully Roddy.</desc>
@@ -2223,6 +2231,42 @@ and setting expectations for the stretch run.</desc>
   <programme start="20261026030000 +0000" stop="20261026050000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Freight Train Boogie</title>
     <desc>Americana, alt-country, blues, and roots rock hosted by Sully Roddy to power your late evening.</desc>
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026110000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Overnight</title>
+    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
+  </programme>
+  <programme start="20261026110000 +0000" stop="20261026140000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>A Bluegrass Morning</title>
+    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
+  </programme>
+  <programme start="20261026140000 +0000" stop="20261026160000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass &amp; Beyond</title>
+    <desc>Traditional mountain tunes expanding into contemporary acoustic and innovative progressive bluegrass sounds.</desc>
+  </programme>
+  <programme start="20261026160000 +0000" stop="20261026190000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Gary Henderson Show</title>
+    <desc>Veteran broadcaster Gary Henderson presents deep-catalog traditional bluegrass and listener favorites.</desc>
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026220000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Chris Teskey Show</title>
+    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Michelle Murray Show</title>
+    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261027010000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Sound Sessions with Jeff Place</title>
+    <desc>Smithsonian Folkways curator Jeff Place shares deep archival gems, folk treasures, and field recordings.</desc>
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027030000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Trail Ride</title>
+    <desc>Classic western swing, cowboy songs, honky-tonk, and traditional bluegrass along the musical trail.</desc>
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Signal</title>
+    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
   </programme>
   <channel id="FOXNEWSRADIO">
     <display-name>FOX News Radio</display-name>
@@ -2789,7 +2833,7 @@ and setting expectations for the stretch run.</desc>
   <channel id="TEST2">
     <display-name>Test Channel 2</display-name>
   </channel>
-  <programme start="20261020014245 +0000" stop="20261020024245 +0000" channel="TEST2">
+  <programme start="20261020041135 +0000" stop="20261020051135 +0000" channel="TEST2">
     <title>Test Programme</title>
     <desc>Test Description</desc>
   </programme>
