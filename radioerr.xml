@@ -4678,6 +4678,259 @@ and setting expectations for the stretch run.</desc>
     <title>FOX Across America with Jimmy Failla</title>
     <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
   </programme>
+  <channel id="WSM">
+    <display-name>WSM 650 AM Nashville</display-name>
+  </channel>
+  <programme start="20261020050000 +0000" stop="20261020100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261020100000 +0000" stop="20261020103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261020110000 +0000" stop="20261020150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261020150000 +0000" stop="20261020200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261020200000 +0000" stop="20261021000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261022000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261022000000 +0000" stop="20261022050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261022110000 +0000" stop="20261022150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261022150000 +0000" stop="20261022200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261022200000 +0000" stop="20261023000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261023000000 +0000" stop="20261023050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
+  <programme start="20261023050000 +0000" stop="20261023100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261023100000 +0000" stop="20261023103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261023150000 +0000" stop="20261023200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261023200000 +0000" stop="20261024000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261024000000 +0000" stop="20261024023000 +0000" channel="WSM">
+    <title>Grand Ole Opry</title>
+    <desc>Live from the Grand Ole Opry House. Featuring The Castellows, Mat Kearney, Brendan Walter, John Berry, Wendy Moten, Vince Gill.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-18.jpg" />
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
+  <programme start="20261024050000 +0000" stop="20261024080000 +0000" channel="WSM">
+    <title>Y'all Access with Kelly Sutton</title>
+    <desc>Kelly Sutton takes you behind the velvet ropes with backstage country music news, insider stories, and exclusive artist interviews.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-04.jpg" />
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024113000 +0000" channel="WSM">
+    <title>WSM Music</title>
+    <desc>Continuous traditional country favorites broadcasting straight from the legendary 650 AM WSM studios.</desc>
+  </programme>
+  <programme start="20261024113000 +0000" stop="20261024120000 +0000" channel="WSM">
+    <title>Tennessee Wildcast</title>
+    <desc>Outdoor reports, wildlife conservation updates, hunting and fishing tips from the Tennessee Wildlife Resources Agency.</desc>
+  </programme>
+  <programme start="20261024120000 +0000" stop="20261024150000 +0000" channel="WSM">
+    <title>WSM Weekends</title>
+    <desc>A weekend wake-up mix of traditional country, bluegrass, and Americana favorites.</desc>
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024190000 +0000" channel="WSM">
+    <title>The Crook &amp; Chase Countdown</title>
+    <desc>Lorianne Crook and Charlie Chase count down the nation's top 30 country songs, complete with artist chats and music news.</desc>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024220000 +0000" channel="WSM">
+    <title>Y'all Access with Kelly Sutton</title>
+    <desc>Kelly Sutton takes you behind the velvet ropes with backstage country music news, insider stories, and exclusive artist interviews.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-04.jpg" />
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261025000000 +0000" channel="WSM">
+    <title>Opry Warm-Up Show</title>
+    <desc>Get ready for the Grand Ole Opry with backstage interviews, show history, and classic performances from past Opry legends.</desc>
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025022000 +0000" channel="WSM">
+    <title>Grand Ole Opry</title>
+    <desc>Live from the Grand Ole Opry House.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-18.jpg" />
+  </programme>
+  <programme start="20261025022000 +0000" stop="20261025033000 +0000" channel="WSM">
+    <title>Opry Star Spotlight</title>
+    <desc>Focusing on the stories, recordings, and history of featured Grand Ole Opry members and special guest performers.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-14.jpg" />
+  </programme>
+  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="WSM">
+    <title>The Dailey &amp; Vincent Show</title>
+    <desc>Grammy-nominated duo Jamie Dailey and Darrin Vincent showcase bluegrass, traditional country, and Southern gospel music.</desc>
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="WSM">
+    <title>Golden Era of the Grand Ole Opry</title>
+    <desc>Vintage recordings and historical radio transcriptions capturing the golden age of the Grand Ole Opry.</desc>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025060000 +0000" channel="WSM">
+    <title>Golden Era of the Grand Ole Opry</title>
+    <desc>Vintage recordings and historical radio transcriptions capturing the golden age of the Grand Ole Opry.</desc>
+  </programme>
+  <programme start="20261025060000 +0000" stop="20261025070000 +0000" channel="WSM">
+    <title>Sutton Ole Time Music Hour</title>
+    <desc>Authentic mountain bluegrass, Appalachian string bands, and old-time acoustic music recorded live at the Sutton General Store in Granville, TN.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/09/image-1.png" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025093000 +0000" channel="WSM">
+    <title>WSM Classics</title>
+    <desc>Deep archival cuts, honky-tonk standards, and timeless country anthems that defined WSM's rich broadcast legacy.</desc>
+  </programme>
+  <programme start="20261025093000 +0000" stop="20261025140000 +0000" channel="WSM">
+    <title>Paid Programming</title>
+    <desc>Station informational and sponsored programming.</desc>
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025150000 +0000" channel="WSM">
+    <title>WSM Gospel Hour</title>
+    <desc>Inspirational Southern gospel favorites and spiritual country music on Sunday mornings.</desc>
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025170000 +0000" channel="WSM">
+    <title>Pure American Country</title>
+    <desc>Honky-tonk hits, country storytelling, and timeless standards celebrating the roots of American country music.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-08.jpg" />
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025210000 +0000" channel="WSM">
+    <title>WSM Weekends with Amber Anderson</title>
+    <desc>Sunday afternoon country cuts, roots Americana, and great weekend road tracks.</desc>
+  </programme>
+  <programme start="20261025210000 +0000" stop="20261026000000 +0000" channel="WSM">
+    <title>The Fringe with Lexi Carter</title>
+    <desc>Spotlighting independent artists, emerging singer-songwriters, and boundary-pushing Americana and alt-country sounds.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-06.jpg" />
+  </programme>
+  <programme start="20261026000000 +0000" stop="20261026010000 +0000" channel="WSM">
+    <title>WSM Artists' Corner</title>
+    <desc>In-depth discussions, career reflections, and album spotlights with premier country and roots musicians.</desc>
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="WSM">
+    <title>The Jason Coleman Show</title>
+    <desc>Grandson of keyboard legend Floyd Cramer, Jason Coleman brings the classic piano 'slip-note' Nashville Sound to life with music and stories.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-07.jpg" />
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026050000 +0000" channel="WSM">
+    <title>Into the Blue with Terry Herd</title>
+    <desc>America's premier syndicated bluegrass radio show featuring the latest charts, exclusive artist interviews, and timeless classics.</desc>
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261026110000 +0000" stop="20261026150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261026150000 +0000" stop="20261026200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261026200000 +0000" stop="20261027000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261027000000 +0000" stop="20261027030000 +0000" channel="WSM">
+    <title>Heart of the Night with Nan Kelley</title>
+    <desc>Evenings featuring heartfelt country hits, artist spotlights, and listener requests hosted by Nan Kelley.</desc>
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
   <channel id="RELIC_RADIO">
     <display-name>Relic Radio</display-name>
   </channel>
@@ -4852,7 +5105,7 @@ and setting expectations for the stretch run.</desc>
   <channel id="TEST2">
     <display-name>Test Channel 2</display-name>
   </channel>
-  <programme start="20261020155404 +0000" stop="20261020165404 +0000" channel="TEST2">
+  <programme start="20261020211937 +0000" stop="20261020221937 +0000" channel="TEST2">
     <title>Test Programme</title>
     <desc>Test Description</desc>
   </programme>
@@ -5365,5 +5618,608 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
 
 The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <channel id="WGN_RADIO">
+    <display-name>WGN Radio 720</display-name>
+  </channel>
+  <programme start="20261020060000 +0000" stop="20261020090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261020090000 +0000" stop="20261020110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261020110000 +0000" stop="20261020150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261020150000 +0000" stop="20261020170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261020170000 +0000" stop="20261020180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261020180000 +0000" stop="20261020190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261020190000 +0000" stop="20261020230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021010000 +0000" channel="WGN_RADIO">
+    <title>Your Money Matters with Jon Hansen</title>
+    <desc>Your Money Matters with Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021030000 +0000" channel="WGN_RADIO">
+    <title>Jon Hansen filling in for John Landecker</title>
+    <desc>Jon Hansen filling in for John Landecker. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021060000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="WGN_RADIO">
+    <title>Your Money Matters with Jon Hansen</title>
+    <desc>Your Money Matters with Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="WGN_RADIO">
+    <title>John Landecker</title>
+    <desc>John Landecker. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261022030000 +0000" stop="20261022050000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261022060000 +0000" stop="20261022090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261022090000 +0000" stop="20261022110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261022110000 +0000" stop="20261022150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261022150000 +0000" stop="20261022170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261022170000 +0000" stop="20261022180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261022190000 +0000" stop="20261022230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261022230000 +0000" stop="20261023000000 +0000" channel="WGN_RADIO">
+    <title>Hamp and O’B Pregame</title>
+    <desc>Hamp and O’B Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261023000000 +0000" stop="20261023033000 +0000" channel="WGN_RADIO">
+    <title>John Landecker</title>
+    <desc>John Landecker. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261023033000 +0000" stop="20261023060000 +0000" channel="WGN_RADIO">
+    <title>Hamp and O’B Postgame</title>
+    <desc>Hamp and O’B Postgame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261023060000 +0000" stop="20261023090000 +0000" channel="WGN_RADIO">
+    <title>Another Side of Midnight with Lionel</title>
+    <desc>Another Side of Midnight with Lionel. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261023090000 +0000" stop="20261023110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261023110000 +0000" stop="20261023150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261023150000 +0000" stop="20261023170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261023170000 +0000" stop="20261023180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261023180000 +0000" stop="20261023190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261023190000 +0000" stop="20261023230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261023230000 +0000" stop="20261023233000 +0000" channel="WGN_RADIO">
+    <title>On the Map with Dave Plier</title>
+    <desc>On the Map with Dave Plier. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261023233000 +0000" stop="20261024000000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Pregame</title>
+    <desc>Chicago Blackhawks Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261024000000 +0000" stop="20261024033000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Hockey: Blackhawks vs. Montreal</title>
+    <desc>Chicago Blackhawks Hockey: Blackhawks vs. Montreal. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261024033000 +0000" stop="20261024070000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024070000 +0000" stop="20261024090000 +0000" channel="WGN_RADIO">
+    <title>The Wolfman Jack Radio Show</title>
+    <desc>The Wolfman Jack Radio Show. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024090000 +0000" stop="20261024100000 +0000" channel="WGN_RADIO">
+    <title>WGN Showcase</title>
+    <desc>WGN Showcase. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024100000 +0000" stop="20261024110000 +0000" channel="WGN_RADIO">
+    <title>Outside the Loop Radio with Mike Stephen</title>
+    <desc>Outside the Loop Radio with Mike Stephen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024110000 +0000" stop="20261024150000 +0000" channel="WGN_RADIO">
+    <title>HouseSmarts Radio with Lou Manfredini</title>
+    <desc>HouseSmarts Radio with Lou Manfredini. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/LouManfredini_Square_Web.jpg" />
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="WGN_RADIO">
+    <title>Let’s Get Legal powered by Illinois State Bar Association and hosted by Jon Hansen</title>
+    <desc>Let’s Get Legal powered by Illinois State Bar Association and hosted by Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="WGN_RADIO">
+    <title>Northwestern Wildcats Pregame</title>
+    <desc>Northwestern Wildcats Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024230000 +0000" channel="WGN_RADIO">
+    <title>Northwestern Wildcats Football</title>
+    <desc>Northwestern Wildcats Football – Northwestern vs. Rutgers. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261025010000 +0000" channel="WGN_RADIO">
+    <title>Peter Greenberg Worldwide</title>
+    <desc>Peter Greenberg Worldwide. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="WGN_RADIO">
+    <title>The Mincing Rascals</title>
+    <desc>The Mincing Rascals. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/MincingRascals_Square_Web.jpg" />
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025050000 +0000" channel="WGN_RADIO">
+    <title>Steve King and Johnnie Putman</title>
+    <desc>Steve King and Johnnie Putman. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025100000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025103000 +0000" channel="WGN_RADIO">
+    <title>The Great Outdoors with Charlie Potter</title>
+    <desc>The Great Outdoors with Charlie Potter. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025103000 +0000" stop="20261025113000 +0000" channel="WGN_RADIO">
+    <title>Steve Dale’s Pet World</title>
+    <desc>Steve Dale’s Pet World. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025120000 +0000" channel="WGN_RADIO">
+    <title>The Lutheran Hour</title>
+    <desc>The Lutheran Hour. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="WGN_RADIO">
+    <title>The Alpha Wealth Hour with Tom Fortino</title>
+    <desc>The Alpha Wealth Hour with Tom Fortino. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="WGN_RADIO">
+    <title>The Workers’ Mic powered by the National Coalition of Labor</title>
+    <desc>The Workers’ Mic powered by the National Coalition of Labor. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025171500 +0000" channel="WGN_RADIO">
+    <title>Wendy Snyder</title>
+    <desc>Wendy Snyder. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025171500 +0000" stop="20261025173000 +0000" channel="WGN_RADIO">
+    <title>Northwestern Wildcats Pregame (Today’s game will be heard on</title>
+    <desc>Northwestern Wildcats Pregame (Today’s game will be heard on. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="WGN_RADIO">
+    <title>Northwestern Wildcats Basketball</title>
+    <desc>Northwestern Wildcats Basketball – Northwestern vs. Iowa State (Exhibition) (Today’s game will be heard on. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="WGN_RADIO">
+    <title>Steve Dale’s Other World</title>
+    <desc>Steve Dale’s Other World. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Pregame</title>
+    <desc>Chicago Blackhawks Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025223000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Hockey: Blackhawks vs. Florida</title>
+    <desc>Chicago Blackhawks Hockey: Blackhawks vs. Florida. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="WGN_RADIO">
+    <title>The Hill Sunday</title>
+    <desc>The Hill Sunday. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261025230000 +0000" stop="20261026000000 +0000" channel="WGN_RADIO">
+    <title>Batya!</title>
+    <desc>Batya!. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261026000000 +0000" stop="20261026010000 +0000" channel="WGN_RADIO">
+    <title>WGN Radio Theatre with Carl Amari</title>
+    <desc>WGN Radio Theatre with Carl Amari. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="WGN_RADIO">
+    <title>Verdict with Ted Cruz</title>
+    <desc>Verdict with Ted Cruz. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026060000 +0000" channel="WGN_RADIO">
+    <title>Bill Cunningham</title>
+    <desc>Bill Cunningham. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261026060000 +0000" stop="20261026090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261026110000 +0000" stop="20261026150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261026150000 +0000" stop="20261026170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261027010000 +0000" channel="WGN_RADIO">
+    <title>Your Money Matters with Jon Hansen</title>
+    <desc>Your Money Matters with Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027020000 +0000" channel="WGN_RADIO">
+    <title>Blackhawks Live with Charlie Roumeliotis</title>
+    <desc>Blackhawks Live with Charlie Roumeliotis. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027030000 +0000" channel="WGN_RADIO">
+    <title>John Landecker</title>
+    <desc>John Landecker. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027060000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261027060000 +0000" stop="20261027090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261027110000 +0000" stop="20261027150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261027150000 +0000" stop="20261027170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261027170000 +0000" stop="20261027180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261027180000 +0000" stop="20261027190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261027233000 +0000" channel="WGN_RADIO">
+    <title>Your Money Matters with Jon Hansen</title>
+    <desc>Your Money Matters with Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261027233000 +0000" stop="20261028000000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Pregame</title>
+    <desc>Chicago Blackhawks Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261028000000 +0000" stop="20261028033000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Hockey: Blackhawks vs. Los Angeles</title>
+    <desc>Chicago Blackhawks Hockey: Blackhawks vs. Los Angeles. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261028033000 +0000" stop="20261028060000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029010000 +0000" channel="WGN_RADIO">
+    <title>Your Money Matters with Jon Hansen</title>
+    <desc>Your Money Matters with Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029030000 +0000" channel="WGN_RADIO">
+    <title>John Landecker</title>
+    <desc>John Landecker. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029060000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029090000 +0000" channel="WGN_RADIO">
+    <title>The Other Side of Midnight with Walter Sterling</title>
+    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261029150000 +0000" stop="20261029170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029230000 +0000" channel="WGN_RADIO">
+    <title>Lisa Dent</title>
+    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261029233000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Pregame</title>
+    <desc>Chicago Blackhawks Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261029233000 +0000" stop="20261030030000 +0000" channel="WGN_RADIO">
+    <title>Chicago Blackhawks Hockey: Blackhawks at Detroit</title>
+    <desc>Chicago Blackhawks Hockey: Blackhawks at Detroit. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
+  </programme>
+  <programme start="20261030030000 +0000" stop="20261030060000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261030060000 +0000" stop="20261030090000 +0000" channel="WGN_RADIO">
+    <title>Another Side of Midnight with Lionel</title>
+    <desc>Another Side of Midnight with Lionel. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261030090000 +0000" stop="20261030110000 +0000" channel="WGN_RADIO">
+    <title>WGN Early Morning News</title>
+    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261030110000 +0000" stop="20261030150000 +0000" channel="WGN_RADIO">
+    <title>Bob Sirott</title>
+    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2020/01/BobSirott_Square_Web.jpg" />
+  </programme>
+  <programme start="20261030150000 +0000" stop="20261030170000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="WGN_RADIO">
+    <title>Noon Business Lunch with John Williams</title>
+    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030190000 +0000" channel="WGN_RADIO">
+    <title>John Williams</title>
+    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/09/JohnWilliams_Square_Web.jpg" />
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030230000 +0000" channel="WGN_RADIO">
+    <title>Wendy Snyder filling in for Lisa Dent</title>
+    <desc>Wendy Snyder filling in for Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2022/01/LisaDent_Square_Web.jpg" />
+  </programme>
+  <programme start="20261030230000 +0000" stop="20261031000000 +0000" channel="WGN_RADIO">
+    <title>On the Map with Dave Plier</title>
+    <desc>On the Map with Dave Plier. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
+  </programme>
+  <programme start="20261031000000 +0000" stop="20261031030000 +0000" channel="WGN_RADIO">
+    <title>Dave Plier</title>
+    <desc>Dave Plier. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://wgnradio.com/wp-content/uploads/sites/6/2019/07/wgn-radio-logo-horizontal.png" />
   </programme>
 </tv>
