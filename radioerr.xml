@@ -1440,15 +1440,15 @@ and setting expectations for the stretch run.</desc>
   </channel>
   <programme start="20261020000000 +0000" stop="20261020000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020000600 +0000" stop="20261020003000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 00:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020003000 +0000" stop="20261020003200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020003200 +0000" stop="20261020010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -1456,15 +1456,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020010000 +0000" stop="20261020010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020010600 +0000" stop="20261020013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020013000 +0000" stop="20261020013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020013200 +0000" stop="20261020020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Assignment</title>
@@ -1472,7 +1472,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020020000 +0000" stop="20261020020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020020600 +0000" stop="20261020025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -1484,15 +1484,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020030000 +0000" stop="20261020030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020030600 +0000" stop="20261020033000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 03:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020033000 +0000" stop="20261020033200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 03:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020033200 +0000" stop="20261020040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>In the Studio</title>
@@ -1500,7 +1500,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020040000 +0000" stop="20261020040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020040600 +0000" stop="20261020050000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
@@ -1508,7 +1508,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020050000 +0000" stop="20261020050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020050600 +0000" stop="20261020060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
@@ -1516,7 +1516,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020060000 +0000" stop="20261020060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020060600 +0000" stop="20261020070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
@@ -1524,7 +1524,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020070000 +0000" stop="20261020070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020070600 +0000" stop="20261020073000 +0000" channel="BBC_WORLD_SERVICE">
     <title>People Fixing The World</title>
@@ -1532,7 +1532,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020073000 +0000" stop="20261020073200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 07:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020073200 +0000" stop="20261020075000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -1544,15 +1544,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020080000 +0000" stop="20261020080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020080600 +0000" stop="20261020083000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 08:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020083000 +0000" stop="20261020083200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 08:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020083200 +0000" stop="20261020090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Assignment</title>
@@ -1560,7 +1560,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020090000 +0000" stop="20261020090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020090600 +0000" stop="20261020100000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Arts Hour</title>
@@ -1568,15 +1568,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020100000 +0000" stop="20261020100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020100600 +0000" stop="20261020103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 10:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020103000 +0000" stop="20261020103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 10:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020103200 +0000" stop="20261020110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -1584,7 +1584,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020110000 +0000" stop="20261020110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020110600 +0000" stop="20261020115000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -1596,15 +1596,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020120000 +0000" stop="20261020120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020120600 +0000" stop="20261020123000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 12:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020123000 +0000" stop="20261020123200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 12:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020123200 +0000" stop="20261020130000 +0000" channel="BBC_WORLD_SERVICE">
     <title>In the Studio</title>
@@ -1612,15 +1612,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020130000 +0000" stop="20261020130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020130600 +0000" stop="20261020140000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>20/10/2026 13:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261020140000 +0000" stop="20261020140600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 14:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020140600 +0000" stop="20261020143000 +0000" channel="BBC_WORLD_SERVICE">
     <title>People Fixing The World</title>
@@ -1628,7 +1628,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020143000 +0000" stop="20261020143200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 14:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020143200 +0000" stop="20261020145000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -1640,23 +1640,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020150000 +0000" stop="20261020150600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 15:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020150600 +0000" stop="20261020160000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/20 15:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261020160000 +0000" stop="20261020160600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 16:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020160600 +0000" stop="20261020170000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/20 16:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261020170000 +0000" stop="20261020170600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 17:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020170600 +0000" stop="20261020175000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -1668,15 +1668,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020180000 +0000" stop="20261020180600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 18:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020180600 +0000" stop="20261020183000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 18:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020183000 +0000" stop="20261020183200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 18:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020183200 +0000" stop="20261020190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sport Today</title>
@@ -1684,7 +1684,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020190000 +0000" stop="20261020190600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020190600 +0000" stop="20261020193000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Assignment</title>
@@ -1692,7 +1692,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020193000 +0000" stop="20261020193200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 19:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020193200 +0000" stop="20261020200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Tech Life</title>
@@ -1700,15 +1700,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020200000 +0000" stop="20261020200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020200600 +0000" stop="20261020210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>20/10/2026 20:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261020210000 +0000" stop="20261020210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020210600 +0000" stop="20261020213000 +0000" channel="BBC_WORLD_SERVICE">
     <title>People Fixing The World</title>
@@ -1716,7 +1716,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020213000 +0000" stop="20261020213200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 21:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020213200 +0000" stop="20261020220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>In the Studio</title>
@@ -1724,31 +1724,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261020220000 +0000" stop="20261020220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>20/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261020220600 +0000" stop="20261020223000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>20/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261020223000 +0000" stop="20261020223200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>20/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261020223200 +0000" stop="20261021000000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
-    <desc>First broadcast 20/10/2026 21:32 GMT The latest business and finance news from around the world, on the BBC.</desc>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
   <programme start="20261021000000 +0000" stop="20261021000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021000600 +0000" stop="20261021003000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 00:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021003000 +0000" stop="20261021003200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021003200 +0000" stop="20261021010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -1756,15 +1756,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021010000 +0000" stop="20261021010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021010600 +0000" stop="20261021013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021013000 +0000" stop="20261021013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021013200 +0000" stop="20261021020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Climate Question</title>
@@ -1772,7 +1772,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021020000 +0000" stop="20261021020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021020600 +0000" stop="20261021025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -1784,15 +1784,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021030000 +0000" stop="20261021030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021030600 +0000" stop="20261021033000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 03:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021033000 +0000" stop="20261021033200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 03:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021033200 +0000" stop="20261021040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -1800,31 +1800,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021040000 +0000" stop="20261021040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021040600 +0000" stop="20261021050000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>21/10/2026 04:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261021050000 +0000" stop="20261021050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021050600 +0000" stop="20261021060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>21/10/2026 05:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261021060000 +0000" stop="20261021060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021060600 +0000" stop="20261021070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>21/10/2026 06:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261021070000 +0000" stop="20261021070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021070600 +0000" stop="20261021073000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
@@ -1832,7 +1832,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021073000 +0000" stop="20261021073200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 07:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021073200 +0000" stop="20261021075000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -1844,15 +1844,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021080000 +0000" stop="20261021080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021080600 +0000" stop="20261021083000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 08:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021083000 +0000" stop="20261021083200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 08:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021083200 +0000" stop="20261021090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Climate Question</title>
@@ -1860,7 +1860,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021090000 +0000" stop="20261021090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021090600 +0000" stop="20261021100000 +0000" channel="BBC_WORLD_SERVICE">
     <title>In Our Time</title>
@@ -1868,15 +1868,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021100000 +0000" stop="20261021100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021100600 +0000" stop="20261021103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 10:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021103000 +0000" stop="20261021103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 10:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021103200 +0000" stop="20261021110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -1884,7 +1884,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021110000 +0000" stop="20261021110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021110600 +0000" stop="20261021115000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -1896,15 +1896,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021120000 +0000" stop="20261021120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021120600 +0000" stop="20261021123000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 12:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021123000 +0000" stop="20261021123200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 12:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021123200 +0000" stop="20261021130000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -1912,23 +1912,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021130000 +0000" stop="20261021130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021130600 +0000" stop="20261021140000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>21/10/2026 13:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261021140000 +0000" stop="20261021140600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 14:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021140600 +0000" stop="20261021143000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
-    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican ... More &gt;&gt; (R)</desc>
+    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican  (R)</desc>
   </programme>
   <programme start="20261021143000 +0000" stop="20261021143200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 14:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021143200 +0000" stop="20261021145000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -1940,23 +1940,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021150000 +0000" stop="20261021150600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 15:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021150600 +0000" stop="20261021160000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/21 15:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261021160000 +0000" stop="20261021160600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 16:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021160600 +0000" stop="20261021170000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/21 16:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261021170000 +0000" stop="20261021170600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 17:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021170600 +0000" stop="20261021175000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -1968,15 +1968,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021180000 +0000" stop="20261021180600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 18:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021180600 +0000" stop="20261021183000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 18:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021183000 +0000" stop="20261021183200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 18:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021183200 +0000" stop="20261021190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sport Today</title>
@@ -1984,7 +1984,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021190600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021190600 +0000" stop="20261021193000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Climate Question</title>
@@ -1992,7 +1992,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021193000 +0000" stop="20261021193200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 19:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021193200 +0000" stop="20261021200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Health Check</title>
@@ -2000,23 +2000,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021200000 +0000" stop="20261021200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021200600 +0000" stop="20261021210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>21/10/2026 20:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261021210000 +0000" stop="20261021210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021210600 +0000" stop="20261021213000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
-    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican ... More &gt;&gt; (R)</desc>
+    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican  (R)</desc>
   </programme>
   <programme start="20261021213000 +0000" stop="20261021213200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 21:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021213200 +0000" stop="20261021220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -2024,31 +2024,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261021220000 +0000" stop="20261021220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>21/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261021220600 +0000" stop="20261021223000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>21/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261021223000 +0000" stop="20261021223200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>21/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261021223200 +0000" stop="20261022000000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
-    <desc>First broadcast 21/10/2026 21:32 GMT The latest business and finance news from around the world, on the BBC.</desc>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
   <programme start="20261022000000 +0000" stop="20261022000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022000600 +0000" stop="20261022003000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 00:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022003000 +0000" stop="20261022003200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022003200 +0000" stop="20261022010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -2056,15 +2056,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022010000 +0000" stop="20261022010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022010600 +0000" stop="20261022013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022013000 +0000" stop="20261022013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022013200 +0000" stop="20261022020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -2072,7 +2072,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022020000 +0000" stop="20261022020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022020600 +0000" stop="20261022025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2084,15 +2084,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022030000 +0000" stop="20261022030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022030600 +0000" stop="20261022033000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 03:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022033000 +0000" stop="20261022033200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 03:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022033200 +0000" stop="20261022040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Food Chain</title>
@@ -2100,31 +2100,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022040000 +0000" stop="20261022040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022040600 +0000" stop="20261022050000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>22/10/2026 04:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261022050000 +0000" stop="20261022050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022050600 +0000" stop="20261022060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>22/10/2026 05:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261022060000 +0000" stop="20261022060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022060600 +0000" stop="20261022070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>22/10/2026 06:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261022070000 +0000" stop="20261022070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022070600 +0000" stop="20261022073000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
@@ -2132,7 +2132,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022073000 +0000" stop="20261022073200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 07:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022073200 +0000" stop="20261022075000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -2144,15 +2144,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022080000 +0000" stop="20261022080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022080600 +0000" stop="20261022083000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 08:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022083000 +0000" stop="20261022083200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 08:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022083200 +0000" stop="20261022090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -2160,7 +2160,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022090000 +0000" stop="20261022090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022090600 +0000" stop="20261022093000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Explanation</title>
@@ -2168,7 +2168,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022093000 +0000" stop="20261022093200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 09:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022093200 +0000" stop="20261022100000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Jigsaw</title>
@@ -2176,15 +2176,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022100000 +0000" stop="20261022100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022100600 +0000" stop="20261022103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 10:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022103000 +0000" stop="20261022103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 10:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022103200 +0000" stop="20261022110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -2192,7 +2192,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022110000 +0000" stop="20261022110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022110600 +0000" stop="20261022115000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2204,31 +2204,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022120000 +0000" stop="20261022120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022120600 +0000" stop="20261022123000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 12:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022123000 +0000" stop="20261022123200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 12:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022123200 +0000" stop="20261022130000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Food Chain</title>
-    <desc>The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate. ... More &gt;&gt; (R)</desc>
+    <desc>The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.  (R)</desc>
   </programme>
   <programme start="20261022130000 +0000" stop="20261022130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022130600 +0000" stop="20261022140000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>22/10/2026 13:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261022140000 +0000" stop="20261022140600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 14:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022140600 +0000" stop="20261022143000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
@@ -2236,7 +2236,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022143000 +0000" stop="20261022143200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 14:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022143200 +0000" stop="20261022145000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -2248,23 +2248,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022150000 +0000" stop="20261022150600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 15:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022150600 +0000" stop="20261022160000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/22 15:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261022160000 +0000" stop="20261022160600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 16:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022160600 +0000" stop="20261022170000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/22 16:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261022170000 +0000" stop="20261022170600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 17:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022170600 +0000" stop="20261022175000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2276,15 +2276,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022180000 +0000" stop="20261022180600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 18:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022180600 +0000" stop="20261022183000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 18:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022183000 +0000" stop="20261022183200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 18:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022183200 +0000" stop="20261022190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sport Today</title>
@@ -2292,7 +2292,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022190600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022190600 +0000" stop="20261022193000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -2300,7 +2300,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022193000 +0000" stop="20261022193200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 19:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022193200 +0000" stop="20261022200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC Inside Science</title>
@@ -2308,15 +2308,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022200000 +0000" stop="20261022200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022200600 +0000" stop="20261022210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>22/10/2026 20:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261022210000 +0000" stop="20261022210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022210600 +0000" stop="20261022213000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
@@ -2324,39 +2324,39 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261022213000 +0000" stop="20261022213200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 21:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022213200 +0000" stop="20261022220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Food Chain</title>
-    <desc>The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate. ... More &gt;&gt; (R)</desc>
+    <desc>The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.  (R)</desc>
   </programme>
   <programme start="20261022220000 +0000" stop="20261022220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>22/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261022220600 +0000" stop="20261022223000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>22/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261022223000 +0000" stop="20261022223200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>22/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261022223200 +0000" stop="20261023000000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
-    <desc>First broadcast 22/10/2026 21:32 GMT The latest business and finance news from around the world, on the BBC.</desc>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
   <programme start="20261023000000 +0000" stop="20261023000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023000600 +0000" stop="20261023003000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 00:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023003000 +0000" stop="20261023003200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023003200 +0000" stop="20261023010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -2364,15 +2364,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023010000 +0000" stop="20261023010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023010600 +0000" stop="20261023013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023013000 +0000" stop="20261023013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023013200 +0000" stop="20261023020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Tech Life</title>
@@ -2380,7 +2380,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023020000 +0000" stop="20261023020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023020600 +0000" stop="20261023025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2392,15 +2392,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023030000 +0000" stop="20261023030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023030600 +0000" stop="20261023033000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 03:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023033000 +0000" stop="20261023033200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 03:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023033200 +0000" stop="20261023040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Heart and Soul</title>
@@ -2408,31 +2408,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023040000 +0000" stop="20261023040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023040600 +0000" stop="20261023050000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>23/10/2026 04:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261023050000 +0000" stop="20261023050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023050600 +0000" stop="20261023060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>23/10/2026 05:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261023060000 +0000" stop="20261023060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023060600 +0000" stop="20261023070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>23/10/2026 06:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261023070000 +0000" stop="20261023070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023070600 +0000" stop="20261023073000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
@@ -2440,7 +2440,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023073000 +0000" stop="20261023073200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 07:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023073200 +0000" stop="20261023075000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -2452,15 +2452,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023080000 +0000" stop="20261023080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023080600 +0000" stop="20261023083000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 08:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023083000 +0000" stop="20261023083200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 08:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023083200 +0000" stop="20261023090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC Inside Science</title>
@@ -2468,7 +2468,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023090000 +0000" stop="20261023090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023090600 +0000" stop="20261023100000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Unexpected Elements</title>
@@ -2476,15 +2476,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023100000 +0000" stop="20261023100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023100600 +0000" stop="20261023103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 10:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023103000 +0000" stop="20261023103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 10:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023103200 +0000" stop="20261023110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -2492,7 +2492,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023110000 +0000" stop="20261023110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023110600 +0000" stop="20261023115000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2504,15 +2504,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023120000 +0000" stop="20261023120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023120600 +0000" stop="20261023123000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 12:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023123000 +0000" stop="20261023123200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 12:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023123200 +0000" stop="20261023130000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Heart and Soul</title>
@@ -2520,15 +2520,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023130000 +0000" stop="20261023130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023130600 +0000" stop="20261023140000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>23/10/2026 13:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261023140000 +0000" stop="20261023140600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 14:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023140600 +0000" stop="20261023143000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
@@ -2536,7 +2536,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023143000 +0000" stop="20261023143200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 14:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023143200 +0000" stop="20261023145000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -2548,23 +2548,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023150000 +0000" stop="20261023150600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 15:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023150600 +0000" stop="20261023160000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/23 15:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261023160000 +0000" stop="20261023160600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 16:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023160600 +0000" stop="20261023170000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/23 16:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261023170000 +0000" stop="20261023170600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 17:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023170600 +0000" stop="20261023175000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2576,15 +2576,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023180000 +0000" stop="20261023180600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 18:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023180600 +0000" stop="20261023183000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 18:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023183000 +0000" stop="20261023183200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 18:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023183200 +0000" stop="20261023190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sport Today</title>
@@ -2592,7 +2592,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023190000 +0000" stop="20261023190600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023190600 +0000" stop="20261023193000 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC Conversations</title>
@@ -2600,7 +2600,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023193000 +0000" stop="20261023193200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 19:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023193200 +0000" stop="20261023200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>CrowdScience</title>
@@ -2608,15 +2608,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023200000 +0000" stop="20261023200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023200600 +0000" stop="20261023210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>23/10/2026 20:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261023210000 +0000" stop="20261023210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023210600 +0000" stop="20261023213000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
@@ -2624,7 +2624,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023213000 +0000" stop="20261023213200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 21:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023213200 +0000" stop="20261023220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Heart and Soul</title>
@@ -2632,31 +2632,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261023220000 +0000" stop="20261023220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>23/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261023220600 +0000" stop="20261023223000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>23/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261023223000 +0000" stop="20261023223200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>23/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261023223200 +0000" stop="20261024000000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
-    <desc>First broadcast 23/10/2026 21:32 GMT The latest business and finance news from around the world, on the BBC.</desc>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
   <programme start="20261024000000 +0000" stop="20261024000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024000600 +0000" stop="20261024003000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>24/10/2026 00:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261024003000 +0000" stop="20261024003200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024003200 +0000" stop="20261024010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -2664,15 +2664,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024010000 +0000" stop="20261024010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024010600 +0000" stop="20261024013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>24/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261024013000 +0000" stop="20261024013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024013200 +0000" stop="20261024020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Stumped</title>
@@ -2680,7 +2680,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024020000 +0000" stop="20261024020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024020600 +0000" stop="20261024025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -2692,7 +2692,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024030000 +0000" stop="20261024030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024030600 +0000" stop="20261024040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Unexpected Elements</title>
@@ -2700,15 +2700,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024040000 +0000" stop="20261024040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024040600 +0000" stop="20261024043000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>24/10/2026 04:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261024043000 +0000" stop="20261024043200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 04:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024043200 +0000" stop="20261024045000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
@@ -2720,7 +2720,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024050600 +0000" stop="20261024060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Weekend</title>
@@ -2728,7 +2728,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024060000 +0000" stop="20261024060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024060600 +0000" stop="20261024070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Weekend</title>
@@ -2736,7 +2736,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024070000 +0000" stop="20261024070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024070600 +0000" stop="20261024080000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Weekend</title>
@@ -2744,7 +2744,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024080000 +0000" stop="20261024080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024080600 +0000" stop="20261024083000 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC Conversations</title>
@@ -2752,7 +2752,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024083000 +0000" stop="20261024083200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 08:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024083200 +0000" stop="20261024090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Americast</title>
@@ -2760,7 +2760,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024090000 +0000" stop="20261024090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024090600 +0000" stop="20261024100000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Not by the Playbook</title>
@@ -2768,15 +2768,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024100000 +0000" stop="20261024100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024100600 +0000" stop="20261024103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>24/10/2026 10:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261024103000 +0000" stop="20261024103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 10:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024103200 +0000" stop="20261024110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Unspun World with John Simpson</title>
@@ -2784,7 +2784,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024110000 +0000" stop="20261024110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024110600 +0000" stop="20261024120000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -2792,15 +2792,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024120000 +0000" stop="20261024120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024120600 +0000" stop="20261024130000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>24/10/2026 12:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261024130000 +0000" stop="20261024130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024130600 +0000" stop="20261024170000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sportsworld</title>
@@ -2808,15 +2808,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024170000 +0000" stop="20261024170600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 17:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024170600 +0000" stop="20261024173000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>24/10/2026 17:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261024173000 +0000" stop="20261024173200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 17:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024173200 +0000" stop="20261024175000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
@@ -2828,7 +2828,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024180000 +0000" stop="20261024180600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 18:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024180600 +0000" stop="20261024183000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
@@ -2836,7 +2836,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024183000 +0000" stop="20261024183200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 18:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024183200 +0000" stop="20261024190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World of Secrets</title>
@@ -2844,7 +2844,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024190000 +0000" stop="20261024190600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024190600 +0000" stop="20261024200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Arts Hour</title>
@@ -2852,15 +2852,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024200000 +0000" stop="20261024200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024200600 +0000" stop="20261024210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>24/10/2026 20:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261024210000 +0000" stop="20261024210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024210600 +0000" stop="20261024220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Not by the Playbook</title>
@@ -2868,15 +2868,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261024220000 +0000" stop="20261024220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>24/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261024220600 +0000" stop="20261024223000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>24/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261024223000 +0000" stop="20261024223200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>24/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261024223200 +0000" stop="20261025010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>This Is Africa</title>
@@ -2884,7 +2884,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025010000 +0000" stop="20261025010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025010600 +0000" stop="20261025013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
@@ -2892,7 +2892,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025013000 +0000" stop="20261025013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025013200 +0000" stop="20261025020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Happy News</title>
@@ -2900,15 +2900,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025020000 +0000" stop="20261025020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025020600 +0000" stop="20261025023000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>25/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261025023000 +0000" stop="20261025023200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025023200 +0000" stop="20261025025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
@@ -2920,15 +2920,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025030000 +0000" stop="20261025030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025030600 +0000" stop="20261025033000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>25/10/2026 02:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261025033000 +0000" stop="20261025033200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 02:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025033200 +0000" stop="20261025040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Health Check</title>
@@ -2936,7 +2936,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025040000 +0000" stop="20261025040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025040600 +0000" stop="20261025050000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Documentary</title>
@@ -2944,7 +2944,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025050000 +0000" stop="20261025050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025050600 +0000" stop="20261025053000 +0000" channel="BBC_WORLD_SERVICE">
     <title>From Our Own Correspondent</title>
@@ -2952,7 +2952,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025053000 +0000" stop="20261025053200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 04:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025053200 +0000" stop="20261025060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Unspun World with John Simpson</title>
@@ -2960,15 +2960,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025060000 +0000" stop="20261025060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025060600 +0000" stop="20261025063000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>25/10/2026 05:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261025063000 +0000" stop="20261025063200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 05:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025063200 +0000" stop="20261025065000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Asia Specific</title>
@@ -2980,7 +2980,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025070000 +0000" stop="20261025070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025070600 +0000" stop="20261025080000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Weekend</title>
@@ -2988,7 +2988,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025080000 +0000" stop="20261025080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025080600 +0000" stop="20261025090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Weekend</title>
@@ -2996,7 +2996,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025090000 +0000" stop="20261025090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025090600 +0000" stop="20261025100000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Weekend</title>
@@ -3004,7 +3004,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025100000 +0000" stop="20261025100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025100600 +0000" stop="20261025103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>From Our Own Correspondent</title>
@@ -3012,15 +3012,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025103000 +0000" stop="20261025103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 09:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025103200 +0000" stop="20261025110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Food Chain</title>
-    <desc>The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate. ... More &gt;&gt; (R)</desc>
+    <desc>The Food Chain The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.  (R)</desc>
   </programme>
   <programme start="20261025110000 +0000" stop="20261025110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025110600 +0000" stop="20261025113000 +0000" channel="BBC_WORLD_SERVICE">
     <title>People Fixing The World</title>
@@ -3028,7 +3028,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025113000 +0000" stop="20261025113200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 10:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025113200 +0000" stop="20261025120000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Fifth Floor</title>
@@ -3036,15 +3036,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025120000 +0000" stop="20261025120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025120600 +0000" stop="20261025123000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>25/10/2026 11:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261025123000 +0000" stop="20261025123200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 11:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025123200 +0000" stop="20261025125000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
@@ -3056,7 +3056,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025130000 +0000" stop="20261025130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025130600 +0000" stop="20261025133000 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC Conversations</title>
@@ -3064,7 +3064,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025133000 +0000" stop="20261025133200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 12:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025133200 +0000" stop="20261025140000 +0000" channel="BBC_WORLD_SERVICE">
     <title>World of Secrets</title>
@@ -3072,15 +3072,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025140000 +0000" stop="20261025140600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025140600 +0000" stop="20261025150000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>25/10/2026 13:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261025150000 +0000" stop="20261025150600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 14:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025150600 +0000" stop="20261025153000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Climate Question</title>
@@ -3088,7 +3088,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025153000 +0000" stop="20261025153200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 14:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025153200 +0000" stop="20261025160000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Happy News</title>
@@ -3096,7 +3096,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025160000 +0000" stop="20261025160600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 15:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025160600 +0000" stop="20261025200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sportsworld</title>
@@ -3104,15 +3104,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025200000 +0000" stop="20261025200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025200600 +0000" stop="20261025203000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>25/10/2026 19:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261025203000 +0000" stop="20261025203200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 19:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025203200 +0000" stop="20261025210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Jigsaw</title>
@@ -3120,7 +3120,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025210000 +0000" stop="20261025210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025210600 +0000" stop="20261025220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Unexpected Elements</title>
@@ -3128,23 +3128,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261025220000 +0000" stop="20261025220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025220600 +0000" stop="20261025230000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>25/10/2026 21:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261025230000 +0000" stop="20261025230600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>25/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261025230600 +0000" stop="20261025233000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>25/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261025233000 +0000" stop="20261025233200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>25/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261025233200 +0000" stop="20261026010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Fifth Floor</title>
@@ -3152,7 +3152,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026010000 +0000" stop="20261026010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 00:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026010600 +0000" stop="20261026013000 +0000" channel="BBC_WORLD_SERVICE">
     <title>From Our Own Correspondent</title>
@@ -3160,7 +3160,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026013000 +0000" stop="20261026013200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 00:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026013200 +0000" stop="20261026020000 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC Inside Science</title>
@@ -3168,15 +3168,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026020000 +0000" stop="20261026020600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 01:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026020600 +0000" stop="20261026023000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 01:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026023000 +0000" stop="20261026023200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 01:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026023200 +0000" stop="20261026030000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Discovery</title>
@@ -3184,15 +3184,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026030000 +0000" stop="20261026030600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 02:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026030600 +0000" stop="20261026033000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 02:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026033000 +0000" stop="20261026033200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 02:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026033200 +0000" stop="20261026040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>CrowdScience</title>
@@ -3200,7 +3200,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026040000 +0000" stop="20261026040600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 03:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026040600 +0000" stop="20261026043000 +0000" channel="BBC_WORLD_SERVICE">
     <title>People Fixing The World</title>
@@ -3208,7 +3208,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026043000 +0000" stop="20261026043200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 03:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026043200 +0000" stop="20261026050000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Happy News</title>
@@ -3216,15 +3216,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026050000 +0000" stop="20261026050600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 04:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026050600 +0000" stop="20261026053000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 04:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026053000 +0000" stop="20261026053200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 04:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026053200 +0000" stop="20261026060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>A History Of The United States In 100 Objects</title>
@@ -3232,31 +3232,31 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026060000 +0000" stop="20261026060600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 05:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026060600 +0000" stop="20261026070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>26/10/2026 05:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261026070000 +0000" stop="20261026070600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 06:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026070600 +0000" stop="20261026080000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>26/10/2026 06:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261026080000 +0000" stop="20261026080600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 07:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026080600 +0000" stop="20261026090000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>26/10/2026 07:06 GMT Live news, business and sport from around the world.</desc>
+    <desc>Live news, business and sport from around the world.</desc>
   </programme>
   <programme start="20261026090000 +0000" stop="20261026090600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 08:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026090600 +0000" stop="20261026093000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
@@ -3264,7 +3264,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026093000 +0000" stop="20261026093200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 08:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026093200 +0000" stop="20261026095000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -3276,15 +3276,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026100000 +0000" stop="20261026100600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 09:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026100600 +0000" stop="20261026103000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 09:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026103000 +0000" stop="20261026103200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 09:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026103200 +0000" stop="20261026110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>CrowdScience</title>
@@ -3292,7 +3292,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026110000 +0000" stop="20261026110600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 10:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026110600 +0000" stop="20261026120000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The History Hour</title>
@@ -3300,15 +3300,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026120000 +0000" stop="20261026120600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 11:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026120600 +0000" stop="20261026123000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 11:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026123000 +0000" stop="20261026123200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 11:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026123200 +0000" stop="20261026130000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
@@ -3316,7 +3316,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026130000 +0000" stop="20261026130600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 12:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026130600 +0000" stop="20261026135000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -3328,15 +3328,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026140000 +0000" stop="20261026140600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 13:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026140600 +0000" stop="20261026143000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 13:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026143000 +0000" stop="20261026143200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 13:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026143200 +0000" stop="20261026150000 +0000" channel="BBC_WORLD_SERVICE">
     <title>A History Of The United States In 100 Objects</title>
@@ -3344,15 +3344,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026150000 +0000" stop="20261026150600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 14:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026150600 +0000" stop="20261026160000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>26/10/2026 14:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261026160000 +0000" stop="20261026160600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 15:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026160600 +0000" stop="20261026163000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Interview</title>
@@ -3360,7 +3360,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026163000 +0000" stop="20261026163200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 15:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026163200 +0000" stop="20261026165000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
@@ -3372,23 +3372,23 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026170000 +0000" stop="20261026170600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 16:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026170600 +0000" stop="20261026180000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/26 16:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261026180000 +0000" stop="20261026180600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 17:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026180600 +0000" stop="20261026190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outside Source</title>
-    <desc>2026/10/26 17:06 GMT A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
   </programme>
   <programme start="20261026190000 +0000" stop="20261026190600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 18:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026190600 +0000" stop="20261026195000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
@@ -3400,15 +3400,15 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026200000 +0000" stop="20261026200600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 19:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026200600 +0000" stop="20261026203000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 19:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026203000 +0000" stop="20261026203200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 19:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026203200 +0000" stop="20261026210000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sport Today</title>
@@ -3416,7 +3416,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026210000 +0000" stop="20261026210600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 20:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026210600 +0000" stop="20261026213000 +0000" channel="BBC_WORLD_SERVICE">
     <title>From Our Own Correspondent</title>
@@ -3424,7 +3424,7 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026213000 +0000" stop="20261026213200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 20:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026213200 +0000" stop="20261026220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Discovery</title>
@@ -3432,27 +3432,27 @@ and setting expectations for the stretch run.</desc>
   </programme>
   <programme start="20261026220000 +0000" stop="20261026220600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 21:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026220600 +0000" stop="20261026230000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newshour</title>
-    <desc>26/10/2026 21:06 GMT Interviews, news and analysis of the day’s global events.</desc>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
   </programme>
   <programme start="20261026230000 +0000" stop="20261026230600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
-    <desc>26/10/2026 22:01 GMT The latest five minute news bulletin from BBC World Service.</desc>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
   </programme>
   <programme start="20261026230600 +0000" stop="20261026233000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Newsroom</title>
-    <desc>26/10/2026 22:06 GMT The world's Newsroom brings you global events as they happen</desc>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
   </programme>
   <programme start="20261026233000 +0000" stop="20261026233200 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News Summary</title>
-    <desc>26/10/2026 22:30 GMT The latest two minute news summary from BBC World Service.</desc>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
   <programme start="20261026233200 +0000" stop="20261027000200 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
-    <desc>First broadcast 26/10/2026 22:32 GMT The latest business and finance news from around the world, on the BBC.</desc>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
   <channel id="KMPT">
     <display-name>930 AM KMPT Missoula</display-name>
@@ -4852,7 +4852,7 @@ and setting expectations for the stretch run.</desc>
   <channel id="TEST2">
     <display-name>Test Channel 2</display-name>
   </channel>
-  <programme start="20261020154554 +0000" stop="20261020164554 +0000" channel="TEST2">
+  <programme start="20261020155404 +0000" stop="20261020165404 +0000" channel="TEST2">
     <title>Test Programme</title>
     <desc>Test Description</desc>
   </programme>
