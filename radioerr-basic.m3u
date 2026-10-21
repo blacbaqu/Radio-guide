@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1,90s90s Digital
+https://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
+
+#EXTINF:-1,Ambient Sleeping Pill
+http://radio.stereoscenic.com/asp-h
+
+#EXTINF:-1,BBC Radio
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1,Bluegrass Country
+https://ice24.securenetsystems.net/WAMU
+
+#EXTINF:-1,FOX News Radio
+https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
+
+#EXTINF:-1,Irish Pub Radio
+http://solid24.streamupsolutions.com:8026/stream
+
+#EXTINF:-1,KGVO
+https://live.amperwave.net/direct/townsquare-kgvoammp3-ibc3.mp3
+
+#EXTINF:-1,KMPT
+https://live.amperwave.net/direct/townsquare-kmptammp3-ibc3.mp3
+
+#EXTINF:-1,Relic Radio - Old Time Radio
+http://s8.voscast.com:7372/
+
+#EXTINF:-1,The Big 80s Station
+http://158.69.114.190:8065
+
+#EXTINF:-1,WDCB 90.9 FM Chicago
+https://wdcb-ice.streamguys1.com/wdcb128
+
+#EXTINF:-1,WGN Radio 720 AM Chicago
+http://stream.abacast.net/direct/wgnam-wgnammp3-ibc2
+
+#EXTINF:-1,WMVP ESPN 1000
+https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1
+
+#EXTINF:-1,WSCR 670 The Score
+http://stream.abacast.net/direct/audacy-wscrfmaac-imc
+
+#EXTINF:-1,WSM
+http://stream01048.westreamradio.com/wsm-am-mp3
+
+#EXTINF:-1,a.m. ambient
+http://radio.stereoscenic.com/ama-h
