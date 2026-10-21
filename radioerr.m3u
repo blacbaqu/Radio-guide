@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="90s90s-digital" tvg-name="90s90s Digital" radio="true" group-title="Radio",90s90s Digital
+#EXTINF:-1 tvg-id="90s90s-digital" tvg-name="90s90s Digital" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/90s90s-de.png" group-title="Radio",90s90s Digital
 https://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 
 #EXTINF:-1 tvg-id="ambient-sleeping-pill" tvg-name="Ambient Sleeping Pill" radio="true" group-title="Radio",Ambient Sleeping Pill
