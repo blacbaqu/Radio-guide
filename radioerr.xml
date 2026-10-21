@@ -5415,7 +5415,7 @@ and setting expectations for the stretch run.</desc>
   <channel id="TEST2">
     <display-name>Test Channel 2</display-name>
   </channel>
-  <programme start="20261021201803 +0000" stop="20261021211803 +0000" channel="TEST2">
+  <programme start="20261021203827 +0000" stop="20261021213827 +0000" channel="TEST2">
     <title>Test Programme</title>
     <desc>Test Description</desc>
   </programme>
