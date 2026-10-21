@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="90s90s-digital" enabled="1" group-title="Radio",90s90s Digital
+https://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
+
+#EXTINF:-1 tvg-id="ambient-sleeping-pill" enabled="1" group-title="Radio",Ambient Sleeping Pill
+http://radio.stereoscenic.com/asp-h
+
+#EXTINF:-1 tvg-id="bbc-radio" enabled="1" group-title="Radio",BBC Radio
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-id="bluegrass-country" enabled="1" group-title="Radio",Bluegrass Country
+https://ice24.securenetsystems.net/WAMU
+
+#EXTINF:-1 tvg-id="fox-news-radio" enabled="1" group-title="Radio",FOX News Radio
+https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
+
+#EXTINF:-1 tvg-id="irish-pub-radio" enabled="1" group-title="Radio",Irish Pub Radio
+http://solid24.streamupsolutions.com:8026/stream
+
+#EXTINF:-1 tvg-id="kgvo" enabled="1" group-title="Radio",KGVO
+https://live.amperwave.net/direct/townsquare-kgvoammp3-ibc3.mp3
+
+#EXTINF:-1 tvg-id="kmpt" enabled="1" group-title="Radio",KMPT
+https://live.amperwave.net/direct/townsquare-kmptammp3-ibc3.mp3
+
+#EXTINF:-1 tvg-id="relic-radio---old-time-radio" enabled="1" group-title="Radio",Relic Radio - Old Time Radio
+http://s8.voscast.com:7372/
+
+#EXTINF:-1 tvg-id="the-big-80s-station" enabled="1" group-title="Radio",The Big 80s Station
+http://158.69.114.190:8065
+
+#EXTINF:-1 tvg-id="wdcb-90.9-fm-chicago" enabled="1" group-title="Radio",WDCB 90.9 FM Chicago
+https://wdcb-ice.streamguys1.com/wdcb128
+
+#EXTINF:-1 tvg-id="wgn" enabled="1" group-title="Talk",WGN Radio
+https://updated-stream.example.com/live
+
+#EXTINF:-1 tvg-id="wgn-radio-720-am-chicago" enabled="1" group-title="Radio",WGN Radio 720 AM Chicago
+http://stream.abacast.net/direct/wgnam-wgnammp3-ibc2
+
+#EXTINF:-1 tvg-id="wmvp-espn-1000" enabled="1" group-title="Radio",WMVP ESPN 1000
+https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1
+
+#EXTINF:-1 tvg-id="wscr-670-the-score" enabled="1" group-title="Radio",WSCR 670 The Score
+http://stream.abacast.net/direct/audacy-wscrfmaac-imc
+
+#EXTINF:-1 tvg-id="wsm" enabled="1" group-title="Radio",WSM
+http://stream01048.westreamradio.com/wsm-am-mp3
+
+#EXTINF:-1 tvg-id="a.m.-ambient" enabled="1" group-title="Radio",a.m. ambient
+http://radio.stereoscenic.com/ama-h
