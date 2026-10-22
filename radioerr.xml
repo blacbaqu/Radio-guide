@@ -3,51 +3,6 @@
   <channel id="WSCR.chicago">
     <display-name>WSCR 670 The Score</display-name>
   </channel>
-  <programme start="20261021030000 +0000" stop="20261021050000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night with Lynnell Willingham</title>
-    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
-  </programme>
-  <programme start="20261021050000 +0000" stop="20261021090000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night with Lynnell Willingham</title>
-    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
-  </programme>
-  <programme start="20261021090000 +0000" stop="20261021100000 +0000" channel="WSCR.chicago">
-    <title>Best of the Score</title>
-    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021150000 +0000" channel="WSCR.chicago">
-    <title>Haugh &amp; Payton Show</title>
-    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
-  </programme>
-  <programme start="20261021150000 +0000" stop="20261021190000 +0000" channel="WSCR.chicago">
-    <title>Rahimi &amp; Grote Show</title>
-    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021230000 +0000" channel="WSCR.chicago">
-    <title>Spiegel &amp; Holmes Show</title>
-    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261021231500 +0000" channel="WSCR.chicago">
-    <title>Alex Kuhn</title>
-    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
-  </programme>
-  <programme start="20261021231500 +0000" stop="20261022023000 +0000" channel="WSCR.chicago">
-    <title>Bulls Radio</title>
-    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Bulls_Radio_app_square-1770404198366.jpg" />
-  </programme>
-  <programme start="20261022023000 +0000" stop="20261022050000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
-    <desc>Westwood One Sports Night with Lynnell Willingham and Josh Graham. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505386317.jpg" />
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022090000 +0000" channel="WSCR.chicago">
     <title>Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
     <desc>Westwood One Sports Night with Lynnell Willingham and Josh Graham. Broadcast on WSCR 670 The Score.</desc>
@@ -318,57 +273,49 @@
     <desc>Anthony Herron and Carmen Vitali discuss the latest Chicago sports storylines.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1792526603759.jpg" />
   </programme>
+  <programme start="20261028020000 +0000" stop="20261028030000 +0000" channel="WSCR.chicago">
+    <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
+    <desc>Every win, every loss, every live wager—these guys are reacting in real-time with you. With "The Big Noise", Brad Evans, a FSWA Hall of Famer, is the most decorated writer/personality in fantasy sports history and top handicapper Ryan Horvat.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BetMGM%20Tonight-1791902211371.jpg" />
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028050000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028090000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028100000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028150000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028190000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028230000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261028234500 +0000" stop="20261029030000 +0000" channel="WSCR.chicago">
+    <title>Bulls Radio</title>
+    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Bulls_Radio_app_square-1770404198366.jpg" />
+  </programme>
   <channel id="AMAMBIENT">
     <display-name>a.m. ambient</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021080000 +0000" channel="AMAMBIENT">
-    <title>Midnight Glow</title>
-    <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021110000 +0000" channel="AMAMBIENT">
-    <title>First Light</title>
-    <desc>Soft drones and delicate melodies as night gradually gives way to morning.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021140000 +0000" channel="AMAMBIENT">
-    <title>Sunrise Signals</title>
-    <desc>Bright and uplifting ambient selections to welcome a new day with clarity and optimism.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021170000 +0000" channel="AMAMBIENT">
-    <title>Open Skies</title>
-    <desc>Expansive ambient music designed to inspire focus, creativity, and forward momentum.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261021170000 +0000" stop="20261021200000 +0000" channel="AMAMBIENT">
-    <title>Daylight Drift</title>
-    <desc>Positive and melodic ambient sounds for productive afternoons and peaceful reflection.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261021230000 +0000" channel="AMAMBIENT">
-    <title>Golden Hours</title>
-    <desc>Warm harmonies and luminous soundscapes accompanying the latter half of the day.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022020000 +0000" channel="AMAMBIENT">
-    <title>Evening Horizons</title>
-    <desc>Relaxed ambient journeys that ease the transition from day into evening.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022050000 +0000" channel="AMAMBIENT">
-    <title>Twilight Echoes</title>
-    <desc>Slow and contemplative ambient music preparing the mind for a restful night ahead.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
     <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
@@ -657,57 +604,57 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028080000 +0000" channel="AMAMBIENT">
+    <title>Midnight Glow</title>
+    <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="AMAMBIENT">
+    <title>First Light</title>
+    <desc>Soft drones and delicate melodies as night gradually gives way to morning.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="AMAMBIENT">
+    <title>Sunrise Signals</title>
+    <desc>Bright and uplifting ambient selections to welcome a new day with clarity and optimism.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="AMAMBIENT">
+    <title>Open Skies</title>
+    <desc>Expansive ambient music designed to inspire focus, creativity, and forward momentum.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028200000 +0000" channel="AMAMBIENT">
+    <title>Daylight Drift</title>
+    <desc>Positive and melodic ambient sounds for productive afternoons and peaceful reflection.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028230000 +0000" channel="AMAMBIENT">
+    <title>Golden Hours</title>
+    <desc>Warm harmonies and luminous soundscapes accompanying the latter half of the day.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="AMAMBIENT">
+    <title>Evening Horizons</title>
+    <desc>Relaxed ambient journeys that ease the transition from day into evening.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="AMAMBIENT">
+    <title>Twilight Echoes</title>
+    <desc>Slow and contemplative ambient music preparing the mind for a restful night ahead.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+  </programme>
   <channel id="AMBIENTSLEEPINGPILL">
     <display-name>Ambient Sleeping Pill</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021080000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Deep Sleep</title>
-    <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021110000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Dream States</title>
-    <desc>Ethereal drones and tranquil textures for the quietest hours of the night.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021140000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Dawn Atmospheres</title>
-    <desc>Gentle ambient selections to ease into the morning with calm and clarity.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021170000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Ambient Workspace</title>
-    <desc>Beat-free background music for studying, reading, focus, and concentration.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261021170000 +0000" stop="20261021200000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Quiet Studies</title>
-    <desc>Warm, unobtrusive ambient music designed to support productive afternoons.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261021230000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Floating Horizons</title>
-    <desc>Expansive soundscapes and drifting melodies for relaxation and reflection.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022020000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Evening Calm</title>
-    <desc>Soft ambient textures for winding down at the end of the day.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022050000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Sleep Preparation</title>
-    <desc>Peaceful ambient music selected to help transition into a restful night.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022080000 +0000" channel="AMBIENTSLEEPINGPILL">
     <title>Deep Sleep</title>
     <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
@@ -996,6 +943,54 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
 
 Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028080000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Deep Sleep</title>
+    <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Dream States</title>
+    <desc>Ethereal drones and tranquil textures for the quietest hours of the night.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Dawn Atmospheres</title>
+    <desc>Gentle ambient selections to ease into the morning with calm and clarity.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Ambient Workspace</title>
+    <desc>Beat-free background music for studying, reading, focus, and concentration.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028200000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Quiet Studies</title>
+    <desc>Warm, unobtrusive ambient music designed to support productive afternoons.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028230000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Floating Horizons</title>
+    <desc>Expansive soundscapes and drifting melodies for relaxation and reflection.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Evening Calm</title>
+    <desc>Soft ambient textures for winding down at the end of the day.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Sleep Preparation</title>
+    <desc>Peaceful ambient music selected to help transition into a restful night.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+  </programme>
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
@@ -1027,12 +1022,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <title>Mark Levin</title>
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
   </programme>
-  <programme start="20261022010000 +0000" stop="20261022020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Bye Week Show: Midseason recap with Coach Kennedy and Riley Corcoran, reviewing the first half of the season
-and setting expectations for the stretch run.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022030000 +0000" channel="KGVO">
+  <programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
   </programme>
@@ -1299,38 +1289,6 @@ and setting expectations for the stretch run.</desc>
   <channel id="WDCB">
     <display-name>WDCB 90.9 FM Chicago</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021100000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021140000 +0000" channel="WDCB">
-    <title>First Light</title>
-    <desc>Early morning jazz, acoustic melodies, and standards to start the Chicago day.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021190000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021220000 +0000" channel="WDCB">
-    <title>Jazz Oasis</title>
-    <desc>A relaxing afternoon retreat featuring classic, acoustic, and modern jazz to ease through the workday.</desc>
-  </programme>
-  <programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022010000 +0000" channel="WDCB">
-    <title>Night Lights</title>
-    <desc>David Brent Johnson explores classic jazz from the 1940s through 1970s, showcasing pivotal sessions and unsung innovators.</desc>
-  </programme>
-  <programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="WDCB">
-    <title>Blues Edition</title>
-    <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-  </programme>
-  <programme start="20261022030000 +0000" stop="20261022050000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022100000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
     <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
@@ -1524,6 +1482,38 @@ and setting expectations for the stretch run.</desc>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
   </programme>
   <programme start="20261028030000 +0000" stop="20261028050000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028140000 +0000" channel="WDCB">
+    <title>First Light</title>
+    <desc>Early morning jazz, acoustic melodies, and standards to start the Chicago day.</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028190000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="WDCB">
+    <title>Jazz Oasis</title>
+    <desc>A relaxing afternoon retreat featuring classic, acoustic, and modern jazz to ease through the workday.</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="WDCB">
+    <title>Night Lights</title>
+    <desc>David Brent Johnson explores classic jazz from the 1940s through 1970s, showcasing pivotal sessions and unsung innovators.</desc>
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029030000 +0000" channel="WDCB">
+    <title>Blues Edition</title>
+    <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
     <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
   </programme>
@@ -1756,306 +1746,6 @@ and setting expectations for the stretch run.</desc>
   <channel id="BBC_WORLD_SERVICE">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20261021000000 +0000" stop="20261021000600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021000600 +0000" stop="20261021003000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021003000 +0000" stop="20261021003200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021003200 +0000" stop="20261021010000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>They were loyal Democrats. Then came Gaza Michigan Democrats on Israel, US foreign policy and the future of the party. (R)</desc>
-  </programme>
-  <programme start="20261021010000 +0000" stop="20261021010600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021010600 +0000" stop="20261021013000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021013000 +0000" stop="20261021013200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021013200 +0000" stop="20261021020000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Climate Question</title>
-    <desc>Mining: Can we learn lessons from the past? Lithium and copper are crucial to the energy transition, but at what environmental cost? (R)</desc>
-  </programme>
-  <programme start="20261021020000 +0000" stop="20261021020600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021020600 +0000" stop="20261021025000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Why didn't they tell me I was black? Part 2 Lacey discovers her parents' true identity, and her own (R)</desc>
-  </programme>
-  <programme start="20261021025000 +0000" stop="20261021030000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created (R)</desc>
-  </programme>
-  <programme start="20261021030000 +0000" stop="20261021030600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021030600 +0000" stop="20261021033000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021033000 +0000" stop="20261021033200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021033200 +0000" stop="20261021040000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Documentary</title>
-    <desc>Where is Austin Tice? 7/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time.</desc>
-  </programme>
-  <programme start="20261021040000 +0000" stop="20261021040600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021040600 +0000" stop="20261021050000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-  </programme>
-  <programme start="20261021050000 +0000" stop="20261021050600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021050600 +0000" stop="20261021060000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-  </programme>
-  <programme start="20261021060000 +0000" stop="20261021060600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021060600 +0000" stop="20261021070000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-  </programme>
-  <programme start="20261021070000 +0000" stop="20261021070600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021070600 +0000" stop="20261021073000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican</desc>
-  </programme>
-  <programme start="20261021073000 +0000" stop="20261021073200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021073200 +0000" stop="20261021075000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>Founders: Olio CEO Tessa Clarke's fight against food waste Olio founder Tessa Clarke left a corporate job to build a business tackling food waste</desc>
-  </programme>
-  <programme start="20261021075000 +0000" stop="20261021080000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Malta’s divorce referendum In 2011, Maltese voters went to the polls to decide if divorce should be legalised</desc>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021080600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021080600 +0000" stop="20261021083000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021083000 +0000" stop="20261021083200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021083200 +0000" stop="20261021090000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Climate Question</title>
-    <desc>Mining: Can we learn lessons from the past? Lithium and copper are crucial to the energy transition, but at what environmental cost? (R)</desc>
-  </programme>
-  <programme start="20261021090000 +0000" stop="20261021090600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021090600 +0000" stop="20261021100000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>In Our Time</title>
-    <desc>Indian Indentured Labour How slavery’s abolition led to Indian workers being recruited to work in British colonies. (R)</desc>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021100600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021100600 +0000" stop="20261021103000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021103000 +0000" stop="20261021103200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021103200 +0000" stop="20261021110000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>The Global Story .</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021110600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021110600 +0000" stop="20261021115000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
-  </programme>
-  <programme start="20261021115000 +0000" stop="20261021120000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Malta’s divorce referendum In 2011, Maltese voters went to the polls to decide if divorce should be legalised (R)</desc>
-  </programme>
-  <programme start="20261021120000 +0000" stop="20261021120600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021120600 +0000" stop="20261021123000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021123000 +0000" stop="20261021123200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021123200 +0000" stop="20261021130000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Documentary</title>
-    <desc>Where is Austin Tice? 7/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time. (R)</desc>
-  </programme>
-  <programme start="20261021130000 +0000" stop="20261021130600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021130600 +0000" stop="20261021140000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021140600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021140600 +0000" stop="20261021143000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican  (R)</desc>
-  </programme>
-  <programme start="20261021143000 +0000" stop="20261021143200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021143200 +0000" stop="20261021145000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>Founders: Olio CEO Tessa Clarke's fight against food waste Olio founder Tessa Clarke left a corporate job to build a business tackling food waste  (R)</desc>
-  </programme>
-  <programme start="20261021145000 +0000" stop="20261021150000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Express</title>
-    <desc>21/10/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
-  </programme>
-  <programme start="20261021150000 +0000" stop="20261021150600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021150600 +0000" stop="20261021160000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20261021160000 +0000" stop="20261021160600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021160600 +0000" stop="20261021170000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-  </programme>
-  <programme start="20261021170000 +0000" stop="20261021170600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021170600 +0000" stop="20261021175000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
-  </programme>
-  <programme start="20261021175000 +0000" stop="20261021180000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Malta’s divorce referendum In 2011, Maltese voters went to the polls to decide if divorce should be legalised (R)</desc>
-  </programme>
-  <programme start="20261021180000 +0000" stop="20261021180600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021180600 +0000" stop="20261021183000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021183000 +0000" stop="20261021183200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021183200 +0000" stop="20261021190000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Sport Today</title>
-    <desc>2026/10/21 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021190600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021190600 +0000" stop="20261021193000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Climate Question</title>
-    <desc>Mining: Can we learn lessons from the past? Lithium and copper are crucial to the energy transition, but at what environmental cost? (R)</desc>
-  </programme>
-  <programme start="20261021193000 +0000" stop="20261021193200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021193200 +0000" stop="20261021200000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Health Check</title>
-    <desc>Health Check Health issues and medical breakthroughs from around the world.</desc>
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261021200600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021200600 +0000" stop="20261021210000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-  </programme>
-  <programme start="20261021210000 +0000" stop="20261021210600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021210600 +0000" stop="20261021213000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican  (R)</desc>
-  </programme>
-  <programme start="20261021213000 +0000" stop="20261021213200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021213200 +0000" stop="20261021220000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Documentary</title>
-    <desc>Where is Austin Tice? 7/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time. (R)</desc>
-  </programme>
-  <programme start="20261021220000 +0000" stop="20261021220600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021220600 +0000" stop="20261021223000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-  </programme>
-  <programme start="20261021223000 +0000" stop="20261021223200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-  </programme>
-  <programme start="20261021223200 +0000" stop="20261022000000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Report</title>
-    <desc>The latest business and finance news from around the world, on the BBC.</desc>
-  </programme>
   <programme start="20261022000000 +0000" stop="20261022000600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
     <desc>The latest five minute news bulletin from BBC World Service.</desc>
@@ -3760,7 +3450,307 @@ and setting expectations for the stretch run.</desc>
     <title>BBC News Summary</title>
     <desc>The latest two minute news summary from BBC World Service.</desc>
   </programme>
-  <programme start="20261027233200 +0000" stop="20261028000200 +0000" channel="BBC_WORLD_SERVICE">
+  <programme start="20261027233200 +0000" stop="20261028010000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Report</title>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
+  </programme>
+  <programme start="20261028010000 +0000" stop="20261028010600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028010600 +0000" stop="20261028013000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028013000 +0000" stop="20261028013200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028013200 +0000" stop="20261028020000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Global Story</title>
+    <desc>They were loyal Democrats. Then came Gaza Michigan Democrats on Israel, US foreign policy and the future of the party. (R)</desc>
+  </programme>
+  <programme start="20261028020000 +0000" stop="20261028020600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028020600 +0000" stop="20261028023000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028023000 +0000" stop="20261028023200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028023200 +0000" stop="20261028030000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Climate Question</title>
+    <desc>Mining: Can we learn lessons from the past? Lithium and copper are crucial to the energy transition, but at what environmental cost? (R)</desc>
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028030600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028030600 +0000" stop="20261028035000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Why didn't they tell me I was black? Part 2 Lacey discovers her parents' true identity, and her own (R)</desc>
+  </programme>
+  <programme start="20261028035000 +0000" stop="20261028040000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>How Ten Canoes made cinema history In 2006, Australia's first feature film in Aboriginal languages was created (R)</desc>
+  </programme>
+  <programme start="20261028040000 +0000" stop="20261028040600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028040600 +0000" stop="20261028043000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028043000 +0000" stop="20261028043200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028043200 +0000" stop="20261028050000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Documentary</title>
+    <desc>Where is Austin Tice? 7/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time.</desc>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028050600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028050600 +0000" stop="20261028060000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028060600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028060600 +0000" stop="20261028070000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20261028070000 +0000" stop="20261028070600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028070600 +0000" stop="20261028080000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028080600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028080600 +0000" stop="20261028083000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Interview</title>
+    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican</desc>
+  </programme>
+  <programme start="20261028083000 +0000" stop="20261028083200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028083200 +0000" stop="20261028085000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>Founders: Olio CEO Tessa Clarke's fight against food waste Olio founder Tessa Clarke left a corporate job to build a business tackling food waste</desc>
+  </programme>
+  <programme start="20261028085000 +0000" stop="20261028090000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>Malta’s divorce referendum In 2011, Maltese voters went to the polls to decide if divorce should be legalised</desc>
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028090600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028090600 +0000" stop="20261028093000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028093000 +0000" stop="20261028093200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028093200 +0000" stop="20261028100000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Climate Question</title>
+    <desc>Mining: Can we learn lessons from the past? Lithium and copper are crucial to the energy transition, but at what environmental cost? (R)</desc>
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028100600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028100600 +0000" stop="20261028110000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>In Our Time</title>
+    <desc>Indian Indentured Labour How slavery’s abolition led to Indian workers being recruited to work in British colonies. (R)</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028110600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028110600 +0000" stop="20261028113000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028113000 +0000" stop="20261028113200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028113200 +0000" stop="20261028120000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Global Story</title>
+    <desc>The Global Story .</desc>
+  </programme>
+  <programme start="20261028120000 +0000" stop="20261028120600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028120600 +0000" stop="20261028125000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+  </programme>
+  <programme start="20261028125000 +0000" stop="20261028130000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>Malta’s divorce referendum In 2011, Maltese voters went to the polls to decide if divorce should be legalised (R)</desc>
+  </programme>
+  <programme start="20261028130000 +0000" stop="20261028130600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028130600 +0000" stop="20261028133000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028133000 +0000" stop="20261028133200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028133200 +0000" stop="20261028140000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Documentary</title>
+    <desc>Where is Austin Tice? 7/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time. (R)</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028140600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028140600 +0000" stop="20261028150000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028150600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028150600 +0000" stop="20261028153000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Interview</title>
+    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican  (R)</desc>
+  </programme>
+  <programme start="20261028153000 +0000" stop="20261028153200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028153200 +0000" stop="20261028155000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>Founders: Olio CEO Tessa Clarke's fight against food waste Olio founder Tessa Clarke left a corporate job to build a business tackling food waste  (R)</desc>
+  </programme>
+  <programme start="20261028155000 +0000" stop="20261028160000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Express</title>
+    <desc>21/10/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028160600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028160600 +0000" stop="20261028170000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028170600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028170600 +0000" stop="20261028180000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028180600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028180600 +0000" stop="20261028185000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+  </programme>
+  <programme start="20261028185000 +0000" stop="20261028190000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>Malta’s divorce referendum In 2011, Maltese voters went to the polls to decide if divorce should be legalised (R)</desc>
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028190600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028190600 +0000" stop="20261028193000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028193000 +0000" stop="20261028193200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028193200 +0000" stop="20261028200000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Sport Today</title>
+    <desc>2026/10/21 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028200600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028200600 +0000" stop="20261028203000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Climate Question</title>
+    <desc>Mining: Can we learn lessons from the past? Lithium and copper are crucial to the energy transition, but at what environmental cost? (R)</desc>
+  </programme>
+  <programme start="20261028203000 +0000" stop="20261028203200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028203200 +0000" stop="20261028210000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Health Check</title>
+    <desc>Health Check Health issues and medical breakthroughs from around the world.</desc>
+  </programme>
+  <programme start="20261028210000 +0000" stop="20261028210600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028210600 +0000" stop="20261028220000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028220600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028220600 +0000" stop="20261028223000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Interview</title>
+    <desc>Archbishop Paul Gallagher: Diplomacy means talking to all sides Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican  (R)</desc>
+  </programme>
+  <programme start="20261028223000 +0000" stop="20261028223200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028223200 +0000" stop="20261028230000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Documentary</title>
+    <desc>Where is Austin Tice? 7/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time. (R)</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261028230600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028230600 +0000" stop="20261028233000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+  </programme>
+  <programme start="20261028233000 +0000" stop="20261028233200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+  </programme>
+  <programme start="20261028233200 +0000" stop="20261029000200 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
     <desc>The latest business and finance news from around the world, on the BBC.</desc>
   </programme>
@@ -4078,46 +4068,6 @@ and setting expectations for the stretch run.</desc>
   <channel id="WMVP.chicago">
     <display-name>ESPN 1000 WMVP</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021100000 +0000" channel="WMVP.chicago">
-    <title>SportsCenter AllNight</title>
-    <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png" />
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="WMVP.chicago">
-    <title>Unsportsmanlike</title>
-    <desc>Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg" />
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021140000 +0000" channel="WMVP.chicago">
-    <title>Kap &amp; J.Hood</title>
-    <desc>David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/5d/4c/a3/1b/5d4ca31b-5f34-4b53-a550-20cfcf7e0f25/e0fb93cf258aa488db9f90cf50811eef2342fc7ea008f1b635caeb646a5b4f6e5c9b689a88ebff0ba9ec3646a7be7ef75dc11883be717462b5fe1a8bb2a74c49.jpeg" />
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021170000 +0000" channel="WMVP.chicago">
-    <title>Carmen &amp; Jurko</title>
-    <desc>Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/15/41/d3/ca/1541d3ca-a309-4116-bb49-5a5dd95dc963/d0a0b2203714b724f7eec5f5fa8cce6e07e3a1f9e0f3408db0b7dc974e64dfcb347ec2e5feaa18281315b4f4c803f2a87aeb3e4599a16f2c3bc63556c4d7e989.jpeg" />
-  </programme>
-  <programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="WMVP.chicago">
-    <title>The Rich Eisen Show</title>
-    <desc>Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/22/02/fc/6e/2202fc6e-5f96-48c7-9ca8-12c823058a98/fdbbdf3eef25000571f54bebc82650058b0fae007851d456ce4371bf8eb837be74a58407421323f95ecb54784a6ae2ec9a5cb33a9254c46fbe8524aa7d9036c5.jpeg" />
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021230000 +0000" channel="WMVP.chicago">
-    <title>Waddle &amp; Silvy</title>
-    <desc>Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
-    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg" />
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022020000 +0000" channel="WMVP.chicago">
-    <title>Amber &amp; Ian</title>
-    <desc>Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
-    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500" />
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022050000 +0000" channel="WMVP.chicago">
-    <title>ESPN Radio GameNight</title>
-    <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png" />
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022100000 +0000" channel="WMVP.chicago">
     <title>SportsCenter AllNight</title>
     <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
@@ -4338,45 +4288,49 @@ and setting expectations for the stretch run.</desc>
     <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png" />
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="WMVP.chicago">
+    <title>SportsCenter AllNight</title>
+    <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png" />
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028110000 +0000" channel="WMVP.chicago">
+    <title>Unsportsmanlike</title>
+    <desc>Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3a/0c/36/ef/3a0c36ef-c575-470a-b326-fa41db6b9338/5914619d08e56ec4a07bfba408e0639906ce36e65bb27d42cfd65377f06bc959f6f69165780ee61c6aaecbf94025a4dcf9cfa8c9bb7cf2a30ba3bbfa727c02bb.jpeg" />
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="WMVP.chicago">
+    <title>Kap &amp; J.Hood</title>
+    <desc>David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/5d/4c/a3/1b/5d4ca31b-5f34-4b53-a550-20cfcf7e0f25/e0fb93cf258aa488db9f90cf50811eef2342fc7ea008f1b635caeb646a5b4f6e5c9b689a88ebff0ba9ec3646a7be7ef75dc11883be717462b5fe1a8bb2a74c49.jpeg" />
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="WMVP.chicago">
+    <title>Carmen &amp; Jurko</title>
+    <desc>Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/15/41/d3/ca/1541d3ca-a309-4116-bb49-5a5dd95dc963/d0a0b2203714b724f7eec5f5fa8cce6e07e3a1f9e0f3408db0b7dc974e64dfcb347ec2e5feaa18281315b4f4c803f2a87aeb3e4599a16f2c3bc63556c4d7e989.jpeg" />
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028190000 +0000" channel="WMVP.chicago">
+    <title>The Rich Eisen Show</title>
+    <desc>Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/22/02/fc/6e/2202fc6e-5f96-48c7-9ca8-12c823058a98/fdbbdf3eef25000571f54bebc82650058b0fae007851d456ce4371bf8eb837be74a58407421323f95ecb54784a6ae2ec9a5cb33a9254c46fbe8524aa7d9036c5.jpeg" />
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028230000 +0000" channel="WMVP.chicago">
+    <title>Waddle &amp; Silvy</title>
+    <desc>Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://content.production.cdn.art19.com/images/3c/d5/43/40/3cd54340-e221-4f4c-851f-2e90f23cb411/7289547d341065ea07e2c90666d925501fb7c28d4beea60a0cfb3e1ec3eb3dafd22e92c2ba4313f890cf25bf9cce1e427ef0d56b8253dd6fe649cfc4f9f7dc1a.jpeg" />
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="WMVP.chicago">
+    <title>Amber &amp; Ian</title>
+    <desc>Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://a.espncdn.com/combiner/i?img=/i/headshots/espnradio/amber_ian.png&amp;w=500&amp;h=500" />
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="WMVP.chicago">
+    <title>ESPN Radio GameNight</title>
+    <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ESPN_Radio_logo.svg/512px-ESPN_Radio_logo.svg.png" />
+  </programme>
   <channel id="BLUEGRASS_COUNTRY">
     <display-name>Bluegrass Country</display-name>
   </channel>
-  <programme start="20261021040000 +0000" stop="20261021050000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Signal</title>
-    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
-  </programme>
-  <programme start="20261021050000 +0000" stop="20261021110000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Overnight</title>
-    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021140000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>A Bluegrass Morning</title>
-    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Eddie Stubbs Show</title>
-    <desc>Country Music Hall of Fame broadcaster Eddie Stubbs brings legendary vintage country and traditional bluegrass classics.</desc>
-  </programme>
-  <programme start="20261021160000 +0000" stop="20261021190000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Brad Kolodner Show</title>
-    <desc>Award-winning clawhammer banjoist Brad Kolodner spotlights progressive acoustic music, old-time jams, and indie roots.</desc>
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021220000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Chris Teskey Show</title>
-    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
-  </programme>
-  <programme start="20261021220000 +0000" stop="20261021230000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Michelle Murray Show</title>
-    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022020000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Stained Glass Bluegrass</title>
-    <desc>Classic bluegrass gospel, sacred acoustic songs, and mountain harmonies on Sunday and Wednesday mornings.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022050000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Banks of the Ohio</title>
-    <desc>Interviews, performance sessions, and historical perspectives celebrating the pioneers of bluegrass music.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022110000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Bluegrass Overnight</title>
     <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
@@ -4597,73 +4551,45 @@ and setting expectations for the stretch run.</desc>
     <title>The Dick Spottswood Show</title>
     <desc>Renowned musicologist Dick Spottswood explores rare archival roots, traditional bluegrass, and historical American recordings.</desc>
   </programme>
+  <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Signal</title>
+    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028110000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Overnight</title>
+    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>A Bluegrass Morning</title>
+    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Eddie Stubbs Show</title>
+    <desc>Country Music Hall of Fame broadcaster Eddie Stubbs brings legendary vintage country and traditional bluegrass classics.</desc>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Brad Kolodner Show</title>
+    <desc>Award-winning clawhammer banjoist Brad Kolodner spotlights progressive acoustic music, old-time jams, and indie roots.</desc>
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Chris Teskey Show</title>
+    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Michelle Murray Show</title>
+    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Stained Glass Bluegrass</title>
+    <desc>Classic bluegrass gospel, sacred acoustic songs, and mountain harmonies on Sunday and Wednesday mornings.</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Banks of the Ohio</title>
+    <desc>Interviews, performance sessions, and historical perspectives celebrating the pioneers of bluegrass music.</desc>
+  </programme>
   <channel id="FOXNEWSRADIO">
     <display-name>FOX News Radio</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021060000 +0000" channel="FOXNEWSRADIO">
-    <title>Gutfeld! (Encore)</title>
-    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-  </programme>
-  <programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="FOXNEWSRADIO">
-    <title>The Ingraham Angle (Encore)</title>
-    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-  </programme>
-  <programme start="20261021070000 +0000" stop="20261021100000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX News Radio Overnight</title>
-    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX News Rundown</title>
-    <desc>A deeper look at the major stories shaping the national conversation.</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021120000 +0000" channel="FOXNEWSRADIO">
-    <title>Gutfeld! (Encore)</title>
-    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-  </programme>
-  <programme start="20261021120000 +0000" stop="20261021130000 +0000" channel="FOXNEWSRADIO">
-    <title>Jesse Watters Primetime (Encore)</title>
-    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-  </programme>
-  <programme start="20261021130000 +0000" stop="20261021160000 +0000" channel="FOXNEWSRADIO">
-    <title>The Brian Kilmeade Show</title>
-    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
-  </programme>
-  <programme start="20261021160000 +0000" stop="20261021190000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX Across America with Jimmy Failla</title>
-    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
-  </programme>
-  <programme start="20261021190000 +0000" stop="20261021220000 +0000" channel="FOXNEWSRADIO">
-    <title>The Guy Benson Show</title>
-    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
-  </programme>
-  <programme start="20261021220000 +0000" stop="20261021230000 +0000" channel="FOXNEWSRADIO">
-    <title>Will Cain Country</title>
-    <desc>News, politics, sports, and culture with Will Cain.</desc>
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022000000 +0000" channel="FOXNEWSRADIO">
-    <title>The Five (Encore)</title>
-    <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022010000 +0000" channel="FOXNEWSRADIO">
-    <title>Special Report w/ Bret Baier (Encore)</title>
-    <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-  </programme>
-  <programme start="20261022010000 +0000" stop="20261022020000 +0000" channel="FOXNEWSRADIO">
-    <title>The Ingraham Angle (Encore)</title>
-    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022030000 +0000" channel="FOXNEWSRADIO">
-    <title>Jesse Watters Primetime (Encore)</title>
-    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-  </programme>
-  <programme start="20261022030000 +0000" stop="20261022040000 +0000" channel="FOXNEWSRADIO">
-    <title>Hannity (Encore)</title>
-    <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-  </programme>
-  <programme start="20261022040000 +0000" stop="20261022050000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX Across America with Jimmy Failla</title>
-    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
@@ -4988,38 +4914,73 @@ and setting expectations for the stretch run.</desc>
     <title>FOX Across America with Jimmy Failla</title>
     <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="FOXNEWSRADIO">
+    <title>Gutfeld! (Encore)</title>
+    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="FOXNEWSRADIO">
+    <title>The Ingraham Angle (Encore)</title>
+    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
+  </programme>
+  <programme start="20261028070000 +0000" stop="20261028100000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="FOXNEWSRADIO">
+    <title>Gutfeld! (Encore)</title>
+    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
+  </programme>
+  <programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="FOXNEWSRADIO">
+    <title>Jesse Watters Primetime (Encore)</title>
+    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
+  </programme>
+  <programme start="20261028130000 +0000" stop="20261028160000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029000000 +0000" channel="FOXNEWSRADIO">
+    <title>The Five (Encore)</title>
+    <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOXNEWSRADIO">
+    <title>Special Report w/ Bret Baier (Encore)</title>
+    <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="FOXNEWSRADIO">
+    <title>The Ingraham Angle (Encore)</title>
+    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOXNEWSRADIO">
+    <title>Jesse Watters Primetime (Encore)</title>
+    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOXNEWSRADIO">
+    <title>Hannity (Encore)</title>
+    <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+  </programme>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
-  </programme>
-  <programme start="20261021150000 +0000" stop="20261021200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261022000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
     <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
@@ -5241,33 +5202,38 @@ and setting expectations for the stretch run.</desc>
     <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
     <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028103000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028150000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028200000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261029000000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029050000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
   <channel id="RELIC_RADIO">
     <display-name>Relic Radio</display-name>
   </channel>
-  <programme start="20261021000000 +0000" stop="20261021040000 +0000" channel="RELIC_RADIO">
-    <title>The Horror! &amp; Late Night Chillers</title>
-    <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
-  </programme>
-  <programme start="20261021040000 +0000" stop="20261021080000 +0000" channel="RELIC_RADIO">
-    <title>Classic Comedy &amp; Morning Serials</title>
-    <desc>Early morning laughs, variety shows, and classic serialized radio adventures from the Golden Age of broadcasting.</desc>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021120000 +0000" channel="RELIC_RADIO">
-    <title>Case Closed! Hardboiled Detectives</title>
-    <desc>Classic radio gumshoes and crime-solvers including Dragnet, Philip Marlowe, Sam Spade, and Johnny Dollar.</desc>
-  </programme>
-  <programme start="20261021120000 +0000" stop="20261021160000 +0000" channel="RELIC_RADIO">
-    <title>Strange Tales &amp; Twilight Radio</title>
-    <desc>Unexplained mysteries, bizarre occurrences, atmospheric noir, and vintage mystery theatre dramatizations.</desc>
-  </programme>
-  <programme start="20261021160000 +0000" stop="20261021200000 +0000" channel="RELIC_RADIO">
-    <title>Science Fiction &amp; The Unknown</title>
-    <desc>Golden age sci-fi and speculative audio adventures featuring X Minus One, Dimension X, and Exploring Tomorrow.</desc>
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261022000000 +0000" channel="RELIC_RADIO">
-    <title>Relic Radio Prime &amp; Golden Age Classics</title>
-    <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
-  </programme>
   <programme start="20261022000000 +0000" stop="20261022040000 +0000" channel="RELIC_RADIO">
     <title>The Horror! &amp; Late Night Chillers</title>
     <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
@@ -5412,40 +5378,40 @@ and setting expectations for the stretch run.</desc>
     <title>Relic Radio Prime &amp; Golden Age Classics</title>
     <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
   </programme>
+  <programme start="20261028000000 +0000" stop="20261028040000 +0000" channel="RELIC_RADIO">
+    <title>The Horror! &amp; Late Night Chillers</title>
+    <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
+  </programme>
+  <programme start="20261028040000 +0000" stop="20261028080000 +0000" channel="RELIC_RADIO">
+    <title>Classic Comedy &amp; Morning Serials</title>
+    <desc>Early morning laughs, variety shows, and classic serialized radio adventures from the Golden Age of broadcasting.</desc>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028120000 +0000" channel="RELIC_RADIO">
+    <title>Case Closed! Hardboiled Detectives</title>
+    <desc>Classic radio gumshoes and crime-solvers including Dragnet, Philip Marlowe, Sam Spade, and Johnny Dollar.</desc>
+  </programme>
+  <programme start="20261028120000 +0000" stop="20261028160000 +0000" channel="RELIC_RADIO">
+    <title>Strange Tales &amp; Twilight Radio</title>
+    <desc>Unexplained mysteries, bizarre occurrences, atmospheric noir, and vintage mystery theatre dramatizations.</desc>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028200000 +0000" channel="RELIC_RADIO">
+    <title>Science Fiction &amp; The Unknown</title>
+    <desc>Golden age sci-fi and speculative audio adventures featuring X Minus One, Dimension X, and Exploring Tomorrow.</desc>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261029000000 +0000" channel="RELIC_RADIO">
+    <title>Relic Radio Prime &amp; Golden Age Classics</title>
+    <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
+  </programme>
   <channel id="TEST2">
     <display-name>Test Channel 2</display-name>
   </channel>
-  <programme start="20261021203827 +0000" stop="20261021213827 +0000" channel="TEST2">
+  <programme start="20261022051501 +0000" stop="20261022061501 +0000" channel="TEST2">
     <title>Test Programme</title>
     <desc>Test Description</desc>
   </programme>
   <channel id="IRISH_PUB_RADIO">
     <display-name>Irish Pub Radio</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021100000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Overnight in the Snug</title>
-    <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
-  </programme>
-  <programme start="20261021100000 +0000" stop="20261021140000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Morning Mist &amp; Melodies</title>
-    <desc>Traditional Irish acoustic classics, tin whistle airs, and folk anthems to greet the day.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021180000 +0000" channel="IRISH_PUB_RADIO">
-    <title>The Craic &amp; The Chorus</title>
-    <desc>Popular Irish pub favorites, lively jigs, and rousing traditional singalongs.</desc>
-  </programme>
-  <programme start="20261021180000 +0000" stop="20261021220000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Afternoon Session</title>
-    <desc>Classic and contemporary Irish roots, rebel ballads, and upbeat acoustic drinking songs.</desc>
-  </programme>
-  <programme start="20261021220000 +0000" stop="20261022020000 +0000" channel="IRISH_PUB_RADIO">
-    <title>The Evening Pour</title>
-    <desc>Great traditional Irish pub standards, accordion reels, and spirited tavern classics.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022050000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Last Call Ballads</title>
-    <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022100000 +0000" channel="IRISH_PUB_RADIO">
     <title>Overnight in the Snug</title>
     <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
@@ -5590,57 +5556,33 @@ and setting expectations for the stretch run.</desc>
     <title>Last Call Ballads</title>
     <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Overnight in the Snug</title>
+    <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028140000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Morning Mist &amp; Melodies</title>
+    <desc>Traditional Irish acoustic classics, tin whistle airs, and folk anthems to greet the day.</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028180000 +0000" channel="IRISH_PUB_RADIO">
+    <title>The Craic &amp; The Chorus</title>
+    <desc>Popular Irish pub favorites, lively jigs, and rousing traditional singalongs.</desc>
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028220000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Afternoon Session</title>
+    <desc>Classic and contemporary Irish roots, rebel ballads, and upbeat acoustic drinking songs.</desc>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261029020000 +0000" channel="IRISH_PUB_RADIO">
+    <title>The Evening Pour</title>
+    <desc>Great traditional Irish pub standards, accordion reels, and spirited tavern classics.</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Last Call Ballads</title>
+    <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
+  </programme>
   <channel id="THEBIG80SSTATION">
     <display-name>The Big 80s Station</display-name>
   </channel>
-  <programme start="20261021050000 +0000" stop="20261021080000 +0000" channel="THEBIG80SSTATION">
-    <title>After Midnight</title>
-    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261021080000 +0000" stop="20261021110000 +0000" channel="THEBIG80SSTATION">
-    <title>Night Shift</title>
-    <desc>Non-stop 80s hits keeping the music going throughout the overnight hours.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261021110000 +0000" stop="20261021140000 +0000" channel="THEBIG80SSTATION">
-    <title>The Morning Rewind</title>
-    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261021140000 +0000" stop="20261021170000 +0000" channel="THEBIG80SSTATION">
-    <title>Totally 80s</title>
-    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261021170000 +0000" stop="20261021200000 +0000" channel="THEBIG80SSTATION">
-    <title>Back In The Day</title>
-    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261021200000 +0000" stop="20261021230000 +0000" channel="THEBIG80SSTATION">
-    <title>Drive At Five</title>
-    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261021230000 +0000" stop="20261022020000 +0000" channel="THEBIG80SSTATION">
-    <title>Prime Time 80s</title>
-    <desc>An evening showcase of the biggest names and biggest records of the decade.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022050000 +0000" channel="THEBIG80SSTATION">
-    <title>Retro Nights</title>
-    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-  </programme>
   <programme start="20261022050000 +0000" stop="20261022080000 +0000" channel="THEBIG80SSTATION">
     <title>After Midnight</title>
     <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
@@ -5924,6 +5866,54 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
 The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
   </programme>
   <programme start="20261028020000 +0000" stop="20261028050000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028080000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going throughout the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028200000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028230000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="THEBIG80SSTATION">
     <title>Retro Nights</title>
     <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
 
