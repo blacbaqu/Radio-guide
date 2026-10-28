@@ -36,7 +36,7 @@ https://wdcb-ice.streamguys1.com/wdcb128
 #EXTINF:-1 tvg-id="wgn-radio-720-am-chicago" tvg-name="WGN Radio 720 AM Chicago" radio="true" group-title="Radio",WGN Radio 720 AM Chicago
 http://stream.abacast.net/direct/wgnam-wgnammp3-ibc2
 
-#EXTINF:-1 tvg-id="wls" tvg-name="WLS AM 890" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/WLS_AM_890_Logo.png" group-title="Talk",WLS AM 890
+#EXTINF:-1 tvg-id="wls" tvg-name="WLS AM 890" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/WLS_%28AM%29_logo.png" group-title="Talk",WLS AM 890
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAM.mp3
 
 #EXTINF:-1 tvg-id="wmvp-espn-1000" tvg-name="WMVP ESPN 1000" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wmvp-am-us.png" group-title="Radio",WMVP ESPN 1000
