@@ -4490,6 +4490,289 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>The latest business and finance news from around the world, on the BBC.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/e6/2a/cfe62a67-2856-11b5-8273-d120267933ba/mza_10862080315354975546.jpg/600x600bb.jpg" />
   </programme>
+  <channel id="wls">
+    <display-name>WLS AM 890</display-name>
+  </channel>
+  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028140000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/12/35/4a123514-998f-a9cb-b295-e23e20ec4e9c/mza_10287232378873491410.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/95/92/f7/9592f72c-e1bc-f47a-c75e-5fb026410492/mza_17208886361834927233.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/43/b0/6443b018-9719-75f1-3ce0-0ec0483863d0/mza_14620601334645229555.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c3/cf/2f/c3cf2f04-ea46-e526-7fc2-b88d8b948df9/mza_14022692243725586616.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/1f/26/6c/1f266c28-91e8-701a-85ba-3298a8a47ba9/mza_15507856417740263695.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029000000 +0000" stop="20261029020000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f5/a8/95/f5a89531-bc6a-fa05-dbbb-b2d9760773bb/mza_14590393288118076629.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261029100000 +0000" stop="20261029140000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/12/35/4a123514-998f-a9cb-b295-e23e20ec4e9c/mza_10287232378873491410.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029160000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/95/92/f7/9592f72c-e1bc-f47a-c75e-5fb026410492/mza_17208886361834927233.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029190000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/43/b0/6443b018-9719-75f1-3ce0-0ec0483863d0/mza_14620601334645229555.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029220000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c3/cf/2f/c3cf2f04-ea46-e526-7fc2-b88d8b948df9/mza_14022692243725586616.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261030000000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/1f/26/6c/1f266c28-91e8-701a-85ba-3298a8a47ba9/mza_15507856417740263695.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030000000 +0000" stop="20261030020000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030020000 +0000" stop="20261030050000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f5/a8/95/f5a89531-bc6a-fa05-dbbb-b2d9760773bb/mza_14590393288118076629.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030050000 +0000" stop="20261030100000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261030100000 +0000" stop="20261030140000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/12/35/4a123514-998f-a9cb-b295-e23e20ec4e9c/mza_10287232378873491410.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030140000 +0000" stop="20261030160000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/95/92/f7/9592f72c-e1bc-f47a-c75e-5fb026410492/mza_17208886361834927233.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030190000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/43/b0/6443b018-9719-75f1-3ce0-0ec0483863d0/mza_14620601334645229555.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030220000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c3/cf/2f/c3cf2f04-ea46-e526-7fc2-b88d8b948df9/mza_14022692243725586616.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261030220000 +0000" stop="20261031000000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/1f/26/6c/1f266c28-91e8-701a-85ba-3298a8a47ba9/mza_15507856417740263695.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261031000000 +0000" stop="20261031020000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261031020000 +0000" stop="20261031050000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f5/a8/95/f5a89531-bc6a-fa05-dbbb-b2d9760773bb/mza_14590393288118076629.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261031050000 +0000" stop="20261031100000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261031100000 +0000" stop="20261031110000 +0000" channel="wls">
+    <title>WLS Saturday Morning Ag &amp; News</title>
+    <desc>Local Illinois agricultural updates, regional weather, and early morning news. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261031110000 +0000" stop="20261031140000 +0000" channel="wls">
+    <title>WLS Home Improvement &amp; Living</title>
+    <desc>Home repair, gardening, and living tips broadcast for the Chicagoland area. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261031140000 +0000" stop="20261031170000 +0000" channel="wls">
+    <title>Financial Solutions &amp; Retirement Show</title>
+    <desc>Practical retirement advice, market analysis, and wealth management strategies. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261031170000 +0000" stop="20261031200000 +0000" channel="wls">
+    <title>Best of The Dan Bongino Show</title>
+    <desc>Encore presentation of the week's top highlights and guest interviews from Dan Bongino. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/95/92/f7/9592f72c-e1bc-f47a-c75e-5fb026410492/mza_17208886361834927233.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="wls">
+    <title>Best of The Ben Shapiro Show</title>
+    <desc>Encore presentation of the most compelling insights and discussions from Ben Shapiro. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c3/cf/2f/c3cf2f04-ea46-e526-7fc2-b88d8b948df9/mza_14022692243725586616.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261031230000 +0000" stop="20261101020000 +0000" channel="wls">
+    <title>The Weekend with Michael Brown</title>
+    <desc>Former FEMA director Michael Brown tackles politics, crisis management, and national issues. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8a/a5/93/8aa5937a-d021-d419-ec90-1c9f0c2a7dfb/mza_15162468305016259029.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101050000 +0000" channel="wls">
+    <title>The Larry O'Connor Show</title>
+    <desc>Late evening talk and lively discussion on current national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a4/01/f9/a401f93f-c67d-9dc6-0441-26c7d1e8ce09/mza_13117462615560769353.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101110000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight weekend edition with Gary McNamara and Eric Harley. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101130000 +0000" channel="wls">
+    <title>Community Matters &amp; Chicago Affairs</title>
+    <desc>Chicago public affairs, non-profit spotlights, and community issues. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101160000 +0000" channel="wls">
+    <title>Sunday Morning News &amp; Perspectives</title>
+    <desc>Roundup of the week's political events, Illinois state issues, and national trends. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101180000 +0000" channel="wls">
+    <title>Chicago Financial Hour</title>
+    <desc>Retirement planning, investing tips, and fiscal news tailored for local listeners. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261101180000 +0000" stop="20261101210000 +0000" channel="wls">
+    <title>Best of Mark Levin</title>
+    <desc>Encore broadcast of Mark Levin's weekly analysis of constitutional issues and governance. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261101210000 +0000" stop="20261102000000 +0000" channel="wls">
+    <title>Best of Chris Plante</title>
+    <desc>Encore broadcast of Chris Plante's weekly political satire and news reviews. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/43/b0/6443b018-9719-75f1-3ce0-0ec0483863d0/mza_14620601334645229555.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261102000000 +0000" stop="20261102030000 +0000" channel="wls">
+    <title>The Weekend with Michael Brown</title>
+    <desc>Sunday edition covering news of the day and open phone calls. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8a/a5/93/8aa5937a-d021-d419-ec90-1c9f0c2a7dfb/mza_15162468305016259029.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261102030000 +0000" stop="20261102060000 +0000" channel="wls">
+    <title>WLS Sunday Night Special</title>
+    <desc>Special broadcast features, historical reflections, and political roundtables. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WLS_AM_890_Logo.png/500px-WLS_AM_890_Logo.png" />
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102110000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261102110000 +0000" stop="20261102150000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/12/35/4a123514-998f-a9cb-b295-e23e20ec4e9c/mza_10287232378873491410.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261102150000 +0000" stop="20261102170000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/95/92/f7/9592f72c-e1bc-f47a-c75e-5fb026410492/mza_17208886361834927233.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102200000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/43/b0/6443b018-9719-75f1-3ce0-0ec0483863d0/mza_14620601334645229555.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102230000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c3/cf/2f/c3cf2f04-ea46-e526-7fc2-b88d8b948df9/mza_14022692243725586616.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103010000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/1f/26/6c/1f266c28-91e8-701a-85ba-3298a8a47ba9/mza_15507856417740263695.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103010000 +0000" stop="20261103030000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103030000 +0000" stop="20261103060000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f5/a8/95/f5a89531-bc6a-fa05-dbbb-b2d9760773bb/mza_14590393288118076629.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103060000 +0000" stop="20261103110000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://images.podbean.com/site/image/channel/1574516_20220202161748.jpg" />
+  </programme>
+  <programme start="20261103110000 +0000" stop="20261103150000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/12/35/4a123514-998f-a9cb-b295-e23e20ec4e9c/mza_10287232378873491410.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103150000 +0000" stop="20261103170000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/95/92/f7/9592f72c-e1bc-f47a-c75e-5fb026410492/mza_17208886361834927233.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103170000 +0000" stop="20261103200000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/64/43/b0/6443b018-9719-75f1-3ce0-0ec0483863d0/mza_14620601334645229555.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103200000 +0000" stop="20261103230000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c3/cf/2f/c3cf2f04-ea46-e526-7fc2-b88d8b948df9/mza_14022692243725586616.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261103230000 +0000" stop="20261104010000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/1f/26/6c/1f266c28-91e8-701a-85ba-3298a8a47ba9/mza_15507856417740263695.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104010000 +0000" stop="20261104030000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104060000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f5/a8/95/f5a89531-bc6a-fa05-dbbb-b2d9760773bb/mza_14590393288118076629.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="KMPT">
     <display-name>930 AM KMPT Missoula</display-name>
   </channel>
