@@ -1,52 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="90s90s-digital" tvg-name="90s90s Digital" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/90s90s-de.png" group-title="Radio",90s90s Digital
+#EXTINF:-1 tvg-id="90s90s-digital" tvg-name="90s90s Digital" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/11/7f/9e117f7b-dcec-0884-ef41-18e15fd914b1/mza_8736603017271740411.jpg/600x600bb.jpg" group-title="Radio",90s90s Digital
 https://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 
-#EXTINF:-1 tvg-id="ambient-sleeping-pill" tvg-name="Ambient Sleeping Pill" radio="true" tvg-logo="https://ambientsleepingpill.com/images/asp-square-300.png" group-title="Radio",Ambient Sleeping Pill
+#EXTINF:-1 tvg-id="ambient-sleeping-pill" tvg-name="Ambient Sleeping Pill" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/9a/6d/0e9a6de3-87f8-fd2b-423a-ae5a9477d0e7/mza_1789956592829195130.jpeg/600x600bb.jpg" group-title="Radio",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
 
-#EXTINF:-1 tvg-id="bbc-radio" tvg-name="BBC Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-world-service-uk.png" group-title="Radio",BBC Radio
+#EXTINF:-1 tvg-id="bbc-radio" tvg-name="BBC Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" group-title="Radio",BBC Radio
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1 tvg-id="bluegrass-country" tvg-name="Bluegrass Country" radio="true" tvg-logo="https://bluegrasscountry.org/wp-content/uploads/2017/04/bgc-logo-header.png" group-title="Radio",Bluegrass Country
+#EXTINF:-1 tvg-id="bluegrass-country" tvg-name="Bluegrass Country" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" group-title="Radio",Bluegrass Country
 https://ice24.securenetsystems.net/WAMU
 
-#EXTINF:-1 tvg-id="fox-news-radio" tvg-name="FOX News Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-radio-us.png" group-title="Radio",FOX News Radio
+#EXTINF:-1 tvg-id="fox-news-radio" tvg-name="FOX News Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fox_News_Radio_logo.png" group-title="Radio",FOX News Radio
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
 
-#EXTINF:-1 tvg-id="irish-pub-radio" tvg-name="Irish Pub Radio" radio="true" tvg-logo="https://irishpubradio.com/wp-content/uploads/2016/06/IPR_Logo_New_Transparent.png" group-title="Radio",Irish Pub Radio
+#EXTINF:-1 tvg-id="irish-pub-radio" tvg-name="Irish Pub Radio" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/34/62/593462df-3c4f-7b7d-3d68-b7b9e765ae90/mza_15535570915917142298.jpg/600x600bb.jpg" group-title="Radio",Irish Pub Radio
 http://solid24.streamupsolutions.com:8026/stream
 
-#EXTINF:-1 tvg-id="kgvo" tvg-name="KGVO" radio="true" group-title="Radio",KGVO
+#EXTINF:-1 tvg-id="kgvo" tvg-name="KGVO" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" group-title="Radio",KGVO
 https://live.amperwave.net/direct/townsquare-kgvoammp3-ibc3.mp3
 
-#EXTINF:-1 tvg-id="kmpt" tvg-name="KMPT" radio="true" group-title="Radio",KMPT
+#EXTINF:-1 tvg-id="kmpt" tvg-name="KMPT" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KMPT_930AM_logo.png" group-title="Radio",KMPT
 https://live.amperwave.net/direct/townsquare-kmptammp3-ibc3.mp3
 
-#EXTINF:-1 tvg-id="relic-radio---old-time-radio" tvg-name="Relic Radio - Old Time Radio" radio="true" tvg-logo="https://www.relicradio.com/otr/wp-content/uploads/2021/04/relicradio_logo.jpg" group-title="Radio",Relic Radio - Old Time Radio
+#EXTINF:-1 tvg-id="relic-radio---old-time-radio" tvg-name="Relic Radio - Old Time Radio" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/f2/79/53f27956-ec25-cc70-1246-b66a501afdcc/mza_48514186110784221.jpg/600x600bb.jpg" group-title="Radio",Relic Radio - Old Time Radio
 http://s8.voscast.com:7372/
 
-#EXTINF:-1 tvg-id="the-big-80s-station" tvg-name="The Big 80s Station" radio="true" group-title="Radio",The Big 80s Station
+#EXTINF:-1 tvg-id="the-big-80s-station" tvg-name="The Big 80s Station" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/80/39/0a803945-066b-62fa-9a60-300fe94a35f1/mza_11227760669265270571.jpg/600x600bb.jpg" group-title="Radio",The Big 80s Station
 http://158.69.114.190:8065
 
-#EXTINF:-1 tvg-id="wdcb-90.9-fm-chicago" tvg-name="WDCB 90.9 FM Chicago" radio="true" group-title="Radio",WDCB 90.9 FM Chicago
+#EXTINF:-1 tvg-id="wdcb-90.9-fm-chicago" tvg-name="WDCB 90.9 FM Chicago" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" group-title="Radio",WDCB 90.9 FM Chicago
 https://wdcb-ice.streamguys1.com/wdcb128
 
-#EXTINF:-1 tvg-id="wgn-radio-720-am-chicago" tvg-name="WGN Radio 720 AM Chicago" radio="true" group-title="Radio",WGN Radio 720 AM Chicago
+#EXTINF:-1 tvg-id="wgn-radio-720-am-chicago" tvg-name="WGN Radio 720 AM Chicago" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/WGN_720_logo_for_site_2013_sized.png" group-title="Radio",WGN Radio 720 AM Chicago
 http://stream.abacast.net/direct/wgnam-wgnammp3-ibc2
 
 #EXTINF:-1 tvg-id="wls" tvg-name="WLS AM 890" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/WLS_%28AM%29_logo.png" group-title="Talk",WLS AM 890
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAM.mp3
 
-#EXTINF:-1 tvg-id="wmvp-espn-1000" tvg-name="WMVP ESPN 1000" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wmvp-am-us.png" group-title="Radio",WMVP ESPN 1000
+#EXTINF:-1 tvg-id="wmvp-espn-1000" tvg-name="WMVP ESPN 1000" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/ESPNRadio_1000_2012.png" group-title="Radio",WMVP ESPN 1000
 https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1
 
-#EXTINF:-1 tvg-id="wscr-670-the-score" tvg-name="WSCR 670 The Score" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wscr-am-us.png" group-title="Radio",WSCR 670 The Score
+#EXTINF:-1 tvg-id="wscr-670-the-score" tvg-name="WSCR 670 The Score" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/dc/3f/d4dc3f6e-f23d-71b5-8ff0-c6338fc684f6/mza_3256887763219748112.jpg/600x600bb.jpg" group-title="Radio",WSCR 670 The Score
 http://stream.abacast.net/direct/audacy-wscrfmaac-imc
 
-#EXTINF:-1 tvg-id="wsm" tvg-name="WSM" radio="true" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wsm-am-us.png" group-title="Radio",WSM
+#EXTINF:-1 tvg-id="wsm" tvg-name="WSM" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/WSM_Radio_logo.svg" group-title="Radio",WSM
 http://stream01048.westreamradio.com/wsm-am-mp3
 
-#EXTINF:-1 tvg-id="a.m.-ambient" tvg-name="a.m. ambient" radio="true" tvg-logo="https://stereoscenic.com/images/ama-square-300.png" group-title="Radio",a.m. ambient
+#EXTINF:-1 tvg-id="a.m.-ambient" tvg-name="a.m. ambient" radio="true" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/9a/6d/0e9a6de3-87f8-fd2b-423a-ae5a9477d0e7/mza_1789956592829195130.jpeg/600x600bb.jpg" group-title="Radio",a.m. ambient
 http://radio.stereoscenic.com/ama-h
