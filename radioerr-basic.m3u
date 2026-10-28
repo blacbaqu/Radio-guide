@@ -36,6 +36,9 @@ https://wdcb-ice.streamguys1.com/wdcb128
 #EXTINF:-1,WGN Radio 720 AM Chicago
 http://stream.abacast.net/direct/wgnam-wgnammp3-ibc2
 
+#EXTINF:-1,WLS AM 890
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAM.mp3
+
 #EXTINF:-1,WMVP ESPN 1000
 https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1
 
