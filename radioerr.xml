@@ -41,7 +41,7 @@
   <programme start="20261028234500 +0000" stop="20261029030000 +0000" channel="WSCR.chicago">
     <title>Bulls Radio</title>
     <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/512px-Chicago_Bulls_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg" />
   </programme>
   <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="WSCR.chicago">
     <title>Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
@@ -121,7 +121,7 @@
   <programme start="20261030231500 +0000" stop="20261031023000 +0000" channel="WSCR.chicago">
     <title>Bulls Radio</title>
     <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/512px-Chicago_Bulls_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg" />
   </programme>
   <programme start="20261031023000 +0000" stop="20261031030000 +0000" channel="WSCR.chicago">
     <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
@@ -276,12 +276,12 @@
   <programme start="20261103000000 +0000" stop="20261103001500 +0000" channel="WSCR.chicago">
     <title>Bears Pregame: Zaidman, Kreutz &amp; Mannelly</title>
     <desc>Leading up to kickoff, 104.3 The Score previews the Bears' upcoming game.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Chicago_Bears_logo.svg/512px-Chicago_Bears_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/1/15/Chicago_Bears_logo.svg" />
   </programme>
   <programme start="20261103001500 +0000" stop="20261103033000 +0000" channel="WSCR.chicago">
     <title>Bulls Radio</title>
     <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/512px-Chicago_Bulls_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg" />
   </programme>
   <programme start="20261103033000 +0000" stop="20261103040000 +0000" channel="WSCR.chicago">
     <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
@@ -296,7 +296,7 @@
   <programme start="20261103041500 +0000" stop="20261103060000 +0000" channel="WSCR.chicago">
     <title>Bears Postgame: Zaidman, Kreutz &amp; Mannelly</title>
     <desc>104.3 The Score breaks down the Bears' performance in our postgame show every week.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Chicago_Bears_logo.svg/512px-Chicago_Bears_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/1/15/Chicago_Bears_logo.svg" />
   </programme>
   <programme start="20261103060000 +0000" stop="20261103110000 +0000" channel="WSCR.chicago">
     <title>Mike Esposito</title>
@@ -1119,7 +1119,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261028060000 +0000" stop="20261028110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
@@ -1154,7 +1154,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="KGVO">
     <title>Grizzly Sports Coaches Show</title>
     <desc>Preview of Montana at Eastern Washington with Coach Kennedy and Riley Corcoran, including analysis of the red turf environment.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Montana_Grizzlies_logo.svg/512px-Montana_Grizzlies_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
   <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
@@ -1169,12 +1169,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261029060000 +0000" stop="20261029110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261029110000 +0000" stop="20261029120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
@@ -1219,12 +1219,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261030050000 +0000" stop="20261030060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261030060000 +0000" stop="20261030110000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261030110000 +0000" stop="20261030120000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
@@ -1269,12 +1269,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031050000 +0000" stop="20261031060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261031060000 +0000" stop="20261031120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261031120000 +0000" stop="20261031140000 +0000" channel="KGVO">
     <title>Montana Outdoor Radio Show</title>
@@ -1299,32 +1299,32 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031180000 +0000" stop="20261031193000 +0000" channel="KGVO">
     <title>Griz Football Tailgate Show</title>
     <desc>Road game tailgate coverage with Ace Sauerwein and Denny Bedard.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Montana_Grizzlies_logo.svg/512px-Montana_Grizzlies_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
   <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="KGVO">
     <title>Voice of the Griz: Final Pregame Booth Coverage</title>
     <desc>Riley Corcoran and Greg Sundberg deliver final pregame analysis.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Montana_Grizzlies_logo.svg/512px-Montana_Grizzlies_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
   <programme start="20261031200000 +0000" stop="20261031230000 +0000" channel="KGVO">
     <title>Griz Football: Montana at Eastern Washington</title>
     <desc>Live play-by-play with Riley Corcoran and Greg Sundberg.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Montana_Grizzlies_logo.svg/512px-Montana_Grizzlies_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
   <programme start="20261031230000 +0000" stop="20261101010000 +0000" channel="KGVO">
     <title>Griz Football Postgame Show</title>
     <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Montana_Grizzlies_logo.svg/512px-Montana_Grizzlies_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
   <programme start="20261101010000 +0000" stop="20261101060000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261101060000 +0000" stop="20261101130000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261101130000 +0000" stop="20261101140000 +0000" channel="KGVO">
     <title>This Morning With Gordon Deal</title>
@@ -1344,7 +1344,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101160000 +0000" stop="20261101170000 +0000" channel="KGVO">
     <title>Lutheran Hour</title>
     <desc>Rescue, restoration, renewal—Christ's mission for the Church and our message to the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lutherrose.svg/512px-Lutherrose.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lutherrose.svg" />
   </programme>
   <programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="KGVO">
     <title>Community Viewpoint</title>
@@ -1374,7 +1374,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261102010000 +0000" stop="20261102020000 +0000" channel="KGVO">
     <title>The Motley Fool</title>
     <desc>Investing and personal finance insights from The Motley Fool.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Motley_Fool_Logo.svg/512px-The_Motley_Fool_Logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_Motley_Fool_Logo.svg" />
   </programme>
   <programme start="20261102020000 +0000" stop="20261102030000 +0000" channel="KGVO">
     <title>Free Talk Live</title>
@@ -1384,17 +1384,17 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261102030000 +0000" stop="20261102060000 +0000" channel="KGVO">
     <title>The Bill Cunningham Show</title>
     <desc>Hard-hitting commentary and guests with two-time Marconi award winner Bill Cunningham.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bill_Cunningham_2012.jpg/512px-Bill_Cunningham_2012.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bill_Cunningham_2012.jpg" />
   </programme>
   <programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261102070000 +0000" stop="20261102120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
@@ -1434,7 +1434,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103023000 +0000" stop="20261103053000 +0000" channel="KGVO">
     <title>Griz Basketball: Montana at Oregon</title>
     <desc>Season opener live from Matthew Knight Arena in Eugene. Riley Corcoran calls the action on the statewide Grizzly Sports Radio Network.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Montana_Grizzlies_logo.svg/512px-Montana_Grizzlies_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
   <programme start="20261103053000 +0000" stop="20261103060000 +0000" channel="KGVO">
     <title>Jesse Kelly</title>
@@ -1444,12 +1444,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103060000 +0000" stop="20261103070000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261103070000 +0000" stop="20261103120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="KGVO">
     <title>Dan Bongino</title>
@@ -1494,7 +1494,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261104060000 +0000" stop="20261104070000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Coast_to_Coast_AM_logo.svg/512px-Coast_to_Coast_AM_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
   </programme>
   <channel id="WDCB">
     <display-name>WDCB 90.9 FM Chicago</display-name>
@@ -1532,7 +1532,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029010000 +0000" stop="20261029030000 +0000" channel="WDCB">
     <title>Blues Edition</title>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
@@ -1572,7 +1572,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261030010000 +0000" stop="20261030030000 +0000" channel="WDCB">
     <title>Blues Edition</title>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261030030000 +0000" stop="20261030050000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
@@ -1612,12 +1612,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031010000 +0000" stop="20261031030000 +0000" channel="WDCB">
     <title>Blues Edition</title>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261031030000 +0000" stop="20261031050000 +0000" channel="WDCB">
     <title>Hambone's Blues Party</title>
     <desc>Hambone spins high-energy vintage blues, boogie-woogie, jump blues, and rare gems from the Golden Age of Chicago blues.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261031050000 +0000" stop="20261031110000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
@@ -1632,7 +1632,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031140000 +0000" stop="20261031160000 +0000" channel="WDCB">
     <title>Legends of Jazz</title>
     <desc>Grammy-winning pianist Ramsey Lewis showcases the artists, recordings, and history that shaped jazz music.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ramsey_Lewis_2006.jpg/512px-Ramsey_Lewis_2006.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ramsey_Lewis_2006.jpg" />
   </programme>
   <programme start="20261031160000 +0000" stop="20261031180000 +0000" channel="WDCB">
     <title>American Backroads</title>
@@ -1652,12 +1652,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101000000 +0000" stop="20261101030000 +0000" channel="WDCB">
     <title>Blues Edition</title>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261101030000 +0000" stop="20261101050000 +0000" channel="WDCB">
     <title>Hambone's Blues Party</title>
     <desc>Hambone spins high-energy vintage blues, boogie-woogie, jump blues, and rare gems from the Golden Age of Chicago blues.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261101050000 +0000" stop="20261101120000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
@@ -1677,7 +1677,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101160000 +0000" stop="20261101180000 +0000" channel="WDCB">
     <title>Legends of Jazz</title>
     <desc>Grammy-winning pianist Ramsey Lewis showcases the artists, recordings, and history that shaped jazz music.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ramsey_Lewis_2006.jpg/512px-Ramsey_Lewis_2006.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ramsey_Lewis_2006.jpg" />
   </programme>
   <programme start="20261101180000 +0000" stop="20261101220000 +0000" channel="WDCB">
     <title>Folk Festival</title>
@@ -1737,7 +1737,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103020000 +0000" stop="20261103040000 +0000" channel="WDCB">
     <title>Blues Edition</title>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261103040000 +0000" stop="20261103060000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
@@ -1777,7 +1777,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261104020000 +0000" stop="20261104040000 +0000" channel="WDCB">
     <title>Blues Edition</title>
     <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muddy_Waters_%281976%29.jpg/512px-Muddy_Waters_%281976%29.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261104040000 +0000" stop="20261104060000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
@@ -4969,7 +4969,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031190000 +0000" stop="20261031223000 +0000" channel="KMPT">
     <title>Montana State Bobcats Football: Cal Poly at Montana State</title>
     <desc>Live play-by-play coverage of the Montana State Bobcats football game.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Montana_State_Bobcats_logo.svg/512px-Montana_State_Bobcats_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/2/2f/Montana_State_Bobcats_logo.svg" />
   </programme>
   <programme start="20261031223000 +0000" stop="20261101010000 +0000" channel="KMPT">
     <title>Dana Loesch</title>
@@ -5034,7 +5034,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261102020000 +0000" stop="20261102030000 +0000" channel="KMPT">
     <title>The Motley Fool</title>
     <desc>Tom Gardner and the Motley Fool team share smart investment ideas, stock analysis, market trends, and personal finance strategies.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Motley_Fool_Logo.svg/512px-The_Motley_Fool_Logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_Motley_Fool_Logo.svg" />
   </programme>
   <programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="KMPT">
     <title>Armed American Radio</title>
@@ -5450,7 +5450,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>The Eddie Stubbs Show</title>
     <desc>Country Music Hall of Fame broadcaster Eddie Stubbs brings legendary vintage country and traditional bluegrass classics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>The Brad Kolodner Show</title>
@@ -5620,7 +5620,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Grateful Dead Hour</title>
     <desc>David Gans presents live recordings, rare studio tracks, and unreleased concert tapes of the Grateful Dead.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Grateful_Dead_Steal_Your_Face.svg/512px-Grateful_Dead_Steal_Your_Face.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/1/15/Grateful_Dead_Steal_Your_Face.svg" />
   </programme>
   <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Bluegrass Signal</title>
@@ -5650,7 +5650,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101180000 +0000" stop="20261101200000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>The Eddie Stubbs Show</title>
     <desc>Country Music Hall of Fame broadcaster Eddie Stubbs brings legendary vintage country and traditional bluegrass classics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261101200000 +0000" stop="20261101220000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>The Dick Spottswood Show</title>
@@ -5660,7 +5660,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101220000 +0000" stop="20261102000000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Sound Sessions with Jeff Place</title>
     <desc>Smithsonian Folkways curator Jeff Place shares deep archival gems, folk treasures, and field recordings.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Smithsonian_Folkways_Recordings_logo.svg/512px-Smithsonian_Folkways_Recordings_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/79/Smithsonian_Folkways_Recordings_logo.svg" />
   </programme>
   <programme start="20261102000000 +0000" stop="20261102020000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Jay Bruder's Home Town Special</title>
@@ -5715,7 +5715,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103000000 +0000" stop="20261103020000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Sound Sessions with Jeff Place</title>
     <desc>Smithsonian Folkways curator Jeff Place shares deep archival gems, folk treasures, and field recordings.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Smithsonian_Folkways_Recordings_logo.svg/512px-Smithsonian_Folkways_Recordings_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/79/Smithsonian_Folkways_Recordings_logo.svg" />
   </programme>
   <programme start="20261103020000 +0000" stop="20261103040000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>The Trail Ride</title>
@@ -5778,17 +5778,17 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261028070000 +0000" stop="20261028100000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261028100000 +0000" stop="20261028110000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown</title>
@@ -5798,12 +5798,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261028130000 +0000" stop="20261028160000 +0000" channel="FOXNEWSRADIO">
     <title>The Brian Kilmeade Show</title>
@@ -5828,27 +5828,27 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261028230000 +0000" stop="20261029000000 +0000" channel="FOXNEWSRADIO">
     <title>The Five (Encore)</title>
     <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOXNEWSRADIO">
     <title>Special Report w/ Bret Baier (Encore)</title>
     <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bret_Baier_2018.jpg/512px-Bret_Baier_2018.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
   </programme>
   <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOXNEWSRADIO">
     <title>Hannity (Encore)</title>
     <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg/512px-Sean_Hannity_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="FOXNEWSRADIO">
     <title>FOX Across America with Jimmy Failla</title>
@@ -5858,17 +5858,17 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261029070000 +0000" stop="20261029100000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown</title>
@@ -5878,12 +5878,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029110000 +0000" stop="20261029120000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261029130000 +0000" stop="20261029160000 +0000" channel="FOXNEWSRADIO">
     <title>The Brian Kilmeade Show</title>
@@ -5908,27 +5908,27 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029230000 +0000" stop="20261030000000 +0000" channel="FOXNEWSRADIO">
     <title>The Five (Encore)</title>
     <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261030000000 +0000" stop="20261030010000 +0000" channel="FOXNEWSRADIO">
     <title>Special Report w/ Bret Baier (Encore)</title>
     <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bret_Baier_2018.jpg/512px-Bret_Baier_2018.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
   </programme>
   <programme start="20261030010000 +0000" stop="20261030020000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261030020000 +0000" stop="20261030030000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261030030000 +0000" stop="20261030040000 +0000" channel="FOXNEWSRADIO">
     <title>Hannity (Encore)</title>
     <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg/512px-Sean_Hannity_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261030040000 +0000" stop="20261030050000 +0000" channel="FOXNEWSRADIO">
     <title>FOX Across America with Jimmy Failla</title>
@@ -5938,17 +5938,17 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261030050000 +0000" stop="20261030060000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261030060000 +0000" stop="20261030070000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261030070000 +0000" stop="20261030100000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261030100000 +0000" stop="20261030110000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown</title>
@@ -5958,12 +5958,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261030110000 +0000" stop="20261030120000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261030120000 +0000" stop="20261030130000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261030130000 +0000" stop="20261030160000 +0000" channel="FOXNEWSRADIO">
     <title>The Brian Kilmeade Show</title>
@@ -5988,27 +5988,27 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261030230000 +0000" stop="20261031000000 +0000" channel="FOXNEWSRADIO">
     <title>The Five (Encore)</title>
     <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261031000000 +0000" stop="20261031010000 +0000" channel="FOXNEWSRADIO">
     <title>Special Report w/ Bret Baier (Encore)</title>
     <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bret_Baier_2018.jpg/512px-Bret_Baier_2018.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
   </programme>
   <programme start="20261031010000 +0000" stop="20261031020000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261031020000 +0000" stop="20261031030000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261031030000 +0000" stop="20261031040000 +0000" channel="FOXNEWSRADIO">
     <title>Hannity (Encore)</title>
     <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg/512px-Sean_Hannity_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261031040000 +0000" stop="20261031050000 +0000" channel="FOXNEWSRADIO">
     <title>FOX Across America with Jimmy Failla</title>
@@ -6018,7 +6018,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031050000 +0000" stop="20261031090000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261031090000 +0000" stop="20261031100000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown: From Washington</title>
@@ -6028,7 +6028,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031100000 +0000" stop="20261031130000 +0000" channel="FOXNEWSRADIO">
     <title>Weekend News Briefing</title>
     <desc>Top stories, analysis, and news coverage from across the nation and around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261031130000 +0000" stop="20261031160000 +0000" channel="FOXNEWSRADIO">
     <title>Best of The Brian Kilmeade Show</title>
@@ -6048,12 +6048,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031220000 +0000" stop="20261101050000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Weekend</title>
     <desc>News coverage, interviews, analysis, and weekend programming from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261101050000 +0000" stop="20261101100000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261101100000 +0000" stop="20261101110000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown: From Washington</title>
@@ -6063,22 +6063,22 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101110000 +0000" stop="20261101140000 +0000" channel="FOXNEWSRADIO">
     <title>Weekend News Briefing</title>
     <desc>Top stories, analysis, and news coverage from across the nation and around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261101140000 +0000" stop="20261101150000 +0000" channel="FOXNEWSRADIO">
     <title>Jason in the House</title>
     <desc>Jason Chaffetz explores politics, culture, and current events.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jason_Chaffetz_official_photo.jpg/512px-Jason_Chaffetz_official_photo.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jason_Chaffetz_official_photo.jpg" />
   </programme>
   <programme start="20261101150000 +0000" stop="20261101160000 +0000" channel="FOXNEWSRADIO">
     <title>The Bret Baier Show</title>
     <desc>Conversations with lawmakers, business leaders, and newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bret_Baier_2018.jpg/512px-Bret_Baier_2018.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
   </programme>
   <programme start="20261101160000 +0000" stop="20261101170000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Sunday</title>
     <desc>Shannon Bream interviews political, business, and public affairs leaders.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Shannon_Bream_2019.jpg/512px-Shannon_Bream_2019.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Shannon_Bream_2019.jpg" />
   </programme>
   <programme start="20261101170000 +0000" stop="20261101200000 +0000" channel="FOXNEWSRADIO">
     <title>Best of The Brian Kilmeade Show</title>
@@ -6098,22 +6098,22 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261102020000 +0000" stop="20261102060000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Weekend</title>
     <desc>News coverage, interviews, analysis, and weekend programming from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261102070000 +0000" stop="20261102080000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261102080000 +0000" stop="20261102110000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261102110000 +0000" stop="20261102120000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown</title>
@@ -6123,12 +6123,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261102140000 +0000" stop="20261102170000 +0000" channel="FOXNEWSRADIO">
     <title>The Brian Kilmeade Show</title>
@@ -6153,27 +6153,27 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103000000 +0000" stop="20261103010000 +0000" channel="FOXNEWSRADIO">
     <title>The Five (Encore)</title>
     <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261103010000 +0000" stop="20261103020000 +0000" channel="FOXNEWSRADIO">
     <title>Special Report w/ Bret Baier (Encore)</title>
     <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bret_Baier_2018.jpg/512px-Bret_Baier_2018.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
   </programme>
   <programme start="20261103020000 +0000" stop="20261103030000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261103030000 +0000" stop="20261103040000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261103040000 +0000" stop="20261103050000 +0000" channel="FOXNEWSRADIO">
     <title>Hannity (Encore)</title>
     <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg/512px-Sean_Hannity_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261103050000 +0000" stop="20261103060000 +0000" channel="FOXNEWSRADIO">
     <title>FOX Across America with Jimmy Failla</title>
@@ -6183,17 +6183,17 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103060000 +0000" stop="20261103070000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261103070000 +0000" stop="20261103080000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261103080000 +0000" stop="20261103110000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Radio Overnight</title>
     <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261103110000 +0000" stop="20261103120000 +0000" channel="FOXNEWSRADIO">
     <title>FOX News Rundown</title>
@@ -6203,12 +6203,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg/512px-Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261103130000 +0000" stop="20261103140000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261103140000 +0000" stop="20261103170000 +0000" channel="FOXNEWSRADIO">
     <title>The Brian Kilmeade Show</title>
@@ -6233,27 +6233,27 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261104000000 +0000" stop="20261104010000 +0000" channel="FOXNEWSRADIO">
     <title>The Five (Encore)</title>
     <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Radio_logo.svg/512px-Fox_News_Radio_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
   <programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="FOXNEWSRADIO">
     <title>Special Report w/ Bret Baier (Encore)</title>
     <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bret_Baier_2018.jpg/512px-Bret_Baier_2018.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
   </programme>
   <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="FOXNEWSRADIO">
     <title>The Ingraham Angle (Encore)</title>
     <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg/512px-Laura_Ingraham_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261104030000 +0000" stop="20261104040000 +0000" channel="FOXNEWSRADIO">
     <title>Jesse Watters Primetime (Encore)</title>
     <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Jesse_Watters_2022.jpg/512px-Jesse_Watters_2022.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
   </programme>
   <programme start="20261104040000 +0000" stop="20261104050000 +0000" channel="FOXNEWSRADIO">
     <title>Hannity (Encore)</title>
     <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg/512px-Sean_Hannity_by_Gage_Skidmore.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
   </programme>
   <programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="FOXNEWSRADIO">
     <title>FOX Across America with Jimmy Failla</title>
@@ -6271,7 +6271,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261028100000 +0000" stop="20261028103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
     <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261028110000 +0000" stop="20261028150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
@@ -6301,7 +6301,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261029100000 +0000" stop="20261029103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
     <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261029110000 +0000" stop="20261029150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
@@ -6331,7 +6331,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261030100000 +0000" stop="20261030103000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
     <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261030110000 +0000" stop="20261030150000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
@@ -6391,7 +6391,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261031220000 +0000" stop="20261101000000 +0000" channel="WSM">
     <title>Opry Warm-Up Show</title>
     <desc>Get ready for the Grand Ole Opry with backstage interviews, show history, and classic performances from past Opry legends.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Grand_Ole_Opry_logo.svg/512px-Grand_Ole_Opry_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/7/7b/Grand_Ole_Opry_logo.svg" />
   </programme>
   <programme start="20261101000000 +0000" stop="20261101022000 +0000" channel="WSM">
     <title>Grand Ole Opry</title>
@@ -6411,12 +6411,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="WSM">
     <title>Golden Era of the Grand Ole Opry</title>
     <desc>Live from the Grand Ole Opry House. Featuring The Oak Ridge Boys, Bill Anderson, John Berry, MaRynn Taylor, Jake Wesley Rogers, Rhonda Vincent, Charlie McCoy, Opry Square Dancers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Grand_Ole_Opry_logo.svg/512px-Grand_Ole_Opry_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/7/7b/Grand_Ole_Opry_logo.svg" />
   </programme>
   <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="WSM">
     <title>Golden Era of the Grand Ole Opry</title>
     <desc>Live broadcast of the world-famous country music show from the Grand Ole Opry House in Nashville.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Grand_Ole_Opry_logo.svg/512px-Grand_Ole_Opry_logo.svg.png" />
+    <icon src="https://upload.wikimedia.org/wikipedia/en/7/7b/Grand_Ole_Opry_logo.svg" />
   </programme>
   <programme start="20261101060000 +0000" stop="20261101080000 +0000" channel="WSM">
     <title>Sutton Ole Time Music Hour</title>
@@ -6476,7 +6476,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261102110000 +0000" stop="20261102113000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
     <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261102120000 +0000" stop="20261102160000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
@@ -6511,7 +6511,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <programme start="20261103110000 +0000" stop="20261103113000 +0000" channel="WSM">
     <title>WSM's Bluegrass Breakfast</title>
     <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddie_Stubbs_Opry.jpg/512px-Eddie_Stubbs_Opry.jpg" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
   </programme>
   <programme start="20261103120000 +0000" stop="20261103160000 +0000" channel="WSM">
     <title>The Kelly Sutton Show</title>
