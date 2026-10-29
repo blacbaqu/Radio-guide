@@ -326,62 +326,6 @@
   <channel id="AMAMBIENT">
     <display-name>a.m. ambient</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028080000 +0000" channel="AMAMBIENT">
-    <title>Midnight Glow</title>
-    <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="AMAMBIENT">
-    <title>First Light</title>
-    <desc>Soft drones and delicate melodies as night gradually gives way to morning.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="AMAMBIENT">
-    <title>Sunrise Signals</title>
-    <desc>Bright and uplifting ambient selections to welcome a new day with clarity and optimism.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="AMAMBIENT">
-    <title>Open Skies</title>
-    <desc>Expansive ambient music designed to inspire focus, creativity, and forward momentum.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028170000 +0000" stop="20261028200000 +0000" channel="AMAMBIENT">
-    <title>Daylight Drift</title>
-    <desc>Positive and melodic ambient sounds for productive afternoons and peaceful reflection.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028200000 +0000" stop="20261028230000 +0000" channel="AMAMBIENT">
-    <title>Golden Hours</title>
-    <desc>Warm harmonies and luminous soundscapes accompanying the latter half of the day.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="AMAMBIENT">
-    <title>Evening Horizons</title>
-    <desc>Relaxed ambient journeys that ease the transition from day into evening.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="AMAMBIENT">
-    <title>Twilight Echoes</title>
-    <desc>Slow and contemplative ambient music preparing the mind for a restful night ahead.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029080000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
     <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
@@ -718,65 +662,65 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="AMAMBIENT">
+    <title>Midnight Glow</title>
+    <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="AMAMBIENT">
+    <title>First Light</title>
+    <desc>Soft drones and delicate melodies as night gradually gives way to morning.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104150000 +0000" channel="AMAMBIENT">
+    <title>Sunrise Signals</title>
+    <desc>Bright and uplifting ambient selections to welcome a new day with clarity and optimism.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104180000 +0000" channel="AMAMBIENT">
+    <title>Open Skies</title>
+    <desc>Expansive ambient music designed to inspire focus, creativity, and forward momentum.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104210000 +0000" channel="AMAMBIENT">
+    <title>Daylight Drift</title>
+    <desc>Positive and melodic ambient sounds for productive afternoons and peaceful reflection.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261105000000 +0000" channel="AMAMBIENT">
+    <title>Golden Hours</title>
+    <desc>Warm harmonies and luminous soundscapes accompanying the latter half of the day.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105030000 +0000" channel="AMAMBIENT">
+    <title>Evening Horizons</title>
+    <desc>Relaxed ambient journeys that ease the transition from day into evening.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="AMAMBIENT">
+    <title>Twilight Echoes</title>
+    <desc>Slow and contemplative ambient music preparing the mind for a restful night ahead.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="AMBIENTSLEEPINGPILL">
     <display-name>Ambient Sleeping Pill</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028080000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Deep Sleep</title>
-    <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Dream States</title>
-    <desc>Ethereal drones and tranquil textures for the quietest hours of the night.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Dawn Atmospheres</title>
-    <desc>Gentle ambient selections to ease into the morning with calm and clarity.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Ambient Workspace</title>
-    <desc>Beat-free background music for studying, reading, focus, and concentration.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028170000 +0000" stop="20261028200000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Quiet Studies</title>
-    <desc>Warm, unobtrusive ambient music designed to support productive afternoons.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028200000 +0000" stop="20261028230000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Floating Horizons</title>
-    <desc>Expansive soundscapes and drifting melodies for relaxation and reflection.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Evening Calm</title>
-    <desc>Soft ambient textures for winding down at the end of the day.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Sleep Preparation</title>
-    <desc>Peaceful ambient music selected to help transition into a restful night.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029080000 +0000" channel="AMBIENTSLEEPINGPILL">
     <title>Deep Sleep</title>
     <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
@@ -1113,6 +1057,62 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
 Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
     <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Deep Sleep</title>
+    <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Dream States</title>
+    <desc>Ethereal drones and tranquil textures for the quietest hours of the night.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104150000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Dawn Atmospheres</title>
+    <desc>Gentle ambient selections to ease into the morning with calm and clarity.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104180000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Ambient Workspace</title>
+    <desc>Beat-free background music for studying, reading, focus, and concentration.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104210000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Quiet Studies</title>
+    <desc>Warm, unobtrusive ambient music designed to support productive afternoons.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261105000000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Floating Horizons</title>
+    <desc>Expansive soundscapes and drifting melodies for relaxation and reflection.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105030000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Evening Calm</title>
+    <desc>Soft ambient textures for winding down at the end of the day.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Sleep Preparation</title>
+    <desc>Peaceful ambient music selected to help transition into a restful night.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
@@ -1151,12 +1151,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Syndicated conservative talk show hosted by Mark Levin.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/d6/6d/92d66d2c-2119-389b-ca78-f8a48f9f291c/mza_2373037013389270905.jpg/600x600bb.jpg" />
   </programme>
-  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="KGVO">
-    <title>Grizzly Sports Coaches Show</title>
-    <desc>Preview of Montana at Eastern Washington with Coach Kennedy and Riley Corcoran, including analysis of the red turf environment.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="KGVO">
+  <programme start="20261029010000 +0000" stop="20261029030000 +0000" channel="KGVO">
     <title>The Dave Ramsey Show</title>
     <desc>Personal finance, debt elimination, budgeting, and money management advice.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
@@ -1499,46 +1494,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="WDCB">
     <display-name>WDCB 90.9 FM Chicago</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028140000 +0000" channel="WDCB">
-    <title>First Light</title>
-    <desc>Early morning jazz, acoustic melodies, and standards to start the Chicago day.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028190000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="WDCB">
-    <title>Jazz Oasis</title>
-    <desc>A relaxing afternoon retreat featuring classic, acoustic, and modern jazz to ease through the workday.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="WDCB">
-    <title>Night Lights</title>
-    <desc>David Brent Johnson explores classic jazz from the 1940s through 1970s, showcasing pivotal sessions and unsung innovators.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/21/df/bf/21dfbfb3-b452-f472-a044-8eaae050f225/mza_10874558832692016629.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029030000 +0000" channel="WDCB">
-    <title>Blues Edition</title>
-    <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
     <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
@@ -1780,6 +1735,46 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
   </programme>
   <programme start="20261104040000 +0000" stop="20261104060000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104110000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104150000 +0000" channel="WDCB">
+    <title>First Light</title>
+    <desc>Early morning jazz, acoustic melodies, and standards to start the Chicago day.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104200000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="WDCB">
+    <title>Jazz Oasis</title>
+    <desc>A relaxing afternoon retreat featuring classic, acoustic, and modern jazz to ease through the workday.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105010000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261105010000 +0000" stop="20261105020000 +0000" channel="WDCB">
+    <title>Night Lights</title>
+    <desc>David Brent Johnson explores classic jazz from the 1940s through 1970s, showcasing pivotal sessions and unsung innovators.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/21/df/bf/21dfbfb3-b452-f472-a044-8eaae050f225/mza_10874558832692016629.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105040000 +0000" channel="WDCB">
+    <title>Blues Edition</title>
+    <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
+  </programme>
+  <programme start="20261105040000 +0000" stop="20261105060000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
     <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
@@ -4443,46 +4438,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="wls">
     <display-name>WLS AM 890</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="wls">
-    <title>Red Eye Radio</title>
-    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028140000 +0000" channel="wls">
-    <title>The Steve Cochran Show</title>
-    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/cb/68/04cb68f1-0a66-0d5d-d350-519e5441bae2/mza_14272708136389627788.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="wls">
-    <title>The Dan Bongino Show</title>
-    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="wls">
-    <title>The Chris Plante Show</title>
-    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/7f/85/fa7f8539-79fe-7a18-38df-162a832d8e04/mza_9129647032299769867.png/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="wls">
-    <title>The Ben Shapiro Show</title>
-    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="wls">
-    <title>The Matt Walsh Show</title>
-    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/40/6e/45406e30-1af5-f3e6-67c6-86aaffe9522e/mza_1644857351055524075.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029020000 +0000" channel="wls">
-    <title>The Mark Levin Show</title>
-    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/d6/6d/92d66d2c-2119-389b-ca78-f8a48f9f291c/mza_2373037013389270905.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="wls">
-    <title>The Michael Knowles Show</title>
-    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="wls">
     <title>Red Eye Radio</title>
     <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
@@ -4719,6 +4674,46 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/d6/6d/92d66d2c-2119-389b-ca78-f8a48f9f291c/mza_2373037013389270905.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261104030000 +0000" stop="20261104060000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104110000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104150000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/cb/68/04cb68f1-0a66-0d5d-d350-519e5441bae2/mza_14272708136389627788.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104170000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104200000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/7f/85/fa7f8539-79fe-7a18-38df-162a832d8e04/mza_9129647032299769867.png/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105010000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/40/6e/45406e30-1af5-f3e6-67c6-86aaffe9522e/mza_1644857351055524075.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105010000 +0000" stop="20261105030000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/d6/6d/92d66d2c-2119-389b-ca78-f8a48f9f291c/mza_2373037013389270905.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="wls">
     <title>The Michael Knowles Show</title>
     <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg" />
@@ -5114,46 +5109,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="WMVP.chicago">
     <display-name>ESPN 1000 WMVP</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="WMVP.chicago">
-    <title>SportsCenter AllNight</title>
-    <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028110000 +0000" channel="WMVP.chicago">
-    <title>Unsportsmanlike</title>
-    <desc>Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/14/cb/4614cb31-deee-1a4d-93ef-4f4476f6836d/mza_15899443209624234247.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="WMVP.chicago">
-    <title>Kap &amp; J.Hood</title>
-    <desc>David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/4f/89/bf4f89b9-5318-3379-d94b-3a4e8b904475/mza_10887763647642274225.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="WMVP.chicago">
-    <title>Carmen &amp; Jurko</title>
-    <desc>Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/39/35/c2/3935c20c-5c5c-8271-6502-ed9bff0192bc/mza_1528810305066597670.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028170000 +0000" stop="20261028190000 +0000" channel="WMVP.chicago">
-    <title>The Rich Eisen Show</title>
-    <desc>Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/18/6c/73186c0b-4278-0408-524b-b876b9f0607c/mza_12430917522880186019.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028230000 +0000" channel="WMVP.chicago">
-    <title>Waddle &amp; Silvy</title>
-    <desc>Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0d/cd/62/0dcd62dc-4e76-85ec-ac02-701ef6bced04/mza_5042515235246910155.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="WMVP.chicago">
-    <title>Amber &amp; Ian</title>
-    <desc>Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/cc/0f/b8cc0f05-4178-7720-5bb0-9f6aaeb6f4ff/mza_8561670197782795424.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="WMVP.chicago">
-    <title>ESPN Radio GameNight</title>
-    <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="WMVP.chicago">
     <title>SportsCenter AllNight</title>
     <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
@@ -5379,54 +5334,49 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104110000 +0000" channel="WMVP.chicago">
+    <title>SportsCenter AllNight</title>
+    <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="WMVP.chicago">
+    <title>Unsportsmanlike</title>
+    <desc>Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/14/cb/4614cb31-deee-1a4d-93ef-4f4476f6836d/mza_15899443209624234247.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104150000 +0000" channel="WMVP.chicago">
+    <title>Kap &amp; J.Hood</title>
+    <desc>David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/4f/89/bf4f89b9-5318-3379-d94b-3a4e8b904475/mza_10887763647642274225.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104180000 +0000" channel="WMVP.chicago">
+    <title>Carmen &amp; Jurko</title>
+    <desc>Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/39/35/c2/3935c20c-5c5c-8271-6502-ed9bff0192bc/mza_1528810305066597670.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104200000 +0000" channel="WMVP.chicago">
+    <title>The Rich Eisen Show</title>
+    <desc>Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/18/6c/73186c0b-4278-0408-524b-b876b9f0607c/mza_12430917522880186019.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261105000000 +0000" channel="WMVP.chicago">
+    <title>Waddle &amp; Silvy</title>
+    <desc>Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0d/cd/62/0dcd62dc-4e76-85ec-ac02-701ef6bced04/mza_5042515235246910155.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105030000 +0000" channel="WMVP.chicago">
+    <title>Amber &amp; Ian</title>
+    <desc>Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/cc/0f/b8cc0f05-4178-7720-5bb0-9f6aaeb6f4ff/mza_8561670197782795424.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="WMVP.chicago">
+    <title>ESPN Radio GameNight</title>
+    <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="BLUEGRASS_COUNTRY">
     <display-name>Bluegrass Country</display-name>
   </channel>
-  <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Signal</title>
-    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028050000 +0000" stop="20261028110000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Overnight</title>
-    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>A Bluegrass Morning</title>
-    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Eddie Stubbs Show</title>
-    <desc>Country Music Hall of Fame broadcaster Eddie Stubbs brings legendary vintage country and traditional bluegrass classics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
-  </programme>
-  <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Brad Kolodner Show</title>
-    <desc>Award-winning clawhammer banjoist Brad Kolodner spotlights progressive acoustic music, old-time jams, and indie roots.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Chris Teskey Show</title>
-    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Michelle Murray Show</title>
-    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Stained Glass Bluegrass</title>
-    <desc>Classic bluegrass gospel, sacred acoustic songs, and mountain harmonies on Sunday and Wednesday mornings.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029040000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Banks of the Ohio</title>
-    <desc>Interviews, performance sessions, and historical perspectives celebrating the pioneers of bluegrass music.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>Banks of the Ohio</title>
     <desc>Interviews, performance sessions, and historical perspectives celebrating the pioneers of bluegrass music.</desc>
@@ -5722,89 +5672,54 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Renowned musicologist Dick Spottswood explores rare archival roots, traditional bluegrass, and historical American recordings.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Signal</title>
+    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104120000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Overnight</title>
+    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104150000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>A Bluegrass Morning</title>
+    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104170000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Eddie Stubbs Show</title>
+    <desc>Country Music Hall of Fame broadcaster Eddie Stubbs brings legendary vintage country and traditional bluegrass classics.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104200000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Brad Kolodner Show</title>
+    <desc>Award-winning clawhammer banjoist Brad Kolodner spotlights progressive acoustic music, old-time jams, and indie roots.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Chris Teskey Show</title>
+    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Michelle Murray Show</title>
+    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105030000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Stained Glass Bluegrass</title>
+    <desc>Classic bluegrass gospel, sacred acoustic songs, and mountain harmonies on Sunday and Wednesday mornings.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105050000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Banks of the Ohio</title>
+    <desc>Interviews, performance sessions, and historical perspectives celebrating the pioneers of bluegrass music.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="FOXNEWSRADIO">
     <display-name>FOX News Radio</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="FOXNEWSRADIO">
-    <title>Gutfeld! (Encore)</title>
-    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="FOXNEWSRADIO">
-    <title>The Ingraham Angle (Encore)</title>
-    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261028070000 +0000" stop="20261028100000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX News Radio Overnight</title>
-    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028110000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX News Rundown</title>
-    <desc>A deeper look at the major stories shaping the national conversation.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/22/0f/9d220f5d-3bfe-c965-6357-aa049b428866/mza_7250990391506039525.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="FOXNEWSRADIO">
-    <title>Gutfeld! (Encore)</title>
-    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="FOXNEWSRADIO">
-    <title>Jesse Watters Primetime (Encore)</title>
-    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
-  </programme>
-  <programme start="20261028130000 +0000" stop="20261028160000 +0000" channel="FOXNEWSRADIO">
-    <title>The Brian Kilmeade Show</title>
-    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/21/b7/2321b741-1635-a99d-e7c5-10798167d1e0/mza_11147097889008820649.jpeg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028160000 +0000" stop="20261028190000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX Across America with Jimmy Failla</title>
-    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028220000 +0000" channel="FOXNEWSRADIO">
-    <title>The Guy Benson Show</title>
-    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/6e/d4/f56ed4ae-274c-218e-21ed-283258009f71/mza_4817067911108634431.jpeg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="FOXNEWSRADIO">
-    <title>Will Cain Country</title>
-    <desc>News, politics, sports, and culture with Will Cain.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/6a/76/8c6a76f2-d103-e2cc-fc7f-aa8a74eccb1c/mza_521338683559421463.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029000000 +0000" channel="FOXNEWSRADIO">
-    <title>The Five (Encore)</title>
-    <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029010000 +0000" channel="FOXNEWSRADIO">
-    <title>Special Report w/ Bret Baier (Encore)</title>
-    <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="FOXNEWSRADIO">
-    <title>The Ingraham Angle (Encore)</title>
-    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="FOXNEWSRADIO">
-    <title>Jesse Watters Primetime (Encore)</title>
-    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
-  </programme>
-  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="FOXNEWSRADIO">
-    <title>Hannity (Encore)</title>
-    <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX Across America with Jimmy Failla</title>
-    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
@@ -6210,39 +6125,89 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104070000 +0000" channel="FOXNEWSRADIO">
+    <title>Gutfeld! (Encore)</title>
+    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261104070000 +0000" stop="20261104080000 +0000" channel="FOXNEWSRADIO">
+    <title>The Ingraham Angle (Encore)</title>
+    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/22/0f/9d220f5d-3bfe-c965-6357-aa049b428866/mza_7250990391506039525.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="FOXNEWSRADIO">
+    <title>Gutfeld! (Encore)</title>
+    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="FOXNEWSRADIO">
+    <title>Jesse Watters Primetime (Encore)</title>
+    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104170000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/21/b7/2321b741-1635-a99d-e7c5-10798167d1e0/mza_11147097889008820649.jpeg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104200000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104230000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/6e/d4/f56ed4ae-274c-218e-21ed-283258009f71/mza_4817067911108634431.jpeg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/6a/76/8c6a76f2-d103-e2cc-fc7f-aa8a74eccb1c/mza_521338683559421463.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105010000 +0000" channel="FOXNEWSRADIO">
+    <title>The Five (Encore)</title>
+    <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
+  </programme>
+  <programme start="20261105010000 +0000" stop="20261105020000 +0000" channel="FOXNEWSRADIO">
+    <title>Special Report w/ Bret Baier (Encore)</title>
+    <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="FOXNEWSRADIO">
+    <title>The Ingraham Angle (Encore)</title>
+    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105040000 +0000" channel="FOXNEWSRADIO">
+    <title>Jesse Watters Primetime (Encore)</title>
+    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
+  </programme>
+  <programme start="20261105040000 +0000" stop="20261105050000 +0000" channel="FOXNEWSRADIO">
+    <title>Hannity (Encore)</title>
+    <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261105050000 +0000" stop="20261105060000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028103000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028150000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
-  </programme>
-  <programme start="20261028150000 +0000" stop="20261028200000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
-  </programme>
-  <programme start="20261028200000 +0000" stop="20261029000000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029050000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
     <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
@@ -6483,6 +6448,36 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
     <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104110000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104160000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104210000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261105010000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261105010000 +0000" stop="20261105060000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
   <channel id="RELIC_RADIO">
     <display-name>Relic Radio</display-name>
   </channel>
@@ -6699,36 +6694,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="IRISH_PUB_RADIO">
     <display-name>Irish Pub Radio</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028100000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Overnight in the Snug</title>
-    <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
-    <icon src="https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028140000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Morning Mist &amp; Melodies</title>
-    <desc>Traditional Irish acoustic classics, tin whistle airs, and folk anthems to greet the day.</desc>
-    <icon src="https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028180000 +0000" channel="IRISH_PUB_RADIO">
-    <title>The Craic &amp; The Chorus</title>
-    <desc>Popular Irish pub favorites, lively jigs, and rousing traditional singalongs.</desc>
-    <icon src="https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028180000 +0000" stop="20261028220000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Afternoon Session</title>
-    <desc>Classic and contemporary Irish roots, rebel ballads, and upbeat acoustic drinking songs.</desc>
-    <icon src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261029020000 +0000" channel="IRISH_PUB_RADIO">
-    <title>The Evening Pour</title>
-    <desc>Great traditional Irish pub standards, accordion reels, and spirited tavern classics.</desc>
-    <icon src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Last Call Ballads</title>
-    <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
-    <icon src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029100000 +0000" channel="IRISH_PUB_RADIO">
     <title>Overnight in the Snug</title>
     <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
@@ -6909,65 +6874,39 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
     <icon src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104110000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Overnight in the Snug</title>
+    <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
+    <icon src="https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104150000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Morning Mist &amp; Melodies</title>
+    <desc>Traditional Irish acoustic classics, tin whistle airs, and folk anthems to greet the day.</desc>
+    <icon src="https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104190000 +0000" channel="IRISH_PUB_RADIO">
+    <title>The Craic &amp; The Chorus</title>
+    <desc>Popular Irish pub favorites, lively jigs, and rousing traditional singalongs.</desc>
+    <icon src="https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104230000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Afternoon Session</title>
+    <desc>Classic and contemporary Irish roots, rebel ballads, and upbeat acoustic drinking songs.</desc>
+    <icon src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261105030000 +0000" channel="IRISH_PUB_RADIO">
+    <title>The Evening Pour</title>
+    <desc>Great traditional Irish pub standards, accordion reels, and spirited tavern classics.</desc>
+    <icon src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Last Call Ballads</title>
+    <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
+    <icon src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="THEBIG80SSTATION">
     <display-name>The Big 80s Station</display-name>
   </channel>
-  <programme start="20261028050000 +0000" stop="20261028080000 +0000" channel="THEBIG80SSTATION">
-    <title>After Midnight</title>
-    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1514565131-fce0801e5785?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="THEBIG80SSTATION">
-    <title>Night Shift</title>
-    <desc>Non-stop 80s hits keeping the music going throughout the overnight hours.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028140000 +0000" channel="THEBIG80SSTATION">
-    <title>The Morning Rewind</title>
-    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1546525848-3ce03ca394f4?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028170000 +0000" channel="THEBIG80SSTATION">
-    <title>Totally 80s</title>
-    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028170000 +0000" stop="20261028200000 +0000" channel="THEBIG80SSTATION">
-    <title>Back In The Day</title>
-    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1545128485-c400e7702796?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028200000 +0000" stop="20261028230000 +0000" channel="THEBIG80SSTATION">
-    <title>Drive At Five</title>
-    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029020000 +0000" channel="THEBIG80SSTATION">
-    <title>Prime Time 80s</title>
-    <desc>An evening showcase of the biggest names and biggest records of the decade.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="THEBIG80SSTATION">
-    <title>Retro Nights</title>
-    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261029050000 +0000" stop="20261029080000 +0000" channel="THEBIG80SSTATION">
     <title>After Midnight</title>
     <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
@@ -7304,64 +7243,65 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
 The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
     <icon src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261104060000 +0000" stop="20261104090000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1514565131-fce0801e5785?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104120000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going throughout the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104150000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1546525848-3ce03ca394f4?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104180000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104210000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1545128485-c400e7702796?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261105000000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105030000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105060000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="WGN_RADIO">
     <display-name>WGN Radio 720</display-name>
   </channel>
-  <programme start="20261027060000 +0000" stop="20261027090000 +0000" channel="WGN_RADIO">
-    <title>The Other Side of Midnight with Walter Sterling</title>
-    <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/91/92/ff/9192ff6b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027090000 +0000" stop="20261027110000 +0000" channel="WGN_RADIO">
-    <title>WGN Early Morning News</title>
-    <desc>WGN Early Morning News. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/00/WGN_720_logo_for_site_2013_sized.png" />
-  </programme>
-  <programme start="20261027110000 +0000" stop="20261027150000 +0000" channel="WGN_RADIO">
-    <title>Bob Sirott</title>
-    <desc>Bob Sirott. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/84/8a/1f/848a1f6e-a678-dcec-4f7b-c8c4e6e06fab/mza_6694492999007838085.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027170000 +0000" channel="WGN_RADIO">
-    <title>John Williams</title>
-    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/da/dd/dcdadd90-0aca-6fb7-5e62-6f4428b7a32c/mza_4143873112955245642.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027170000 +0000" stop="20261027180000 +0000" channel="WGN_RADIO">
-    <title>Noon Business Lunch with John Williams</title>
-    <desc>Noon Business Lunch with John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/da/dd/dcdadd90-0aca-6fb7-5e62-6f4428b7a32c/mza_4143873112955245642.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027180000 +0000" stop="20261027190000 +0000" channel="WGN_RADIO">
-    <title>John Williams</title>
-    <desc>John Williams. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/da/dd/dcdadd90-0aca-6fb7-5e62-6f4428b7a32c/mza_4143873112955245642.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027190000 +0000" stop="20261027230000 +0000" channel="WGN_RADIO">
-    <title>Lisa Dent</title>
-    <desc>Lisa Dent. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/61/89/3f/61893f41-3561-2628-98e8-d10fb13aeaf7/mza_9593256037887754630.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027230000 +0000" stop="20261027233000 +0000" channel="WGN_RADIO">
-    <title>Your Money Matters with Jon Hansen</title>
-    <desc>Your Money Matters with Jon Hansen. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c7/28/7e/c7287e07-6a4a-71d5-bc44-59e3df2f18fe/mza_16390169124451000858.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261027233000 +0000" stop="20261028000000 +0000" channel="WGN_RADIO">
-    <title>Chicago Blackhawks Pregame</title>
-    <desc>Chicago Blackhawks Pregame. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
-  </programme>
-  <programme start="20261028000000 +0000" stop="20261028033000 +0000" channel="WGN_RADIO">
-    <title>Chicago Blackhawks Hockey: Blackhawks vs. Los Angeles</title>
-    <desc>Chicago Blackhawks Hockey: Blackhawks vs. Los Angeles. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" />
-  </programme>
-  <programme start="20261028033000 +0000" stop="20261028060000 +0000" channel="WGN_RADIO">
-    <title>Rollye James</title>
-    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/58/08/df/5808df81-9b2f-da54-94e4-7d5db1c3a647/mza_981156645391215446.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261028060000 +0000" stop="20261028090000 +0000" channel="WGN_RADIO">
     <title>The Other Side of Midnight with Walter Sterling</title>
     <desc>The Other Side of Midnight with Walter Sterling. Broadcast live from Chicago on WGN Radio 720.</desc>
@@ -7502,10 +7442,15 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <desc>On the Map with Dave Plier. Broadcast live from Chicago on WGN Radio 720.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/0/00/WGN_720_logo_for_site_2013_sized.png" />
   </programme>
-  <programme start="20261031000000 +0000" stop="20261031070000 +0000" channel="WGN_RADIO">
+  <programme start="20261031000000 +0000" stop="20261031030000 +0000" channel="WGN_RADIO">
     <title>Dave Plier</title>
     <desc>Dave Plier. Broadcast live from Chicago on WGN Radio 720.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/0/00/WGN_720_logo_for_site_2013_sized.png" />
+  </programme>
+  <programme start="20261031030000 +0000" stop="20261031070000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/58/08/df/5808df81-9b2f-da54-94e4-7d5db1c3a647/mza_981156645391215446.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261031070000 +0000" stop="20261031090000 +0000" channel="WGN_RADIO">
     <title>Daylight saving time ends: Turn your clocks back one hour and enjoy a bonus hour of Steve and Johnnie!</title>
@@ -7891,5 +7836,10 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <title>Northwestern Wildcats Basketball: Northwestern vs. Stony Brook</title>
     <desc>Northwestern Wildcats Basketball: Northwestern vs. Stony Brook. Broadcast live from Chicago on WGN Radio 720.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/0/00/WGN_720_logo_for_site_2013_sized.png" />
+  </programme>
+  <programme start="20261107040000 +0000" stop="20261107070000 +0000" channel="WGN_RADIO">
+    <title>Rollye James</title>
+    <desc>Rollye James. Broadcast live from Chicago on WGN Radio 720.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/58/08/df/5808df81-9b2f-da54-94e4-7d5db1c3a647/mza_981156645391215446.jpg/600x600bb.jpg" />
   </programme>
 </tv>
