@@ -3,46 +3,6 @@
   <channel id="WSCR.chicago">
     <display-name>WSCR 670 The Score</display-name>
   </channel>
-  <programme start="20261028030000 +0000" stop="20261028050000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night with Lynnell Willingham</title>
-    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
-  </programme>
-  <programme start="20261028050000 +0000" stop="20261028090000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night with Lynnell Willingham</title>
-    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
-  </programme>
-  <programme start="20261028090000 +0000" stop="20261028100000 +0000" channel="WSCR.chicago">
-    <title>Best of the Score</title>
-    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028150000 +0000" channel="WSCR.chicago">
-    <title>Haugh &amp; Payton Show</title>
-    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
-  </programme>
-  <programme start="20261028150000 +0000" stop="20261028190000 +0000" channel="WSCR.chicago">
-    <title>Rahimi &amp; Grote Show</title>
-    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028230000 +0000" channel="WSCR.chicago">
-    <title>Spiegel &amp; Holmes Show</title>
-    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261028234500 +0000" channel="WSCR.chicago">
-    <title>Alex Kuhn</title>
-    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
-  </programme>
-  <programme start="20261028234500 +0000" stop="20261029030000 +0000" channel="WSCR.chicago">
-    <title>Bulls Radio</title>
-    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg" />
-  </programme>
   <programme start="20261029030000 +0000" stop="20261029050000 +0000" channel="WSCR.chicago">
     <title>Westwood One Sports Night with Lynnell Willingham and Josh Graham</title>
     <desc>Westwood One Sports Night with Lynnell Willingham and Josh Graham. Broadcast on WSCR 670 The Score.</desc>
@@ -322,6 +282,46 @@
     <title>Herron &amp; Vitali</title>
     <desc>Anthony Herron and Carmen Vitali discuss the latest Chicago sports storylines.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1792526603759.jpg" />
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104040000 +0000" channel="WSCR.chicago">
+    <title>BetMGM Tonight with Brad Evans and Pat Boyle</title>
+    <desc>Every win, every loss, every live wager—these guys are reacting in real-time with you. With "The Big Noise", Brad Evans, a FSWA Hall of Famer, is the most decorated writer/personality in fantasy sports history and top handicapper Ryan Horvat.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/BetMGM%20Tonight-1791902211371.jpg" />
+  </programme>
+  <programme start="20261104040000 +0000" stop="20261104060000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104100000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104110000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104160000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104200000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261105000000 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105001500 +0000" channel="WSCR.chicago">
+    <title>Alex Kuhn</title>
+    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
   </programme>
   <channel id="AMAMBIENT">
     <display-name>a.m. ambient</display-name>
@@ -2010,371 +2010,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="BBC_WORLD_SERVICE">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20261028010000 +0000" stop="20261028010600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028010600 +0000" stop="20261028020000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Arts Hour</title>
-    <desc>Elif Shafak The Turkish-born author discusses her new novel, In One Brief Moment All Eternity (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028020000 +0000" stop="20261028020600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028020600 +0000" stop="20261028023000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028023000 +0000" stop="20261028023200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028023200 +0000" stop="20261028030000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>How Lula held on to Brazil A fierce election campaign ended in the defeat of another Bolsonaro. (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028030000 +0000" stop="20261028030600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028030600 +0000" stop="20261028033000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028033000 +0000" stop="20261028033200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028033200 +0000" stop="20261028040000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Climate Question</title>
-    <desc>How could climate change affect my health? Two doctors discuss the challenges for the medical sector from a warming world (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028040000 +0000" stop="20261028040600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028040600 +0000" stop="20261028045000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>A shipwrecked sailor’s return from the dead Eleven days lost at sea, presumed drowned. How Mick Doleman made it home to his sweetheart (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028045000 +0000" stop="20261028050000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Bonn v Berlin: How Germany chose its capital In 1989, the Berlin Wall fell and Germany had to choose its new capital (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028050000 +0000" stop="20261028050600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028050600 +0000" stop="20261028053000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028053000 +0000" stop="20261028053200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028053200 +0000" stop="20261028060000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Documentary</title>
-    <desc>Where is Austin Tice? 8/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028060000 +0000" stop="20261028060600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028060600 +0000" stop="20261028070000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028070000 +0000" stop="20261028070600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028070600 +0000" stop="20261028080000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028080000 +0000" stop="20261028080600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028080600 +0000" stop="20261028090000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028090000 +0000" stop="20261028090600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028090600 +0000" stop="20261028093000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>Yuval Abraham and Rachel Szor: There’s a vacuum in Israeli media Rebecca Kesby speaks to Oscar-winning Israeli filmmakers Yuval Abraham and Rachel  Szor</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028093000 +0000" stop="20261028093200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028093200 +0000" stop="20261028095000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>What do France's protests reveal about its economy? From burning cars to living standards, we explore the economics behind France's unrest</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028095000 +0000" stop="20261028100000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Britain's real ale revolution In 1971 the Campaign for Real Ale was set up becoming a hugely influential movement</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028100000 +0000" stop="20261028100600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028100600 +0000" stop="20261028103000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028103000 +0000" stop="20261028103200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028103200 +0000" stop="20261028110000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Climate Question</title>
-    <desc>How could climate change affect my health? Two doctors discuss the challenges for the medical sector from a warming world (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028110000 +0000" stop="20261028110600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028110600 +0000" stop="20261028120000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Documentary</title>
-    <desc>Germany's rust belt revival Author Katja Hoyer, reports on a city which benefits from a new, green landscape (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028120000 +0000" stop="20261028120600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028120600 +0000" stop="20261028123000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028123000 +0000" stop="20261028123200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028123200 +0000" stop="20261028130000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>28/10/2026 GMT .</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028130000 +0000" stop="20261028130600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028130600 +0000" stop="20261028135000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Playing myself on film helped me silence my OCD True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028135000 +0000" stop="20261028140000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Britain's real ale revolution In 1971 the Campaign for Real Ale was set up becoming a hugely influential movement (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028140600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028140600 +0000" stop="20261028143000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028143000 +0000" stop="20261028143200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028143200 +0000" stop="20261028150000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Documentary</title>
-    <desc>Where is Austin Tice? 8/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time. (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028150000 +0000" stop="20261028150600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028150600 +0000" stop="20261028160000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028160000 +0000" stop="20261028160600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028160600 +0000" stop="20261028163000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>Yuval Abraham and Rachel Szor: There’s a vacuum in Israeli media Rebecca Kesby speaks to Oscar-winning Israeli filmmakers Yuval Abraham and Rachel  Szor (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028163000 +0000" stop="20261028163200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028163200 +0000" stop="20261028165000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>What do France's protests reveal about its economy? From burning cars to living standards, we explore the economics behind France's unrest  (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028165000 +0000" stop="20261028170000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Express</title>
-    <desc>28/10/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028170000 +0000" stop="20261028170600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028170600 +0000" stop="20261028180000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028180000 +0000" stop="20261028180600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028180600 +0000" stop="20261028190000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028190000 +0000" stop="20261028190600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028190600 +0000" stop="20261028195000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Playing myself on film helped me silence my OCD True stories of ordinary people and the extraordinary events that have shaped their lives.  (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028195000 +0000" stop="20261028200000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>Britain's real ale revolution In 1971 the Campaign for Real Ale was set up becoming a hugely influential movement (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028200000 +0000" stop="20261028200600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028200600 +0000" stop="20261028203000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028203000 +0000" stop="20261028203200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028203200 +0000" stop="20261028210000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Sport Today</title>
-    <desc>2026/10/28 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028210000 +0000" stop="20261028210600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028210600 +0000" stop="20261028213000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Climate Question</title>
-    <desc>How could climate change affect my health? Two doctors discuss the challenges for the medical sector from a warming world (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028213000 +0000" stop="20261028213200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028213200 +0000" stop="20261028220000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Health Check</title>
-    <desc>Health Check Health issues and medical breakthroughs from around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028220000 +0000" stop="20261028220600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028220600 +0000" stop="20261028230000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261028230600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028230600 +0000" stop="20261028233000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028233000 +0000" stop="20261028233200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261028233200 +0000" stop="20261029010000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Report</title>
-    <desc>The latest business and finance news from around the world, on the BBC.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/e6/2a/cfe62a67-2856-11b5-8273-d120267933ba/mza_10862080315354975546.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261029010000 +0000" stop="20261029010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
     <desc>The latest five minute news bulletin from BBC World Service.</desc>
@@ -2402,7 +2037,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261029023200 +0000" stop="20261029030000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
-    <desc>28/10/2026 GMT . (R)</desc>
+    <desc>Did Melania Trump broker a ceasefire in Ukraine? Melania Trump says she has negotiated a ceasefire in a Ukrainian city. Will it last? (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261029030000 +0000" stop="20261029030600 +0000" channel="BBC_WORLD_SERVICE">
@@ -2432,7 +2067,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261029040600 +0000" stop="20261029045000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
-    <desc>Playing myself on film helped me silence my OCD True stories of ordinary people and the extraordinary events that have shaped their lives.  (R)</desc>
+    <desc>I recreated my OCD in a movie – and it lost its power Tala Calil turned her life into a film, rethinking her fears and the father she fled  (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261029045000 +0000" stop="20261029050000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2507,7 +2142,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261029093200 +0000" stop="20261029095000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
-    <desc>Business Daily The daily drama of money and work from the BBC.</desc>
+    <desc>Power players: Can Meta reinvent itself for the AI age? Meta built a social media empire. Now it's betting on AI-powered wearables</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261029095000 +0000" stop="20261029100000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2582,7 +2217,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261029130600 +0000" stop="20261029135000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
-    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+    <desc>I used to think: 'our bond is so strong’ Anna Heyward’s dog was adorable. But when left alone, 'a switch flipped' in him</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261029135000 +0000" stop="20261029140000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2637,7 +2272,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261029163200 +0000" stop="20261029165000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
-    <desc>Business Daily The daily drama of money and work from the BBC. (R)</desc>
+    <desc>Power players: Can Meta reinvent itself for the AI age? Meta built a social media empire. Now it's betting on AI-powered wearables (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261029165000 +0000" stop="20261029170000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2672,7 +2307,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261029190600 +0000" stop="20261029195000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
-    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc>I used to think: 'our bond is so strong’ Anna Heyward’s dog was adorable. But when left alone, 'a switch flipped' in him (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261029195000 +0000" stop="20261029200000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2817,7 +2452,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261030040600 +0000" stop="20261030045000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
-    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <desc>I used to think: 'our bond is so strong’ Anna Heyward’s dog was adorable. But when left alone, 'a switch flipped' in him (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261030045000 +0000" stop="20261030050000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3217,7 +2852,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261031063200 +0000" stop="20261031065000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
-    <desc>Fiat, 1. A giant falls Gianni Agnelli's death sets off an earthquake that will shake his family to the core</desc>
+    <desc>Fiat, 1. A giant falls 1/10 Gianni Agnelli's death sets off an earthquake that will shake his family to the core</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261031065000 +0000" stop="20261031070000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3272,7 +2907,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261031103200 +0000" stop="20261031110000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Americast</title>
-    <desc>30/10/2026 Join Americast for insights and analysis on what's happening inside Trump's White House.</desc>
+    <desc>Can Musk and Trump stop Democrats winning Texas? The race between Ken Paxton and James Talarico is on a knife edge.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261031110000 +0000" stop="20261031110600 +0000" channel="BBC_WORLD_SERVICE">
@@ -3332,7 +2967,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261031150600 +0000" stop="20261031190000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sportsworld</title>
-    <desc>31/10/2026 GMT Live sport from around the world with news, interviews and analysis.</desc>
+    <desc>Live Sporting Action Live sport from around the world - including the English Premier League.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/5c/4b/39/5c4b39dc-988d-4cb0-0a56-613d9675276e/mza_989823902381283912.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261031190000 +0000" stop="20261031190600 +0000" channel="BBC_WORLD_SERVICE">
@@ -3352,7 +2987,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261031193200 +0000" stop="20261031195000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
-    <desc>Fiat, 1. A giant falls Gianni Agnelli's death sets off an earthquake that will shake his family to the core (R)</desc>
+    <desc>Fiat, 1. A giant falls 1/10 Gianni Agnelli's death sets off an earthquake that will shake his family to the core (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261031195000 +0000" stop="20261031200000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3377,7 +3012,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261031210600 +0000" stop="20261031220000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Arts Hour</title>
-    <desc>The Arts Hour The best global arts coverage from across the BBC.</desc>
+    <desc>Irish-Indian poet Nikita Gill Plus writer-director Aaron Sorkin and actress Mikey Madison on The Social Reckoning</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261031220000 +0000" stop="20261031220600 +0000" channel="BBC_WORLD_SERVICE">
@@ -3447,7 +3082,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261101023200 +0000" stop="20261101025000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
-    <desc>Fiat, 1. A giant falls Gianni Agnelli's death sets off an earthquake that will shake his family to the core (R)</desc>
+    <desc>Fiat, 1. A giant falls 1/10 Gianni Agnelli's death sets off an earthquake that will shake his family to the core (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261101025000 +0000" stop="20261101030000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3472,7 +3107,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261101033200 +0000" stop="20261101040000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Health Check</title>
-    <desc>Health Check Health issues and medical breakthroughs from around the world. (R)</desc>
+    <desc>First human case of Shamonda virus What is the Shamonda virus, and what risk does it pose to humans? (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261101040000 +0000" stop="20261101040600 +0000" channel="BBC_WORLD_SERVICE">
@@ -3597,7 +3232,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261101113200 +0000" stop="20261101115000 +0000" channel="BBC_WORLD_SERVICE">
     <title>More than the Score</title>
-    <desc>More than the Score Unexpected questions and stories from beyond the scoresheet</desc>
+    <desc>Jorinde van Klinken: Strength on your own terms Jorinde van Klinken is taking on athletics on her own terms</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261101115000 +0000" stop="20261101120000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3622,7 +3257,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261101123200 +0000" stop="20261101125000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Inheritance</title>
-    <desc>Fiat, 1. A giant falls Gianni Agnelli's death sets off an earthquake that will shake his family to the core (R)</desc>
+    <desc>Fiat, 1. A giant falls 1/10 Gianni Agnelli's death sets off an earthquake that will shake his family to the core (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261101125000 +0000" stop="20261101130000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3677,7 +3312,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261101160600 +0000" stop="20261101200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sportsworld</title>
-    <desc>01/11/2026 GMT Live sport from around the world with news, interviews and analysis.</desc>
+    <desc>Live Sporting Action Live sport from around the world - including the English Premier League.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/5c/4b/39/5c4b39dc-988d-4cb0-0a56-613d9675276e/mza_989823902381283912.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261101200000 +0000" stop="20261101200600 +0000" channel="BBC_WORLD_SERVICE">
@@ -3737,7 +3372,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261101233200 +0000" stop="20261101235000 +0000" channel="BBC_WORLD_SERVICE">
     <title>More than the Score</title>
-    <desc>More than the Score Unexpected questions and stories from beyond the scoresheet (R)</desc>
+    <desc>Jorinde van Klinken: Strength on your own terms Jorinde van Klinken is taking on athletics on her own terms (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261101235000 +0000" stop="20261102010000 +0000" channel="BBC_WORLD_SERVICE">
@@ -4292,7 +3927,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261103110600 +0000" stop="20261103120000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Arts Hour</title>
-    <desc>The Arts Hour The best global arts coverage from across the BBC. (R)</desc>
+    <desc>Irish-Indian poet Nikita Gill Plus writer-director Aaron Sorkin and actress Mikey Madison on The Social Reckoning (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261103120000 +0000" stop="20261103120600 +0000" channel="BBC_WORLD_SERVICE">
@@ -4485,7 +4120,322 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>The latest two minute news summary from BBC World Service.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
-  <programme start="20261103233200 +0000" stop="20261104000200 +0000" channel="BBC_WORLD_SERVICE">
+  <programme start="20261103233200 +0000" stop="20261104010000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Report</title>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/e6/2a/cfe62a67-2856-11b5-8273-d120267933ba/mza_10862080315354975546.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104010000 +0000" stop="20261104010600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104010600 +0000" stop="20261104020000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News US Election Special</title>
+    <desc>BBC News US Election Special Coverage of the US midterm elections.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104020000 +0000" stop="20261104020600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104020600 +0000" stop="20261104030000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News US Election Special</title>
+    <desc>BBC News US Election Special Coverage of the US midterm elections.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104030000 +0000" stop="20261104030600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104030600 +0000" stop="20261104040000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News US Election Special</title>
+    <desc>BBC News US Election Special Coverage of the US midterm elections.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104040000 +0000" stop="20261104040600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104040600 +0000" stop="20261104050000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News US Election Special</title>
+    <desc>BBC News US Election Special Coverage of the US midterm elections.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104050000 +0000" stop="20261104050600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104050600 +0000" stop="20261104060000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News US Election Special</title>
+    <desc>BBC News US Election Special Coverage of the US midterm elections.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104060000 +0000" stop="20261104060600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104060600 +0000" stop="20261104070000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104070000 +0000" stop="20261104070600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104070600 +0000" stop="20261104080000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104080600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104080600 +0000" stop="20261104090000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104090000 +0000" stop="20261104090600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104090600 +0000" stop="20261104100000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104100000 +0000" stop="20261104100600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104100600 +0000" stop="20261104103000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104103000 +0000" stop="20261104103200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104103200 +0000" stop="20261104110000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Climate Question</title>
+    <desc>The Climate Question Stories on why we find it so hard to save our own planet, and how we might change that. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104110000 +0000" stop="20261104110600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104110600 +0000" stop="20261104120000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Documentary</title>
+    <desc>Unlikely: A love across the political divide How did a right-wing influencer and a former guerrilla fall in love? (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104120600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104120600 +0000" stop="20261104123000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104123200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104123200 +0000" stop="20261104130000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Global Story</title>
+    <desc>04/11/2026 GMT .</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104130600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104130600 +0000" stop="20261104135000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104135000 +0000" stop="20261104140000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>Brazil's Mariana dam disaster In 2015, the Fundão dam collapsed near Mariana, causing a major environmental disaster</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104140600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104140600 +0000" stop="20261104143000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104143200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104143200 +0000" stop="20261104150000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Documentary</title>
+    <desc>Where is Austin Tice? 9/9 Josh Baker uncovers the truth about one of the biggest missing-person cases of our time.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104150600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104150600 +0000" stop="20261104160000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104160600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104160600 +0000" stop="20261104163000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Interview</title>
+    <desc>The Interview Conversations with people shaping our world. The best interviews from the BBC.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104163200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104163200 +0000" stop="20261104165000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>Business Daily The daily drama of money and work from the BBC.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104165000 +0000" stop="20261104170000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Express</title>
+    <desc>04/11/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104170000 +0000" stop="20261104170600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104170600 +0000" stop="20261104180000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104180000 +0000" stop="20261104180600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104180600 +0000" stop="20261104190000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104190600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104190600 +0000" stop="20261104195000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104195000 +0000" stop="20261104200000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>Brazil's Mariana dam disaster In 2015, the Fundão dam collapsed near Mariana, causing a major environmental disaster (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104200600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104200600 +0000" stop="20261104203000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104203000 +0000" stop="20261104203200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104203200 +0000" stop="20261104210000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Sport Today</title>
+    <desc>2026/11/04 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104210000 +0000" stop="20261104210600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104210600 +0000" stop="20261104213000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Climate Question</title>
+    <desc>The Climate Question Stories on why we find it so hard to save our own planet, and how we might change that. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104213000 +0000" stop="20261104213200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104213200 +0000" stop="20261104220000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Health Check</title>
+    <desc>Health Check Health issues and medical breakthroughs from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104220000 +0000" stop="20261104220600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104220600 +0000" stop="20261104230000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104230000 +0000" stop="20261104230600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104230600 +0000" stop="20261104233000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104233000 +0000" stop="20261104233200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261104233200 +0000" stop="20261105000200 +0000" channel="BBC_WORLD_SERVICE">
     <title>World Business Report</title>
     <desc>The latest business and finance news from around the world, on the BBC.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/e6/2a/cfe62a67-2856-11b5-8273-d120267933ba/mza_10862080315354975546.jpg/600x600bb.jpg" />
@@ -6536,36 +6486,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="RELIC_RADIO">
     <display-name>Relic Radio</display-name>
   </channel>
-  <programme start="20261028000000 +0000" stop="20261028040000 +0000" channel="RELIC_RADIO">
-    <title>The Horror! &amp; Late Night Chillers</title>
-    <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028040000 +0000" stop="20261028080000 +0000" channel="RELIC_RADIO">
-    <title>Classic Comedy &amp; Morning Serials</title>
-    <desc>Early morning laughs, variety shows, and classic serialized radio adventures from the Golden Age of broadcasting.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028080000 +0000" stop="20261028120000 +0000" channel="RELIC_RADIO">
-    <title>Case Closed! Hardboiled Detectives</title>
-    <desc>Classic radio gumshoes and crime-solvers including Dragnet, Philip Marlowe, Sam Spade, and Johnny Dollar.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028120000 +0000" stop="20261028160000 +0000" channel="RELIC_RADIO">
-    <title>Strange Tales &amp; Twilight Radio</title>
-    <desc>Unexplained mysteries, bizarre occurrences, atmospheric noir, and vintage mystery theatre dramatizations.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4a/1d/1b/4a1d1b33-e5d0-9944-77e8-e9fdb5c4a796/mza_10200885618498877548.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028160000 +0000" stop="20261028200000 +0000" channel="RELIC_RADIO">
-    <title>Science Fiction &amp; The Unknown</title>
-    <desc>Golden age sci-fi and speculative audio adventures featuring X Minus One, Dimension X, and Exploring Tomorrow.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f6/cb/07/f6cb0741-f6a9-e310-7539-7c222ff474b7/mza_15509939634289871537.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261028200000 +0000" stop="20261029000000 +0000" channel="RELIC_RADIO">
-    <title>Relic Radio Prime &amp; Golden Age Classics</title>
-    <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261029000000 +0000" stop="20261029040000 +0000" channel="RELIC_RADIO">
     <title>The Horror! &amp; Late Night Chillers</title>
     <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
@@ -6742,6 +6662,36 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f6/cb/07/f6cb0741-f6a9-e310-7539-7c222ff474b7/mza_15509939634289871537.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261103200000 +0000" stop="20261104000000 +0000" channel="RELIC_RADIO">
+    <title>Relic Radio Prime &amp; Golden Age Classics</title>
+    <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104000000 +0000" stop="20261104040000 +0000" channel="RELIC_RADIO">
+    <title>The Horror! &amp; Late Night Chillers</title>
+    <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104040000 +0000" stop="20261104080000 +0000" channel="RELIC_RADIO">
+    <title>Classic Comedy &amp; Morning Serials</title>
+    <desc>Early morning laughs, variety shows, and classic serialized radio adventures from the Golden Age of broadcasting.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104080000 +0000" stop="20261104120000 +0000" channel="RELIC_RADIO">
+    <title>Case Closed! Hardboiled Detectives</title>
+    <desc>Classic radio gumshoes and crime-solvers including Dragnet, Philip Marlowe, Sam Spade, and Johnny Dollar.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104160000 +0000" channel="RELIC_RADIO">
+    <title>Strange Tales &amp; Twilight Radio</title>
+    <desc>Unexplained mysteries, bizarre occurrences, atmospheric noir, and vintage mystery theatre dramatizations.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4a/1d/1b/4a1d1b33-e5d0-9944-77e8-e9fdb5c4a796/mza_10200885618498877548.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104200000 +0000" channel="RELIC_RADIO">
+    <title>Science Fiction &amp; The Unknown</title>
+    <desc>Golden age sci-fi and speculative audio adventures featuring X Minus One, Dimension X, and Exploring Tomorrow.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f6/cb/07/f6cb0741-f6a9-e310-7539-7c222ff474b7/mza_15509939634289871537.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261105000000 +0000" channel="RELIC_RADIO">
     <title>Relic Radio Prime &amp; Golden Age Classics</title>
     <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
