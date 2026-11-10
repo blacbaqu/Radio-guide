@@ -3,36 +3,6 @@
   <channel id="WSCR.chicago">
     <display-name>WSCR 670 The Score</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109110000 +0000" channel="WSCR.chicago">
-    <title>Gabe Ramirez</title>
-    <desc>Gabe Ramirez. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/Gabe_Ramire_104_Score-1770139775953.jpg" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109160000 +0000" channel="WSCR.chicago">
-    <title>Haugh &amp; Payton Show</title>
-    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109200000 +0000" channel="WSCR.chicago">
-    <title>Rahimi &amp; Grote Show</title>
-    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261110000000 +0000" channel="WSCR.chicago">
-    <title>Spiegel &amp; Holmes Show</title>
-    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110050000 +0000" channel="WSCR.chicago">
-    <title>Monday Night Football on Westwood One: Buffalo vs Minnesota</title>
-    <desc>Listen to Monday Night Football on  Westwood One.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/110926-bufvsmin-1793201843514.png" />
-  </programme>
-  <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="WSCR.chicago">
-    <title>Westwood One Sports Night with Lynnell Willingham</title>
-    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110100000 +0000" channel="WSCR.chicago">
     <title>Westwood One Sports Night with Lynnell Willingham</title>
     <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
@@ -99,9 +69,9 @@
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
   </programme>
   <programme start="20261112000000 +0000" stop="20261112004500 +0000" channel="WSCR.chicago">
-    <title>Best of the Score</title>
-    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+    <title>Alex Kuhn</title>
+    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
   </programme>
   <programme start="20261112004500 +0000" stop="20261112040000 +0000" channel="WSCR.chicago">
     <title>Bulls Radio</title>
@@ -179,9 +149,9 @@
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
   </programme>
   <programme start="20261114000000 +0000" stop="20261114004500 +0000" channel="WSCR.chicago">
-    <title>Best of the Score</title>
-    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
-    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+    <title>Alex Kuhn</title>
+    <desc>Alex Kuhn discuss the latest Chicago sports storylines.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/104.3_The_Score_orange_logo-1788203434298.jpg" />
   </programme>
   <programme start="20261114004500 +0000" stop="20261114040000 +0000" channel="WSCR.chicago">
     <title>Bulls Radio</title>
@@ -298,65 +268,59 @@
     <desc>NFL Sunday Now with John Mallory. Broadcast on WSCR 670 The Score.</desc>
     <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
   </programme>
+  <programme start="20261116003000 +0000" stop="20261116050000 +0000" channel="WSCR.chicago">
+    <title>Sunday Night Football on Westwood One: Pittsburgh vs Cincinnati</title>
+    <desc>Listen to Sunday Night Football on Westwood One Sports.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766975752613.jpg" />
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116060000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with John Mallory</title>
+    <desc>Westwood One Sports Night with John Mallory. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505363354.jpg" />
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116080000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with Lynnell Willingham</title>
+    <desc>Lynnell Willingham brings undeniable energy every time he’s on the mic. His larger-than-life presence, and tell it to your face mentality will ignite Westwood One Sports Night into spirited, opinion-packed conversations that keep fans locked in.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WWOSports247-LynnellWillingham-1766521578820.jpg" />
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116100000 +0000" channel="WSCR.chicago">
+    <title>Westwood One Sports Night with John Mallory</title>
+    <desc>Westwood One Sports Night with John Mallory. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WestwoodOneSports-LOGO-1766505363354.jpg" />
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="WSCR.chicago">
+    <title>Best of the Score</title>
+    <desc>Best of the Score. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_BestOfTheScore-1770042657612.jpg" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116160000 +0000" channel="WSCR.chicago">
+    <title>Haugh &amp; Payton Show</title>
+    <desc>David Haugh and Jarrett Payton discuss the top sports storylines in Chicago and beyond.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/HaughPayton_14-1787947838382.jpg" />
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116200000 +0000" channel="WSCR.chicago">
+    <title>Rahimi &amp; Grote Show</title>
+    <desc>Leila Rahimi and Mark Grote bring you fun, compelling Chicago sports talk with great listener interaction.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/RahimiGrote_1080x1080-1787347086084.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116234500 +0000" channel="WSCR.chicago">
+    <title>Spiegel &amp; Holmes Show</title>
+    <desc>Matt Spiegel and Laurence Holmes bring you Chicago sports talk with great opinions, guests and fun.</desc>
+    <icon src="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/WSCRAM_1043_SpiegelHolmes-1770042556295.jpg" />
+  </programme>
+  <programme start="20261116234500 +0000" stop="20261117030000 +0000" channel="WSCR.chicago">
+    <title>Bulls Radio</title>
+    <desc>Bulls Radio. Broadcast on WSCR 670 The Score.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg" />
+  </programme>
   <channel id="AMAMBIENT">
     <display-name>a.m. ambient</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109090000 +0000" channel="AMAMBIENT">
-    <title>Midnight Glow</title>
-    <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109090000 +0000" stop="20261109120000 +0000" channel="AMAMBIENT">
-    <title>First Light</title>
-    <desc>Soft drones and delicate melodies as night gradually gives way to morning.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="AMAMBIENT">
-    <title>Sunrise Signals</title>
-    <desc>Bright and uplifting ambient selections to welcome a new day with clarity and optimism.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109180000 +0000" channel="AMAMBIENT">
-    <title>Open Skies</title>
-    <desc>Expansive ambient music designed to inspire focus, creativity, and forward momentum.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109210000 +0000" channel="AMAMBIENT">
-    <title>Daylight Drift</title>
-    <desc>Positive and melodic ambient sounds for productive afternoons and peaceful reflection.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261110000000 +0000" channel="AMAMBIENT">
-    <title>Golden Hours</title>
-    <desc>Warm harmonies and luminous soundscapes accompanying the latter half of the day.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="AMAMBIENT">
-    <title>Evening Horizons</title>
-    <desc>Relaxed ambient journeys that ease the transition from day into evening.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="AMAMBIENT">
-    <title>Twilight Echoes</title>
-    <desc>Slow and contemplative ambient music preparing the mind for a restful night ahead.
-
-a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
-    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110090000 +0000" channel="AMAMBIENT">
     <title>Midnight Glow</title>
     <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
@@ -693,65 +657,65 @@ a.m. ambient is an internet radio stream featuring bright and positive ambient m
 a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
     <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116090000 +0000" channel="AMAMBIENT">
+    <title>Midnight Glow</title>
+    <desc>Gentle ambient music for overnight listening, featuring warm textures and quiet atmospheres.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116120000 +0000" channel="AMAMBIENT">
+    <title>First Light</title>
+    <desc>Soft drones and delicate melodies as night gradually gives way to morning.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116150000 +0000" channel="AMAMBIENT">
+    <title>Sunrise Signals</title>
+    <desc>Bright and uplifting ambient selections to welcome a new day with clarity and optimism.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116180000 +0000" channel="AMAMBIENT">
+    <title>Open Skies</title>
+    <desc>Expansive ambient music designed to inspire focus, creativity, and forward momentum.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116210000 +0000" channel="AMAMBIENT">
+    <title>Daylight Drift</title>
+    <desc>Positive and melodic ambient sounds for productive afternoons and peaceful reflection.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261117000000 +0000" channel="AMAMBIENT">
+    <title>Golden Hours</title>
+    <desc>Warm harmonies and luminous soundscapes accompanying the latter half of the day.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="AMAMBIENT">
+    <title>Evening Horizons</title>
+    <desc>Relaxed ambient journeys that ease the transition from day into evening.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="AMAMBIENT">
+    <title>Twilight Echoes</title>
+    <desc>Slow and contemplative ambient music preparing the mind for a restful night ahead.
+
+a.m. ambient is an internet radio stream featuring bright and positive ambient music. The day-time counterpart to our sister station Ambient Sleeping Pill.</desc>
+    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="AMBIENTSLEEPINGPILL">
     <display-name>Ambient Sleeping Pill</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109090000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Deep Sleep</title>
-    <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109090000 +0000" stop="20261109120000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Dream States</title>
-    <desc>Ethereal drones and tranquil textures for the quietest hours of the night.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Dawn Atmospheres</title>
-    <desc>Gentle ambient selections to ease into the morning with calm and clarity.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109180000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Ambient Workspace</title>
-    <desc>Beat-free background music for studying, reading, focus, and concentration.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109210000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Quiet Studies</title>
-    <desc>Warm, unobtrusive ambient music designed to support productive afternoons.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261110000000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Floating Horizons</title>
-    <desc>Expansive soundscapes and drifting melodies for relaxation and reflection.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Evening Calm</title>
-    <desc>Soft ambient textures for winding down at the end of the day.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="AMBIENTSLEEPINGPILL">
-    <title>Sleep Preparation</title>
-    <desc>Peaceful ambient music selected to help transition into a restful night.
-
-Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
-    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110090000 +0000" channel="AMBIENTSLEEPINGPILL">
     <title>Deep Sleep</title>
     <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
@@ -1088,79 +1052,65 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
 Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
     <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116090000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Deep Sleep</title>
+    <desc>Slow-moving ambient soundscapes curated for uninterrupted rest and overnight relaxation.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116120000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Dream States</title>
+    <desc>Ethereal drones and tranquil textures for the quietest hours of the night.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116150000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Dawn Atmospheres</title>
+    <desc>Gentle ambient selections to ease into the morning with calm and clarity.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116180000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Ambient Workspace</title>
+    <desc>Beat-free background music for studying, reading, focus, and concentration.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116210000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Quiet Studies</title>
+    <desc>Warm, unobtrusive ambient music designed to support productive afternoons.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261117000000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Floating Horizons</title>
+    <desc>Expansive soundscapes and drifting melodies for relaxation and reflection.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Evening Calm</title>
+    <desc>Soft ambient textures for winding down at the end of the day.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="AMBIENTSLEEPINGPILL">
+    <title>Sleep Preparation</title>
+    <desc>Peaceful ambient music selected to help transition into a restful night.
+
+Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark.</desc>
+    <icon src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="KGVO">
     <display-name>KGVO 1290 AM Missoula</display-name>
   </channel>
-  <programme start="20261108070000 +0000" stop="20261108130000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
-  </programme>
-  <programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="KGVO">
-    <title>This Morning With Gordon Deal</title>
-    <desc>National morning news and information with Gordon Deal.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4a/ce/9f/4ace9fb0-f138-0fc3-11a3-a0e23631fca6/mza_15622037554988457018.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="KGVO">
-    <title>What Do You Know?</title>
-    <desc>Local talk show; On Demand episodes available in the KGVO app.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108150000 +0000" stop="20261108160000 +0000" channel="KGVO">
-    <title>The FLOT Line hosted by Rick Hughes</title>
-    <desc>30 minutes of inspiration, motivation, education, but never any manipulation.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108160000 +0000" stop="20261108170000 +0000" channel="KGVO">
-    <title>Lutheran Hour</title>
-    <desc>Rescue, restoration, renewal—Christ's mission for the Church and our message to the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lutherrose.svg" />
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="KGVO">
-    <title>Community Viewpoint</title>
-    <desc>Local community issues, interviews, and public interest discussions.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="KGVO">
-    <title>Missoula Real Estate Today</title>
-    <desc>Real estate, finance, construction, home remodeling, decorating, and landscaping topics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="KGVO">
-    <title>RMWorldTravel</title>
-    <desc>America's #1 travel radio show with Robert &amp; Mary Carey and Rudy Maxa.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c4/83/8d/c4838d78-b7c8-4777-6ca3-189ca85e5052/mza_6436660144933939524.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108190000 +0000" stop="20261108220000 +0000" channel="KGVO">
-    <title>Rich on Tech</title>
-    <desc>Consumer tech news, gadgets, cybersecurity, and digital lifestyle coverage.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/40/33/21/40332152-4740-410e-a50e-561b3b1c67d3/mza_16362547196027986427.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108220000 +0000" stop="20261109010000 +0000" channel="KGVO">
-    <title>Sean Hannity</title>
-    <desc>National conservative talk show with political commentary and interviews.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109020000 +0000" channel="KGVO">
-    <title>The Motley Fool</title>
-    <desc>Investing and personal finance insights from The Motley Fool.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_Motley_Fool_Logo.svg" />
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109030000 +0000" channel="KGVO">
-    <title>Free Talk Live</title>
-    <desc>Issues-oriented talk radio where callers drive the conversation.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/33/a0/0b/33a00b8e-4903-a15e-a6a7-0e6e7681c4e7/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109060000 +0000" channel="KGVO">
-    <title>The Bill Cunningham Show</title>
-    <desc>Hard-hitting commentary and guests with two-time Marconi award winner Bill Cunningham.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bill_Cunningham_2012.jpg" />
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="KGVO">
-    <title>Coast to Coast AM</title>
-    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
-  </programme>
   <programme start="20261109070000 +0000" stop="20261109120000 +0000" channel="KGVO">
     <title>Coast to Coast AM</title>
     <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
@@ -1481,49 +1431,79 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Denny Bedard anchors postgame coverage with interviews and analysis.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/Montana_Grizzlies_logo.svg" />
   </programme>
+  <programme start="20261115070000 +0000" stop="20261115130000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
+  </programme>
+  <programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="KGVO">
+    <title>This Morning With Gordon Deal</title>
+    <desc>National morning news and information with Gordon Deal.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4a/ce/9f/4ace9fb0-f138-0fc3-11a3-a0e23631fca6/mza_15622037554988457018.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="KGVO">
+    <title>What Do You Know?</title>
+    <desc>Local talk show; On Demand episodes available in the KGVO app.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="KGVO">
+    <title>The FLOT Line hosted by Rick Hughes</title>
+    <desc>30 minutes of inspiration, motivation, education, but never any manipulation.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115160000 +0000" stop="20261115170000 +0000" channel="KGVO">
+    <title>Lutheran Hour</title>
+    <desc>Rescue, restoration, renewal—Christ's mission for the Church and our message to the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Lutherrose.svg" />
+  </programme>
+  <programme start="20261115170000 +0000" stop="20261115173000 +0000" channel="KGVO">
+    <title>Community Viewpoint</title>
+    <desc>Local community issues, interviews, and public interest discussions.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="KGVO">
+    <title>Missoula Real Estate Today</title>
+    <desc>Real estate, finance, construction, home remodeling, decorating, and landscaping topics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/f2/28/d1/f228d15c-2682-d7a9-edc5-e57b0d16634f/mza_16790995578435565305.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115180000 +0000" stop="20261115190000 +0000" channel="KGVO">
+    <title>RMWorldTravel</title>
+    <desc>America's #1 travel radio show with Robert &amp; Mary Carey and Rudy Maxa.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c4/83/8d/c4838d78-b7c8-4777-6ca3-189ca85e5052/mza_6436660144933939524.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115190000 +0000" stop="20261115220000 +0000" channel="KGVO">
+    <title>Rich on Tech</title>
+    <desc>Consumer tech news, gadgets, cybersecurity, and digital lifestyle coverage.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/40/33/21/40332152-4740-410e-a50e-561b3b1c67d3/mza_16362547196027986427.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261116010000 +0000" channel="KGVO">
+    <title>Sean Hannity</title>
+    <desc>National conservative talk show with political commentary and interviews.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="KGVO">
+    <title>The Motley Fool</title>
+    <desc>Investing and personal finance insights from The Motley Fool.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_Motley_Fool_Logo.svg" />
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="KGVO">
+    <title>Free Talk Live</title>
+    <desc>Issues-oriented talk radio where callers drive the conversation.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/33/a0/0b/33a00b8e-4903-a15e-a6a7-0e6e7681c4e7/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116060000 +0000" channel="KGVO">
+    <title>The Bill Cunningham Show</title>
+    <desc>Hard-hitting commentary and guests with two-time Marconi award winner Bill Cunningham.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bill_Cunningham_2012.jpg" />
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="KGVO">
+    <title>Coast to Coast AM</title>
+    <desc>Late-night syndicated radio show covering paranormal, conspiracy, and fringe topics.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/52/Coast_to_Coast_AM_logo.svg" />
+  </programme>
   <channel id="WDCB">
     <display-name>WDCB 90.9 FM Chicago</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109110000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109150000 +0000" channel="WDCB">
-    <title>First Light</title>
-    <desc>Early morning jazz, acoustic melodies, and standards to start the Chicago day.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109200000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109230000 +0000" channel="WDCB">
-    <title>Jazz Oasis</title>
-    <desc>A relaxing afternoon retreat featuring classic, acoustic, and modern jazz to ease through the workday.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261110010000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
-  <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="WDCB">
-    <title>Night Lights</title>
-    <desc>David Brent Johnson explores classic jazz from the 1940s through 1970s, showcasing pivotal sessions and unsung innovators.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/21/df/bf/21dfbfb3-b452-f472-a044-8eaae050f225/mza_10874558832692016629.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110020000 +0000" stop="20261110040000 +0000" channel="WDCB">
-    <title>Blues Edition</title>
-    <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
-  </programme>
-  <programme start="20261110040000 +0000" stop="20261110060000 +0000" channel="WDCB">
-    <title>DCB Jazz</title>
-    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110110000 +0000" channel="WDCB">
     <title>DCB Jazz</title>
     <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
@@ -1769,6 +1749,46 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116110000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116150000 +0000" channel="WDCB">
+    <title>First Light</title>
+    <desc>Early morning jazz, acoustic melodies, and standards to start the Chicago day.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116200000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116230000 +0000" channel="WDCB">
+    <title>Jazz Oasis</title>
+    <desc>A relaxing afternoon retreat featuring classic, acoustic, and modern jazz to ease through the workday.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117010000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
+  <programme start="20261117010000 +0000" stop="20261117020000 +0000" channel="WDCB">
+    <title>Night Lights</title>
+    <desc>David Brent Johnson explores classic jazz from the 1940s through 1970s, showcasing pivotal sessions and unsung innovators.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/21/df/bf/21dfbfb3-b452-f472-a044-8eaae050f225/mza_10874558832692016629.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="WDCB">
+    <title>Blues Edition</title>
+    <desc>Classic Chicago blues, delta standards, jump blues, and modern cuts hosted by veteran WDCB blues authorities.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/69/Muddy_Waters_%281976%29.jpg" />
+  </programme>
+  <programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="WDCB">
+    <title>DCB Jazz</title>
+    <desc>Mainstream, classic, and modern jazz handpicked by WDCB hosts, highlighting legendary recordings and Chicago's jazz scene.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wdcb-jazz.png" />
+  </programme>
   <channel id="NINETIESDIGITAL">
     <display-name>90s90s Digital</display-name>
   </channel>
@@ -1995,386 +2015,6 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   <channel id="BBC_WORLD_SERVICE">
     <display-name>BBC World Service</display-name>
   </channel>
-  <programme start="20261109010000 +0000" stop="20261109010600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109010600 +0000" stop="20261109013000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>From Our Own Correspondent</title>
-    <desc>Ukraine: escaping "hell" in Oleshky Some families reunite after years of separation - but Russian strikes continue elsewhere (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109013000 +0000" stop="20261109013200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109013200 +0000" stop="20261109020000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC Inside Science</title>
-    <desc>The zeptoverse A glimpse into the world of the incredibly tiny (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109020600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109020600 +0000" stop="20261109023000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109023000 +0000" stop="20261109023200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109023200 +0000" stop="20261109030000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Discovery</title>
-    <desc>The Life Scientific: Robert Ballard Oceanographer Bob Ballard discusses his 60-year career in deep-sea exploration. (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109030600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109030600 +0000" stop="20261109033000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109033000 +0000" stop="20261109033200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109033200 +0000" stop="20261109040000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>CrowdScience</title>
-    <desc>Ten years of Crowd Science Crowd Science is ten years old! Listeners and presenters pick their favourite moments. (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/c8/1e/a9c81e5b-bb51-1eb5-5e60-f5a652f10928/mza_9407335624792671018.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109040600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109040600 +0000" stop="20261109043000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>People Fixing The World</title>
-    <desc>Digging deep to help farmers A new farming method is having a dramatic effect on crop yields in Malawi (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109043000 +0000" stop="20261109043200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109043200 +0000" stop="20261109050000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Happy News</title>
-    <desc>The Happy Pod: Celebrating the wedding that never happened When Bridget's relationship fell apart, she turned to the internet with a proposal  (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109050600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109050600 +0000" stop="20261109053000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109053000 +0000" stop="20261109053200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109053200 +0000" stop="20261109060000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>A History Of The United States In 100 Objects</title>
-    <desc>100 Objects #3: The Pension Files Unearthing a remarkable slave rebellion through dusty Civil War paperwork.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109060600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109060600 +0000" stop="20261109070000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Nvidia launches investigation into its CEO CEO Jensen Huang had a relationship with a suspected Chinese spy</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109070000 +0000" stop="20261109070600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109070600 +0000" stop="20261109080000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Nvidia's CEO admits to having been "unfaithful" to his wife An investigation says that Jensen Huang had a relationship with a suspected Chinese spy</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109080000 +0000" stop="20261109080600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109080600 +0000" stop="20261109090000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109090000 +0000" stop="20261109090600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109090600 +0000" stop="20261109093000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>David Robinson, former Open AI leader: Why I quit over safety Former Open AI leader David Robinson on why he resigned over fears about AI safety</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109093000 +0000" stop="20261109093200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109093200 +0000" stop="20261109095000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>Why Europe wants to rely less on US tech companies A push for digital sovereignty is changing how Europe thinks about technology</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109095000 +0000" stop="20261109100000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>The first execution by lethal injection in the US In 1982, the state of Texas began using a new method to execute prisoners</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109100000 +0000" stop="20261109100600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109100600 +0000" stop="20261109103000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109103000 +0000" stop="20261109103200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109103200 +0000" stop="20261109110000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>CrowdScience</title>
-    <desc>Ten years of Crowd Science Crowd Science is ten years old! Listeners and presenters pick their favourite moments. (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/c8/1e/a9c81e5b-bb51-1eb5-5e60-f5a652f10928/mza_9407335624792671018.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109110600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109110600 +0000" stop="20261109120000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The History Hour</title>
-    <desc>Mexico’s Day of the Dead parade and the Pope in Peru Max Pearson presents a collection of the week’s Witness History episodes</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109120600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109120600 +0000" stop="20261109123000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109123000 +0000" stop="20261109123200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109123200 +0000" stop="20261109130000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Global Story</title>
-    <desc>The Global Story .</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109130000 +0000" stop="20261109130600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109130600 +0000" stop="20261109135000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Being Heumann: the real-life story behind the movie US disability rights activist Judy Heumann used her anger to change the law – and lives</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109135000 +0000" stop="20261109140000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>The first execution by lethal injection in the US In 1982, the state of Texas began using a new method to execute prisoners (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109140000 +0000" stop="20261109140600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109140600 +0000" stop="20261109143000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109143000 +0000" stop="20261109143200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109143200 +0000" stop="20261109150000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>A History Of The United States In 100 Objects</title>
-    <desc>100 Objects #3: The Pension Files Unearthing a remarkable slave rebellion through dusty Civil War paperwork. (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109150600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109150600 +0000" stop="20261109160000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109160600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109160600 +0000" stop="20261109163000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Interview</title>
-    <desc>David Robinson, former Open AI leader: Why I quit over safety Former Open AI leader David Robinson on why he resigned over fears about AI safety  (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109163000 +0000" stop="20261109163200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109163200 +0000" stop="20261109165000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Business Daily</title>
-    <desc>Why Europe wants to rely less on US tech companies A push for digital sovereignty is changing how Europe thinks about technology (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109165000 +0000" stop="20261109170000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Express</title>
-    <desc>09/11/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109170600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109170600 +0000" stop="20261109180000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109180600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109180600 +0000" stop="20261109190000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outside Source</title>
-    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109190000 +0000" stop="20261109190600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109190600 +0000" stop="20261109195000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Outlook</title>
-    <desc>Being Heumann: the real-life story behind the movie US disability rights activist Judy Heumann used her anger to change the law – and lives  (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109195000 +0000" stop="20261109200000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Witness History</title>
-    <desc>The first execution by lethal injection in the US In 1982, the state of Texas began using a new method to execute prisoners (R)</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109200600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109200600 +0000" stop="20261109203000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109203000 +0000" stop="20261109203200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109203200 +0000" stop="20261109210000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Sport Today</title>
-    <desc>2026/11/09 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261109210600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109210600 +0000" stop="20261109213000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>From Our Own Correspondent</title>
-    <desc>Ukraine: escaping "hell" in Oleshky Some families reunite after years of separation - but Russian strikes continue elsewhere (R)</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109213000 +0000" stop="20261109213200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109213200 +0000" stop="20261109220000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Discovery</title>
-    <desc>The Life Scientific: Asel Sartbaeva Asel Sartbaeva on protecting vaccines with a bespoke coat of silica, found in beach sand.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109220000 +0000" stop="20261109220600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109220600 +0000" stop="20261109230000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>Newshour</title>
-    <desc>Interviews, news and analysis of the day’s global events.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261109230600 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News</title>
-    <desc>The latest five minute news bulletin from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109230600 +0000" stop="20261109233000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>The Newsroom</title>
-    <desc>The world's Newsroom brings you global events as they happen</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109233000 +0000" stop="20261109233200 +0000" channel="BBC_WORLD_SERVICE">
-    <title>BBC News Summary</title>
-    <desc>The latest two minute news summary from BBC World Service.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
-  </programme>
-  <programme start="20261109233200 +0000" stop="20261110010000 +0000" channel="BBC_WORLD_SERVICE">
-    <title>World Business Report</title>
-    <desc>The latest business and finance news from around the world, on the BBC.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/e6/2a/cfe62a67-2856-11b5-8273-d120267933ba/mza_10862080315354975546.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261110010000 +0000" stop="20261110010600 +0000" channel="BBC_WORLD_SERVICE">
     <title>BBC News</title>
     <desc>The latest five minute news bulletin from BBC World Service.</desc>
@@ -2402,7 +2042,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110023200 +0000" stop="20261110030000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Global Story</title>
-    <desc>The Global Story . (R)</desc>
+    <desc>How North Korea pulled off a $6bn heist The inside story of the hackers behind the biggest theft in history (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261110030000 +0000" stop="20261110030600 +0000" channel="BBC_WORLD_SERVICE">
@@ -2432,7 +2072,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110040600 +0000" stop="20261110045000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Outlook</title>
-    <desc>Being Heumann: the real-life story behind the movie US disability rights activist Judy Heumann used her anger to change the law – and lives  (R)</desc>
+    <desc>Being Heumann: The real-life story behind the movie US disability rights activist Judy Heumann used her anger to change the law – and lives  (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261110045000 +0000" stop="20261110050000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2457,7 +2097,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110053200 +0000" stop="20261110060000 +0000" channel="BBC_WORLD_SERVICE">
     <title>In the Studio</title>
-    <desc>Ramesh Mario Nithiyendran Camilla Costa meets artist Ramesh Mario Nithiyendran as creates a new work of art</desc>
+    <desc>Ramesh Mario Nithiyendran Artist Ramesh Mario Nithiyendran on creating a warrior figure who doesn’t fight</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110060600 +0000" channel="BBC_WORLD_SERVICE">
@@ -2467,7 +2107,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110060600 +0000" stop="20261110070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
+    <desc>Trump says FBI is investigating Nvidia's Huang Jensen Huang had an affair with a suspected Chinese agent</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261110070000 +0000" stop="20261110070600 +0000" channel="BBC_WORLD_SERVICE">
@@ -2477,7 +2117,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110070600 +0000" stop="20261110080000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Newsday</title>
-    <desc>Live news, business and sport from around the world.</desc>
+    <desc>Nvidia boss's affair with alleged Chinese spy under investigation Beijing has rejected claims that Huang was targeted</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261110080000 +0000" stop="20261110080600 +0000" channel="BBC_WORLD_SERVICE">
@@ -2507,7 +2147,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110093200 +0000" stop="20261110095000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
-    <desc>Business Daily The daily drama of money and work from the BBC.</desc>
+    <desc>Follow the Money: Are prediction markets the real winners of the US midterms? Inside the prediction markets that attracted nearly $2 billion in bet  s on the US midterms</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261110095000 +0000" stop="20261110100000 +0000" channel="BBC_WORLD_SERVICE">
@@ -2597,7 +2237,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110143200 +0000" stop="20261110150000 +0000" channel="BBC_WORLD_SERVICE">
     <title>In the Studio</title>
-    <desc>Ramesh Mario Nithiyendran Camilla Costa meets artist Ramesh Mario Nithiyendran as creates a new work of art (R)</desc>
+    <desc>Ramesh Mario Nithiyendran Artist Ramesh Mario Nithiyendran on creating a warrior figure who doesn’t fight (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261110150000 +0000" stop="20261110150600 +0000" channel="BBC_WORLD_SERVICE">
@@ -2627,7 +2267,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261110163200 +0000" stop="20261110165000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Business Daily</title>
-    <desc>Business Daily The daily drama of money and work from the BBC. (R)</desc>
+    <desc>Follow the Money: Are prediction markets the real winners of the US midterms? Inside the prediction markets that attracted nearly $2 billion in bet  s on the US midterms (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261110165000 +0000" stop="20261110170000 +0000" channel="BBC_WORLD_SERVICE">
@@ -3227,7 +2867,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261112090600 +0000" stop="20261112093000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
-    <desc>The Inquiry The Inquiry gets beyond the headlines to explore the trends, forces and ideas shaping the world.</desc>
+    <desc>How do we decide which species to save? Can we save all species?</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ce/d3/18/ced318ca-56a8-2b81-a63e-f831968be355/mza_10862080315354975546.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261112093000 +0000" stop="20261112093200 +0000" channel="BBC_WORLD_SERVICE">
@@ -3357,7 +2997,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261112160600 +0000" stop="20261112163000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
-    <desc>The Inquiry The Inquiry gets beyond the headlines to explore the trends, forces and ideas shaping the world. (R)</desc>
+    <desc>How do we decide which species to save? Can we save all species? (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ce/d3/18/ced318ca-56a8-2b81-a63e-f831968be355/mza_10862080315354975546.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261112163000 +0000" stop="20261112163200 +0000" channel="BBC_WORLD_SERVICE">
@@ -4087,7 +3727,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261114195000 +0000" stop="20261114200000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sporting Witness</title>
-    <desc>Wales at the 2016 European Championships At Euro 2016, Wales defied all expectations at their first tournament in 58 years</desc>
+    <desc>Wales at Euro 2016 At Euro 2016, Wales defied all expectations at their first tournament in 58 years</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261114200000 +0000" stop="20261114200600 +0000" channel="BBC_WORLD_SERVICE">
@@ -4097,7 +3737,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261114200600 +0000" stop="20261114203000 +0000" channel="BBC_WORLD_SERVICE">
     <title>The Inquiry</title>
-    <desc>The Inquiry The Inquiry gets beyond the headlines to explore the trends, forces and ideas shaping the world. (R)</desc>
+    <desc>How do we decide which species to save? Can we save all species? (R)</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ce/d3/18/ced318ca-56a8-2b81-a63e-f831968be355/mza_10862080315354975546.jpg/600x600bb.jpg" />
   </programme>
   <programme start="20261114203000 +0000" stop="20261114203200 +0000" channel="BBC_WORLD_SERVICE">
@@ -4192,7 +3832,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261115025000 +0000" stop="20261115030000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sporting Witness</title>
-    <desc>Wales at the 2016 European Championships At Euro 2016, Wales defied all expectations at their first tournament in 58 years (R)</desc>
+    <desc>Wales at Euro 2016 At Euro 2016, Wales defied all expectations at their first tournament in 58 years (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261115030000 +0000" stop="20261115030600 +0000" channel="BBC_WORLD_SERVICE">
@@ -4267,7 +3907,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261115065000 +0000" stop="20261115070000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sporting Witness</title>
-    <desc>Wales at the 2016 European Championships At Euro 2016, Wales defied all expectations at their first tournament in 58 years (R)</desc>
+    <desc>Wales at Euro 2016 At Euro 2016, Wales defied all expectations at their first tournament in 58 years (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261115070000 +0000" stop="20261115070600 +0000" channel="BBC_WORLD_SERVICE">
@@ -4337,12 +3977,12 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261115113200 +0000" stop="20261115115000 +0000" channel="BBC_WORLD_SERVICE">
     <title>More than the Score</title>
-    <desc>More than the Score Unexpected questions and stories from beyond the scoresheet</desc>
+    <desc>Who is your BBC Women’s Footballer of the Year 2026? The five nominees have been announced for the BBC award</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261115115000 +0000" stop="20261115120000 +0000" channel="BBC_WORLD_SERVICE">
     <title>Sporting Witness</title>
-    <desc>Wales at the 2016 European Championships At Euro 2016, Wales defied all expectations at their first tournament in 58 years (R)</desc>
+    <desc>Wales at Euro 2016 At Euro 2016, Wales defied all expectations at their first tournament in 58 years (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
   <programme start="20261115120000 +0000" stop="20261115120600 +0000" channel="BBC_WORLD_SERVICE">
@@ -4487,57 +4127,397 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261115233200 +0000" stop="20261115235000 +0000" channel="BBC_WORLD_SERVICE">
     <title>More than the Score</title>
-    <desc>More than the Score Unexpected questions and stories from beyond the scoresheet (R)</desc>
+    <desc>Who is your BBC Women’s Footballer of the Year 2026? The five nominees have been announced for the BBC award (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
-  <programme start="20261115235000 +0000" stop="20261116002000 +0000" channel="BBC_WORLD_SERVICE">
+  <programme start="20261115235000 +0000" stop="20261116010000 +0000" channel="BBC_WORLD_SERVICE">
     <title>More or Less</title>
     <desc>More or Less Tim Harford explains the numbers and statistics in the news and in life. (R)</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
   </programme>
+  <programme start="20261116010000 +0000" stop="20261116010600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116010600 +0000" stop="20261116013000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>From Our Own Correspondent</title>
+    <desc>From Our Own Correspondent Insight, wit and analysis from BBC correspondents, journalists and writers from around the world. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116013000 +0000" stop="20261116013200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116013200 +0000" stop="20261116020000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC Inside Science</title>
+    <desc>12/11/2026 A weekly programme looking at the science that's changing our world. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116020600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116020600 +0000" stop="20261116023000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116023000 +0000" stop="20261116023200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116023200 +0000" stop="20261116030000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Discovery</title>
+    <desc>The Life Scientific: Asel Sartbaeva Asel Sartbaeva on protecting vaccines with a bespoke coat of silica, found in beach sand. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116030600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116030600 +0000" stop="20261116033000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116033000 +0000" stop="20261116033200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116033200 +0000" stop="20261116040000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>CrowdScience</title>
+    <desc>What is El Niño? What exactly is El Niño and why is it changing the weather across the globe? (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/c8/1e/a9c81e5b-bb51-1eb5-5e60-f5a652f10928/mza_9407335624792671018.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116040600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116040600 +0000" stop="20261116043000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>People Fixing The World</title>
+    <desc>Japan’s next meal? Can cultured meat and fermenting fungus help provide our food of the future? (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116043000 +0000" stop="20261116043200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116043200 +0000" stop="20261116050000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Happy News</title>
+    <desc>Happy News Positive news stories (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116050600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116050600 +0000" stop="20261116053000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116053000 +0000" stop="20261116053200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116053200 +0000" stop="20261116060000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>A History Of The United States In 100 Objects</title>
+    <desc>100 Objects #4: Lowe's Gas Bag How one man's runaway balloon flight sparked America's obsession with going either higher.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116060600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116060600 +0000" stop="20261116070000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116070600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116070600 +0000" stop="20261116080000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116080600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116080600 +0000" stop="20261116090000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newsday</title>
+    <desc>Live news, business and sport from around the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116090600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116090600 +0000" stop="20261116093000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Interview</title>
+    <desc>The Interview Conversations with people shaping our world. The best interviews from the BBC.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116093000 +0000" stop="20261116093200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116093200 +0000" stop="20261116095000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>16/11/2026 GMT The daily drama of money and work from the BBC.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116095000 +0000" stop="20261116100000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>The Great Smog of Delhi In November 2016, the Indian government declared an 'emergency situation' due to the smog</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116100600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116100600 +0000" stop="20261116103000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116103000 +0000" stop="20261116103200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116103200 +0000" stop="20261116110000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>CrowdScience</title>
+    <desc>What is El Niño? What exactly is El Niño and why is it changing the weather across the globe? (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/c8/1e/a9c81e5b-bb51-1eb5-5e60-f5a652f10928/mza_9407335624792671018.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116110600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116110600 +0000" stop="20261116120000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The History Hour</title>
+    <desc>The History Hour An hour of historical reporting told by the people who were there.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116120600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116120600 +0000" stop="20261116123000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116123000 +0000" stop="20261116123200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116123200 +0000" stop="20261116130000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Global Story</title>
+    <desc>The Global Story .</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/a3/9f/94a39ff4-7186-b4ad-34d3-7d7221b228b3/mza_13328224778119777977.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116130600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116130600 +0000" stop="20261116135000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116135000 +0000" stop="20261116140000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>The Great Smog of Delhi In November 2016, the Indian government declared an 'emergency situation' due to the smog (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116140600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116140600 +0000" stop="20261116143000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116143000 +0000" stop="20261116143200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116143200 +0000" stop="20261116150000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>A History Of The United States In 100 Objects</title>
+    <desc>100 Objects #4: Lowe's Gas Bag How one man's runaway balloon flight sparked America's obsession with going either higher. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116150600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116150600 +0000" stop="20261116160000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116160600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116160600 +0000" stop="20261116163000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Interview</title>
+    <desc>The Interview Conversations with people shaping our world. The best interviews from the BBC. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116163000 +0000" stop="20261116163200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116163200 +0000" stop="20261116165000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Business Daily</title>
+    <desc>16/11/2026 GMT The daily drama of money and work from the BBC. (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/65/59/3e/65593ed3-17b2-8415-bcde-56ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116165000 +0000" stop="20261116170000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Express</title>
+    <desc>16/11/2026 GMT Finance, economy and business news from BBC journalists around the world</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116170600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116170600 +0000" stop="20261116180000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116180600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116180600 +0000" stop="20261116190000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outside Source</title>
+    <desc>A vibrant account of the day’s events with explanation and reaction from those involved.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116190000 +0000" stop="20261116190600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116190600 +0000" stop="20261116195000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Outlook</title>
+    <desc>Outlook True stories of ordinary people and the extraordinary events that have shaped their lives. (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3d/bf/96/3dbf966b-4c31-c0e8-05fc-06ea82a44ea2/mza_13204968393529329759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116195000 +0000" stop="20261116200000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Witness History</title>
+    <desc>The Great Smog of Delhi In November 2016, the Indian government declared an 'emergency situation' due to the smog (R)</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116200600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116200600 +0000" stop="20261116203000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116203000 +0000" stop="20261116203200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116203200 +0000" stop="20261116210000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Sport Today</title>
+    <desc>2026/11/16 GMT BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261116210600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116210600 +0000" stop="20261116213000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>From Our Own Correspondent</title>
+    <desc>From Our Own Correspondent Insight, wit and analysis from BBC correspondents, journalists and writers from around the world. (R)</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116213000 +0000" stop="20261116213200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116213200 +0000" stop="20261116220000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Discovery</title>
+    <desc>The Life Scientific: Tom Hart Ecologist Tom Hart on monitoring wildlife populations remotely to track key patterns.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116220000 +0000" stop="20261116220600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116220600 +0000" stop="20261116230000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>Newshour</title>
+    <desc>Interviews, news and analysis of the day’s global events.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4a/01/70/4a0170a4-b903-8be8-aeb4-ee365064c58e/mza_11674486518175510618.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261116230600 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News</title>
+    <desc>The latest five minute news bulletin from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116230600 +0000" stop="20261116233000 +0000" channel="BBC_WORLD_SERVICE">
+    <title>The Newsroom</title>
+    <desc>The world's Newsroom brings you global events as they happen</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/28/70/2f/28702fcb-17c1-90a6-b52b-232a93144f77/mza_10204739268393529759.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116233000 +0000" stop="20261116233200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>BBC News Summary</title>
+    <desc>The latest two minute news summary from BBC World Service.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg" />
+  </programme>
+  <programme start="20261116233200 +0000" stop="20261117000200 +0000" channel="BBC_WORLD_SERVICE">
+    <title>World Business Report</title>
+    <desc>The latest business and finance news from around the world, on the BBC.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/e6/2a/cfe62a67-2856-11b5-8273-d120267933ba/mza_10862080315354975546.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="wls">
     <display-name>WLS AM 890</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109110000 +0000" channel="wls">
-    <title>Red Eye Radio</title>
-    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109150000 +0000" channel="wls">
-    <title>The Steve Cochran Show</title>
-    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/cb/68/04cb68f1-0a66-0d5d-d350-519e5441bae2/mza_14272708136389627788.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="wls">
-    <title>The Dan Bongino Show</title>
-    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109200000 +0000" channel="wls">
-    <title>The Chris Plante Show</title>
-    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/7f/85/fa7f8539-79fe-7a18-38df-162a832d8e04/mza_9129647032299769867.png/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109230000 +0000" channel="wls">
-    <title>The Ben Shapiro Show</title>
-    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261110010000 +0000" channel="wls">
-    <title>The Matt Walsh Show</title>
-    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/40/6e/45406e30-1af5-f3e6-67c6-86aaffe9522e/mza_1644857351055524075.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110010000 +0000" stop="20261110030000 +0000" channel="wls">
-    <title>The Mark Levin Show</title>
-    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/d6/6d/92d66d2c-2119-389b-ca78-f8a48f9f291c/mza_2373037013389270905.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="wls">
-    <title>The Michael Knowles Show</title>
-    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110110000 +0000" channel="wls">
     <title>Red Eye Radio</title>
     <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
@@ -4778,69 +4758,49 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Special broadcast features, historical reflections, and political roundtables. Broadcast live from Chicago on WLS AM 890.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d5/WLS_%28AM%29_logo.png" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116110000 +0000" channel="wls">
+    <title>Red Eye Radio</title>
+    <desc>Overnight talk with Gary McNamara and Eric Harley covering news, trucking, and national headlines. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116150000 +0000" channel="wls">
+    <title>The Steve Cochran Show</title>
+    <desc>Chicago morning news, traffic, weather, and candid conversation with Steve Cochran. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/cb/68/04cb68f1-0a66-0d5d-d350-519e5441bae2/mza_14272708136389627788.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="wls">
+    <title>The Dan Bongino Show</title>
+    <desc>Dan Bongino tackles the biggest political headlines and cultural news with no-holds-barred commentary. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/c5/91/5bc59191-e0fe-ea3d-2ea9-e93d764f0996/mza_17020828405094667327.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116200000 +0000" channel="wls">
+    <title>The Chris Plante Show</title>
+    <desc>Former Pentagon correspondent Chris Plante takes on Washington politics and media bias with humor and insight. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/7f/85/fa7f8539-79fe-7a18-38df-162a832d8e04/mza_9129647032299769867.png/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116230000 +0000" channel="wls">
+    <title>The Ben Shapiro Show</title>
+    <desc>Hard-hitting news analysis and conservative commentary dissecting current cultural and political affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117010000 +0000" channel="wls">
+    <title>The Matt Walsh Show</title>
+    <desc>Cultural commentary, logical debate, and biting satire from bestselling author Matt Walsh. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/45/40/6e/45406e30-1af5-f3e6-67c6-86aaffe9522e/mza_1644857351055524075.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117010000 +0000" stop="20261117030000 +0000" channel="wls">
+    <title>The Mark Levin Show</title>
+    <desc>Constitutional scholar and conservative legal mind Mark Levin breaks down American law, liberty, and current affairs. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/d6/6d/92d66d2c-2119-389b-ca78-f8a48f9f291c/mza_2373037013389270905.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="wls">
+    <title>The Michael Knowles Show</title>
+    <desc>Cultural analysis and deep dive discussions from author and commentator Michael Knowles. Broadcast live from Chicago on WLS AM 890.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="KMPT">
     <display-name>930 AM KMPT Missoula</display-name>
   </channel>
-  <programme start="20261108070000 +0000" stop="20261108110000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108133000 +0000" channel="KMPT">
-    <title>Dave Ramsey</title>
-    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="KMPT">
-    <title>Community Viewpoint</title>
-    <desc>Public affairs discussion spotlighting local non-profits, community initiatives, civic leaders, and Missoula valley events.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/db/KMPT_930AM_logo.png" />
-  </programme>
-  <programme start="20261108140000 +0000" stop="20261108170000 +0000" channel="KMPT">
-    <title>The Dirt Doctor</title>
-    <desc>Howard Garrett shares organic gardening secrets, non-toxic pest control, soil care, and natural landscaping advice.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/db/KMPT_930AM_logo.png" />
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108200000 +0000" channel="KMPT">
-    <title>The Alex Marlow Show</title>
-    <desc>Alex Marlow analyzes government actions, national politics, investigative reports, and media narratives.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/28/50/be/2850be45-812e-13b3-8208-8e6c71ca4152/mza_13337920401878342777.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108200000 +0000" stop="20261108220000 +0000" channel="KMPT">
-    <title>The Chris Plante Show</title>
-    <desc>Award-winning investigative reporter Chris Plante cuts through mainstream media spin with humor, quick wit, and deep Washington experience.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/7f/85/fa7f8539-79fe-7a18-38df-162a832d8e04/mza_9129647032299769867.png/600x600bb.jpg" />
-  </programme>
-  <programme start="20261108220000 +0000" stop="20261109000000 +0000" channel="KMPT">
-    <title>Dave Ramsey</title>
-    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109000000 +0000" stop="20261109020000 +0000" channel="KMPT">
-    <title>Hugh Hewitt</title>
-    <desc>Constitutional scholar Hugh Hewitt conducts in-depth interviews with national lawmakers, journalists, and policy experts.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/fa/bd/fcfabdad-cd27-634e-0c0b-931a2c3bfc23/mza_11819933816011416218.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109030000 +0000" channel="KMPT">
-    <title>The Motley Fool</title>
-    <desc>Tom Gardner and the Motley Fool team share smart investment ideas, stock analysis, market trends, and personal finance strategies.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_Motley_Fool_Logo.svg" />
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109040000 +0000" channel="KMPT">
-    <title>Armed American Radio</title>
-    <desc>Mark Walters focuses on Second Amendment news, self-defense law, firearm safety, and national gun rights advocacy.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d5/a7/b0/d5a7b0fc-1b4e-2895-4aa8-66236bdfa67b/mza_7496181692284994270.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109060000 +0000" channel="KMPT">
-    <title>Dave Ramsey</title>
-    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="KMPT">
-    <title>Red Eye Radio</title>
-    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261109070000 +0000" stop="20261109110000 +0000" channel="KMPT">
     <title>Red Eye Radio</title>
     <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
@@ -5171,49 +5131,69 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261115070000 +0000" stop="20261115110000 +0000" channel="KMPT">
+    <title>Red Eye Radio</title>
+    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115110000 +0000" stop="20261115133000 +0000" channel="KMPT">
+    <title>Dave Ramsey</title>
+    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115133000 +0000" stop="20261115140000 +0000" channel="KMPT">
+    <title>Community Viewpoint</title>
+    <desc>Public affairs discussion spotlighting local non-profits, community initiatives, civic leaders, and Missoula valley events.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/db/KMPT_930AM_logo.png" />
+  </programme>
+  <programme start="20261115140000 +0000" stop="20261115170000 +0000" channel="KMPT">
+    <title>The Dirt Doctor</title>
+    <desc>Howard Garrett shares organic gardening secrets, non-toxic pest control, soil care, and natural landscaping advice.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/db/KMPT_930AM_logo.png" />
+  </programme>
+  <programme start="20261115170000 +0000" stop="20261115200000 +0000" channel="KMPT">
+    <title>The Alex Marlow Show</title>
+    <desc>Alex Marlow analyzes government actions, national politics, investigative reports, and media narratives.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/28/50/be/2850be45-812e-13b3-8208-8e6c71ca4152/mza_13337920401878342777.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115200000 +0000" stop="20261115220000 +0000" channel="KMPT">
+    <title>The Chris Plante Show</title>
+    <desc>Award-winning investigative reporter Chris Plante cuts through mainstream media spin with humor, quick wit, and deep Washington experience.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/7f/85/fa7f8539-79fe-7a18-38df-162a832d8e04/mza_9129647032299769867.png/600x600bb.jpg" />
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261116000000 +0000" channel="KMPT">
+    <title>Dave Ramsey</title>
+    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="KMPT">
+    <title>Hugh Hewitt</title>
+    <desc>Constitutional scholar Hugh Hewitt conducts in-depth interviews with national lawmakers, journalists, and policy experts.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/fc/fa/bd/fcfabdad-cd27-634e-0c0b-931a2c3bfc23/mza_11819933816011416218.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="KMPT">
+    <title>The Motley Fool</title>
+    <desc>Tom Gardner and the Motley Fool team share smart investment ideas, stock analysis, market trends, and personal finance strategies.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/The_Motley_Fool_Logo.svg" />
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="KMPT">
+    <title>Armed American Radio</title>
+    <desc>Mark Walters focuses on Second Amendment news, self-defense law, firearm safety, and national gun rights advocacy.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d5/a7/b0/d5a7b0fc-1b4e-2895-4aa8-66236bdfa67b/mza_7496181692284994270.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116060000 +0000" channel="KMPT">
+    <title>Dave Ramsey</title>
+    <desc>Practical financial advice on eliminating debt, building wealth, smart budgeting, and navigating life's everyday money dilemmas.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="KMPT">
+    <title>Red Eye Radio</title>
+    <desc>Dedicated to long-haul truckers and late-night listeners, Eric Harley and Gary McNamara cover overnight news, trucking issues, politics, and lifestyle topics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/b9/36/64b93689-a27c-fc6b-ebd0-d8052bd4683a/mza_3110521675706361306.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="WMVP.chicago">
     <display-name>ESPN 1000 WMVP</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109110000 +0000" channel="WMVP.chicago">
-    <title>SportsCenter AllNight</title>
-    <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="WMVP.chicago">
-    <title>Unsportsmanlike</title>
-    <desc>Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/14/cb/4614cb31-deee-1a4d-93ef-4f4476f6836d/mza_15899443209624234247.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="WMVP.chicago">
-    <title>Kap &amp; J.Hood</title>
-    <desc>David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/4f/89/bf4f89b9-5318-3379-d94b-3a4e8b904475/mza_10887763647642274225.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109180000 +0000" channel="WMVP.chicago">
-    <title>Carmen &amp; Jurko</title>
-    <desc>Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/39/35/c2/3935c20c-5c5c-8271-6502-ed9bff0192bc/mza_1528810305066597670.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109200000 +0000" channel="WMVP.chicago">
-    <title>The Rich Eisen Show</title>
-    <desc>Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/18/6c/73186c0b-4278-0408-524b-b876b9f0607c/mza_12430917522880186019.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261110000000 +0000" channel="WMVP.chicago">
-    <title>Waddle &amp; Silvy</title>
-    <desc>Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0d/cd/62/0dcd62dc-4e76-85ec-ac02-701ef6bced04/mza_5042515235246910155.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="WMVP.chicago">
-    <title>Amber &amp; Ian</title>
-    <desc>Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/cc/0f/b8cc0f05-4178-7720-5bb0-9f6aaeb6f4ff/mza_8561670197782795424.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="WMVP.chicago">
-    <title>ESPN Radio GameNight</title>
-    <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110110000 +0000" channel="WMVP.chicago">
     <title>SportsCenter AllNight</title>
     <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
@@ -5434,59 +5414,49 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Late-night national sports recap preparing listeners for the week ahead with essential news and scores.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116110000 +0000" channel="WMVP.chicago">
+    <title>SportsCenter AllNight</title>
+    <desc>National ESPN Radio overnight coverage featuring comprehensive highlights, breaking sports news, and game recaps from across the country.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="WMVP.chicago">
+    <title>Unsportsmanlike</title>
+    <desc>Evan Cohen, Chris Canty, and Michelle Smallmon wake up sports fans across America with high-energy morning headlines and lively debate.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/14/cb/4614cb31-deee-1a4d-93ef-4f4476f6836d/mza_15899443209624234247.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116150000 +0000" channel="WMVP.chicago">
+    <title>Kap &amp; J.Hood</title>
+    <desc>David Kaplan and Jonathan Hood set Chicago's sports agenda with candid opinions, insider reporting, and passionate debates on Bears, Bulls, Cubs, and White Sox.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bf/4f/89/bf4f89b9-5318-3379-d94b-3a4e8b904475/mza_10887763647642274225.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116180000 +0000" channel="WMVP.chicago">
+    <title>Carmen &amp; Jurko</title>
+    <desc>Carmen DeFalco and former Chicago Bear John Jurkovic deliver a signature mix of sports analysis, player insight, pop culture, and unapologetic Chicago humor.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/39/35/c2/3935c20c-5c5c-8271-6502-ed9bff0192bc/mza_1528810305066597670.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="WMVP.chicago">
+    <title>The Rich Eisen Show</title>
+    <desc>Rich Eisen brings smart sports commentary, top athlete and celebrity interviews, and engaging storytelling to the midday lineup.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/73/18/6c/73186c0b-4278-0408-524b-b876b9f0607c/mza_12430917522880186019.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261117000000 +0000" channel="WMVP.chicago">
+    <title>Waddle &amp; Silvy</title>
+    <desc>Former Chicago Bear Tom Waddle and Marc Silverman anchor Chicago's premier afternoon sports talk show with breaking news, exclusive interviews, and honest commentary.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0d/cd/62/0dcd62dc-4e76-85ec-ac02-701ef6bced04/mza_5042515235246910155.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="WMVP.chicago">
+    <title>Amber &amp; Ian</title>
+    <desc>Amber Wilson and Ian Fitzsimmons break down the evening's marquee sports matchups, active storylines, and the biggest national talking points.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/cc/0f/b8cc0f05-4178-7720-5bb0-9f6aaeb6f4ff/mza_8561670197782795424.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="WMVP.chicago">
+    <title>ESPN Radio GameNight</title>
+    <desc>Live late-night coverage, instant postgame reactions, in-game analysis, and box score breakdowns from games happening live across the sports world.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/21/30/68213075-4820-466d-6a1d-001925538d76/mza_18361228466196536214.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="BLUEGRASS_COUNTRY">
     <display-name>Bluegrass Country</display-name>
   </channel>
-  <programme start="20261109050000 +0000" stop="20261109060000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Freight Train Boogie</title>
-    <desc>Americana, alt-country, blues, and roots rock hosted by Sully Roddy to power your late evening.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109120000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Overnight</title>
-    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>A Bluegrass Morning</title>
-    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass &amp; Beyond</title>
-    <desc>Traditional mountain tunes expanding into contemporary acoustic and innovative progressive bluegrass sounds.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109200000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Gary Henderson Show</title>
-    <desc>Veteran broadcaster Gary Henderson presents deep-catalog traditional bluegrass and listener favorites.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109230000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Chris Teskey Show</title>
-    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261110000000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Michelle Murray Show</title>
-    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110020000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Sound Sessions with Jeff Place</title>
-    <desc>Smithsonian Folkways curator Jeff Place shares deep archival gems, folk treasures, and field recordings.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/79/Smithsonian_Folkways_Recordings_logo.svg" />
-  </programme>
-  <programme start="20261110020000 +0000" stop="20261110040000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>The Trail Ride</title>
-    <desc>Classic western swing, cowboy songs, honky-tonk, and traditional bluegrass along the musical trail.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="BLUEGRASS_COUNTRY">
-    <title>Bluegrass Signal</title>
-    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="BLUEGRASS_COUNTRY">
     <title>All Kinds of Country with Sully Roddy</title>
     <desc>From classic country and honky-tonk to roots rock and Americana with legendary broadcaster Sully Roddy.</desc>
@@ -5777,89 +5747,59 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Americana, alt-country, blues, and roots rock hosted by Sully Roddy to power your late evening.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Freight Train Boogie</title>
+    <desc>Americana, alt-country, blues, and roots rock hosted by Sully Roddy to power your late evening.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Overnight</title>
+    <desc>Continuous traditional, progressive, and acoustic bluegrass keeping you company throughout the overnight hours.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116150000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>A Bluegrass Morning</title>
+    <desc>Host Jonathan Fine starts your day with a mix of traditional and contemporary bluegrass, chart-toppers, and all-time classics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass &amp; Beyond</title>
+    <desc>Traditional mountain tunes expanding into contemporary acoustic and innovative progressive bluegrass sounds.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116200000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Gary Henderson Show</title>
+    <desc>Veteran broadcaster Gary Henderson presents deep-catalog traditional bluegrass and listener favorites.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116230000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Chris Teskey Show</title>
+    <desc>Afternoons of bluegrass, old-time roots, and interviews with premier acoustic musicians hosted by Chris Teskey.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Michelle Murray Show</title>
+    <desc>Michelle Murray brings high-energy bluegrass, acoustic hits, and artist interviews to the early evening hours.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117020000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Sound Sessions with Jeff Place</title>
+    <desc>Smithsonian Folkways curator Jeff Place shares deep archival gems, folk treasures, and field recordings.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/79/Smithsonian_Folkways_Recordings_logo.svg" />
+  </programme>
+  <programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>The Trail Ride</title>
+    <desc>Classic western swing, cowboy songs, honky-tonk, and traditional bluegrass along the musical trail.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="BLUEGRASS_COUNTRY">
+    <title>Bluegrass Signal</title>
+    <desc>Host Peter Thompson explores the rich heritage and future of bluegrass music with archival recordings and regional pickers.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/53/e1/88/53e1885c-71a1-93cf-1fec-ee921906df39/mza_868197520937895149.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="FOXNEWSRADIO">
     <display-name>FOX News Radio</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="FOXNEWSRADIO">
-    <title>Gutfeld! (Encore)</title>
-    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261109070000 +0000" stop="20261109080000 +0000" channel="FOXNEWSRADIO">
-    <title>The Ingraham Angle (Encore)</title>
-    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261109080000 +0000" stop="20261109110000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX News Radio Overnight</title>
-    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX News Rundown</title>
-    <desc>A deeper look at the major stories shaping the national conversation.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/22/0f/9d220f5d-3bfe-c965-6357-aa049b428866/mza_7250990391506039525.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="FOXNEWSRADIO">
-    <title>Gutfeld! (Encore)</title>
-    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="FOXNEWSRADIO">
-    <title>Jesse Watters Primetime (Encore)</title>
-    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
-  </programme>
-  <programme start="20261109140000 +0000" stop="20261109170000 +0000" channel="FOXNEWSRADIO">
-    <title>The Brian Kilmeade Show</title>
-    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/21/b7/2321b741-1635-a99d-e7c5-10798167d1e0/mza_11147097889008820649.jpeg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109200000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX Across America with Jimmy Failla</title>
-    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109230000 +0000" channel="FOXNEWSRADIO">
-    <title>The Guy Benson Show</title>
-    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/6e/d4/f56ed4ae-274c-218e-21ed-283258009f71/mza_4817067911108634431.jpeg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261110000000 +0000" channel="FOXNEWSRADIO">
-    <title>Will Cain Country</title>
-    <desc>News, politics, sports, and culture with Will Cain.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/6a/76/8c6a76f2-d103-e2cc-fc7f-aa8a74eccb1c/mza_521338683559421463.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="FOXNEWSRADIO">
-    <title>The Five (Encore)</title>
-    <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
-  </programme>
-  <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="FOXNEWSRADIO">
-    <title>Special Report w/ Bret Baier (Encore)</title>
-    <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
-  </programme>
-  <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="FOXNEWSRADIO">
-    <title>The Ingraham Angle (Encore)</title>
-    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="FOXNEWSRADIO">
-    <title>Jesse Watters Primetime (Encore)</title>
-    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
-  </programme>
-  <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="FOXNEWSRADIO">
-    <title>Hannity (Encore)</title>
-    <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
-  </programme>
-  <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="FOXNEWSRADIO">
-    <title>FOX Across America with Jimmy Failla</title>
-    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="FOXNEWSRADIO">
     <title>Gutfeld! (Encore)</title>
     <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
@@ -6265,44 +6205,89 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>News coverage, interviews, analysis, and weekend programming from FOX News Radio.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="FOXNEWSRADIO">
+    <title>Gutfeld! (Encore)</title>
+    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="FOXNEWSRADIO">
+    <title>The Ingraham Angle (Encore)</title>
+    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116110000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Radio Overnight</title>
+    <desc>Headlines, analysis, and top stories from FOX News Radio.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX News Rundown</title>
+    <desc>A deeper look at the major stories shaping the national conversation.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/22/0f/9d220f5d-3bfe-c965-6357-aa049b428866/mza_7250990391506039525.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116130000 +0000" channel="FOXNEWSRADIO">
+    <title>Gutfeld! (Encore)</title>
+    <desc>Greg Gutfeld examines the news of the day with a satiric and humorous spin alongside guests.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Greg_Gutfeld_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116140000 +0000" channel="FOXNEWSRADIO">
+    <title>Jesse Watters Primetime (Encore)</title>
+    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116170000 +0000" channel="FOXNEWSRADIO">
+    <title>The Brian Kilmeade Show</title>
+    <desc>Brian Kilmeade discusses breaking news, politics, sports, and entertainment.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/21/b7/2321b741-1635-a99d-e7c5-10798167d1e0/mza_11147097889008820649.jpeg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116200000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116230000 +0000" channel="FOXNEWSRADIO">
+    <title>The Guy Benson Show</title>
+    <desc>Political analysis, commentary, interviews, and listener discussion.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/6e/d4/f56ed4ae-274c-218e-21ed-283258009f71/mza_4817067911108634431.jpeg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="FOXNEWSRADIO">
+    <title>Will Cain Country</title>
+    <desc>News, politics, sports, and culture with Will Cain.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/6a/76/8c6a76f2-d103-e2cc-fc7f-aa8a74eccb1c/mza_521338683559421463.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="FOXNEWSRADIO">
+    <title>The Five (Encore)</title>
+    <desc>An encore presentation featuring discussion and analysis of the day's top stories.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Radio_logo.svg" />
+  </programme>
+  <programme start="20261117010000 +0000" stop="20261117020000 +0000" channel="FOXNEWSRADIO">
+    <title>Special Report w/ Bret Baier (Encore)</title>
+    <desc>Encore presentation of top political reporting, newsmaker interviews, and the All-Star panel.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/10/Bret_Baier_2018.jpg" />
+  </programme>
+  <programme start="20261117020000 +0000" stop="20261117030000 +0000" channel="FOXNEWSRADIO">
+    <title>The Ingraham Angle (Encore)</title>
+    <desc>Laura Ingraham cuts through the Washington spin to examine policy, culture, and current affairs.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/Laura_Ingraham_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="FOXNEWSRADIO">
+    <title>Jesse Watters Primetime (Encore)</title>
+    <desc>Jesse Watters takes a unique look at American news, politics, and culture.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/18/Jesse_Watters_2022.jpg" />
+  </programme>
+  <programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="FOXNEWSRADIO">
+    <title>Hannity (Encore)</title>
+    <desc>Sean Hannity showcases his candid commentary and interviews with the day's top newsmakers.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Sean_Hannity_by_Gage_Skidmore.jpg" />
+  </programme>
+  <programme start="20261117050000 +0000" stop="20261117060000 +0000" channel="FOXNEWSRADIO">
+    <title>FOX Across America with Jimmy Failla</title>
+    <desc>Jimmy Failla brings humor and perspective to the day's headlines and politics.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/79/f6/c579f617-c4b0-a41f-87be-56df6651e8ad/mza_4437361059914164457.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="WSM">
     <display-name>WSM 650 AM Nashville</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109110000 +0000" channel="WSM">
-    <title>Late Nights with Lexi</title>
-    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109113000 +0000" channel="WSM">
-    <title>WSM's Bluegrass Breakfast</title>
-    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109160000 +0000" channel="WSM">
-    <title>The Kelly Sutton Show</title>
-    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109210000 +0000" channel="WSM">
-    <title>WSM at Work</title>
-    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261110010000 +0000" channel="WSM">
-    <title>On Air With Eryn</title>
-    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
-  </programme>
-  <programme start="20261110010000 +0000" stop="20261110040000 +0000" channel="WSM">
-    <title>Heart of the Night with Nan Kelley</title>
-    <desc>Evenings featuring heartfelt country hits, artist spotlights, and listener requests hosted by Nan Kelley.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/2021/04/Nan-Kelley-Web.jpg" />
-  </programme>
-  <programme start="20261110040000 +0000" stop="20261110060000 +0000" channel="WSM">
-    <title>WSM at Night</title>
-    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
-    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110110000 +0000" channel="WSM">
     <title>Late Nights with Lexi</title>
     <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
@@ -6465,7 +6450,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261115010000 +0000" stop="20261115032000 +0000" channel="WSM">
     <title>Grand Ole Opry</title>
-    <desc>Live broadcast of the world-famous country music show from the Grand Ole Opry House in Nashville.</desc>
+    <desc>Live from the Grand Ole Opry House. Featuring Tiny Habits, Valerie June, Maura O’Connell, Gardiner Brothers, Mick Flannery, Joshua Burnside, Rhett Akins.</desc>
     <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-18.jpg" />
   </programme>
   <programme start="20261115032000 +0000" stop="20261115043000 +0000" channel="WSM">
@@ -6480,7 +6465,7 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
   </programme>
   <programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="WSM">
     <title>Golden Era of the Grand Ole Opry</title>
-    <desc>Live broadcast of the world-famous country music show from the Grand Ole Opry House in Nashville.</desc>
+    <desc>Live from the Grand Ole Opry House. Featuring Tiny Habits, Valerie June, Maura O’Connell, Gardiner Brothers, Mick Flannery, Joshua Burnside, Rhett Akins.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/en/7/7b/Grand_Ole_Opry_logo.svg" />
   </programme>
   <programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="WSM">
@@ -6538,39 +6523,44 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>America's premier syndicated bluegrass radio show featuring the latest charts, exclusive artist interviews, and timeless classics.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ce/d3/18/ced318ca-56a8-2b81-a63e-f831968be355/mza_10862080315354975546.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116110000 +0000" channel="WSM">
+    <title>Late Nights with Lexi</title>
+    <desc>Overnights with Lexi Carter featuring classic country, station heritage cuts, and late-night listener favorites from Music City.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-09.jpg" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="WSM">
+    <title>WSM's Bluegrass Breakfast</title>
+    <desc>Start your morning with hard-driving traditional bluegrass, acoustic favorites, and legendary pickers.</desc>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/6/67/Eddie_Stubbs_Opry.jpg" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116160000 +0000" channel="WSM">
+    <title>The Kelly Sutton Show</title>
+    <desc>Mornings on WSM featuring country music hits, artist interviews, industry news, and lively morning conversation with CMA-award-winning host Kelly Sutton.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2026/07/WSM_KS_Show_Website_Tile_500x500.png" />
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116210000 +0000" channel="WSM">
+    <title>WSM at Work</title>
+    <desc>The best mix of classic and contemporary country favorites keeping you company throughout the workday from Nashville.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-at-Work-500x500-02.webp" />
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261117010000 +0000" channel="WSM">
+    <title>On Air With Eryn</title>
+    <desc>Afternoons in Music City with host Eryn featuring country music history, favorite tracks, artist highlights, and Nashville news.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/04/WSM-Page-Shows-10.jpg" />
+  </programme>
+  <programme start="20261117010000 +0000" stop="20261117040000 +0000" channel="WSM">
+    <title>Heart of the Night with Nan Kelley</title>
+    <desc>Evenings featuring heartfelt country hits, artist spotlights, and listener requests hosted by Nan Kelley.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/2021/04/Nan-Kelley-Web.jpg" />
+  </programme>
+  <programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="WSM">
+    <title>WSM at Night</title>
+    <desc>Great traditional country music, archival tracks, and classic favorites spinning through the late evening hours.</desc>
+    <icon src="https://wsmradio.com/wp-content/uploads/sites/10/2025/07/WSM-Page-Shows.png" />
+  </programme>
   <channel id="RELIC_RADIO">
     <display-name>Relic Radio</display-name>
   </channel>
-  <programme start="20261109000000 +0000" stop="20261109040000 +0000" channel="RELIC_RADIO">
-    <title>The Horror! &amp; Late Night Chillers</title>
-    <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109080000 +0000" channel="RELIC_RADIO">
-    <title>Classic Comedy &amp; Morning Serials</title>
-    <desc>Early morning laughs, variety shows, and classic serialized radio adventures from the Golden Age of broadcasting.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109080000 +0000" stop="20261109120000 +0000" channel="RELIC_RADIO">
-    <title>Case Closed! Hardboiled Detectives</title>
-    <desc>Classic radio gumshoes and crime-solvers including Dragnet, Philip Marlowe, Sam Spade, and Johnny Dollar.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109160000 +0000" channel="RELIC_RADIO">
-    <title>Strange Tales &amp; Twilight Radio</title>
-    <desc>Unexplained mysteries, bizarre occurrences, atmospheric noir, and vintage mystery theatre dramatizations.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4a/1d/1b/4a1d1b33-e5d0-9944-77e8-e9fdb5c4a796/mza_10200885618498877548.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109200000 +0000" channel="RELIC_RADIO">
-    <title>Science Fiction &amp; The Unknown</title>
-    <desc>Golden age sci-fi and speculative audio adventures featuring X Minus One, Dimension X, and Exploring Tomorrow.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f6/cb/07/f6cb0741-f6a9-e310-7539-7c222ff474b7/mza_15509939634289871537.jpg/600x600bb.jpg" />
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261110000000 +0000" channel="RELIC_RADIO">
-    <title>Relic Radio Prime &amp; Golden Age Classics</title>
-    <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
-    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
-  </programme>
   <programme start="20261110000000 +0000" stop="20261110040000 +0000" channel="RELIC_RADIO">
     <title>The Horror! &amp; Late Night Chillers</title>
     <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
@@ -6751,39 +6741,39 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
     <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
   </programme>
+  <programme start="20261116000000 +0000" stop="20261116040000 +0000" channel="RELIC_RADIO">
+    <title>The Horror! &amp; Late Night Chillers</title>
+    <desc>Late-night vintage horror, supernatural thrillers, and eerie broadcasts from Lights Out, Suspense, and Quiet Please.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/05/cf/81/05cf81c5-e63d-4786-9a57-0a4ee9ec63ee/mza_1642841369795059496.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116080000 +0000" channel="RELIC_RADIO">
+    <title>Classic Comedy &amp; Morning Serials</title>
+    <desc>Early morning laughs, variety shows, and classic serialized radio adventures from the Golden Age of broadcasting.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116120000 +0000" channel="RELIC_RADIO">
+    <title>Case Closed! Hardboiled Detectives</title>
+    <desc>Classic radio gumshoes and crime-solvers including Dragnet, Philip Marlowe, Sam Spade, and Johnny Dollar.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fa/c9/47/fac94747-d352-16a7-0e6e-7681c4e71234/mza_17208929311689254829.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116160000 +0000" channel="RELIC_RADIO">
+    <title>Strange Tales &amp; Twilight Radio</title>
+    <desc>Unexplained mysteries, bizarre occurrences, atmospheric noir, and vintage mystery theatre dramatizations.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4a/1d/1b/4a1d1b33-e5d0-9944-77e8-e9fdb5c4a796/mza_10200885618498877548.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116200000 +0000" channel="RELIC_RADIO">
+    <title>Science Fiction &amp; The Unknown</title>
+    <desc>Golden age sci-fi and speculative audio adventures featuring X Minus One, Dimension X, and Exploring Tomorrow.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f6/cb/07/f6cb0741-f6a9-e310-7539-7c222ff474b7/mza_15509939634289871537.jpg/600x600bb.jpg" />
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261117000000 +0000" channel="RELIC_RADIO">
+    <title>Relic Radio Prime &amp; Golden Age Classics</title>
+    <desc>Prime evening vintage theater showcase featuring the best dramatic anthology broadcasts of the 1930s, 40s, and 50s.</desc>
+    <icon src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/80/7e/d3/807ed326-7788-bbf3-ea3b-bfd0c36cb87b/mza_10332306232263152528.jpg/600x600bb.jpg" />
+  </programme>
   <channel id="IRISH_PUB_RADIO">
     <display-name>Irish Pub Radio</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109110000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Overnight in the Snug</title>
-    <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
-    <icon src="https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109150000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Morning Mist &amp; Melodies</title>
-    <desc>Traditional Irish acoustic classics, tin whistle airs, and folk anthems to greet the day.</desc>
-    <icon src="https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109190000 +0000" channel="IRISH_PUB_RADIO">
-    <title>The Craic &amp; The Chorus</title>
-    <desc>Popular Irish pub favorites, lively jigs, and rousing traditional singalongs.</desc>
-    <icon src="https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109190000 +0000" stop="20261109230000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Afternoon Session</title>
-    <desc>Classic and contemporary Irish roots, rebel ballads, and upbeat acoustic drinking songs.</desc>
-    <icon src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261110030000 +0000" channel="IRISH_PUB_RADIO">
-    <title>The Evening Pour</title>
-    <desc>Great traditional Irish pub standards, accordion reels, and spirited tavern classics.</desc>
-    <icon src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="IRISH_PUB_RADIO">
-    <title>Last Call Ballads</title>
-    <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
-    <icon src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110110000 +0000" channel="IRISH_PUB_RADIO">
     <title>Overnight in the Snug</title>
     <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
@@ -6964,65 +6954,39 @@ Ambient Sleeping Pill. Internet radio streaming music for sleep, meditation or s
     <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
     <icon src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
+  <programme start="20261116060000 +0000" stop="20261116110000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Overnight in the Snug</title>
+    <desc>Late-night Irish folk ballads, acoustic tunes, and storytelling songs direct from Ireland.</desc>
+    <icon src="https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116150000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Morning Mist &amp; Melodies</title>
+    <desc>Traditional Irish acoustic classics, tin whistle airs, and folk anthems to greet the day.</desc>
+    <icon src="https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116190000 +0000" channel="IRISH_PUB_RADIO">
+    <title>The Craic &amp; The Chorus</title>
+    <desc>Popular Irish pub favorites, lively jigs, and rousing traditional singalongs.</desc>
+    <icon src="https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116190000 +0000" stop="20261116230000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Afternoon Session</title>
+    <desc>Classic and contemporary Irish roots, rebel ballads, and upbeat acoustic drinking songs.</desc>
+    <icon src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117030000 +0000" channel="IRISH_PUB_RADIO">
+    <title>The Evening Pour</title>
+    <desc>Great traditional Irish pub standards, accordion reels, and spirited tavern classics.</desc>
+    <icon src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="IRISH_PUB_RADIO">
+    <title>Last Call Ballads</title>
+    <desc>High-energy pub singalongs, timeless Irish favorites, and heartfelt closing ballads.</desc>
+    <icon src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
   <channel id="THEBIG80SSTATION">
     <display-name>The Big 80s Station</display-name>
   </channel>
-  <programme start="20261109060000 +0000" stop="20261109090000 +0000" channel="THEBIG80SSTATION">
-    <title>After Midnight</title>
-    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1514565131-fce0801e5785?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109090000 +0000" stop="20261109120000 +0000" channel="THEBIG80SSTATION">
-    <title>Night Shift</title>
-    <desc>Non-stop 80s hits keeping the music going throughout the overnight hours.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="THEBIG80SSTATION">
-    <title>The Morning Rewind</title>
-    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1546525848-3ce03ca394f4?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109180000 +0000" channel="THEBIG80SSTATION">
-    <title>Totally 80s</title>
-    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109210000 +0000" channel="THEBIG80SSTATION">
-    <title>Back In The Day</title>
-    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1545128485-c400e7702796?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261110000000 +0000" channel="THEBIG80SSTATION">
-    <title>Drive At Five</title>
-    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110030000 +0000" channel="THEBIG80SSTATION">
-    <title>Prime Time 80s</title>
-    <desc>An evening showcase of the biggest names and biggest records of the decade.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110060000 +0000" channel="THEBIG80SSTATION">
-    <title>Retro Nights</title>
-    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
-
-The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
-    <icon src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
-  </programme>
   <programme start="20261110060000 +0000" stop="20261110090000 +0000" channel="THEBIG80SSTATION">
     <title>After Midnight</title>
     <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
@@ -7353,6 +7317,62 @@ The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the p
     <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
   </programme>
   <programme start="20261116030000 +0000" stop="20261116060000 +0000" channel="THEBIG80SSTATION">
+    <title>Retro Nights</title>
+    <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116090000 +0000" channel="THEBIG80SSTATION">
+    <title>After Midnight</title>
+    <desc>Big hits and forgotten favorites from the 1980s for night owls and late-night listeners.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1514565131-fce0801e5785?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116120000 +0000" channel="THEBIG80SSTATION">
+    <title>Night Shift</title>
+    <desc>Non-stop 80s hits keeping the music going throughout the overnight hours.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116150000 +0000" channel="THEBIG80SSTATION">
+    <title>The Morning Rewind</title>
+    <desc>Wake up with the biggest and most familiar hits of the decade that defined pop radio.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1546525848-3ce03ca394f4?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116180000 +0000" channel="THEBIG80SSTATION">
+    <title>Totally 80s</title>
+    <desc>Three decades later, the biggest songs of the 1980s still sound as fresh as ever.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116210000 +0000" channel="THEBIG80SSTATION">
+    <title>Back In The Day</title>
+    <desc>A daytime mix of chart-topping pop, rock, new wave, and classic radio favorites.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1545128485-c400e7702796?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261117000000 +0000" channel="THEBIG80SSTATION">
+    <title>Drive At Five</title>
+    <desc>The soundtrack to the afternoon drive featuring iconic hits from MTV's golden age.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="THEBIG80SSTATION">
+    <title>Prime Time 80s</title>
+    <desc>An evening showcase of the biggest names and biggest records of the decade.
+
+The Big 80s Station. Playing the Big Hits from the Big City. Programmed by the people who were on your radio back in the day, featuring the biggest hits and favorite memories from the 1980s.</desc>
+    <icon src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&amp;auto=format&amp;fit=crop&amp;q=80" />
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="THEBIG80SSTATION">
     <title>Retro Nights</title>
     <desc>Classic 80s radio memories, deep cuts, and familiar favorites to close out the day.
 
